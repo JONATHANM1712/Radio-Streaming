@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Radio detector runtime
+.radio-detector.pid
+
+# Backend logs
+backend-error.log
+backend-output.log
+*.log
+radio-song-detector-v2.zip

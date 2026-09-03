@@ -1,0 +1,527 @@
+* {
+  box-sizing: border-box;
+}
+
+
+/* =========================================================
+   ROOT COLORS
+   ========================================================= */
+
+:root {
+  --accent: #10aaa6;
+  --accent-dark: #045a58;
+}
+
+
+/* =========================================================
+   BODY
+   ========================================================= */
+
+body {
+  margin: 0;
+  min-height: 100vh;
+
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      var(--accent),
+      var(--accent-dark)
+    );
+
+  padding: 28px 14px;
+}
+
+
+/* =========================================================
+   MAIN CONTAINER
+   ========================================================= */
+
+.container {
+  width: min(1080px, 96vw);
+  margin: 0 auto;
+}
+
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+.header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.header h1 {
+  margin: 0;
+
+  font-size:
+    clamp(
+      30px,
+      5vw,
+      42px
+    );
+}
+
+.header p {
+  margin-top: 8px;
+  opacity: 0.78;
+}
+
+
+/* =========================================================
+   MAIN CARD
+   ========================================================= */
+
+.card {
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.22);
+
+  background:
+    rgba(255, 255, 255, 0.12);
+
+  border-radius: 24px;
+
+  padding: 28px;
+
+  backdrop-filter:
+    blur(10px);
+
+  box-shadow:
+    0 18px 50px
+    rgba(0, 0, 0, 0.28);
+}
+
+
+/* =========================================================
+   STATION HEADER
+   ========================================================= */
+
+.station-top {
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items:
+    center;
+
+  gap: 18px;
+}
+
+.station-name {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.station-location {
+  margin-top: 5px;
+  opacity: 0.72;
+}
+
+.live {
+  padding:
+    8px
+    13px;
+
+  border-radius: 20px;
+
+  background:
+    rgba(255, 255, 255, 0.16);
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   CUSTOM RADIO PLAYER
+   ========================================================= */
+
+.custom-radio-player {
+  width: 100%;
+
+  min-height: 64px;
+
+  margin-top: 24px;
+
+  padding:
+    10px
+    16px;
+
+  display: flex;
+
+  align-items:
+    center;
+
+  justify-content:
+    space-between;
+
+  gap: 20px;
+
+  background:
+    rgba(0, 0, 0, 0.72);
+
+  border-radius: 4px;
+}
+
+
+/* =========================================================
+   PLAY / PAUSE BUTTON
+   ========================================================= */
+
+.play-pause-button {
+  width: 44px;
+  height: 44px;
+
+  flex:
+    0
+    0
+    44px;
+
+  display: flex;
+
+  align-items:
+    center;
+
+  justify-content:
+    center;
+
+  padding: 0;
+
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.85);
+
+  border-radius: 4px;
+
+  background:
+    rgba(255, 255, 255, 0.10);
+
+  color: white;
+
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+
+  font-size: 19px;
+
+  cursor: pointer;
+
+  transition:
+    background 0.15s ease,
+    transform 0.15s ease,
+    opacity 0.15s ease;
+}
+
+.play-pause-button:hover:not(:disabled) {
+  background:
+    rgba(255, 255, 255, 0.20);
+}
+
+.play-pause-button:active:not(:disabled) {
+  transform:
+    scale(0.94);
+}
+
+.play-pause-button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
+
+/* =========================================================
+   VOLUME AREA
+   ========================================================= */
+
+.volume-control {
+  margin-left: auto;
+
+  display: flex;
+
+  align-items:
+    center;
+
+  gap: 10px;
+}
+
+
+/* =========================================================
+   VOLUME BUTTON
+   ========================================================= */
+
+.volume-button {
+  width: 38px;
+  height: 38px;
+
+  display: flex;
+
+  align-items:
+    center;
+
+  justify-content:
+    center;
+
+  padding: 0;
+
+  border: 0;
+
+  background:
+    transparent;
+
+  color: white;
+
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+
+  font-size: 24px;
+
+  cursor: pointer;
+}
+
+
+/* =========================================================
+   VOLUME SLIDER
+   ========================================================= */
+
+.volume-slider {
+  width: 120px;
+  height: 5px;
+
+  accent-color: white;
+
+  cursor: pointer;
+}
+
+
+/* =========================================================
+   HIDDEN REAL AUDIO ELEMENT
+   ========================================================= */
+
+/*
+  HLS.js still uses the real audio element internally.
+
+  Chrome's default large audio player is hidden because
+  the custom controls above control the same audio element.
+*/
+
+#radioPlayer {
+  display: none;
+}
+
+
+/* =========================================================
+   STREAM STATUS
+   ========================================================= */
+
+.stream-status {
+  font-size: 13px;
+
+  opacity: 0.72;
+
+  margin:
+    8px
+    0
+    22px;
+}
+
+
+/* =========================================================
+   NOW PLAYING
+   ========================================================= */
+
+.now {
+  background:
+    rgba(0, 0, 0, 0.18);
+
+  border-radius: 20px;
+
+  padding: 24px;
+}
+
+.kicker {
+  letter-spacing: 2px;
+
+  text-transform:
+    uppercase;
+
+  font-size: 12px;
+
+  opacity: 0.68;
+}
+
+#artist {
+  font-size: 31px;
+
+  font-weight: 800;
+
+  margin-top: 16px;
+}
+
+#songTitle {
+  font-size: 23px;
+
+  margin-top: 7px;
+
+  opacity: 0.9;
+}
+
+.detail {
+  margin-top: 9px;
+
+  opacity: 0.72;
+
+  font-size: 14px;
+}
+
+
+/* =========================================================
+   INFORMATION GRID
+   ========================================================= */
+
+.grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(
+      4,
+      1fr
+    );
+
+  gap: 13px;
+
+  margin-top: 24px;
+}
+
+.box {
+  text-align: center;
+
+  background:
+    rgba(255, 255, 255, 0.09);
+
+  border-radius: 14px;
+
+  padding:
+    16px
+    10px;
+}
+
+.box small {
+  display: block;
+
+  text-transform:
+    uppercase;
+
+  letter-spacing: 1px;
+
+  opacity: 0.6;
+
+  margin-bottom: 6px;
+}
+
+.box strong {
+  font-size: 17px;
+}
+
+
+/* =========================================================
+   HELP SECTION
+   ========================================================= */
+
+.help {
+  margin-top: 22px;
+
+  background:
+    rgba(255, 255, 255, 0.08);
+
+  border-radius: 16px;
+
+  padding: 18px;
+
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   CODE
+   ========================================================= */
+
+code {
+  background:
+    rgba(0, 0, 0, 0.18);
+
+  padding:
+    2px
+    5px;
+
+  border-radius: 4px;
+}
+
+
+/* =========================================================
+   TABLET / SMALL SCREEN
+   ========================================================= */
+
+@media (max-width: 720px) {
+
+  .station-top {
+    align-items:
+      flex-start;
+
+    flex-direction:
+      column;
+  }
+
+  .grid {
+    grid-template-columns:
+      repeat(
+        2,
+        1fr
+      );
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE CUSTOM PLAYER
+   ========================================================= */
+
+@media (max-width: 520px) {
+
+  .custom-radio-player {
+    min-height: 58px;
+
+    padding:
+      8px
+      12px;
+  }
+
+  .play-pause-button {
+    width: 40px;
+    height: 40px;
+
+    flex-basis: 40px;
+  }
+
+  .volume-button {
+    width: 34px;
+    height: 34px;
+
+    font-size: 21px;
+  }
+
+  .volume-slider {
+    width: 90px;
+  }
+
+}

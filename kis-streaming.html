@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width,initial-scale=1"
+  >
+
+  <title>
+    KIS 95.1 FM - Automatic Radio Metadata
+  </title>
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/hls.js@latest"
+  ></script>
+
+  <link
+    rel="stylesheet"
+    href="shared.css"
+  >
+
+  <style>
+    :root {
+      --accent: #e00770;
+      --accent-dark: #580332;
+    }
+  </style>
+</head>
+
+
+<body>
+
+  <div class="container">
+
+
+    <!-- ================================================== -->
+    <!-- HEADER                                             -->
+    <!-- ================================================== -->
+
+    <header class="header">
+
+      <h1>
+        📻 KIS 95.1 FM
+      </h1>
+
+      <p>
+        Automatic Direct-Stream Song Recognition
+      </p>
+
+    </header>
+
+
+    <!-- ================================================== -->
+    <!-- MAIN CARD                                          -->
+    <!-- ================================================== -->
+
+    <main class="card">
+
+
+      <!-- ================================================= -->
+      <!-- STATION                                          -->
+      <!-- ================================================= -->
+
+      <div class="station-top">
+
+        <div>
+
+          <div class="station-name">
+            KIS 95.1 FM
+          </div>
+
+          <div class="station-location">
+            Jakarta, Indonesia
+          </div>
+
+        </div>
+
+
+        <div class="live">
+          🔴 LIVE
+        </div>
+
+      </div>
+
+
+      <!-- ================================================= -->
+      <!-- PLAYER                                           -->
+      <!-- ================================================= -->
+
+      <div class="custom-radio-player">
+        <button id="playPauseButton" class="play-pause-button" type="button" aria-label="Play radio">▶</button>
+
+        <div class="volume-control">
+          <button id="volumeButton" class="volume-button" type="button" aria-label="Mute radio">🔉</button>
+
+          <input
+            id="volumeSlider"
+            class="volume-slider"
+            type="range"
+            min="0"
+            max="100"
+            step="1"
+            value="40"
+            aria-label="Radio volume"
+          >
+        </div>
+      </div>
+
+      <audio id="radioPlayer" preload="auto"></audio>
+
+      <div id="playerStatus" class="stream-status">
+        Loading radio stream...
+      </div>
+
+
+      <!-- ================================================= -->
+      <!-- NOW PLAYING                                      -->
+      <!-- ================================================= -->
+
+      <section class="now">
+
+
+        <div class="kicker">
+          🎵 Now Playing
+        </div>
+
+
+        <div id="artist">
+          Waiting for KIS recognition...
+        </div>
+
+
+        <div id="songTitle">
+          Automatic recognition starting...
+        </div>
+
+
+        <div
+          class="detail"
+          id="album"
+        >
+          Waiting for album information...
+        </div>
+
+
+        <div
+          class="detail"
+          id="detectorDetail"
+        >
+          Python listens directly to the KIS stream.
+          Browser tab audio capture is not used.
+        </div>
+
+
+        <!-- =============================================== -->
+        <!-- INFORMATION GRID                                -->
+        <!-- =============================================== -->
+
+        <div class="grid">
+
+
+          <div class="box">
+
+            <small>
+              Station
+            </small>
+
+            <strong>
+              KIS 95.1 FM
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Recognition
+            </small>
+
+            <strong
+              id="detectorStatus"
+            >
+              Loading
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Source
+            </small>
+
+            <strong
+              id="recognitionSource"
+            >
+              KIS Direct Stream
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Last Recognized
+            </small>
+
+            <strong
+              id="lastChecked"
+            >
+              --
+            </strong>
+
+          </div>
+
+
+        </div>
+
+
+        <!-- =============================================== -->
+        <!-- BACKEND                                        -->
+        <!-- =============================================== -->
+
+        <div class="grid">
+
+
+          <div class="box">
+
+            <small>
+              Backend
+            </small>
+
+            <strong
+              id="backendStatus"
+            >
+              Connecting...
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Recognition Type
+            </small>
+
+            <strong>
+              ShazamIO
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Audio Source
+            </small>
+
+            <strong>
+              KIS HLS
+            </strong>
+
+          </div>
+
+
+          <div class="box">
+
+            <small>
+              Browser Capture
+            </small>
+
+            <strong>
+              Not Used
+            </strong>
+
+          </div>
+
+
+        </div>
+
+      </section>
+
+
+      <!-- ================================================= -->
+      <!-- INFORMATION                                      -->
+      <!-- ================================================= -->
+
+      <section class="help">
+
+        <strong>
+          Automatic operation:
+        </strong>
+
+        Start
+        <code>
+          Start Radio Detector.bat
+        </code>.
+
+        The Python backend connects directly to the
+        KIS 95.1 FM stream, captures a short sample,
+        identifies the song through ShazamIO,
+        and updates this dashboard automatically.
+
+        <br><br>
+
+        You do not need to press
+        <strong>
+          Start Automatic Detection
+        </strong>
+        in the Chrome extension.
+
+      </section>
+
+
+    </main>
+
+  </div>
+
+
+  <script
+    src="kis-streaming.js"
+  ></script>
+
+</body>
+
+</html>

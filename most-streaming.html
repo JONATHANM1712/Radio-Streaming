@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>MOST 105.8 FM - Automatic Song Detector</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <link rel="stylesheet" href="shared.css">
+
+  <style>
+    :root {
+      --accent: #16b5b0;
+      --accent-dark: #045a58;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <header class="header">
+      <h1>📻 MOST 105.8 FM</h1>
+      <p>Automatic Song Recognition Every 60 Seconds</p>
+    </header>
+
+    <main class="card">
+
+      <div class="station-top">
+        <div>
+          <div class="station-name">MOST 105.8 FM</div>
+          <div class="station-location">Jakarta, Indonesia</div>
+        </div>
+
+        <div class="live">
+          🔴 LIVE
+        </div>
+      </div>
+
+      <div class="custom-radio-player">
+        <button id="playPauseButton" class="play-pause-button" type="button" aria-label="Play radio">▶</button>
+
+        <div class="volume-control">
+          <button id="volumeButton" class="volume-button" type="button" aria-label="Mute radio">🔉</button>
+
+          <input
+            id="volumeSlider"
+            class="volume-slider"
+            type="range"
+            min="0"
+            max="100"
+            step="1"
+            value="40"
+            aria-label="Radio volume"
+          >
+        </div>
+      </div>
+
+      <audio id="radioPlayer" preload="auto"></audio>
+
+      <div id="playerStatus" class="stream-status">
+        Loading radio stream...
+      </div>
+
+      <section class="now">
+
+        <div class="kicker">
+          🎵 Now Playing
+        </div>
+
+<div id="artist">
+  Waiting for MOST metadata...
+</div>
+
+<div id="songTitle">
+  Waiting for currently playing song...
+</div>
+
+<div
+  class="detail"
+  id="detectorDetail"
+>
+  MOST song information is detected automatically from the radio stream metadata.
+</div>
+
+        <div class="grid">
+
+          <div class="box">
+            <small>Station</small>
+            <strong>MOST 105.8 FM</strong>
+          </div>
+
+          <div class="box">
+            <small>Detector</small>
+            <strong id="detectorStatus">
+              Stopped
+            </strong>
+          </div>
+
+          <div class="box">
+            <small>Source</small>
+            <strong id="recognitionSource">
+              Waiting
+            </strong>
+          </div>
+
+          <div class="box">
+            <small>Last Checked</small>
+            <strong id="lastChecked">
+              --
+            </strong>
+          </div>
+
+        </div>
+
+      </section>
+
+      <section class="help">
+        <strong>How to run:</strong>
+        first start <code>run-backend.bat</code>.
+        Then play this radio, click the extension icon,
+        and choose <strong>Start Automatic Detection</strong>.
+        It captures about 12 seconds, recognizes the song,
+        updates this page, and repeats every 60 seconds.
+      </section>
+
+    </main>
+
+  </div>
+
+  <script src="most-streaming.js"></script>
+</body>
+</html>
