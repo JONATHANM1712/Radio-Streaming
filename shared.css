@@ -1,15 +1,25 @@
+/* =========================================================
+   GLOBAL SETTINGS
+   ========================================================= */
+
 * {
   box-sizing: border-box;
 }
 
 
 /* =========================================================
-   ROOT COLORS
+   ROOT COLORS / FONT
    ========================================================= */
 
 :root {
   --accent: #10aaa6;
   --accent-dark: #045a58;
+
+  --font-main:
+    "Spotify Mix",
+    Arial,
+    Helvetica,
+    sans-serif;
 }
 
 
@@ -21,10 +31,7 @@ body {
   margin: 0;
   min-height: 100vh;
 
-  font-family:
-    Arial,
-    Helvetica,
-    sans-serif;
+  font-family: var(--font-main);
 
   color: white;
 
@@ -36,6 +43,23 @@ body {
     );
 
   padding: 28px 14px;
+}
+
+
+/* =========================================================
+   FORM CONTROLS
+   ========================================================= */
+
+/*
+  Make buttons and form controls inherit Spotify Mix
+  from the page instead of using the browser's default font.
+*/
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
 }
 
 
@@ -206,10 +230,7 @@ body {
 
   color: white;
 
-  font-family:
-    Arial,
-    Helvetica,
-    sans-serif;
+  font-family: inherit;
 
   font-size: 19px;
 
@@ -278,10 +299,7 @@ body {
 
   color: white;
 
-  font-family:
-    Arial,
-    Helvetica,
-    sans-serif;
+  font-family: inherit;
 
   font-size: 24px;
 
@@ -456,6 +474,8 @@ body {
    ========================================================= */
 
 code {
+  font-family: inherit;
+
   background:
     rgba(0, 0, 0, 0.18);
 
