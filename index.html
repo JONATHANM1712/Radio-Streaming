@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Radio Streaming</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Arial, sans-serif;
+      background:
+        linear-gradient(rgba(0, 0, 0, 0.58), rgba(0, 0, 0, 0.72)),
+        #121212;
+      color: white;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      padding: 24px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 900px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: 42px;
+    }
+
+    .subtitle {
+      margin-bottom: 34px;
+      color: rgba(255, 255, 255, 0.75);
+      font-size: 17px;
+    }
+
+    .station-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+    }
+
+    .station-card {
+      display: block;
+      text-decoration: none;
+      color: white;
+
+      padding: 34px 24px;
+      border-radius: 14px;
+
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+
+      transition:
+        transform 0.18s ease,
+        background 0.18s ease,
+        border-color 0.18s ease;
+    }
+
+    .station-card:hover {
+      transform: translateY(-4px);
+      background: rgba(255, 255, 255, 0.13);
+      border-color: rgba(255, 255, 255, 0.35);
+    }
+
+    .frequency {
+      font-size: 38px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .station-name {
+      font-size: 22px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    .description {
+      color: rgba(255, 255, 255, 0.72);
+      line-height: 1.6;
+    }
+
+    .footer {
+      margin-top: 32px;
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    @media (max-width: 650px) {
+      .station-grid {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+
+      .frequency {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+
+    <h1>📻 Radio Streaming</h1>
+
+    <div class="subtitle">
+      MOST 105.8 FM and KIS 95.1 FM live streaming with song information.
+    </div>
+
+    <div class="station-grid">
+
+      <a href="most-streaming.html" class="station-card">
+        <div class="frequency">
+          105.8 FM
+        </div>
+
+        <div class="station-name">
+          MOST Radio
+        </div>
+
+        <div class="description">
+          Listen to MOST 105.8 FM with automatic song metadata from the live stream.
+        </div>
+      </a>
+
+      <a href="kis-streaming.html" class="station-card">
+        <div class="frequency">
+          95.1 FM
+        </div>
+
+        <div class="station-name">
+          KIS FM
+        </div>
+
+        <div class="description">
+          Listen to KIS 95.1 FM with automatic song recognition using the radio detector backend.
+        </div>
+      </a>
+
+    </div>
+
+    <div class="footer">
+      Radio Streaming Project
+    </div>
+
+  </main>
+</body>
+</html>
