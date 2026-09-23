@@ -1,17 +1,24 @@
 @echo off
-title MOST & KIS Local Song Recognizer
-echo ==========================================
-echo MOST 105.8 + KIS 95.1 Song Recognizer
-echo ==========================================
+title MOST + KIS + JAK Radio Recognition Backend
+
+cd /d "%~dp0"
+
+echo ============================================================
+echo   MOST + KIS + JAK Radio Recognition Backend
+echo ============================================================
 echo.
-echo Starting local recognizer on:
+echo Starting local server on:
 echo http://127.0.0.1:8765
 echo.
-echo Keep this window open while detecting songs.
+echo KIS: automatic ShazamIO direct-stream recognition
+echo JAK: automatic ShazamIO Noice direct-stream recognition
+echo.
+echo Keep this window open.
+echo ============================================================
 echo.
 
 python -m uvicorn backend:app --host 127.0.0.1 --port 8765
 
 echo.
-echo Server stopped.
+echo Backend stopped.
 pause

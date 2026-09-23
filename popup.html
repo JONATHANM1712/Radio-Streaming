@@ -6,42 +6,26 @@
   <title>Radio Song Detector</title>
   <link rel="stylesheet" href="popup.css">
 </head>
-
 <body>
   <main class="panel">
     <h1>📻 Radio Song Detector</h1>
 
-    <div class="station" id="station">
-      Open MOST or KIS
-    </div>
+    <div class="station" id="station">Open MOST, KIS, or JAK</div>
 
     <div class="status">
       <span>Status</span>
       <strong id="status">Stopped</strong>
     </div>
 
-    <button id="start">
-      ▶ Start Automatic Detection
-    </button>
+    <button id="start">▶ Start Automatic Detection</button>
+    <button id="stop" class="secondary">■ Stop</button>
 
-    <button
-      id="stop"
-      class="secondary"
-    >
-      ■ Stop
-    </button>
-
-    <div
-      class="message"
-      id="message"
-    >
-      Start the local Python recognizer first.
+    <div class="message" id="message">
+      Start the local Python recognizer first if you want ShazamIO detection.
     </div>
 
     <div class="tip">
-      Detection captures 12 seconds of the current radio tab,
-      identifies it locally through ShazamIO, then repeats every
-      60 seconds.
+      Detection captures 12 seconds of the active radio tab, identifies it through your local recognizer, and repeats every 60 seconds. JAK can use the Noice player as its audio source.
     </div>
   </main>
 

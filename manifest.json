@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "MOST & KIS Automatic Song Detector",
-  "version": "0.2.0",
-  "description": "Automatically captures MOST 105.8 / KIS 95.1 tab audio and sends short clips to a local free ShazamIO recognizer.",
+  "name": "MOST, KIS & JAK Automatic Song Detector",
+  "version": "0.3.0",
+  "description": "Captures MOST 105.8, KIS 95.1, or JAK 101 tab audio and sends short clips to the local ShazamIO recognizer.",
   "permissions": [
     "storage",
     "activeTab",
@@ -16,7 +16,8 @@
     "http://127.0.0.1:8765/*",
     "http://localhost:8765/*",
     "https://most1058fm.com/*",
-    "https://kis951fm.com/*"
+    "https://kis951fm.com/*",
+    "https://open.noice.id/*"
   ],
   "background": {
     "service_worker": "background.js",
@@ -24,14 +25,15 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "MOST & KIS Song Detector"
+    "default_title": "MOST, KIS & JAK Song Detector"
   },
   "content_scripts": [
     {
       "matches": [
         "file:///*",
         "https://most1058fm.com/*",
-        "https://kis951fm.com/*"
+        "https://kis951fm.com/*",
+        "https://open.noice.id/*"
       ],
       "js": [
         "content.js"

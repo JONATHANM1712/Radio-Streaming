@@ -17,8 +17,8 @@ async function ensureOffscreenDocument() {
   });
 }
 
-async function getTabStation(tab) {
-  const text = `${tab?.title || ""} ${tab?.url || ""}`.toLowerCase();
+function stationFromText(rawText) {
+  const text = String(rawText || "").toLowerCase();
 
   if (text.includes("most") || text.includes("105.8")) {
     return "MOST 105.8 FM";
@@ -28,7 +28,21 @@ async function getTabStation(tab) {
     return "KIS 95.1 FM";
   }
 
+  if (
+    text.includes("jak 101") ||
+    text.includes("jak101") ||
+    text.includes("101 fm") ||
+    text.includes("radio jak") ||
+    text.includes("92ef0b2b-061a-482d-bf2c-8b9fe6a49d84")
+  ) {
+    return "JAK 101 FM";
+  }
+
   return null;
+}
+
+async function getTabStation(tab) {
+  return stationFromText(`${tab?.title || ""} ${tab?.url || ""}`);
 }
 
 async function sendToTab(tabId, message) {
@@ -50,22 +64,19 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
           throw new Error("No active tab found.");
         }
 
-        const station =
-          message.station ||
-          await getTabStation(tab);
+        const station = message.station || await getTabStation(tab);
 
         if (!station) {
           throw new Error(
-            "Open most-streaming.html or kis-streaming.html first."
+            "Open MOST 105.8, KIS 95.1, or JAK 101 first."
           );
         }
 
         await ensureOffscreenDocument();
 
-        const streamId =
-          await chrome.tabCapture.getMediaStreamId({
-            targetTabId: tab.id
-          });
+        const streamId = await chrome.tabCapture.getMediaStreamId({
+          targetTabId: tab.id
+        });
 
         await chrome.runtime.sendMessage({
           target: "offscreen",
@@ -92,10 +103,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
           station
         });
 
-        sendResponse({
-          ok: true,
-          station
-        });
+        sendResponse({ ok: true, station });
       } catch (error) {
         sendResponse({
           ok: false,
@@ -110,9 +118,8 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message?.type === "STOP_AUTO_DETECTION") {
     (async () => {
       try {
-        const state =
-          (await chrome.storage.local.get("detectorState"))
-            .detectorState;
+        const state = (await chrome.storage.local.get("detectorState"))
+          .detectorState;
 
         await ensureOffscreenDocument();
 
@@ -130,9 +137,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         }
 
         await chrome.storage.local.set({
-          detectorState: {
-            running: false
-          }
+          detectorState: { running: false }
         });
 
         sendResponse({ ok: true });
@@ -155,9 +160,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         title: message.title || "",
         album: message.album || "",
         source: message.source || "ShazamIO local",
-        recognizedAt:
-          message.recognizedAt ||
-          new Date().toISOString()
+        recognizedAt: message.recognizedAt || new Date().toISOString()
       };
 
       await chrome.storage.local.set({
@@ -195,10 +198,8 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
       sendResponse({
         ok: true,
-        detectorState:
-          data.detectorState || { running: false },
-        lastRecognition:
-          data.lastRecognition || null
+        detectorState: data.detectorState || { running: false },
+        lastRecognition: data.lastRecognition || null
       });
     })();
 

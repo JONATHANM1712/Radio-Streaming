@@ -1,8 +1,8 @@
 const STREAM_URL =
-  "https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8";
+  "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8";
 
 const STATION_NAME =
-  "KIS 95.1 FM";
+  "JAK 101 FM";
 
 const BACKEND_URL =
   "http://127.0.0.1:8765";
@@ -36,7 +36,7 @@ function initializeRadio() {
   ) {
 
     console.error(
-      "KIS radioPlayer or playerStatus is missing."
+      "JAK radioPlayer or playerStatus is missing."
     );
 
     return;
@@ -98,7 +98,7 @@ function initializeRadio() {
       (_, data) => {
 
         console.error(
-          "KIS HLS error:",
+          "JAK HLS error:",
           data
         );
 
@@ -226,7 +226,7 @@ function initializeCustomControls() {
   ) {
 
     console.error(
-      "KIS custom radio controls are missing."
+      "JAK custom radio controls are missing."
     );
 
     return;
@@ -314,7 +314,7 @@ function initializeCustomControls() {
         catch (error) {
 
           console.error(
-            "KIS playback error:",
+            "JAK playback error:",
             error
           );
 
@@ -356,7 +356,7 @@ function initializeCustomControls() {
 
       playPauseButton.setAttribute(
         "aria-label",
-        "Pause KIS 95.1 FM"
+        "Pause JAK 101 FM"
       );
 
     }
@@ -373,7 +373,7 @@ function initializeCustomControls() {
 
       playPauseButton.setAttribute(
         "aria-label",
-        "Play KIS 95.1 FM"
+        "Play JAK 101 FM"
       );
 
     }
@@ -549,13 +549,13 @@ function formatRecognitionTime(
 
 /*
   ============================================================
-  APPLY KIS METADATA AS ONE ARTIST/TITLE PAIR
+  APPLY JAK METADATA AS ONE ARTIST/TITLE PAIR
   ============================================================
 */
 
 let lastRenderedTrackKey = "";
 
-function applyKisMetadata(
+function applyJakMetadata(
   data
 ) {
 
@@ -613,7 +613,7 @@ function applyKisMetadata(
     setText(
       "recognitionSource",
       data.source ||
-      "KIS direct-stream ShazamIO"
+      "JAK Noice direct-stream ShazamIO"
     );
 
     setText(
@@ -635,13 +635,13 @@ function applyKisMetadata(
   ============================================================
 */
 
-async function updateKisMetadata() {
+async function updateJakMetadata() {
 
   try {
 
     const response =
       await fetch(
-        `${BACKEND_URL}/kis/latest`,
+        `${BACKEND_URL}/jak/latest`,
         {
           cache: "no-store"
         }
@@ -669,7 +669,7 @@ async function updateKisMetadata() {
     );
 
 
-    applyKisMetadata(
+    applyJakMetadata(
       data
     );
 
@@ -678,7 +678,7 @@ async function updateKisMetadata() {
   catch (error) {
 
     console.error(
-      "KIS metadata error:",
+      "JAK metadata error:",
       error
     );
 
@@ -697,7 +697,7 @@ async function updateKisMetadata() {
 
     setText(
       "detectorDetail",
-      "Start Radio Detector.bat to enable automatic KIS song recognition."
+      "Start Radio Detector.bat to enable automatic JAK song recognition."
     );
 
   }
@@ -721,10 +721,10 @@ document.addEventListener(
 
 
     /*
-      Fetch the current KIS recognition immediately.
+      Fetch the current JAK recognition immediately.
     */
 
-    updateKisMetadata();
+    updateJakMetadata();
 
 
     /*
@@ -735,7 +735,7 @@ document.addEventListener(
     */
 
     setInterval(
-      updateKisMetadata,
+      updateJakMetadata,
       METADATA_REFRESH_MS
     );
 
