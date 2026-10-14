@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:58:17.121724+00:00",
+  "updated_at_utc": "2026-10-14T16:00:20.220372+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Rich Girl (feat. Eve)",
+        "detected_at_utc": "2026-10-14T16:00:20.111681+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
