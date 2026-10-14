@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:59:18.824620+00:00",
+  "updated_at_utc": "2026-10-14T15:00:47.107358+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "A Moment Like This",
+        "detected_at_utc": "2026-10-14T15:00:46.972050+00:00"
+      },
       {
         "artist": "Ticketmaster Tapes",
         "title": "I Care About You",
