@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:22:37.438978+00:00",
+  "updated_at_utc": "2026-10-14T12:23:40.454964+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "Burn",
+        "detected_at_utc": "2026-10-14T12:22:42.046286+00:00"
+      },
       {
         "artist": "USHER",
         "title": "You Make Me Wanna...",
