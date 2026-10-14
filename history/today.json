@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:47:34.190493+00:00",
+  "updated_at_utc": "2026-10-14T12:51:33.361177+00:00",
   "stations": {
     "kis": [
       {
@@ -562,6 +562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Miki Matsubara",
+        "title": "Mayonaka No Door~stay with Me Classic",
+        "detected_at_utc": "2026-10-14T12:51:33.258694+00:00"
+      },
       {
         "artist": "Iwa K",
         "title": "Malam Indah",
