@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:28:36.598212+00:00",
+  "updated_at_utc": "2026-10-14T15:29:40.765485+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Let It Go (Single Version)",
+        "detected_at_utc": "2026-10-14T15:29:36.047069+00:00"
+      },
       {
         "artist": "Catatonia",
         "title": "Dead from the Waist Down",
