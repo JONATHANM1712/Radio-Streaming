@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:28:30.289288+00:00",
+  "updated_at_utc": "2026-10-14T17:29:34.047664+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Groove Bandit",
+        "title": "Gelora Asmara",
+        "detected_at_utc": "2026-10-14T17:29:31.507653+00:00"
+      },
       {
         "artist": "Teddy Pendergrass",
         "title": "I Don't Love You Anymore (Damian Lazarus Re-Shape)",
@@ -45,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Farrel Hilal",
+        "title": "Keliling",
+        "detected_at_utc": "2026-10-14T17:29:25.948903+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I'm with You",
@@ -92,6 +102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tracy Chapman",
+        "title": "Fast Car",
+        "detected_at_utc": "2026-10-14T17:29:01.968315+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Kansas City Milkman",
