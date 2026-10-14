@@ -1,8 +1,18 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:07:47.326657+00:00",
+  "updated_at_utc": "2026-10-14T06:18:51.549780+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anang & Kris Dayanti",
+        "title": "Makin Aku Cinta",
+        "detected_at_utc": "2026-10-14T06:16:11.317454+00:00"
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-14T06:12:44.272545+00:00"
+      },
       {
         "artist": "INOJ",
         "title": "Time After Time",
@@ -56,6 +66,21 @@
     ],
     "jak": [
       {
+        "artist": "Justin Timberlake",
+        "title": "Rock Your Body",
+        "detected_at_utc": "2026-10-14T06:17:20.927558+00:00"
+      },
+      {
+        "artist": "Salma Salsabil",
+        "title": "Bunga Hati",
+        "detected_at_utc": "2026-10-14T06:14:15.202390+00:00"
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Stop And Stare",
+        "detected_at_utc": "2026-10-14T06:12:52.255732+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
         "detected_at_utc": "2026-10-14T06:07:19.674416+00:00"
@@ -102,6 +127,16 @@
       }
     ],
     "most": [
+      {
+        "artist": "Europe",
+        "title": "Prisoners In Paradise",
+        "detected_at_utc": "2026-10-14T06:16:03.590883+00:00"
+      },
+      {
+        "artist": "Jody Watley",
+        "title": "Don't You Want Me",
+        "detected_at_utc": "2026-10-14T06:12:36.249829+00:00"
+      },
       {
         "artist": "Break Machine",
         "title": "Break Dance Party (Original Version 1984)",
