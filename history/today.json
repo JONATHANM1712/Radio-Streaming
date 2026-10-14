@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:24:30.477308+00:00",
+  "updated_at_utc": "2026-10-14T11:27:37.845180+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Young Dumb & Broke",
+        "detected_at_utc": "2026-10-14T11:27:37.768940+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
