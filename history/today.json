@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:12:15.728550+00:00",
+  "updated_at_utc": "2026-10-14T13:15:20.409217+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-14T13:15:20.307218+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "All of Me",
