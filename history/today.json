@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:41:06.731717+00:00",
+  "updated_at_utc": "2026-10-14T12:43:19.845825+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-14T12:43:19.754724+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I'm Yours",
