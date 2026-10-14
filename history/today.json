@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T05:34:26.470940+00:00",
+  "updated_at_utc": "2026-10-14T05:35:07.977613+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ciara",
+        "title": "Get Up (feat. Chamillionaire) [Main Version]",
+        "detected_at_utc": "2026-10-14T05:34:37.195796+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Stay With Me",
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dire Straits",
+        "title": "Lady Writer",
+        "detected_at_utc": "2026-10-14T05:34:28.998565+00:00"
+      },
       {
         "artist": "Sade",
         "title": "The Sweetest Taboo",
