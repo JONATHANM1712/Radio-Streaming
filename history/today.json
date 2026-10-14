@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:04:13.330729+00:00",
+  "updated_at_utc": "2026-10-14T13:06:03.839242+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Foster the People",
+        "title": "Pumped Up Kicks",
+        "detected_at_utc": "2026-10-14T13:06:03.757636+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "That's Not My Name",
