@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:40:03.493249+00:00",
+  "updated_at_utc": "2026-10-14T12:41:06.731717+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "I'm Yours",
+        "detected_at_utc": "2026-10-14T12:40:13.499969+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
