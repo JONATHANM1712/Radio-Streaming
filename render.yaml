@@ -1,14 +1,11 @@
+
 services:
   - type: web
     name: radio-metadata-detector
     runtime: docker
-    plan: starter
+    plan: free
     autoDeployTrigger: commit
     healthCheckPath: /
-    disk:
-      name: radio-history
-      mountPath: /var/data
-      sizeGB: 1
     envVars:
       - key: DATABASE_PATH
-        value: /var/data/radio-history.sqlite3
+        value: /tmp/radio-history.sqlite3
