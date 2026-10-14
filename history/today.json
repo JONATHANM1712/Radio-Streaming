@@ -1,8 +1,33 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T05:36:27.052548+00:00",
+  "updated_at_utc": "2026-10-14T06:06:43.959363+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fergie",
+        "title": "Clumsy",
+        "detected_at_utc": "2026-10-14T05:57:49.313073+00:00"
+      },
+      {
+        "artist": "Michael Jackson",
+        "title": "You Are Not Alone",
+        "detected_at_utc": "2026-10-14T05:56:10.278163+00:00"
+      },
+      {
+        "artist": "John Legend",
+        "title": "Ordinary People",
+        "detected_at_utc": "2026-10-14T05:50:12.245248+00:00"
+      },
+      {
+        "artist": "John Mayer",
+        "title": "Waiting On the World to Change",
+        "detected_at_utc": "2026-10-14T05:45:00.594961+00:00"
+      },
+      {
+        "artist": "Shanty",
+        "title": "Hanya Memuji",
+        "detected_at_utc": "2026-10-14T05:39:39.196989+00:00"
+      },
       {
         "artist": "Ciara",
         "title": "Get Up (feat. Chamillionaire) [Main Version]",
@@ -20,6 +45,21 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-14T05:58:04.150529+00:00"
+      },
+      {
+        "artist": "The Script",
+        "title": "For the First Time",
+        "detected_at_utc": "2026-10-14T05:50:21.289933+00:00"
+      },
+      {
+        "artist": "Fox",
+        "title": "Baby Boy",
+        "detected_at_utc": "2026-10-14T05:44:06.280196+00:00"
+      },
       {
         "artist": "The Adams",
         "title": "Hanya Kau",
@@ -42,6 +82,26 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "Interstate Love Song",
+        "detected_at_utc": "2026-10-14T06:01:15.791933+00:00"
+      },
+      {
+        "artist": "Phil Collins",
+        "title": "Something Happened On the Way to Heaven",
+        "detected_at_utc": "2026-10-14T05:56:02.221256+00:00"
+      },
+      {
+        "artist": "Warrant",
+        "title": "Sometimes She Cries",
+        "detected_at_utc": "2026-10-14T05:42:53.346360+00:00"
+      },
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Heaven Help",
+        "detected_at_utc": "2026-10-14T05:38:29.147388+00:00"
+      },
       {
         "artist": "Dire Straits",
         "title": "Lady Writer",
