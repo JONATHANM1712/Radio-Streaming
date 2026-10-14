@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:47:30.160101+00:00",
+  "updated_at_utc": "2026-10-14T16:48:36.025612+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Level 42",
+        "title": "Love In a Peaceful World",
+        "detected_at_utc": "2026-10-14T16:48:28.014127+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-10-14T16:48:26.716761+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Masih (Sahabatku Kekasihku)",
