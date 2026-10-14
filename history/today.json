@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:47:36.819606+00:00",
+  "updated_at_utc": "2026-10-14T15:48:39.647950+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Train",
+        "title": "Marry Me",
+        "detected_at_utc": "2026-10-14T15:48:04.134083+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Good For You (feat. A$AP Rocky)",
