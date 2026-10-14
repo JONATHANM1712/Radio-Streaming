@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:22:34.080604+00:00",
+  "updated_at_utc": "2026-10-14T14:23:38.757394+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Earned It (Fifty Shades of Grey)",
+        "detected_at_utc": "2026-10-14T14:23:37.465419+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
