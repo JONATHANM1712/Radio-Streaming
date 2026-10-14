@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:29:38.154999+00:00",
+  "updated_at_utc": "2026-10-14T12:32:55.604848+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "One More Night",
+        "detected_at_utc": "2026-10-14T12:32:55.512545+00:00"
+      },
       {
         "artist": "The Chainsmokers & Coldplay",
         "title": "Something Just Like This",
