@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:44:25.832456+00:00",
+  "updated_at_utc": "2026-10-14T06:45:28.711052+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-14T06:44:33.475235+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "deja vu",
