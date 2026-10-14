@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:45:28.711052+00:00",
+  "updated_at_utc": "2026-10-14T06:46:31.661515+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-10-14T06:45:34.870123+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
