@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:23:05.072713+00:00",
+  "updated_at_utc": "2026-10-14T08:24:08.573267+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-10-14T08:23:18.330589+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "I Do",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Passengers",
+        "title": "Miss Sarajevo (feat. Luciano Pavarotti)",
+        "detected_at_utc": "2026-10-14T08:24:06.258238+00:00"
+      },
       {
         "artist": "Simply Red",
         "title": "If You Don't Know Me By Now",
