@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:06:33.255419+00:00",
+  "updated_at_utc": "2026-10-14T15:08:03.227965+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Wijaya 80",
+        "title": "Terakhir Kali",
+        "detected_at_utc": "2026-10-14T15:08:03.083095+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "The One That Got Away",
