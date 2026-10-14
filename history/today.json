@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:04:55.116791+00:00",
+  "updated_at_utc": "2026-10-14T17:05:58.083267+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Cerita Cinta",
+        "detected_at_utc": "2026-10-14T17:05:53.708285+00:00"
+      },
       {
         "artist": "The Click Five",
         "title": "Jenny",
