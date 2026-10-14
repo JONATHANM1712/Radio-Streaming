@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:35:47.829013+00:00",
+  "updated_at_utc": "2026-10-14T14:37:57.413215+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Monokrom",
+        "detected_at_utc": "2026-10-14T14:37:57.269883+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "I Surrender",
