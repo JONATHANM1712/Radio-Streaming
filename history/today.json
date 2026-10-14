@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:08:04.235264+00:00",
+  "updated_at_utc": "2026-10-14T17:10:01.029819+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Rise & Fall (feat. Sting)",
+        "detected_at_utc": "2026-10-14T17:10:00.937162+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Cerita Cinta",
