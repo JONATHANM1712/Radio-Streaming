@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:49:31.127463+00:00",
+  "updated_at_utc": "2026-10-14T10:35:43.273493+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy",
+        "title": "Temui Aku",
+        "detected_at_utc": "2026-10-14T10:35:42.961846+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "24K Magic",
@@ -160,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hilary Duff",
+        "title": "So Yesterday",
+        "detected_at_utc": "2026-10-14T10:35:42.971306+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Love Today",
@@ -322,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nirvana",
+        "title": "All Apologies",
+        "detected_at_utc": "2026-10-14T10:35:42.892446+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Anything for You",
