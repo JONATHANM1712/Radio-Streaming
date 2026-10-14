@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:20:57.577723+00:00",
+  "updated_at_utc": "2026-10-14T08:22:01.341892+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "I Do",
+        "detected_at_utc": "2026-10-14T08:21:13.609003+00:00"
+      },
       {
         "artist": "Dave & Tems",
         "title": "Raindance",
