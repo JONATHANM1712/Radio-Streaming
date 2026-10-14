@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:55:38.521433+00:00",
+  "updated_at_utc": "2026-10-14T14:56:43.480198+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Versace On The Floor",
+        "detected_at_utc": "2026-10-14T14:55:41.993591+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Clumsy",
