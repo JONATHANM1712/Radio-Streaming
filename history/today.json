@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T07:57:43.063210+00:00",
+  "updated_at_utc": "2026-10-14T07:58:47.123202+00:00",
   "stations": {
     "kis": [
       {
@@ -212,6 +212,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Kranz",
+        "title": "Din Daa Daa",
+        "detected_at_utc": "2026-10-14T07:58:46.984471+00:00"
+      },
       {
         "artist": "Joan Jett & The Blackhearts",
         "title": "I Hate Myself for Loving You",
