@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:40:46.995965+00:00",
+  "updated_at_utc": "2026-10-14T17:42:44.114868+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-14T17:42:44.027111+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
