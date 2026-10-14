@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:14:46.737502+00:00",
+  "updated_at_utc": "2026-10-14T14:15:51.822272+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Crash Adams",
+        "title": "Good Side",
+        "detected_at_utc": "2026-10-14T14:14:51.988384+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Fallin' For You",
