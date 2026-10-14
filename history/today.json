@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:23:40.454964+00:00",
+  "updated_at_utc": "2026-10-14T12:25:42.365405+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "detected_at_utc": "2026-10-14T12:25:42.252085+00:00"
+      },
       {
         "artist": "Simple Plan",
         "title": "Perfect",
