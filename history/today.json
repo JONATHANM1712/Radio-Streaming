@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:08:22.069061+00:00",
+  "updated_at_utc": "2026-10-14T13:11:12.720021+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-10-14T13:11:12.626797+00:00"
+      },
       {
         "artist": "Foster the People",
         "title": "Pumped Up Kicks",
