@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:48:36.025612+00:00",
+  "updated_at_utc": "2026-10-14T16:49:38.964658+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-14T16:49:28.069969+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
