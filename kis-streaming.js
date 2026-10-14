@@ -5,7 +5,7 @@ const STATION_NAME =
   "KIS 95.1 FM";
 
 const BACKEND_URL =
-  "http://127.0.0.1:8765";
+  (window.RADIO_API_BASE || "http://127.0.0.1:8765").replace(/\/$/, "");
 
 const METADATA_REFRESH_MS =
   5000;

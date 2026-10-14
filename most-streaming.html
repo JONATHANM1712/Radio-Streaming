@@ -16,7 +16,7 @@
   </style>
 </head>
 
-<body>
+<body data-history-station="most">
   <div class="container">
 
     <header class="header">
@@ -24,6 +24,7 @@
       <p>Automatic Song Recognition Every 60 Seconds</p>
     </header>
 
+    <div class="station-layout">
     <main class="card">
 
       <div class="station-top">
@@ -68,13 +69,15 @@
           🎵 Now Playing
         </div>
 
+<div id="songTitle">
+  Waiting for currently playing song...
+</div>
+
 <div id="artist">
   Waiting for MOST metadata...
 </div>
 
-<div id="songTitle">
-  Waiting for currently playing song...
-</div>
+<div class="detail" id="album">Album information unavailable</div>
 
 <div
   class="detail"
@@ -117,17 +120,22 @@
 
       <section class="help">
         <strong>How to run:</strong>
-        first start <code>run-backend.bat</code>.
-        Then play this radio, click the extension icon,
-        and choose <strong>Start Automatic Detection</strong>.
-        It captures about 12 seconds, recognizes the song,
-        updates this page, and repeats every 60 seconds.
+        start <code>run-backend.bat</code>. The Python service detects all three stations in the background without a browser or extension. The daily history is stored in SQLite and resets at midnight WIB.
       </section>
-
     </main>
+    <aside class="history-sidebar">
+<section class="daily-history" aria-label="Today's played songs">
+        <h2>📜 Today's Played Songs</h2>
+        <p id="dailyHistoryStatus" role="status">Loading today's history (WIB)...</p>
+        <ol id="dailyHistoryList"></ol>
+      </section>
+    </aside>
+  </div>
 
   </div>
 
-  <script src="most-streaming.js"></script>
+  <script src="radio-config.js"></script>
+<script src="most-streaming.js"></script>
+<script src="daily-history.js"></script>
 </body>
 </html>

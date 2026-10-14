@@ -375,7 +375,7 @@ textarea {
   opacity: 0.68;
 }
 
-#artist {
+#songTitle {
   font-size: 31px;
 
   font-weight: 800;
@@ -383,7 +383,7 @@ textarea {
   margin-top: 16px;
 }
 
-#songTitle {
+#artist {
   font-size: 23px;
 
   margin-top: 7px;
@@ -542,4 +542,39 @@ code {
     width: 90px;
   }
 
+}
+
+/* Today's radio history, backed by the Python SQLite service */
+.daily-history { margin-top: 20px; padding: 18px; border: 1px solid rgba(128,128,128,.3); border-radius: 14px; }
+.daily-history h2 { margin: 0 0 8px; font-size: 1.15rem; }
+.daily-history p { margin: 0 0 12px; opacity: .8; }
+.daily-history ol { list-style: none; padding: 0; margin: 0; max-height: 380px; overflow-y: auto; }
+.daily-history li { padding: 10px 0; border-top: 1px solid rgba(128,128,128,.2); }
+.daily-history time { display: inline-block; min-width: 64px; opacity: .7; font-variant-numeric: tabular-nums; }
+.daily-history .history-empty { opacity: .75; }
+
+/* Desktop two-column layout: player on the left, daily history on the right. */
+.station-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(285px, 340px);
+  gap: 22px;
+  align-items: start;
+}
+.station-layout > .card { min-width: 0; }
+.history-sidebar { min-width: 0; }
+.history-sidebar .daily-history {
+  margin-top: 0;
+  padding: 22px;
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.22);
+  border-radius: 22px;
+  position: sticky;
+  top: 20px;
+}
+.history-sidebar .daily-history h2 { line-height: 1.3; }
+.history-sidebar .daily-history ol { max-height: min(68vh, 640px); }
+.history-sidebar .daily-history li { overflow-wrap: anywhere; }
+@media (max-width: 900px) {
+  .station-layout { grid-template-columns: minmax(0, 1fr); }
+  .history-sidebar .daily-history { position: static; }
 }

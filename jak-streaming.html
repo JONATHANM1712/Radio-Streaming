@@ -31,7 +31,7 @@
 </head>
 
 
-<body>
+<body data-history-station="jak">
 
   <div class="container">
 
@@ -57,6 +57,7 @@
     <!-- MAIN CARD                                          -->
     <!-- ================================================== -->
 
+    <div class="station-layout">
     <main class="card">
 
 
@@ -128,13 +129,12 @@
         </div>
 
 
-        <div id="artist">
-          Waiting for JAK recognition...
-        </div>
-
-
         <div id="songTitle">
           Automatic recognition starting...
+        </div>
+
+<div id="artist">
+          Waiting for JAK recognition...
         </div>
 
 
@@ -318,17 +318,23 @@
         in the Chrome extension.
 
       </section>
-
-
     </main>
+    <aside class="history-sidebar">
+<section class="daily-history" aria-label="Today's played songs">
+        <h2>📜 Today's Played Songs</h2>
+        <p id="dailyHistoryStatus" role="status">Loading today's history (WIB)...</p>
+        <ol id="dailyHistoryList"></ol>
+      </section>
+    </aside>
+  </div>
 
   </div>
 
 
-  <script
-    src="jak-streaming.js"
-  ></script>
+  <script src="radio-config.js"></script>
+  <script src="jak-streaming.js"></script>
 
+<script src="daily-history.js"></script>
 </body>
 
 </html>

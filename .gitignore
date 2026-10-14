@@ -11,3 +11,7 @@ backend-error.log
 backend-output.log
 *.log
 radio-song-detector-v2.zip
+
+# Local daily song history
+radio-history.sqlite3
+radio-history.sqlite3-*
