@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:27:57.468475+00:00",
+  "updated_at_utc": "2026-10-14T16:29:00.262868+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "FireHouse",
+        "title": "Love of a Lifetime",
+        "detected_at_utc": "2026-10-14T16:28:59.806875+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Cintakan Membawamu Kembali",
@@ -1052,6 +1057,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Twisted Sister",
+        "title": "The Price",
+        "detected_at_utc": "2026-10-14T16:28:31.623711+00:00"
+      },
       {
         "artist": "Carole King",
         "title": "You've Got a Friend",
