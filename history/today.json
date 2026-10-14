@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:28:06.514012+00:00",
+  "updated_at_utc": "2026-10-14T06:31:09.641277+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-14T06:31:09.559806+00:00"
+      },
       {
         "artist": "Travie McCoy",
         "title": "Billionaire (feat. Bruno Mars)",
