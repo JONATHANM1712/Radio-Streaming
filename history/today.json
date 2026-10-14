@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:27:26.170222+00:00",
+  "updated_at_utc": "2026-10-14T08:30:19.737558+00:00",
   "stations": {
     "kis": [
       {
@@ -287,6 +287,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tina Turner",
+        "title": "Better Be Good to Me",
+        "detected_at_utc": "2026-10-14T08:30:19.604512+00:00"
+      },
       {
         "artist": "Passengers",
         "title": "Miss Sarajevo (feat. Luciano Pavarotti)",
