@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:16:23.584361+00:00",
+  "updated_at_utc": "2026-10-14T13:18:29.251225+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "D’MASIV",
+        "title": "Semakin",
+        "detected_at_utc": "2026-10-14T13:18:29.139368+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
