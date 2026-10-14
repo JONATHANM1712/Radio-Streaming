@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:24:08.573267+00:00",
+  "updated_at_utc": "2026-10-14T08:26:03.960564+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Animals",
+        "detected_at_utc": "2026-10-14T08:26:03.815402+00:00"
+      },
       {
         "artist": "Steps",
         "title": "It's the Way You Make Me Feel",
