@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:03:56.082593+00:00",
+  "updated_at_utc": "2026-10-14T08:04:59.421338+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-10-14T08:03:56.824848+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
