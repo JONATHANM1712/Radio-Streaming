@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T07:52:36.445994+00:00",
+  "updated_at_utc": "2026-10-14T07:53:42.423089+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sania",
+        "title": "Cintai Aku Lagi",
+        "detected_at_utc": "2026-10-14T07:52:36.439122+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Teenage Love Affair",
@@ -197,6 +202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joan Jett & The Blackhearts",
+        "title": "I Hate Myself for Loving You",
+        "detected_at_utc": "2026-10-14T07:53:37.307697+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "A Different Corner (Live)",
