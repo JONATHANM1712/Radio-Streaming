@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:11:29.002682+00:00",
+  "updated_at_utc": "2026-10-14T08:14:38.864116+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dave & Tems",
+        "title": "Raindance",
+        "detected_at_utc": "2026-10-14T08:14:38.735916+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
