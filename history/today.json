@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:48:35.955689+00:00",
+  "updated_at_utc": "2026-10-14T13:52:01.735847+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "detected_at_utc": "2026-10-14T13:52:01.527529+00:00"
+      },
       {
         "artist": "Tori Amos",
         "title": "Sleeps With Butterflies",
