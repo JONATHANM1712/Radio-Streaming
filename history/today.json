@@ -1,8 +1,18 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:06:43.959363+00:00",
+  "updated_at_utc": "2026-10-14T06:07:47.326657+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "INOJ",
+        "title": "Time After Time",
+        "detected_at_utc": "2026-10-14T06:07:11.807914+00:00"
+      },
+      {
+        "artist": "Gotye",
+        "title": "Somebody That I Used to Know (feat. Kimbra)",
+        "detected_at_utc": "2026-10-14T06:06:53.446651+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Clumsy",
@@ -46,6 +56,16 @@
     ],
     "jak": [
       {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-14T06:07:19.674416+00:00"
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-14T06:07:01.549535+00:00"
+      },
+      {
         "artist": "Adrian Khalif",
         "title": "2001x",
         "detected_at_utc": "2026-10-14T05:58:04.150529+00:00"
@@ -82,6 +102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Break Machine",
+        "title": "Break Dance Party (Original Version 1984)",
+        "detected_at_utc": "2026-10-14T06:06:45.271144+00:00"
+      },
       {
         "artist": "Stone Temple Pilots",
         "title": "Interstate Love Song",
