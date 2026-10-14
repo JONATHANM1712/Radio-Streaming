@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:24:45.458441+00:00",
+  "updated_at_utc": "2026-10-14T14:27:57.735976+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Yeah 3X",
+        "detected_at_utc": "2026-10-14T14:27:57.591361+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Earned It (Fifty Shades of Grey)",
