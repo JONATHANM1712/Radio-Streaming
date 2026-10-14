@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:09:34.283853+00:00",
+  "updated_at_utc": "2026-10-14T14:11:41.228936+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Fallin' For You",
+        "detected_at_utc": "2026-10-14T14:11:41.105942+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
