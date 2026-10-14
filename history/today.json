@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:47:26.633038+00:00",
+  "updated_at_utc": "2026-10-14T17:48:29.485950+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Secret Garden",
+        "detected_at_utc": "2026-10-14T17:47:56.982582+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Love On Top",
