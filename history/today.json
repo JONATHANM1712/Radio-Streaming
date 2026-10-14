@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:39:09.425352+00:00",
+  "updated_at_utc": "2026-10-14T06:44:25.832456+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
+        "detected_at_utc": "2026-10-14T06:44:25.750540+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Give Me a Reason",
