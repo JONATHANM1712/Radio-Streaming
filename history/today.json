@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:44:21.436572+00:00",
+  "updated_at_utc": "2026-10-14T08:45:25.030141+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ruzer",
+        "title": "Alien",
+        "detected_at_utc": "2026-10-14T08:44:47.660449+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Your Body Is a Wonderland",
