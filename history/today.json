@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:57:25.326404+00:00",
+  "updated_at_utc": "2026-10-14T13:58:31.359903+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Cayman Islands",
+        "detected_at_utc": "2026-10-14T13:58:31.233989+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
