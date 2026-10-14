@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:06:29.255342+00:00",
+  "updated_at_utc": "2026-10-14T14:08:30.010505+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-14T14:08:29.862793+00:00"
+      },
       {
         "artist": "Martin Garrix & Bebe Rexha",
         "title": "In the Name of Love",
