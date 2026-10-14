@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:39:34.163976+00:00",
+  "updated_at_utc": "2026-10-14T14:43:13.378290+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-14T14:43:13.228021+00:00"
+      },
       {
         "artist": "Stephanie Poetri",
         "title": "I Love You 3000",
