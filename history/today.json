@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:41:19.195458+00:00",
+  "updated_at_utc": "2026-10-14T13:42:22.308060+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Akon",
+        "title": "Don't Matter",
+        "detected_at_utc": "2026-10-14T13:41:35.626768+00:00"
+      },
       {
         "artist": "White Shoes & The Couples Company",
         "title": "Windu Defrina",
@@ -375,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DJ Khaled",
+        "title": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "detected_at_utc": "2026-10-14T13:41:21.446051+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "It's Gonna Be Me",
