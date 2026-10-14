@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:53:10.303533+00:00",
+  "updated_at_utc": "2026-10-14T15:55:13.639130+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-14T15:55:13.547197+00:00"
+      },
       {
         "artist": "Train",
         "title": "Marry Me",
