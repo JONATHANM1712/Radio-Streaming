@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T10:50:11.516497+00:00",
+  "updated_at_utc": "2026-10-14T10:53:18.577222+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Cayman Islands",
+        "detected_at_utc": "2026-10-14T10:53:18.450853+00:00"
+      },
       {
         "artist": "Mishari Rashid Alafasy",
         "title": "Recitation 1",
