@@ -14,8 +14,12 @@ ROOT = Path(__file__).resolve().parent
 DB = Path(os.getenv('DATABASE_PATH', str(ROOT / 'radio-history.sqlite3')))
 OUT = ROOT / 'history' / 'today.json'
 
+# Hide Git subprocess consoles on Windows.
+GIT_PROCESS_FLAGS = subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
+
 def run(*args):
-    return subprocess.run(['git', *args], cwd=ROOT, check=True, capture_output=True, text=True)
+    return subprocess.run(['git', *args], cwd=ROOT, check=True, capture_output=True, text=True,
+                          creationflags=GIT_PROCESS_FLAGS, stdin=subprocess.DEVNULL)
 
 def publish():
     day = datetime.now(ZoneInfo('Asia/Jakarta')).date().isoformat()
@@ -39,7 +43,9 @@ def publish():
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     # Only stage the public snapshot. Never commit the SQLite DB or credentials.
     run('add', '--', 'history/today.json')
-    changed = subprocess.run(['git', 'diff', '--cached', '--quiet', '--', 'history/today.json'], cwd=ROOT)
+    changed = subprocess.run(['git', 'diff', '--cached', '--quiet', '--', 'history/today.json'],
+                             cwd=ROOT, creationflags=GIT_PROCESS_FLAGS,
+                             stdin=subprocess.DEVNULL)
     if changed.returncode == 0:
         return
     if changed.returncode != 1:

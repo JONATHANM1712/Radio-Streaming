@@ -1,3 +1,3 @@
 @echo off
 cd /d "%~dp0"
-call "%~dp0run-backend.bat"
+call "%~dp0StartRadioDetector.bat"

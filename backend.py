@@ -341,6 +341,7 @@ async def publish_loop():
                 cwd=str(Path(__file__).parent),
 
                 stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE,
+                creationflags=subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0,
 
             )
 
@@ -487,6 +488,7 @@ def capture_station_sample(stream_url: str, target: Path):
         stderr=subprocess.PIPE,
 
         timeout=SAMPLE_SECONDS + 25,
+        creationflags=subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0,
 
     )
 
