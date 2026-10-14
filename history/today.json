@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:33:37.862119+00:00",
+  "updated_at_utc": "2026-10-14T14:34:43.196108+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stephanie Poetri",
+        "title": "I Love You 3000",
+        "detected_at_utc": "2026-10-14T14:34:43.068324+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
