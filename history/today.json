@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T13:06:03.839242+00:00",
+  "updated_at_utc": "2026-10-14T13:07:18.961689+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "U Got It Bad",
+        "detected_at_utc": "2026-10-14T13:07:18.856266+00:00"
+      },
       {
         "artist": "The Chainsmokers",
         "title": "Closer (feat. Halsey)",
