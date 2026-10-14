@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:43:31.463760+00:00",
+  "updated_at_utc": "2026-10-14T15:44:34.516044+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "Good For You (feat. A$AP Rocky)",
+        "detected_at_utc": "2026-10-14T15:43:58.728418+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Leave (Get Out)",
