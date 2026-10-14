@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:11:03.843430+00:00",
+  "updated_at_utc": "2026-10-14T17:14:02.497644+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-10-14T17:14:02.410504+00:00"
+      },
       {
         "artist": "Olly Murs",
         "title": "Troublemaker (feat. Flo Rida)",
