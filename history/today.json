@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:05:58.083267+00:00",
+  "updated_at_utc": "2026-10-14T17:07:00.845599+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-14T17:06:52.977677+00:00"
+      },
       {
         "artist": "Shakira",
         "title": "Whenever, Wherever",
