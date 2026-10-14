@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:40:10.528708+00:00",
+  "updated_at_utc": "2026-10-14T11:44:18.331498+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me (Acoustic Version)",
+        "detected_at_utc": "2026-10-14T11:44:18.198794+00:00"
+      },
       {
         "artist": "Neri per Caso",
         "title": "Le ragazze",
