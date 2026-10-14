@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:52:05.556499+00:00",
+  "updated_at_utc": "2026-10-14T16:54:36.399459+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-10-14T16:54:36.316239+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Love In a Peaceful World",
