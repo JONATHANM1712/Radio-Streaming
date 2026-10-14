@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:42:44.114868+00:00",
+  "updated_at_utc": "2026-10-14T17:43:47.150501+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-10-14T17:43:45.476679+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
@@ -132,6 +137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Commodores",
+        "title": "Easy",
+        "detected_at_utc": "2026-10-14T17:43:21.201074+00:00"
+      },
       {
         "artist": "Rick Springfield",
         "title": "Jessie's Girl",
