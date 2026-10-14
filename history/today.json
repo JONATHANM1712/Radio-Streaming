@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:46:28.651349+00:00",
+  "updated_at_utc": "2026-10-14T08:47:32.328117+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
+        "detected_at_utc": "2026-10-14T08:47:28.667072+00:00"
+      },
       {
         "artist": "Sixpence None the Richer",
         "title": "There She Goes",
