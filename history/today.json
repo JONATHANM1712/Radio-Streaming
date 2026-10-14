@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:00:31.687306+00:00",
+  "updated_at_utc": "2026-10-14T11:03:40.591402+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "detected_at_utc": "2026-10-14T11:03:40.501610+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Nothing Lasts Forever",
