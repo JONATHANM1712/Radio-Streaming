@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T05:35:07.977613+00:00",
+  "updated_at_utc": "2026-10-14T05:36:27.052548+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Adams",
+        "title": "Hanya Kau",
+        "detected_at_utc": "2026-10-14T05:36:26.973225+00:00"
+      },
       {
         "artist": "Billie Eilish & Khalid",
         "title": "lovely",
