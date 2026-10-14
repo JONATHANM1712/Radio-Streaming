@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T05:31:27.033259+00:00",
+  "updated_at_utc": "2026-10-14T05:34:26.470940+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "detected_at_utc": "2026-10-14T05:33:35.798585+00:00"
+      },
       {
         "artist": "Geri Halliwell",
         "title": "Lift Me Up",
@@ -10,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Billie Eilish & Khalid",
+        "title": "lovely",
+        "detected_at_utc": "2026-10-14T05:33:44.141364+00:00"
+      },
       {
         "artist": "Gym Class Heroes",
         "title": "Stereo Hearts (feat. Adam Levine)",
