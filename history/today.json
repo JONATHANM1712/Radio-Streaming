@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:17:19.290586+00:00",
+  "updated_at_utc": "2026-10-14T15:18:23.005012+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tompi",
+        "title": "Menghujam Jantungku",
+        "detected_at_utc": "2026-10-14T15:18:18.495846+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Born to Make You Happy",
