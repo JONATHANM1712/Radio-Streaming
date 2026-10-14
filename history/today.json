@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:44:17.244899+00:00",
+  "updated_at_utc": "2026-10-14T14:47:15.171334+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "E.T.",
+        "detected_at_utc": "2026-10-14T14:47:15.020178+00:00"
+      },
       {
         "artist": "Mike + The Mechanics",
         "title": "Over My Shoulder",
