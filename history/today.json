@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:05:27.412556+00:00",
+  "updated_at_utc": "2026-10-14T16:08:31.567267+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Take a Bow",
+        "detected_at_utc": "2026-10-14T16:08:31.482402+00:00"
+      },
       {
         "artist": "Pet Shop Boys, Straight Dave, Original Cast Of Closer To Heaven & Jonathan Harvey",
         "title": "Something Special",
@@ -545,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Major Lazer",
+        "title": "Cold Water (feat. Justin Bieber & MØ)",
+        "detected_at_utc": "2026-10-14T16:08:31.482472+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "Rich Girl (feat. Eve)",
