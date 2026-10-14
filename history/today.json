@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:47:15.171334+00:00",
+  "updated_at_utc": "2026-10-14T14:48:18.759637+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-14T14:47:22.665305+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Nothing Lasts Forever",
