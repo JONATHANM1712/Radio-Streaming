@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:23:27.213209+00:00",
+  "updated_at_utc": "2026-10-14T11:24:30.477308+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Empire State Of Mind (feat. Alicia Keys)",
+        "detected_at_utc": "2026-10-14T11:23:28.304536+00:00"
+      },
       {
         "artist": "Dodgy",
         "title": "Good Enough",
