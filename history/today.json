@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:18:30.537115+00:00",
+  "updated_at_utc": "2026-10-14T12:21:34.432919+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Simple Plan",
+        "title": "Perfect",
+        "detected_at_utc": "2026-10-14T12:21:34.345620+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Manusia Biasa (CLB)",
