@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:56:44.350032+00:00",
+  "updated_at_utc": "2026-10-14T11:58:44.472141+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yovie & Nuno",
+        "title": "Manusia Biasa (CLB)",
+        "detected_at_utc": "2026-10-14T11:58:44.380115+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Talking Body",
