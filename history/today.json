@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:51:22.852658+00:00",
+  "updated_at_utc": "2026-10-14T14:52:35.680202+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "Clumsy",
+        "detected_at_utc": "2026-10-14T14:52:35.487764+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
