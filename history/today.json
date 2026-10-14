@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:00:47.107358+00:00",
+  "updated_at_utc": "2026-10-14T15:03:56.540740+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "The One That Got Away",
+        "detected_at_utc": "2026-10-14T15:03:56.412077+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Versace On The Floor",
