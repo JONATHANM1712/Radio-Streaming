@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:10:01.029819+00:00",
+  "updated_at_utc": "2026-10-14T17:11:03.843430+00:00",
   "stations": {
     "kis": [
       {
@@ -26,6 +26,11 @@
     ],
     "jak": [
       {
+        "artist": "Olly Murs",
+        "title": "Troublemaker (feat. Flo Rida)",
+        "detected_at_utc": "2026-10-14T17:10:58.378618+00:00"
+      },
+      {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "detected_at_utc": "2026-10-14T17:07:54.337544+00:00"
@@ -47,6 +52,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "King Kobra",
+        "title": "Iron Eagle (Never Say Die)",
+        "detected_at_utc": "2026-10-14T17:10:33.941089+00:00"
+      },
       {
         "artist": "Break Machine",
         "title": "Street Dance (Original Version 1984)",
