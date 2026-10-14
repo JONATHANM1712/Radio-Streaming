@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:31:13.865772+00:00",
+  "updated_at_utc": "2026-10-14T15:32:40.484501+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Ferry",
+        "title": "A Hard Rain's A-Gonna Fall",
+        "detected_at_utc": "2026-10-14T15:32:40.388574+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Let It Go (Single Version)",
