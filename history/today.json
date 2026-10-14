@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:30:09.471492+00:00",
+  "updated_at_utc": "2026-10-14T14:31:29.000827+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-14T14:31:28.868697+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Yeah 3X",
