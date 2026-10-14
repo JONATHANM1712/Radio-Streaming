@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:30:19.737558+00:00",
+  "updated_at_utc": "2026-10-14T08:31:23.401567+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Your Body Is a Wonderland",
+        "detected_at_utc": "2026-10-14T08:30:32.097153+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
