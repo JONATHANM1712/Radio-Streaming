@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:43:19.845825+00:00",
+  "updated_at_utc": "2026-10-14T12:44:22.998847+00:00",
   "stations": {
     "kis": [
       {
@@ -306,6 +306,11 @@
     ],
     "jak": [
       {
+        "artist": "Reza Artamevia",
+        "title": "Biar Menjadi Kenangan",
+        "detected_at_utc": "2026-10-14T12:44:21.885457+00:00"
+      },
+      {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
         "detected_at_utc": "2026-10-14T12:43:19.754724+00:00"
@@ -547,6 +552,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "EMF",
+        "title": "Unbelievable",
+        "detected_at_utc": "2026-10-14T12:44:13.775728+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "Daughter",
