@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:30:44.560518+00:00",
+  "updated_at_utc": "2026-10-14T11:31:48.121573+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "A Great Big World",
+        "title": "Say Something",
+        "detected_at_utc": "2026-10-14T11:31:47.418683+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
@@ -432,6 +437,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "David Lee Roth",
+        "title": "Just a Gigolo / I Ain't Got Nobody",
+        "detected_at_utc": "2026-10-14T11:31:40.184566+00:00"
+      },
       {
         "artist": "The Animals",
         "title": "The House of the Rising Sun",
