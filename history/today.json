@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:25:04.414897+00:00",
+  "updated_at_utc": "2026-10-14T15:26:08.736707+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Catatonia",
+        "title": "Dead from the Waist Down",
+        "detected_at_utc": "2026-10-14T15:25:29.810668+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "That Should Be Me",
@@ -495,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-14T15:25:31.940799+00:00"
+      },
       {
         "artist": "Sean Paul",
         "title": "No Lie (feat. Dua Lipa)",
