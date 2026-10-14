@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:23:38.757394+00:00",
+  "updated_at_utc": "2026-10-14T14:24:45.458441+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "detected_at_utc": "2026-10-14T14:23:38.983659+00:00"
+      },
       {
         "artist": "Sugababes",
         "title": "Push The Button",
