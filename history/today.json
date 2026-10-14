@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:15:51.822272+00:00",
+  "updated_at_utc": "2026-10-14T14:16:55.509031+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "D’MASIV",
+        "title": "Diam Tanpa Kata",
+        "detected_at_utc": "2026-10-14T14:16:06.713846+00:00"
+      },
       {
         "artist": "Moony",
         "title": "Dove (I'll Be Loving You) [Club Mix]",
