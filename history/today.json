@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:16:55.509031+00:00",
+  "updated_at_utc": "2026-10-14T14:18:04.101526+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ecoutez",
+        "title": "Simpan Saja",
+        "detected_at_utc": "2026-10-14T14:18:03.985044+00:00"
+      },
       {
         "artist": "Crash Adams",
         "title": "Good Side",
