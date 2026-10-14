@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T12:55:49.341131+00:00",
+  "updated_at_utc": "2026-10-14T12:56:53.326979+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-14T12:56:53.236402+00:00"
+      },
       {
         "artist": "Letters to Cleo",
         "title": "I Want You to Want Me",
