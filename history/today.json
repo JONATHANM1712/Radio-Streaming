@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:24:56.009892+00:00",
+  "updated_at_utc": "2026-10-14T16:27:57.468475+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calum Scott",
+        "title": "Dancing On My Own",
+        "detected_at_utc": "2026-10-14T16:27:57.390260+00:00"
+      },
       {
         "artist": "USHER & Alicia Keys",
         "title": "My Boo",
