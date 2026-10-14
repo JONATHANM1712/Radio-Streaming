@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T05:29:43.315786+00:00",
+  "updated_at_utc": "2026-10-14T05:31:27.033259+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "detected_at_utc": "2026-10-14T05:29:57.922126+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
