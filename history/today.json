@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:25:53.022541+00:00",
+  "updated_at_utc": "2026-10-14T06:27:03.838008+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Travie McCoy",
+        "title": "Billionaire (feat. Bruno Mars)",
+        "detected_at_utc": "2026-10-14T06:27:03.751260+00:00"
+      },
       {
         "artist": "Rihanna & Kanye West",
         "title": "FourFiveSeconds",
