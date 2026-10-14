@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-14T17:22:53.349643+00:00",
+  "updated_at_utc": "2026-10-14T17:24:18.112440+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I'm with You",
+        "detected_at_utc": "2026-10-14T17:24:17.990544+00:00"
+      },
       {
         "artist": "Natasha Bedingfield",
         "title": "Pocketful of Sunshine",
