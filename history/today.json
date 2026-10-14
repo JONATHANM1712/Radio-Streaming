@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T10:58:25.813158+00:00",
+  "updated_at_utc": "2026-10-14T10:59:28.701316+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-10-14T10:58:32.040220+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Cayman Islands",
