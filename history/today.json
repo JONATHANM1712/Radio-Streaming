@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:31:09.641277+00:00",
+  "updated_at_utc": "2026-10-14T06:32:12.404761+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Faith No More",
+        "title": "Easy",
+        "detected_at_utc": "2026-10-14T06:32:03.933922+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Stitches",
