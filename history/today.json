@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:22:15.900251+00:00",
+  "updated_at_utc": "2026-10-14T06:23:40.931182+00:00",
   "stations": {
     "kis": [
       {
@@ -132,6 +132,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mr. Mister",
+        "title": "Kyrie",
+        "detected_at_utc": "2026-10-14T06:23:40.771924+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
