@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T10:59:28.701316+00:00",
+  "updated_at_utc": "2026-10-14T11:00:31.687306+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "The Subway",
+        "detected_at_utc": "2026-10-14T11:00:31.339976+00:00"
+      },
       {
         "artist": "Dashboard Confessional",
         "title": "Belle of the Boulevard",
