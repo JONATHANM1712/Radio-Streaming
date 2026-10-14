@@ -1,8 +1,13 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T14:43:13.378290+00:00",
+  "updated_at_utc": "2026-10-14T14:44:17.244899+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mike + The Mechanics",
+        "title": "Over My Shoulder",
+        "detected_at_utc": "2026-10-14T14:44:10.074729+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Monokrom",
@@ -446,6 +451,11 @@
     ],
     "jak": [
       {
+        "artist": "Maroon 5",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-10-14T14:44:15.678933+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "Risk It All",
         "detected_at_utc": "2026-10-14T14:43:13.228021+00:00"
@@ -817,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tears for Fears",
+        "title": "Sowing The Seeds Of Love",
+        "detected_at_utc": "2026-10-14T14:43:42.624281+00:00"
+      },
       {
         "artist": "Paula Abdul",
         "title": "Knocked Out",
