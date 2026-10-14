@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:26:08.736707+00:00",
+  "updated_at_utc": "2026-10-14T15:28:36.598212+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement & Ryan Tedder",
+        "title": "Rocketeer (feat. Ryan Tedder)",
+        "detected_at_utc": "2026-10-14T15:28:36.423077+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
