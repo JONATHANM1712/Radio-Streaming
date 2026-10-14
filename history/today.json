@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T11:21:23.272550+00:00",
+  "updated_at_utc": "2026-10-14T11:23:27.213209+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-14T11:23:27.132978+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Because Of You",
