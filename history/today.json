@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:35:19.293518+00:00",
+  "updated_at_utc": "2026-10-14T15:36:22.296638+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "detected_at_utc": "2026-10-14T15:35:47.681497+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Hati-Hati di Jalan",
