@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T08:45:25.030141+00:00",
+  "updated_at_utc": "2026-10-14T08:46:28.651349+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MIKA",
+        "title": "Love Today",
+        "detected_at_utc": "2026-10-14T08:45:49.246335+00:00"
+      },
       {
         "artist": "Ruzer",
         "title": "Alien",
@@ -312,6 +317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "The One I Love",
+        "detected_at_utc": "2026-10-14T08:46:21.970375+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "P.Y.T. (Pretty Young Thing)",
