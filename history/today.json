@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T16:39:17.515614+00:00",
+  "updated_at_utc": "2026-10-14T16:40:20.645375+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Masih (Sahabatku Kekasihku)",
+        "detected_at_utc": "2026-10-14T16:40:14.185816+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
