@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T15:10:10.619392+00:00",
+  "updated_at_utc": "2026-10-14T15:12:10.962770+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Photograph",
+        "detected_at_utc": "2026-10-14T15:12:10.820954+00:00"
+      },
       {
         "artist": "Wijaya 80",
         "title": "Terakhir Kali",
