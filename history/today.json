@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated_at_utc": "2026-10-14T06:35:08.875931+00:00",
+  "updated_at_utc": "2026-10-14T06:37:20.811756+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "deja vu",
+        "detected_at_utc": "2026-10-14T06:37:20.727424+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
