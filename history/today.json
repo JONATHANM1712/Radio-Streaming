@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:38:54.017293+00:00",
+  "updated_at_utc": "2026-10-15T13:43:00.694735+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruzer",
+        "title": "Alien",
+        "detected_at_utc": "2026-10-15T13:43:00.540767+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Jenuh",
