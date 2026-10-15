@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:21:13.250010+00:00",
+  "updated_at_utc": "2026-10-15T17:23:34.035648+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Donne Maula",
+        "title": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "detected_at_utc": "2026-10-15T17:23:33.947559+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Unbelievable (Radio Edit)",
