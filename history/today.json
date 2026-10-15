@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:20:11.193364+00:00",
+  "updated_at_utc": "2026-10-15T15:21:13.652592+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Titi DJ",
+        "title": "Sang Dewi",
+        "detected_at_utc": "2026-10-15T15:20:47.383621+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Better Man",
@@ -765,6 +770,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "title": "I Like It",
+        "detected_at_utc": "2026-10-15T15:20:34.848778+00:00"
+      },
       {
         "artist": "Saosin",
         "title": "You're Not Alone",
