@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:17:50.284083+00:00",
+  "updated_at_utc": "2026-10-15T16:19:07.876019+00:00",
   "stations": {
     "kis": [
       {
@@ -835,6 +835,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Flight Facilities",
+        "title": "Crave You (feat. Giselle)",
+        "detected_at_utc": "2026-10-15T16:19:07.728549+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
