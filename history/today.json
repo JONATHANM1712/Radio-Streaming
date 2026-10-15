@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:34:57.175614+00:00",
+  "updated_at_utc": "2026-10-15T12:36:06.951819+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imogen Heap",
+        "title": "Goodnight and Go",
+        "detected_at_utc": "2026-10-15T12:36:06.853774+00:00"
+      },
       {
         "artist": "Drake",
         "title": "One Dance (feat. Wizkid & Kyla)",
