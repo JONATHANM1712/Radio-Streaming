@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:04:35.505077+00:00",
+  "updated_at_utc": "2026-10-15T10:06:49.356341+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "22",
+        "detected_at_utc": "2026-10-15T10:06:49.258296+00:00"
+      },
       {
         "artist": "Atomic Kitten",
         "title": "The Tide Is High (Get the Feeling)",
