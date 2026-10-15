@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:06:49.356341+00:00",
+  "updated_at_utc": "2026-10-15T10:08:55.585796+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fort Minor",
+        "title": "Believe Me (feat. Bobo & Styles of Beyond)",
+        "detected_at_utc": "2026-10-15T10:08:55.500840+00:00"
+      },
       {
         "artist": "Alesso",
         "title": "Heroes (We Could Be) [feat. Tove Lo]",
