@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:51:06.754669+00:00",
+  "updated_at_utc": "2026-10-15T17:52:50.758356+00:00",
   "stations": {
     "kis": [
       {
@@ -152,6 +152,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "10cc",
+        "title": "Dreadlock Holiday",
+        "detected_at_utc": "2026-10-15T17:52:50.680616+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Love Is Stronger Than Pride",
