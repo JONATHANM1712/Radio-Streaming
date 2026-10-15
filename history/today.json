@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:25:02.743219+00:00",
+  "updated_at_utc": "2026-10-15T04:28:05.395033+00:00",
   "stations": {
     "kis": [
       {
@@ -317,6 +317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Cyndi Lauper",
+        "title": "Girls Just Want to Have Fun",
+        "detected_at_utc": "2026-10-15T04:28:05.173133+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Misunderstanding",
