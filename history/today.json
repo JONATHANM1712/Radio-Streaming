@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:26:20.760663+00:00",
+  "updated_at_utc": "2026-10-15T08:27:24.647492+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-10-15T08:27:19.523067+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "One Call Away",
