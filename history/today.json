@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:00:56.467763+00:00",
+  "updated_at_utc": "2026-10-15T17:02:06.199450+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SHA MAN",
+        "title": "London Township",
+        "detected_at_utc": "2026-10-15T17:02:06.128439+00:00"
+      },
       {
         "artist": "Watershed",
         "title": "Indigo Girl",
