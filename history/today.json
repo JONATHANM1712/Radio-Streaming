@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:54:08.409496+00:00",
+  "updated_at_utc": "2026-10-15T04:57:54.020567+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-15T04:57:53.880168+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Crying Over You ◐ (feat. BEKA)",
