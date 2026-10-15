@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:44:09.367833+00:00",
+  "updated_at_utc": "2026-10-15T08:45:13.872990+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "IDGAF (Radio Edit)",
+        "detected_at_utc": "2026-10-15T08:45:13.723755+00:00"
+      },
       {
         "artist": "Hoobastank",
         "title": "The Reason",
