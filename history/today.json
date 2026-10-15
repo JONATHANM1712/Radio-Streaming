@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:31:06.760457+00:00",
+  "updated_at_utc": "2026-10-15T16:32:09.677706+00:00",
   "stations": {
     "kis": [
       {
@@ -850,6 +850,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg & Wiz Khalifa",
+        "title": "Young, Wild & Free (feat. Bruno Mars)",
+        "detected_at_utc": "2026-10-15T16:31:24.150425+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
