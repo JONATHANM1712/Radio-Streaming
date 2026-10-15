@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:00:41.003937+00:00",
+  "updated_at_utc": "2026-10-15T06:04:14.210351+00:00",
   "stations": {
     "kis": [
       {
@@ -537,6 +537,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Is There Something I Should Know",
+        "detected_at_utc": "2026-10-15T06:04:14.094796+00:00"
+      },
       {
         "artist": "Newcleus",
         "title": "Jam On It (Re-Recorded Version)",
