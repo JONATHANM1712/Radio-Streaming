@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:47:15.071211+00:00",
+  "updated_at_utc": "2026-10-15T13:48:18.983848+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Gone, Gone, Gone",
+        "detected_at_utc": "2026-10-15T13:48:10.461875+00:00"
+      },
       {
         "artist": "Roxette",
         "title": "Wish I Could Fly",
