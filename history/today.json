@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:26:21.915516+00:00",
+  "updated_at_utc": "2026-10-15T10:27:24.804219+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Room 5",
+        "title": "Make Luv",
+        "detected_at_utc": "2026-10-15T10:27:19.918581+00:00"
+      },
       {
         "artist": "4 Non Blondes",
         "title": "What's Up?",
@@ -485,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "detected_at_utc": "2026-10-15T10:27:21.632697+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Stressed Out",
