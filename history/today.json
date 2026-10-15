@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:30:05.599066+00:00",
+  "updated_at_utc": "2026-10-15T09:34:12.930060+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-15T09:34:12.842143+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Bilang Saja",
