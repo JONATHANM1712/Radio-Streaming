@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:39:32.205555+00:00",
+  "updated_at_utc": "2026-10-15T06:40:38.698313+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "So Sick",
+        "detected_at_utc": "2026-10-15T06:39:32.472325+00:00"
+      },
       {
         "artist": "Halsey",
         "title": "Without Me",
@@ -627,6 +632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pulp",
+        "title": "Disco 2000",
+        "detected_at_utc": "2026-10-15T06:39:42.194964+00:00"
+      },
       {
         "artist": "Blondie",
         "title": "Atomic",
