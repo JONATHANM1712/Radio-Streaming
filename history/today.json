@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:23:59.983429+00:00",
+  "updated_at_utc": "2026-10-15T05:25:02.801571+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "American Authors",
+        "title": "Best Day of My Life",
+        "detected_at_utc": "2026-10-15T05:24:44.034372+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Know How (feat. Feist)",
