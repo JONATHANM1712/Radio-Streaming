@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:46:21.185802+00:00",
+  "updated_at_utc": "2026-10-15T08:49:28.628420+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Won't Go Home Without You",
+        "detected_at_utc": "2026-10-15T08:49:28.427631+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "IDGAF (Radio Edit)",
