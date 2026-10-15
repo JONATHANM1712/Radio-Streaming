@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:31:27.445727+00:00",
+  "updated_at_utc": "2026-10-15T08:32:31.493669+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "detected_at_utc": "2026-10-15T08:32:27.874749+00:00"
+      },
       {
         "artist": "The Goo Goo Dolls",
         "title": "Iris",
