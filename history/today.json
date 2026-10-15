@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:35:46.120025+00:00",
+  "updated_at_utc": "2026-10-15T16:38:35.304672+00:00",
   "stations": {
     "kis": [
       {
@@ -855,6 +855,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Audy",
+        "title": "Menangis Semalam",
+        "detected_at_utc": "2026-10-15T16:38:35.195573+00:00"
+      },
       {
         "artist": "Joji",
         "title": "Glimpse of Us",
