@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:15:22.425497+00:00",
+  "updated_at_utc": "2026-10-15T17:16:24.830254+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-10-15T17:16:23.604638+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
@@ -62,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Afrika Bambaataa & Family",
+        "title": "Reckless (feat. UB40) [7\" Edit]",
+        "detected_at_utc": "2026-10-15T17:16:05.105732+00:00"
+      },
       {
         "artist": "Bread",
         "title": "Diary",
