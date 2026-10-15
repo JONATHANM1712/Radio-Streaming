@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:10:51.343240+00:00",
+  "updated_at_utc": "2026-10-15T14:12:51.462643+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "detected_at_utc": "2026-10-15T14:12:51.366518+00:00"
+      },
       {
         "artist": "The Temper Trap",
         "title": "Sweet Disposition",
