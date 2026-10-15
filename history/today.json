@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:11:01.410049+00:00",
+  "updated_at_utc": "2026-10-15T10:13:01.246589+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Good Luck, Babe!",
+        "detected_at_utc": "2026-10-15T10:13:01.165990+00:00"
+      },
       {
         "artist": "Fort Minor",
         "title": "Believe Me (feat. Bobo & Styles of Beyond)",
