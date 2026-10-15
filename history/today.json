@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:14:40.748476+00:00",
+  "updated_at_utc": "2026-10-15T04:15:46.619964+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "HIVI!",
+        "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi (feat. Andi Rianto)",
+        "detected_at_utc": "2026-10-15T04:15:46.029745+00:00"
+      },
       {
         "artist": "Joni Mitchell",
         "title": "Big Yellow Taxi",
@@ -145,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eminem",
+        "title": "The Monster (feat. Rihanna)",
+        "detected_at_utc": "2026-10-15T04:15:03.068988+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
