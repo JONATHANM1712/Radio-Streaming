@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:22:07.045525+00:00",
+  "updated_at_utc": "2026-10-15T08:24:12.450503+00:00",
   "stations": {
     "kis": [
       {
@@ -727,6 +727,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Good Old-Fashioned Lover Boy",
+        "detected_at_utc": "2026-10-15T08:24:12.255285+00:00"
+      },
       {
         "artist": "Mötley Crüe",
         "title": "You're All I Need",
