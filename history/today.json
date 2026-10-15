@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:55:45.285275+00:00",
+  "updated_at_utc": "2026-10-15T12:56:48.061039+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Steps",
+        "title": "One for Sorrow",
+        "detected_at_utc": "2026-10-15T12:56:06.620560+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "In My Place",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-15T12:55:54.006416+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Rather Be (feat. Jess Glynne)",
