@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:46:50.424472+00:00",
+  "updated_at_utc": "2026-10-15T04:47:54.191311+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-10-15T04:47:32.514741+00:00"
+      },
       {
         "artist": "Diskoria, Laleilmanino & Eva Celia",
         "title": "C.H.R.I.S.Y.E.",
