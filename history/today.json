@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:56:57.047750+00:00",
+  "updated_at_utc": "2026-10-15T08:58:21.955693+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "Someday",
+        "detected_at_utc": "2026-10-15T08:58:21.772722+00:00"
+      },
       {
         "artist": "Santana",
         "title": "The Game of Love (feat. Michelle Branch) [Main/Radio Mix]",
