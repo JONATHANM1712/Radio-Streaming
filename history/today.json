@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:58:21.955693+00:00",
+  "updated_at_utc": "2026-10-15T08:59:27.639619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Hudson",
+        "title": "Spotlight",
+        "detected_at_utc": "2026-10-15T08:59:23.755485+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "Someday",
@@ -395,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Misread",
+        "detected_at_utc": "2026-10-15T08:58:48.539545+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
@@ -797,6 +807,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Jacksons",
+        "title": "Blame It On the Boogie",
+        "detected_at_utc": "2026-10-15T08:59:12.829368+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Never Tear Us Apart",
