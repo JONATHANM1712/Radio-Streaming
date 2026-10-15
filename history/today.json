@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:38:32.583161+00:00",
+  "updated_at_utc": "2026-10-15T04:41:22.250764+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Diskoria, Laleilmanino & Eva Celia",
+        "title": "C.H.R.I.S.Y.E.",
+        "detected_at_utc": "2026-10-15T04:41:22.100344+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "All The Right Moves",
