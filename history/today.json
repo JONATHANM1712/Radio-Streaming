@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:07:14.162837+00:00",
+  "updated_at_utc": "2026-10-15T12:12:34.915485+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Perunggu",
+        "title": "33x",
+        "detected_at_utc": "2026-10-15T12:12:34.730591+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Without You (feat. Usher)",
