@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:42:25.073450+00:00",
+  "updated_at_utc": "2026-10-15T03:43:28.736066+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lisa Loeb",
+        "title": "I Do",
+        "detected_at_utc": "2026-10-15T03:43:23.053101+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Indah",
@@ -90,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lizzo",
+        "title": "About Damn Time",
+        "detected_at_utc": "2026-10-15T03:43:26.436208+00:00"
+      },
       {
         "artist": "Gnarls Barkley",
         "title": "Crazy",
