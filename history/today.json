@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:27:17.407716+00:00",
+  "updated_at_utc": "2026-10-15T13:28:30.732841+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Virtual Insanity",
+        "detected_at_utc": "2026-10-15T13:28:30.607477+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "Lights",
