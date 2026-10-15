@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:34:37.916636+00:00",
+  "updated_at_utc": "2026-10-15T03:35:42.833986+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-15T03:35:39.507368+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Save Room",
