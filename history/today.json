@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:33:40.016185+00:00",
+  "updated_at_utc": "2026-10-15T16:34:43.114841+00:00",
   "stations": {
     "kis": [
       {
@@ -855,6 +855,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Joji",
+        "title": "Glimpse of Us",
+        "detected_at_utc": "2026-10-15T16:34:28.038126+00:00"
+      },
       {
         "artist": "Snoop Dogg & Wiz Khalifa",
         "title": "Young, Wild & Free (feat. Bruno Mars)",
