@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:56:41.614044+00:00",
+  "updated_at_utc": "2026-10-15T16:57:44.025328+00:00",
   "stations": {
     "kis": [
       {
@@ -875,6 +875,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-15T16:57:00.040030+00:00"
+      },
       {
         "artist": "Post Malone & Swae Lee",
         "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
