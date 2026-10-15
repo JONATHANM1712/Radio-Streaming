@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:11:43.154355+00:00",
+  "updated_at_utc": "2026-10-15T09:15:32.282525+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Benci Untuk Mencinta",
+        "detected_at_utc": "2026-10-15T09:15:32.126398+00:00"
+      },
       {
         "artist": "All Saints",
         "title": "Black Coffee",
