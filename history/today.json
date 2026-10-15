@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:07:15.509093+00:00",
+  "updated_at_utc": "2026-10-15T04:08:19.295421+00:00",
   "stations": {
     "kis": [
       {
@@ -136,6 +136,11 @@
     ],
     "jak": [
       {
+        "artist": "Kelly Clarkson",
+        "title": "Stronger (What Doesn't Kill You)",
+        "detected_at_utc": "2026-10-15T04:07:40.321594+00:00"
+      },
+      {
         "artist": "Coldplay",
         "title": "Hymn for the Weekend",
         "detected_at_utc": "2026-10-15T04:00:08.810751+00:00"
@@ -267,6 +272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lipps, Inc.",
+        "title": "Funkytown (Long Version)",
+        "detected_at_utc": "2026-10-15T04:08:16.499775+00:00"
+      },
       {
         "artist": "Kenny Loggins",
         "title": "Footloose",
