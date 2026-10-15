@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:57:18.022528+00:00",
+  "updated_at_utc": "2026-10-15T14:59:43.088589+00:00",
   "stations": {
     "kis": [
       {
@@ -1412,6 +1412,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "INXS",
+        "title": "Beautiful Girl",
+        "detected_at_utc": "2026-10-15T14:59:43.005670+00:00"
+      },
       {
         "artist": "REO Speedwagon",
         "title": "One Lonely Night",
