@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:19:02.333680+00:00",
+  "updated_at_utc": "2026-10-15T13:20:05.871348+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vertical Horizon",
+        "title": "Best I Ever Had (Grey Sky Morning)",
+        "detected_at_utc": "2026-10-15T13:19:11.387002+00:00"
+      },
       {
         "artist": "MEMES",
         "title": "Terlanjur Sayang",
