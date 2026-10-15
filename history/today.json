@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:28:05.395033+00:00",
+  "updated_at_utc": "2026-10-15T04:29:09.953678+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sun Rai",
+        "title": "San Francisco Street",
+        "detected_at_utc": "2026-10-15T04:28:44.316976+00:00"
+      },
       {
         "artist": "Citra Scholastika",
         "title": "Everybody Knew",
