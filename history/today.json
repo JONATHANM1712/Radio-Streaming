@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:37:22.248919+00:00",
+  "updated_at_utc": "2026-10-15T06:38:27.801251+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "detected_at_utc": "2026-10-15T06:37:23.690536+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Jenuh",
@@ -617,6 +622,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blondie",
+        "title": "Atomic",
+        "detected_at_utc": "2026-10-15T06:37:28.492992+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Hard Day",
