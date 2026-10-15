@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:34:40.157754+00:00",
+  "updated_at_utc": "2026-10-15T14:36:30.426565+00:00",
   "stations": {
     "kis": [
       {
@@ -715,6 +715,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dido",
+        "title": "White Flag",
+        "detected_at_utc": "2026-10-15T14:36:30.321829+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
