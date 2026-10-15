@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:40:37.841845+00:00",
+  "updated_at_utc": "2026-10-15T17:42:57.018149+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicky Youre",
+        "title": "Eyes On You",
+        "detected_at_utc": "2026-10-15T17:42:56.933321+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Just Dance (feat. Colby O'Donis)",
