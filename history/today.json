@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:18:49.325464+00:00",
+  "updated_at_utc": "2026-10-15T04:19:54.932773+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-15T04:19:23.472814+00:00"
+      },
       {
         "artist": "Eminem",
         "title": "The Monster (feat. Rihanna)",
