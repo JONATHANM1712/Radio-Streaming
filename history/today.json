@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:43:25.818354+00:00",
+  "updated_at_utc": "2026-10-15T15:44:29.470794+00:00",
   "stations": {
     "kis": [
       {
@@ -795,6 +795,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-10-15T15:44:15.185934+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Good Days",
