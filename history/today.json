@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:57:18.675515+00:00",
+  "updated_at_utc": "2026-10-15T09:58:21.547273+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "The One That Got Away",
+        "detected_at_utc": "2026-10-15T09:58:10.247549+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "As Long as You Love Me",
@@ -455,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alesso",
+        "title": "Heroes (We Could Be) [feat. Tove Lo]",
+        "detected_at_utc": "2026-10-15T09:58:11.264789+00:00"
+      },
       {
         "artist": "Lil Wayne",
         "title": "Mrs. Officer (feat. Bobby V & Kidd Kidd) [feat. Bobby V & Kidd Kidd]",
