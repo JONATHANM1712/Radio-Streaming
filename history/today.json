@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:14:56.485524+00:00",
+  "updated_at_utc": "2026-10-15T08:17:59.274935+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kerispatih",
+        "title": "Tak Lekang Oleh Waktu",
+        "detected_at_utc": "2026-10-15T08:17:59.147985+00:00"
+      },
       {
         "artist": "Garbage",
         "title": "The World Is Not Enough",
