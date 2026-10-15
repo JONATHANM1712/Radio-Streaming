@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:59:34.593718+00:00",
+  "updated_at_utc": "2026-10-15T06:00:41.003937+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lighthouse Family",
+        "title": "(I Wish I Knew How It Would Feel to Be) Free/One",
+        "detected_at_utc": "2026-10-15T06:00:40.864769+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Haven't Met You Yet",
