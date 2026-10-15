@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:06:13.172297+00:00",
+  "updated_at_utc": "2026-10-15T14:08:44.116755+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Temper Trap",
+        "title": "Sweet Disposition",
+        "detected_at_utc": "2026-10-15T14:08:43.950786+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "I Want You To Know (feat. Selena Gomez)",
