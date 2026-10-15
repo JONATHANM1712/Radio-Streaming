@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:56:48.061039+00:00",
+  "updated_at_utc": "2026-10-15T13:00:16.028064+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gorillaz",
+        "title": "On Melancholy Hill",
+        "detected_at_utc": "2026-10-15T13:00:15.887138+00:00"
+      },
       {
         "artist": "Steps",
         "title": "One for Sorrow",
