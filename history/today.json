@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:23:52.251872+00:00",
+  "updated_at_utc": "2026-10-15T13:24:55.991452+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "detected_at_utc": "2026-10-15T13:24:21.291078+00:00"
+      },
       {
         "artist": "Vertical Horizon",
         "title": "Best I Ever Had (Grey Sky Morning)",
@@ -625,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse & Mark Ronson",
+        "title": "Valerie (Version Revisited)",
+        "detected_at_utc": "2026-10-15T13:24:11.895608+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "The One",
