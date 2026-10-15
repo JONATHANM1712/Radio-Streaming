@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:19:54.462287+00:00",
+  "updated_at_utc": "2026-10-15T05:20:58.088495+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Know How (feat. Feist)",
+        "detected_at_utc": "2026-10-15T05:20:37.977020+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Satu Yang Tak Bisa Lepas",
@@ -215,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-10-15T05:20:37.600167+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Cinta Mati (feat. Ahmad Dhani)",
