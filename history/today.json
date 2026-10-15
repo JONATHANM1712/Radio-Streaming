@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:56:14.995794+00:00",
+  "updated_at_utc": "2026-10-15T14:57:18.022528+00:00",
   "stations": {
     "kis": [
       {
@@ -741,6 +741,11 @@
     ],
     "jak": [
       {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-15T14:57:02.594886+00:00"
+      },
+      {
         "artist": "Peter Bjorn and John",
         "title": "Young Folks",
         "detected_at_utc": "2026-10-15T14:48:48.572591+00:00"
@@ -1407,6 +1412,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "REO Speedwagon",
+        "title": "One Lonely Night",
+        "detected_at_utc": "2026-10-15T14:56:39.134305+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Just Take My Heart",
