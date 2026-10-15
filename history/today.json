@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:13:38.697680+00:00",
+  "updated_at_utc": "2026-10-15T15:14:41.422218+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Saosin",
+        "title": "You're Not Alone",
+        "detected_at_utc": "2026-10-15T15:14:27.258204+00:00"
+      },
       {
         "artist": "Diskoria, Laleilmanino & Bunga Citra Lestari",
         "title": "Badai Telah Berlalu",
