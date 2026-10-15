@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:16:54.164977+00:00",
+  "updated_at_utc": "2026-10-15T12:20:08.826950+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tears for Fears",
+        "title": "Broken / Head Over Heels / Broken (Preacher Mix)",
+        "detected_at_utc": "2026-10-15T12:20:08.700683+00:00"
+      },
       {
         "artist": "Tangga",
         "title": "Hebat",
