@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:17:59.274935+00:00",
+  "updated_at_utc": "2026-10-15T08:19:03.529167+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-10-15T08:18:01.205165+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
@@ -717,6 +722,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "You're All I Need",
+        "detected_at_utc": "2026-10-15T08:19:02.700414+00:00"
+      },
       {
         "artist": "Patrice Rushen",
         "title": "Remind Me",
