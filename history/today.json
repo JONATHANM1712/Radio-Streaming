@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:21:16.514918+00:00",
+  "updated_at_utc": "2026-10-15T14:23:07.304379+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pia Mia",
+        "title": "Do It Again (feat. Chris Brown & Tyga)",
+        "detected_at_utc": "2026-10-15T14:23:07.201855+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Grace Kelly",
