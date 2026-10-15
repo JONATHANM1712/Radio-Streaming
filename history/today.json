@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:29:09.953678+00:00",
+  "updated_at_utc": "2026-10-15T04:30:14.583014+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avicii",
+        "title": "Wake Me Up",
+        "detected_at_utc": "2026-10-15T04:29:47.536830+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I Will Be",
