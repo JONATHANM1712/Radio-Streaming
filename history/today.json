@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:43:54.837398+00:00",
+  "updated_at_utc": "2026-10-15T14:44:57.536210+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-15T14:44:42.386772+00:00"
+      },
       {
         "artist": "Dido",
         "title": "White Flag",
