@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:37:53.306562+00:00",
+  "updated_at_utc": "2026-10-15T03:38:59.992127+00:00",
   "stations": {
     "kis": [
       {
@@ -197,6 +197,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "EXTREME",
+        "title": "Cupid's Dead",
+        "detected_at_utc": "2026-10-15T03:38:59.861875+00:00"
+      },
       {
         "artist": "Modern Talking",
         "title": "Geronimo's Cadillac",
