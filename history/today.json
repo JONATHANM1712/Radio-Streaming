@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:45:59.913686+00:00",
+  "updated_at_utc": "2026-10-15T14:47:02.456140+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shaggy",
+        "title": "Angel (feat. Rayvon)",
+        "detected_at_utc": "2026-10-15T14:46:59.763199+00:00"
+      },
       {
         "artist": "Plain White T's",
         "title": "1, 2, 3, 4",
@@ -1387,6 +1392,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "No Ordinary Love",
+        "detected_at_utc": "2026-10-15T14:46:22.087252+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Lea",
