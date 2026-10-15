@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:58:50.357523+00:00",
+  "updated_at_utc": "2026-10-15T15:59:53.445898+00:00",
   "stations": {
     "kis": [
       {
@@ -816,6 +816,11 @@
     ],
     "jak": [
       {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-10-15T15:59:39.539086+00:00"
+      },
+      {
         "artist": "India.Arie",
         "title": "Chocolate High (feat. Musiq Soulchild)",
         "detected_at_utc": "2026-10-15T15:53:30.857690+00:00"
@@ -1547,6 +1552,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Styx",
+        "title": "Babe",
+        "detected_at_utc": "2026-10-15T15:59:15.454794+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Don't Go Away",
