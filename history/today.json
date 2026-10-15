@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:26:35.747643+00:00",
+  "updated_at_utc": "2026-10-15T03:28:23.143164+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue",
+        "title": "By Your Side (feat. RAYE)",
+        "detected_at_utc": "2026-10-15T03:28:22.972783+00:00"
+      },
       {
         "artist": "Carly Rae Jepsen",
         "title": "Call Me Maybe",
