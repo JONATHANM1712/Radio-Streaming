@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:02:46.988474+00:00",
+  "updated_at_utc": "2026-10-15T15:03:50.270731+00:00",
   "stations": {
     "kis": [
       {
@@ -745,6 +745,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Slide (feat. Frank Ocean & Migos)",
+        "detected_at_utc": "2026-10-15T15:03:11.788123+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
