@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:21:00.384773+00:00",
+  "updated_at_utc": "2026-10-15T06:24:02.175348+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-10-15T06:24:02.080966+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Steal My Girl",
