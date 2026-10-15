@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:19:03.529167+00:00",
+  "updated_at_utc": "2026-10-15T08:22:07.045525+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Paparazzi",
+        "detected_at_utc": "2026-10-15T08:22:06.853981+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Tak Lekang Oleh Waktu",
