@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:44:04.341853+00:00",
+  "updated_at_utc": "2026-10-15T13:45:07.903074+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-10-15T13:44:57.578066+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Say So",
