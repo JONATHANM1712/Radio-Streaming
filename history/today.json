@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:49:00.049680+00:00",
+  "updated_at_utc": "2026-10-15T15:50:04.026768+00:00",
   "stations": {
     "kis": [
       {
@@ -800,6 +800,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "detected_at_utc": "2026-10-15T15:49:25.078705+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Halo",
