@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:08:14.851432+00:00",
+  "updated_at_utc": "2026-10-15T05:09:18.529497+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Spinning Around",
+        "detected_at_utc": "2026-10-15T05:08:17.164278+00:00"
+      },
       {
         "artist": "Keith Martin",
         "title": "Because of You",
