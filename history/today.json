@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:04:59.689765+00:00",
+  "updated_at_utc": "2026-10-15T16:06:03.171301+00:00",
   "stations": {
     "kis": [
       {
@@ -821,6 +821,11 @@
     ],
     "jak": [
       {
+        "artist": "Gorillaz",
+        "title": "On Melancholy Hill",
+        "detected_at_utc": "2026-10-15T16:05:48.754977+00:00"
+      },
+      {
         "artist": "Lorde",
         "title": "Team",
         "detected_at_utc": "2026-10-15T15:59:39.539086+00:00"
@@ -1557,6 +1562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "It's A Hard Life",
+        "detected_at_utc": "2026-10-15T16:05:24.738645+00:00"
+      },
       {
         "artist": "Styx",
         "title": "Babe",
