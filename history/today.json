@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:24:52.123994+00:00",
+  "updated_at_utc": "2026-10-15T09:26:57.387460+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Bilang Saja",
+        "detected_at_utc": "2026-10-15T09:26:57.276534+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
