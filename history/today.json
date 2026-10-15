@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:35:18.386242+00:00",
+  "updated_at_utc": "2026-10-15T05:36:21.573436+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "detected_at_utc": "2026-10-15T05:35:58.882816+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "Wake Me Up When September Ends",
