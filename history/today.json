@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:33:57.489156+00:00",
+  "updated_at_utc": "2026-10-15T17:34:59.996490+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Camila Cabello",
+        "title": "Never Be the Same",
+        "detected_at_utc": "2026-10-15T17:34:47.414405+00:00"
+      },
       {
         "artist": "NewJeans",
         "title": "OMG",
@@ -112,6 +117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Thompson Twins",
+        "title": "The Gap",
+        "detected_at_utc": "2026-10-15T17:34:28.076215+00:00"
+      },
       {
         "artist": "Yngwie Malmsteen",
         "title": "Dreaming (Tell Me)",
