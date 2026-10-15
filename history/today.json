@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:29:23.141758+00:00",
+  "updated_at_utc": "2026-10-15T08:31:27.445727+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kendrick Lamar & SZA",
+        "title": "All The Stars",
+        "detected_at_utc": "2026-10-15T08:31:27.322463+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
