@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:34:29.352958+00:00",
+  "updated_at_utc": "2026-10-15T15:35:54.024751+00:00",
   "stations": {
     "kis": [
       {
@@ -785,6 +785,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Good Days",
+        "detected_at_utc": "2026-10-15T15:35:53.896952+00:00"
+      },
       {
         "artist": "Anda Perdana",
         "title": "Tentang Seseorang (Remastered 2024)",
