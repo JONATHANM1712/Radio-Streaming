@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:42:31.731686+00:00",
+  "updated_at_utc": "2026-10-15T05:44:11.693227+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-15T05:44:11.568426+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
