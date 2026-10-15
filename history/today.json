@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T11:47:35.009691+00:00",
+  "updated_at_utc": "2026-10-15T11:48:39.056249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Ough!!",
+        "detected_at_utc": "2026-10-15T11:48:34.755863+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Toxic",
