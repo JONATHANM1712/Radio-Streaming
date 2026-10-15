@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:50:18.767964+00:00",
+  "updated_at_utc": "2026-10-15T07:49:42.465337+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Gimme More",
+        "detected_at_utc": "2026-10-15T07:49:42.279067+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Symphony (feat. Zara Larsson)",
@@ -647,6 +652,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Chicago",
+        "title": "Song for You",
+        "detected_at_utc": "2026-10-15T07:49:42.279218+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Talk Tonight",
