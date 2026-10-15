@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:21:24.608831+00:00",
+  "updated_at_utc": "2026-10-15T16:24:15.712066+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Secret Love Song (feat. Jason Derulo)",
+        "detected_at_utc": "2026-10-15T16:24:15.437652+00:00"
+      },
       {
         "artist": "Flight Facilities",
         "title": "Crave You (feat. Giselle)",
