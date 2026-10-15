@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:04:14.210351+00:00",
+  "updated_at_utc": "2026-10-15T06:07:04.575771+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-10-15T06:07:04.477768+00:00"
+      },
       {
         "artist": "Nico & Vinz",
         "title": "Am I Wrong",
