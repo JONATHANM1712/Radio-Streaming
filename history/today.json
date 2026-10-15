@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:12:21.981911+00:00",
+  "updated_at_utc": "2026-10-15T06:13:31.668908+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd, Maren Morris & Grey",
+        "title": "The Middle",
+        "detected_at_utc": "2026-10-15T06:13:31.581769+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "Late Night Talking",
