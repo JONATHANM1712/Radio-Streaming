@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:13:32.900792+00:00",
+  "updated_at_utc": "2026-10-15T13:14:36.600378+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MEMES",
+        "title": "Terlanjur Sayang",
+        "detected_at_utc": "2026-10-15T13:13:58.242885+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "So Sick",
