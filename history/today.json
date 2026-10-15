@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:25:16.731192+00:00",
+  "updated_at_utc": "2026-10-15T08:26:20.760663+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Goo Goo Dolls",
+        "title": "Iris",
+        "detected_at_utc": "2026-10-15T08:26:15.764325+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Paparazzi",
