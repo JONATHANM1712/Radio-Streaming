@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:34:12.930060+00:00",
+  "updated_at_utc": "2026-10-15T09:35:16.280807+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Cool",
+        "detected_at_utc": "2026-10-15T09:34:14.343769+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"TROLLS\")",
@@ -430,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-15T09:35:14.546430+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
