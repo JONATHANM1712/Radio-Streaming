@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:36:46.350014+00:00",
+  "updated_at_utc": "2026-10-15T13:37:50.199190+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "detected_at_utc": "2026-10-15T13:37:44.111940+00:00"
+      },
       {
         "artist": "Daniel Bedingfield",
         "title": "If You're Not the One",
