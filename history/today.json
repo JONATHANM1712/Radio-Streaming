@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:26:31.456196+00:00",
+  "updated_at_utc": "2026-10-15T12:27:36.459084+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-10-15T12:26:35.129352+00:00"
+      },
       {
         "artist": "Perunggu",
         "title": "33x",
