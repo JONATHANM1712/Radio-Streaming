@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:19:54.932773+00:00",
+  "updated_at_utc": "2026-10-15T04:20:59.295654+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mr. Big",
+        "title": "Goin' Where the Wind Blows",
+        "detected_at_utc": "2026-10-15T04:20:27.251965+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi (feat. Andi Rianto)",
