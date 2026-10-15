@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:45:10.973705+00:00",
+  "updated_at_utc": "2026-10-15T17:46:13.425916+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Sing",
+        "detected_at_utc": "2026-10-15T17:46:00.696604+00:00"
+      },
       {
         "artist": "Nicky Youre",
         "title": "Eyes On You",
