@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:36:47.044227+00:00",
+  "updated_at_utc": "2026-10-15T03:37:53.306562+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Like I Love You",
+        "detected_at_utc": "2026-10-15T03:37:53.179396+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
