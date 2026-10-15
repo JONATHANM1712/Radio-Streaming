@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:23:58.878562+00:00",
+  "updated_at_utc": "2026-10-15T04:25:02.743219+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-10-15T04:24:36.471483+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Goin' Where the Wind Blows",
