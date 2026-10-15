@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:35:36.075528+00:00",
+  "updated_at_utc": "2026-10-15T08:36:40.137648+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hoobastank",
+        "title": "The Reason",
+        "detected_at_utc": "2026-10-15T08:35:36.478190+00:00"
+      },
       {
         "artist": "Kendrick Lamar & SZA",
         "title": "All The Stars",
@@ -757,6 +762,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nirvana",
+        "title": "Come As You Are",
+        "detected_at_utc": "2026-10-15T08:36:39.285303+00:00"
+      },
       {
         "artist": "Wet Wet Wet",
         "title": "Love Is All Around",
