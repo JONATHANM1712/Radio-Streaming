@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:44:32.701293+00:00",
+  "updated_at_utc": "2026-10-15T03:46:28.765790+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "David Guetta",
+        "title": "Without You (feat. Usher)",
+        "detected_at_utc": "2026-10-15T03:46:28.619594+00:00"
+      },
       {
         "artist": "Lisa Loeb",
         "title": "I Do",
