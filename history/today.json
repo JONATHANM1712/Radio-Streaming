@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:29:58.549405+00:00",
+  "updated_at_utc": "2026-10-15T14:31:01.142661+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Calvin Harris & Disciples",
+        "title": "How Deep Is Your Love",
+        "detected_at_utc": "2026-10-15T14:30:32.678013+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "6, 8, 12",
@@ -705,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Main Hati",
+        "detected_at_utc": "2026-10-15T14:30:19.589594+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
