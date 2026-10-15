@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:50:35.961846+00:00",
+  "updated_at_utc": "2026-10-15T03:51:42.686680+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-15T03:51:42.518277+00:00"
+      },
       {
         "artist": "Lizzo",
         "title": "About Damn Time",
