@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T07:56:06.420849+00:00",
+  "updated_at_utc": "2026-10-15T07:58:08.310837+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Try",
+        "detected_at_utc": "2026-10-15T07:58:08.159921+00:00"
+      },
       {
         "artist": "Bazzi",
         "title": "Paradise",
