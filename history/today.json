@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:30:55.049032+00:00",
+  "updated_at_utc": "2026-10-15T05:31:58.223658+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Green Day",
+        "title": "Wake Me Up When September Ends",
+        "detected_at_utc": "2026-10-15T05:31:53.773265+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
