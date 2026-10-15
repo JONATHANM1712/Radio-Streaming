@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:14:03.833342+00:00",
+  "updated_at_utc": "2026-10-15T17:15:22.425497+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-15T17:15:22.339308+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "Worth It (feat. Kid Ink)",
