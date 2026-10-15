@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T13:59:26.982096+00:00",
+  "updated_at_utc": "2026-10-15T14:00:32.611097+00:00",
   "stations": {
     "kis": [
       {
@@ -676,6 +676,11 @@
     ],
     "jak": [
       {
+        "artist": "Zedd",
+        "title": "I Want You To Know (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-15T14:00:26.645204+00:00"
+      },
+      {
         "artist": "Timbaland & OneRepublic",
         "title": "Apologize",
         "detected_at_utc": "2026-10-15T13:58:22.802891+00:00"
@@ -1277,6 +1282,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cranberries",
+        "title": "Dreams",
+        "detected_at_utc": "2026-10-15T14:00:01.705701+00:00"
+      },
       {
         "artist": "Kansas",
         "title": "Dust In the Wind",
