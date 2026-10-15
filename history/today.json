@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:25:05.840379+00:00",
+  "updated_at_utc": "2026-10-15T06:26:08.763253+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MKTO",
+        "title": "Classic",
+        "detected_at_utc": "2026-10-15T06:25:07.369178+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Back To Black",
