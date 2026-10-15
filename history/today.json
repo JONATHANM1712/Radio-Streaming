@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:54:52.208795+00:00",
+  "updated_at_utc": "2026-10-15T03:55:55.934548+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark Morrison",
+        "title": "Return Of The Mack",
+        "detected_at_utc": "2026-10-15T03:55:49.214125+00:00"
+      },
       {
         "artist": "Five",
         "title": "Until the Time Is Through",
@@ -237,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "White Lion",
+        "title": "Til Death Do Us Part",
+        "detected_at_utc": "2026-10-15T03:55:47.715494+00:00"
+      },
       {
         "artist": "Toto",
         "title": "I Will Remember",
