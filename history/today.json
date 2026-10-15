@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:44:57.536210+00:00",
+  "updated_at_utc": "2026-10-15T14:45:59.913686+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Icona Pop",
+        "title": "All Night",
+        "detected_at_utc": "2026-10-15T14:45:43.548142+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
