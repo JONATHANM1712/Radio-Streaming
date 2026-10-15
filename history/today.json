@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:11:40.148943+00:00",
+  "updated_at_utc": "2026-10-15T05:14:26.734575+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "detected_at_utc": "2026-10-15T05:14:26.564209+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "In My Head",
