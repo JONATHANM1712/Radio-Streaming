@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:13:52.073653+00:00",
+  "updated_at_utc": "2026-10-15T08:14:56.485524+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-15T08:14:54.618601+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Remaja",
@@ -707,6 +712,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Patrice Rushen",
+        "title": "Remind Me",
+        "detected_at_utc": "2026-10-15T08:13:52.163669+00:00"
+      },
       {
         "artist": "Lionel Richie",
         "title": "My Destiny",
