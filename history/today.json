@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:54:55.778153+00:00",
+  "updated_at_utc": "2026-10-15T17:57:13.922160+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-15T17:57:13.845434+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Obsesion (No Es Amor) [feat. Baby Bash]",
