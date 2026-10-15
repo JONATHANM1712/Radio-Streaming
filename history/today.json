@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:44:29.470794+00:00",
+  "updated_at_utc": "2026-10-15T15:45:32.928415+00:00",
   "stations": {
     "kis": [
       {
@@ -796,6 +796,11 @@
     ],
     "jak": [
       {
+        "artist": "Beyoncé",
+        "title": "Halo",
+        "detected_at_utc": "2026-10-15T15:45:16.956698+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "I Just Might",
         "detected_at_utc": "2026-10-15T15:44:15.185934+00:00"
@@ -1512,6 +1517,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paula Abdul",
+        "title": "Rush Rush",
+        "detected_at_utc": "2026-10-15T15:44:49.773022+00:00"
+      },
       {
         "artist": "Saigon Kick",
         "title": "Love Is On the Way",
