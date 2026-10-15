@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:31:18.750218+00:00",
+  "updated_at_utc": "2026-10-15T04:32:56.507229+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-15T04:32:56.345018+00:00"
+      },
       {
         "artist": "Sun Rai",
         "title": "San Francisco Street",
