@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:07:18.370410+00:00",
+  "updated_at_utc": "2026-10-15T15:09:20.017180+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Diskoria, Laleilmanino & Bunga Citra Lestari",
+        "title": "Badai Telah Berlalu",
+        "detected_at_utc": "2026-10-15T15:09:19.919976+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
