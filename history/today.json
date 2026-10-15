@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:08:19.295421+00:00",
+  "updated_at_utc": "2026-10-15T04:11:24.903058+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Got 'Til It's Gone (feat. Q-Tip & Joni Mitchell)",
+        "detected_at_utc": "2026-10-15T04:11:24.555397+00:00"
+      },
       {
         "artist": "Five for Fighting",
         "title": "100 Years",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kid Rock",
+        "title": "Only God Knows Why",
+        "detected_at_utc": "2026-10-15T04:11:24.555649+00:00"
+      },
       {
         "artist": "Lipps, Inc.",
         "title": "Funkytown (Long Version)",
