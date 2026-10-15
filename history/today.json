@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:13:00.542186+00:00",
+  "updated_at_utc": "2026-10-15T16:15:01.951963+00:00",
   "stations": {
     "kis": [
       {
@@ -830,6 +830,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-15T16:15:01.819370+00:00"
+      },
       {
         "artist": "Niall Horan",
         "title": "This Town",
