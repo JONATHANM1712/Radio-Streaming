@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:24:49.798711+00:00",
+  "updated_at_utc": "2026-10-15T14:25:52.337589+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "6, 8, 12",
+        "detected_at_utc": "2026-10-15T14:25:24.415940+00:00"
+      },
       {
         "artist": "Shayne Ward",
         "title": "No Promises",
