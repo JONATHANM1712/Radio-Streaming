@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:31:26.736717+00:00",
+  "updated_at_utc": "2026-10-15T06:32:30.202945+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-10-15T06:32:27.815990+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Pretty Boy",
