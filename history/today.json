@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:04:23.371915+00:00",
+  "updated_at_utc": "2026-10-15T09:05:36.450038+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-10-15T09:05:36.254816+00:00"
+      },
       {
         "artist": "Jennifer Hudson",
         "title": "Spotlight",
