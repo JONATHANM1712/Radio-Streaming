@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:32:29.063423+00:00",
+  "updated_at_utc": "2026-10-15T10:33:32.168497+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "XO",
+        "detected_at_utc": "2026-10-15T10:32:29.434500+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "positions",
