@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T12:15:43.573374+00:00",
+  "updated_at_utc": "2026-10-15T12:16:54.164977+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tangga",
+        "title": "Hebat",
+        "detected_at_utc": "2026-10-15T12:16:54.040230+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
