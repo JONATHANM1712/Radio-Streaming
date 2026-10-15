@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:50:04.026768+00:00",
+  "updated_at_utc": "2026-10-15T15:51:09.469199+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "F**kin' Perfect",
+        "detected_at_utc": "2026-10-15T15:50:38.454274+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
