@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:29:59.528148+00:00",
+  "updated_at_utc": "2026-10-15T15:31:02.218875+00:00",
   "stations": {
     "kis": [
       {
@@ -781,6 +781,11 @@
     ],
     "jak": [
       {
+        "artist": "Anda Perdana",
+        "title": "Tentang Seseorang (Remastered 2024)",
+        "detected_at_utc": "2026-10-15T15:30:47.671489+00:00"
+      },
+      {
         "artist": "LISA",
         "title": "SaWaDiKa",
         "detected_at_utc": "2026-10-15T15:27:43.996737+00:00"
@@ -1482,6 +1487,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fugees",
+        "title": "Fu-Gee-La",
+        "detected_at_utc": "2026-10-15T15:30:24.036119+00:00"
+      },
       {
         "artist": "Air Supply",
         "title": "Lonely Is the Night",
