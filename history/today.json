@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:28:16.239686+00:00",
+  "updated_at_utc": "2026-10-15T06:29:22.945263+00:00",
   "stations": {
     "kis": [
       {
@@ -602,6 +602,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Hard Day",
+        "detected_at_utc": "2026-10-15T06:29:22.854299+00:00"
+      },
       {
         "artist": "Good News",
         "title": "Breaking News",
