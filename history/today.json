@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-15T17:46:13.425916+00:00",
+  "updated_at_utc": "2026-10-15T17:47:44.712627+00:00",
   "stations": {
     "kis": [
       {
@@ -142,6 +142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Love Is Stronger Than Pride",
+        "detected_at_utc": "2026-10-15T17:47:44.619702+00:00"
+      },
       {
         "artist": "Captain & Tennille",
         "title": "Do That To Me One More Time",
