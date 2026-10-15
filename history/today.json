@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:19:07.876019+00:00",
+  "updated_at_utc": "2026-10-15T16:20:21.799325+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lighthouse Family",
+        "title": "High",
+        "detected_at_utc": "2026-10-15T16:20:21.679500+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Against All Odds (Take A Look At Me Now)",
