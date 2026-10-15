@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:11:57.633767+00:00",
+  "updated_at_utc": "2026-10-15T16:13:00.542186+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Tak Ada Yang Bisa",
+        "detected_at_utc": "2026-10-15T16:12:09.560801+00:00"
+      },
       {
         "artist": "Norah Jones",
         "title": "Come Away With Me",
