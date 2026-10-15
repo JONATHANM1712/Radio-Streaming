@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:14:35.347656+00:00",
+  "updated_at_utc": "2026-10-15T06:16:41.437959+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-15T06:16:41.355250+00:00"
+      },
       {
         "artist": "Zedd, Maren Morris & Grey",
         "title": "The Middle",
