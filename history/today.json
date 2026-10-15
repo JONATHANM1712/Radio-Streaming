@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:26:20.793856+00:00",
+  "updated_at_utc": "2026-10-15T15:27:44.096774+00:00",
   "stations": {
     "kis": [
       {
@@ -775,6 +775,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-15T15:27:43.996737+00:00"
+      },
       {
         "artist": "Cardi B, Bad Bunny & J Balvin",
         "title": "I Like It",
