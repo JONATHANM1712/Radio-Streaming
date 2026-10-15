@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T10:13:01.246589+00:00",
+  "updated_at_utc": "2026-10-15T10:14:04.120078+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Atomic Kitten",
+        "title": "The Tide Is High (Get the Feeling)",
+        "detected_at_utc": "2026-10-15T10:14:00.668863+00:00"
+      },
       {
         "artist": "Montell Jordan",
         "title": "This Is How We Do It",
@@ -937,6 +942,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mr. Big",
+        "title": "Take Cover",
+        "detected_at_utc": "2026-10-15T10:13:01.404638+00:00"
+      },
       {
         "artist": "ラウドネス",
         "title": "YOU SHOOK ME",
