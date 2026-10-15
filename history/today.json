@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T08:07:35.745570+00:00",
+  "updated_at_utc": "2026-10-15T08:08:40.165155+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nelly",
+        "title": "My Place (feat. Jaheim)",
+        "detected_at_utc": "2026-10-15T08:08:37.750250+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "We Don't Talk Anymore (feat. Selena Gomez)",
@@ -340,6 +345,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Thee Sacred Souls",
+        "title": "Can I Call You Rose?",
+        "detected_at_utc": "2026-10-15T08:08:38.359590+00:00"
+      },
+      {
+        "artist": "Jessie J",
+        "title": "Price Tag (feat. B.o.B)",
+        "detected_at_utc": "2026-10-15T08:07:35.767706+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Try",
