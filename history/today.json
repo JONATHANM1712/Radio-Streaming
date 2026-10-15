@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T03:38:59.992127+00:00",
+  "updated_at_utc": "2026-10-15T03:42:25.073450+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gnarls Barkley",
+        "title": "Crazy",
+        "detected_at_utc": "2026-10-15T03:42:24.921268+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Like I Love You",
