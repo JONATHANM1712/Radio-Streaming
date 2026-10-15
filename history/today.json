@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:45:29.685353+00:00",
+  "updated_at_utc": "2026-10-15T16:46:45.967574+00:00",
   "stations": {
     "kis": [
       {
@@ -865,6 +865,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-15T16:46:45.812492+00:00"
+      },
       {
         "artist": "Football Chants & Sports Chants",
         "title": "Haaland (Ha Ha Ha) Man City Chants",
