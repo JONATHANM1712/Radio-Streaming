@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T16:44:26.615640+00:00",
+  "updated_at_utc": "2026-10-15T16:45:29.685353+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Don't You Remember",
+        "detected_at_utc": "2026-10-15T16:44:56.731100+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "Again",
@@ -860,6 +865,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Football Chants & Sports Chants",
+        "title": "Haaland (Ha Ha Ha) Man City Chants",
+        "detected_at_utc": "2026-10-15T16:44:43.226692+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Menangis Semalam",
