@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T06:09:16.562874+00:00",
+  "updated_at_utc": "2026-10-15T06:10:20.123582+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "Late Night Talking",
+        "detected_at_utc": "2026-10-15T06:10:16.611327+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Wish You Were Here",
@@ -552,6 +557,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "SHAKATAK",
+        "title": "Day By Day",
+        "detected_at_utc": "2026-10-15T06:09:22.815693+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Is There Something I Should Know",
