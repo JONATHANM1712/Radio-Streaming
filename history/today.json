@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:16:33.438865+00:00",
+  "updated_at_utc": "2026-10-15T05:17:36.635014+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Cinta Mati (feat. Ahmad Dhani)",
+        "detected_at_utc": "2026-10-15T05:17:32.958843+00:00"
+      },
       {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
