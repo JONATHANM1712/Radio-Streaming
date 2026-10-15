@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:50:40.217341+00:00",
+  "updated_at_utc": "2026-10-15T04:51:43.796777+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Crying Over You ◐ (feat. BEKA)",
+        "detected_at_utc": "2026-10-15T04:51:41.045714+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
