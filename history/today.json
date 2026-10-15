@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T07:58:08.310837+00:00",
+  "updated_at_utc": "2026-10-15T08:07:35.745570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-15T08:07:35.654479+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "Never Let You Go",
@@ -677,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Boy Meets Girl",
+        "title": "Waiting for a Star to Fall",
+        "detected_at_utc": "2026-10-15T08:07:35.512426+00:00"
+      },
       {
         "artist": "The Stone Roses",
         "title": "Love Spreads",
