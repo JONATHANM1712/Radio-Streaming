@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:20:59.295654+00:00",
+  "updated_at_utc": "2026-10-15T04:22:31.785454+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Citra Scholastika",
+        "title": "Everybody Knew",
+        "detected_at_utc": "2026-10-15T04:22:31.588294+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
