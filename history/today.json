@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T05:15:30.261203+00:00",
+  "updated_at_utc": "2026-10-15T05:16:33.438865+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Satu Yang Tak Bisa Lepas",
+        "detected_at_utc": "2026-10-15T05:15:30.973320+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "What Goes Around...Comes Around (Radio Edit)",
