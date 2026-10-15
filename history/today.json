@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T04:58:57.712524+00:00",
+  "updated_at_utc": "2026-10-15T05:04:05.717942+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kygo & Selena Gomez",
+        "title": "It Ain't Me",
+        "detected_at_utc": "2026-10-15T05:04:05.565203+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
