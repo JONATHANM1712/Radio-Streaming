@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T15:51:09.469199+00:00",
+  "updated_at_utc": "2026-10-15T15:53:30.980143+00:00",
   "stations": {
     "kis": [
       {
@@ -805,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Chocolate High (feat. Musiq Soulchild)",
+        "detected_at_utc": "2026-10-15T15:53:30.857690+00:00"
+      },
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
