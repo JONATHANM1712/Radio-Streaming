@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:33:37.322762+00:00",
+  "updated_at_utc": "2026-10-15T14:34:40.157754+00:00",
   "stations": {
     "kis": [
       {
@@ -716,6 +716,11 @@
     ],
     "jak": [
       {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "detected_at_utc": "2026-10-15T14:34:26.416196+00:00"
+      },
+      {
         "artist": "Andra And The Backbone",
         "title": "Main Hati",
         "detected_at_utc": "2026-10-15T14:30:19.589594+00:00"
@@ -1357,6 +1362,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Irene Cara",
+        "title": "Fame",
+        "detected_at_utc": "2026-10-15T14:34:03.887592+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "How's It Going To Be",
