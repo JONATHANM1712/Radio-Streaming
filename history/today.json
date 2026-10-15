@@ -1,8 +1,13 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T11:42:18.840553+00:00",
+  "updated_at_utc": "2026-10-15T11:43:23.999450+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Toxic",
+        "detected_at_utc": "2026-10-15T11:43:19.076675+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Love Yourself",
@@ -500,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-15T11:43:23.638366+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
