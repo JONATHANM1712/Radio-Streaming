@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T14:14:57.162525+00:00",
+  "updated_at_utc": "2026-10-15T14:15:59.792748+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-15T14:15:56.257905+00:00"
+      },
       {
         "artist": "Louis Tomlinson",
         "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
