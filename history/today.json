@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:35:16.280807+00:00",
+  "updated_at_utc": "2026-10-15T09:36:19.280401+00:00",
   "stations": {
     "kis": [
       {
@@ -877,6 +877,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Crystal Waters",
+        "title": "100% Pure Love",
+        "detected_at_utc": "2026-10-15T09:35:37.355195+00:00"
+      },
       {
         "artist": "Denny Malik",
         "title": "Jalan - Jalan Sore",
