@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:09:12.600707+00:00",
+  "updated_at_utc": "2026-10-15T09:11:43.154355+00:00",
   "stations": {
     "kis": [
       {
@@ -827,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Show Me (Hearthrob Mix)",
+        "detected_at_utc": "2026-10-15T09:11:42.994380+00:00"
+      },
       {
         "artist": "KC and the Sunshine Band",
         "title": "That's the Way (I Like It)",
