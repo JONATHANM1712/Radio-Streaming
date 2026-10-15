@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at_utc": "2026-10-15T09:05:36.450038+00:00",
+  "updated_at_utc": "2026-10-15T09:06:40.692535+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "One Love",
+        "detected_at_utc": "2026-10-15T09:06:05.266248+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Misread",
