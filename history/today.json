@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T09:00:13.033382+00:00",
+  "updated_at_utc": "2026-10-16T09:01:15.689671+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Anabell Da Diva",
+        "title": "Always Be My Baby",
+        "detected_at_utc": "2026-10-16T09:00:19.447733+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
