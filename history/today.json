@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:54:19.416152+00:00",
+  "updated_at_utc": "2026-10-16T05:56:29.356559+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Indecent Obsession",
+        "title": "Gentleman Style",
+        "detected_at_utc": "2026-10-16T05:56:29.195070+00:00"
+      },
       {
         "artist": "Ten2Five",
         "title": "I Do",
