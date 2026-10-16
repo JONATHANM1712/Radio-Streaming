@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T11:58:27.094857+00:00",
+  "updated_at_utc": "2026-10-16T12:03:35.697490+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "98°",
+        "title": "I Do (Cherish You)",
+        "detected_at_utc": "2026-10-16T12:03:35.559634+00:00"
+      },
       {
         "artist": "Rick Price",
         "title": "Heaven Knows",
