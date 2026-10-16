@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:17:42.204001+00:00",
+  "updated_at_utc": "2026-10-16T15:18:55.910752+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lingua",
+        "title": "Bila Kuingat (Remastered)",
+        "detected_at_utc": "2026-10-16T15:18:55.836188+00:00"
+      },
       {
         "artist": "Luther Vandross",
         "title": "Dance With My Father",
