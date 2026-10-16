@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:13:54.379471+00:00",
+  "updated_at_utc": "2026-10-16T14:17:13.851425+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rossa",
+        "title": "Nada-Nada Cinta",
+        "detected_at_utc": "2026-10-16T14:17:13.660627+00:00"
+      },
       {
         "artist": "Gil Ofarim",
         "title": "It's Your Love",
