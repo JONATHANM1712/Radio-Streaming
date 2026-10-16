@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:45:14.600291+00:00",
+  "updated_at_utc": "2026-10-16T16:46:18.883277+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eclipse Voyager",
+        "title": "Satellite Eyes",
+        "detected_at_utc": "2026-10-16T16:46:16.898023+00:00"
+      },
       {
         "artist": "Warna",
         "title": "Kisah Terindah",
@@ -750,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "detected_at_utc": "2026-10-16T16:46:16.060276+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
@@ -1557,6 +1567,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Play The Game",
+        "detected_at_utc": "2026-10-16T16:46:08.034064+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "Love Walks In",
