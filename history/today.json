@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:20:46.984643+00:00",
+  "updated_at_utc": "2026-10-16T15:21:59.829810+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christian Bautista",
+        "title": "The Way You Look At Me (Acoustic)",
+        "detected_at_utc": "2026-10-16T15:21:59.749465+00:00"
+      },
       {
         "artist": "Lingua",
         "title": "Bila Kuingat (Remastered)",
