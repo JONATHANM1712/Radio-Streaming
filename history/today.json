@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:14:37.722869+00:00",
+  "updated_at_utc": "2026-10-16T15:15:40.359205+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Luther Vandross",
+        "title": "Dance With My Father",
+        "detected_at_utc": "2026-10-16T15:14:50.318042+00:00"
+      },
       {
         "artist": "Whitney Houston",
         "title": "Run to You",
@@ -645,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-10-16T15:14:38.685783+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
