@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:16:08.931060+00:00",
+  "updated_at_utc": "2026-10-16T17:19:12.523685+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "F**kin' Perfect",
+        "detected_at_utc": "2026-10-16T17:19:12.442164+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
