@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:16:47.716011+00:00",
+  "updated_at_utc": "2026-10-16T07:17:50.683780+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Pandangan Pertama (Live)",
+        "detected_at_utc": "2026-10-16T07:17:50.366170+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
@@ -502,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Janie's Got a Gun",
+        "detected_at_utc": "2026-10-16T07:17:25.518552+00:00"
+      },
       {
         "artist": "Modern Talking",
         "title": "Cheri Cheri Lady",
