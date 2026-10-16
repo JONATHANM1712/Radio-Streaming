@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:20:27.097587+00:00",
+  "updated_at_utc": "2026-10-16T13:21:30.010657+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-16T13:20:35.427243+00:00"
+      },
       {
         "artist": "John Newman",
         "title": "Love Me Again",
