@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:35:07.776107+00:00",
+  "updated_at_utc": "2026-10-16T08:36:10.566348+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-16T08:35:22.730365+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Beautiful Girls",
