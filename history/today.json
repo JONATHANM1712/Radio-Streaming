@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T18:01:18.385120+00:00",
+  "updated_at_utc": "2026-10-16T18:05:21.857916+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Finesse (Remix) [feat. Cardi B]",
+        "detected_at_utc": "2026-10-16T18:05:21.773764+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Stand Up for Love (2005 World Children's Day Anthem)",
