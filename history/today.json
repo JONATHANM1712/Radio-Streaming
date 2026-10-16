@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:41:04.066778+00:00",
+  "updated_at_utc": "2026-10-16T08:42:28.064004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Begitu Indah",
+        "detected_at_utc": "2026-10-16T08:42:27.860781+00:00"
+      },
       {
         "artist": "CoCo Lee",
         "title": "Before I Fall In Love",
