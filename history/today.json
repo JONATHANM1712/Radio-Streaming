@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:05:02.888960+00:00",
+  "updated_at_utc": "2026-10-16T07:06:47.022906+00:00",
   "stations": {
     "kis": [
       {
@@ -477,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Modern Talking",
+        "title": "Cheri Cheri Lady",
+        "detected_at_utc": "2026-10-16T07:06:46.936719+00:00"
+      },
       {
         "artist": "Wham!",
         "title": "Bad Boys",
