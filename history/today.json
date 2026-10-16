@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:51:09.093390+00:00",
+  "updated_at_utc": "2026-10-16T17:52:11.520154+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-16T17:52:02.546733+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Keluarga (From\" Glenn Fredly The Movie\")",
