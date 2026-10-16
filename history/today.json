@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:11:48.708958+00:00",
+  "updated_at_utc": "2026-10-16T17:12:51.186907+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stereophonics",
+        "title": "Have a Nice Day (Decade In The Sun Version)",
+        "detected_at_utc": "2026-10-16T17:12:02.325968+00:00"
+      },
       {
         "artist": "Tiara Andini",
         "title": "Maafkan Aku #terlanjurmencinta",
