@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:08:21.717311+00:00",
+  "updated_at_utc": "2026-10-16T14:09:41.676548+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "detected_at_utc": "2026-10-16T14:09:41.543756+00:00"
+      },
       {
         "artist": "Two Door Cinema Club",
         "title": "What You Know",
