@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:20:26.965458+00:00",
+  "updated_at_utc": "2026-10-16T08:21:52.268276+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andien",
+        "title": "Milikmu Selalu",
+        "detected_at_utc": "2026-10-16T08:21:52.156611+00:00"
+      },
       {
         "artist": "Henry Moodie",
         "title": "drunk text",
