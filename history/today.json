@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:45:54.922411+00:00",
+  "updated_at_utc": "2026-10-16T17:46:57.465235+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Risalah Hati",
+        "detected_at_utc": "2026-10-16T17:46:54.500077+00:00"
+      },
       {
         "artist": "Jessica Simpson",
         "title": "I Wanna Love You Forever",
