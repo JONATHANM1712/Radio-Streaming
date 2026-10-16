@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:35:38.831960+00:00",
+  "updated_at_utc": "2026-10-16T17:37:23.965993+00:00",
   "stations": {
     "kis": [
       {
@@ -102,6 +102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Kissed You In The Rain",
+        "detected_at_utc": "2026-10-16T17:37:23.881739+00:00"
+      },
       {
         "artist": "Run-DMC",
         "title": "It's Tricky",
