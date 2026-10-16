@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:44:18.331304+00:00",
+  "updated_at_utc": "2026-10-16T15:45:21.016992+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Hero",
+        "detected_at_utc": "2026-10-16T15:44:27.643364+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Cinta Putih",
