@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:56:10.257426+00:00",
+  "updated_at_utc": "2026-10-16T18:00:14.715498+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Stand Up for Love (2005 World Children's Day Anthem)",
+        "detected_at_utc": "2026-10-16T18:00:14.440755+00:00"
+      },
       {
         "artist": "The Verve",
         "title": "The Drugs Don't Work",
