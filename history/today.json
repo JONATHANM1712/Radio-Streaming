@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:24:06.405355+00:00",
+  "updated_at_utc": "2026-10-16T07:25:09.048770+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-10-16T07:24:53.443315+00:00"
+      },
       {
         "artist": "Lifehouse",
         "title": "You and Me",
