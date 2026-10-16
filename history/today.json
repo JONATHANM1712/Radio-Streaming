@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:25:02.495194+00:00",
+  "updated_at_utc": "2026-10-16T06:26:39.855279+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maxwell",
+        "title": "Whenever Wherever Whatever",
+        "detected_at_utc": "2026-10-16T06:26:39.739725+00:00"
+      },
       {
         "artist": "O-Town",
         "title": "All or Nothing",
