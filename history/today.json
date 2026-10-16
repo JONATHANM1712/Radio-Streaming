@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:35:13.527987+00:00",
+  "updated_at_utc": "2026-10-16T06:36:37.479535+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ava Max",
+        "title": "Sweet but Psycho",
+        "detected_at_utc": "2026-10-16T06:36:37.264686+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Separuh Nafas",
