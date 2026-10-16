@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:20:48.870999+00:00",
+  "updated_at_utc": "2026-10-16T06:21:52.605139+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "O-Town",
+        "title": "All or Nothing",
+        "detected_at_utc": "2026-10-16T06:21:17.012921+00:00"
+      },
       {
         "artist": "Mary J. Blige",
         "title": "Everything",
@@ -160,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-10-16T06:21:51.849508+00:00"
+      },
       {
         "artist": "DJ Jazzy Jeff & The Fresh Prince",
         "title": "Summertime",
@@ -357,6 +367,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Herb Alpert",
+        "title": "Keep Your Eye On Me",
+        "detected_at_utc": "2026-10-16T06:21:20.230866+00:00"
+      },
       {
         "artist": "Weezer",
         "title": "Buddy Holly",
