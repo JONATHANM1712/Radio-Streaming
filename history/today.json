@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:52:42.513994+00:00",
+  "updated_at_utc": "2026-10-16T13:53:45.628759+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly Furtado",
+        "title": "Say It Right",
+        "detected_at_utc": "2026-10-16T13:52:51.599702+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
