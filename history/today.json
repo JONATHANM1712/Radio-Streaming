@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:15:41.207502+00:00",
+  "updated_at_utc": "2026-10-16T05:16:45.193876+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-16T05:15:43.389004+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Kesempurnaan Cinta",
