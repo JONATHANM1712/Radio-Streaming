@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:29:34.980121+00:00",
+  "updated_at_utc": "2026-10-16T08:31:13.930974+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls",
+        "detected_at_utc": "2026-10-16T08:31:13.796173+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Finesse (Remix) [feat. Cardi B]",
