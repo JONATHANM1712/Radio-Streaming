@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:43:39.161674+00:00",
+  "updated_at_utc": "2026-10-16T06:44:42.165156+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "The Only Exception",
+        "detected_at_utc": "2026-10-16T06:44:09.525171+00:00"
+      },
       {
         "artist": "Ruzer",
         "title": "Alien",
