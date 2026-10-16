@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T11:40:51.817398+00:00",
+  "updated_at_utc": "2026-10-16T11:46:00.094524+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Empire State Of Mind (feat. Alicia Keys)",
+        "detected_at_utc": "2026-10-16T11:45:59.949982+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
