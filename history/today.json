@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:48:45.853194+00:00",
+  "updated_at_utc": "2026-10-16T08:49:49.297584+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-16T08:48:55.074032+00:00"
+      },
       {
         "artist": "Dan + Shay & Justin Bieber",
         "title": "10,000 Hours",
@@ -717,6 +722,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kiss",
+        "title": "Beth",
+        "detected_at_utc": "2026-10-16T08:49:23.495342+00:00"
+      },
       {
         "artist": "Enigma",
         "title": "Return To Innocence",
