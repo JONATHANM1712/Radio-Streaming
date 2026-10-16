@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:03:30.563473+00:00",
+  "updated_at_utc": "2026-10-16T08:06:18.913241+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Into You",
+        "detected_at_utc": "2026-10-16T08:06:18.796359+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Get Right",
