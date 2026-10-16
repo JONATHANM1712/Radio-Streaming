@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:11:32.316686+00:00",
+  "updated_at_utc": "2026-10-16T05:12:36.645370+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rizky Febian",
+        "title": "Kesempurnaan Cinta",
+        "detected_at_utc": "2026-10-16T05:12:33.282353+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Man I Need",
