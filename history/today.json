@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:42:07.693022+00:00",
+  "updated_at_utc": "2026-10-16T16:45:14.600291+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-16T16:45:14.516243+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
