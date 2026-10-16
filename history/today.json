@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:36:54.224780+00:00",
+  "updated_at_utc": "2026-10-16T16:37:56.781111+00:00",
   "stations": {
     "kis": [
       {
@@ -745,6 +745,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "If I Ain't Got You",
+        "detected_at_utc": "2026-10-16T16:36:58.112333+00:00"
+      },
       {
         "artist": "Jaz",
         "title": "Teman Bahagia",
