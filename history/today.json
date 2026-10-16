@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:20:58.045476+00:00",
+  "updated_at_utc": "2026-10-16T05:24:18.648099+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jodeci",
+        "title": "Lately (Studio Version)",
+        "detected_at_utc": "2026-10-16T05:24:18.506790+00:00"
+      },
       {
         "artist": "d'cinnamons",
         "title": "Selamanya Cinta",
