@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:00:42.639220+00:00",
+  "updated_at_utc": "2026-10-16T17:03:44.406676+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "The Hills",
+        "detected_at_utc": "2026-10-16T17:03:44.301645+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors",
