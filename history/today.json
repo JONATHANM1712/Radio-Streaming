@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:40:31.961853+00:00",
+  "updated_at_utc": "2026-10-16T17:41:34.614146+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jessica Simpson",
+        "title": "I Wanna Love You Forever",
+        "detected_at_utc": "2026-10-16T17:40:43.093981+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Manusia Kuat",
@@ -117,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Always Be My Baby",
+        "detected_at_utc": "2026-10-16T17:41:30.731522+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Kissed You In The Rain",
