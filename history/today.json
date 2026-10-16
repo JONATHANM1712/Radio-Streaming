@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:46:57.465235+00:00",
+  "updated_at_utc": "2026-10-16T17:48:00.035796+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Maps",
+        "detected_at_utc": "2026-10-16T17:47:56.429533+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Risalah Hati",
