@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:38:30.139107+00:00",
+  "updated_at_utc": "2026-10-16T07:40:36.865726+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso & Bunga Citra Lestari",
+        "title": "Aku Dan Dirimu",
+        "detected_at_utc": "2026-10-16T07:40:36.748244+00:00"
+      },
       {
         "artist": "BOYS LIKE GIRLS",
         "title": "Two Is Better Than One (feat. Taylor Swift)",
