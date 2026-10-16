@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:36:04.515218+00:00",
+  "updated_at_utc": "2026-10-16T05:37:09.178145+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Kiss Me More (feat. SZA)",
+        "detected_at_utc": "2026-10-16T05:37:09.049593+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Salahkah",
