@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:20:14.933165+00:00",
+  "updated_at_utc": "2026-10-16T17:21:17.655038+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "*NSYNC",
+        "title": "Pop",
+        "detected_at_utc": "2026-10-16T17:21:15.501341+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Until The End Of Time (with Beyoncé)",
