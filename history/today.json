@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:27:50.616125+00:00",
+  "updated_at_utc": "2026-10-16T07:28:53.777084+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-16T07:28:17.133047+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Better Now",
