@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:41:34.614146+00:00",
+  "updated_at_utc": "2026-10-16T17:42:37.621909+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jung Kook & Latto",
+        "title": "Seven",
+        "detected_at_utc": "2026-10-16T17:41:45.618240+00:00"
+      },
       {
         "artist": "Moloko",
         "title": "Sing It Back",
