@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:10:03.507842+00:00",
+  "updated_at_utc": "2026-10-16T16:11:05.974241+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Secondhand Serenade",
+        "title": "Fall For You",
+        "detected_at_utc": "2026-10-16T16:11:02.963738+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
