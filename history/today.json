@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:18:18.867793+00:00",
+  "updated_at_utc": "2026-10-16T14:19:23.083266+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & Marshmello",
+        "title": "Wolves",
+        "detected_at_utc": "2026-10-16T14:19:18.485235+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Manja",
