@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:30:53.963935+00:00",
+  "updated_at_utc": "2026-10-16T06:31:57.667615+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nathan Sykes",
+        "title": "Over and Over Again (feat. Ariana Grande)",
+        "detected_at_utc": "2026-10-16T06:31:57.283523+00:00"
+      },
       {
         "artist": "Nathan Sykes",
         "title": "Over and Over Again",
@@ -175,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dewa 19",
+        "title": "Separuh Nafas",
+        "detected_at_utc": "2026-10-16T06:31:22.946953+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
