@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:17:50.683780+00:00",
+  "updated_at_utc": "2026-10-16T07:19:37.534260+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "C+C Music Factory",
+        "title": "Forever",
+        "detected_at_utc": "2026-10-16T07:19:37.256907+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Kenangan Terindah",
