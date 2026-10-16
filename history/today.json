@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:32:27.142026+00:00",
+  "updated_at_utc": "2026-10-16T07:34:31.538016+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Reza Chandika, Rendha Rais & Laleilmanino",
+        "title": "Sampai Kapan",
+        "detected_at_utc": "2026-10-16T07:34:31.380666+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Please Don't Go",
