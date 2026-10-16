@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:30:38.494527+00:00",
+  "updated_at_utc": "2026-10-16T16:31:41.051723+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-16T16:30:42.843569+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Haven't Met You Yet",
