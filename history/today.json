@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:09:20.108542+00:00",
+  "updated_at_utc": "2026-10-16T06:12:07.703172+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "CHANEL",
+        "detected_at_utc": "2026-10-16T06:12:07.564674+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Dia Milikku",
