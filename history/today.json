@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:10:45.647814+00:00",
+  "updated_at_utc": "2026-10-16T17:11:48.708958+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Until The End Of Time (with Beyoncé)",
+        "detected_at_utc": "2026-10-16T17:11:01.108771+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Scar Tissue",
