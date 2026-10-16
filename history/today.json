@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T18:08:25.865102+00:00",
+  "updated_at_utc": "2026-10-16T18:09:28.496001+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Madonna",
+        "title": "Music",
+        "detected_at_utc": "2026-10-16T18:09:28.410126+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Bad Romance",
