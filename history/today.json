@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:41:31.504299+00:00",
+  "updated_at_utc": "2026-10-16T06:42:36.182863+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tempo",
+        "title": "Siento Que Me Siguen",
+        "detected_at_utc": "2026-10-16T06:42:04.857949+00:00"
+      },
       {
         "artist": "Ava Max",
         "title": "Sweet but Psycho",
@@ -417,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kool & The Gang",
+        "title": "Celebration",
+        "detected_at_utc": "2026-10-16T06:41:38.584700+00:00"
+      },
       {
         "artist": "Salt-N-Pepa",
         "title": "Do You Want Me",
