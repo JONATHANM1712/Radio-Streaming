@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:23:02.636380+00:00",
+  "updated_at_utc": "2026-10-16T15:24:05.157639+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-16T15:23:50.684755+00:00"
+      },
       {
         "artist": "Mêlée",
         "title": "Built to Last",
