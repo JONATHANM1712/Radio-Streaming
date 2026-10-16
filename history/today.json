@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:06:52.112556+00:00",
+  "updated_at_utc": "2026-10-16T17:07:54.659581+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tiara Andini",
+        "title": "Maafkan Aku #terlanjurmencinta",
+        "detected_at_utc": "2026-10-16T17:07:54.145525+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "The Hills",
