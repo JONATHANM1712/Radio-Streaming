@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:59:21.268829+00:00",
+  "updated_at_utc": "2026-10-16T07:02:37.221609+00:00",
   "stations": {
     "kis": [
       {
@@ -467,6 +467,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wham!",
+        "title": "Bad Boys",
+        "detected_at_utc": "2026-10-16T07:02:37.142163+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Mystify",
