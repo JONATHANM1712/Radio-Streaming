@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:57:29.794089+00:00",
+  "updated_at_utc": "2026-10-16T08:00:36.211897+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Thank You For Loving Me",
+        "detected_at_utc": "2026-10-16T08:00:36.125025+00:00"
+      },
       {
         "artist": "Chantal Kreviazuk",
         "title": "Leaving On A Jet Plane",
