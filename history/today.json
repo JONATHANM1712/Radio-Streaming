@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:23:03.585180+00:00",
+  "updated_at_utc": "2026-10-16T07:24:06.405355+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "Better Now",
+        "detected_at_utc": "2026-10-16T07:24:06.098827+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
@@ -522,6 +527,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Amy Grant",
+        "title": "Baby, Baby",
+        "detected_at_utc": "2026-10-16T07:23:39.592319+00:00"
+      },
       {
         "artist": "Aerosmith",
         "title": "Janie's Got a Gun",
