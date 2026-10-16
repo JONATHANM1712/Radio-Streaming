@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:30:10.129381+00:00",
+  "updated_at_utc": "2026-10-16T15:32:01.117916+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kunto Aji",
+        "title": "Rehat",
+        "detected_at_utc": "2026-10-16T15:32:01.021860+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Meet Me Halfway",
