@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:37:22.381160+00:00",
+  "updated_at_utc": "2026-10-16T12:39:28.198371+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "So What",
+        "detected_at_utc": "2026-10-16T12:39:28.106121+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Save Your Tears",
