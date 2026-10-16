@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:40:36.865726+00:00",
+  "updated_at_utc": "2026-10-16T07:46:09.515986+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-16T07:46:09.431606+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "If You're Gone",
