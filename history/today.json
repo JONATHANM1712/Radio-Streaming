@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:47:57.443752+00:00",
+  "updated_at_utc": "2026-10-16T05:49:00.887589+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Let Loose",
+        "title": "Make It With You",
+        "detected_at_utc": "2026-10-16T05:48:55.353747+00:00"
+      },
       {
         "artist": "Raisa",
         "title": "Apalah (Arti Menunggu)",
@@ -120,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-16T05:48:57.082849+00:00"
+      },
       {
         "artist": "The Calling",
         "title": "Wherever You Will Go",
