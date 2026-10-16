@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:54:06.658850+00:00",
+  "updated_at_utc": "2026-10-16T06:55:40.373513+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "detected_at_utc": "2026-10-16T06:55:40.277000+00:00"
+      },
       {
         "artist": "Lily Allen",
         "title": "Smile",
