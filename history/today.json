@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:49:00.887589+00:00",
+  "updated_at_utc": "2026-10-16T05:50:04.312618+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "NO",
+        "detected_at_utc": "2026-10-16T05:50:02.306639+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
