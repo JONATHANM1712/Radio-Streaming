@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:46:47.922441+00:00",
+  "updated_at_utc": "2026-10-16T06:48:22.739286+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-16T06:48:22.641979+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
