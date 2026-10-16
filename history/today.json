@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:00:48.384125+00:00",
+  "updated_at_utc": "2026-10-16T06:02:00.059435+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd & Alessia Cara",
+        "title": "Stay",
+        "detected_at_utc": "2026-10-16T06:01:59.929954+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Dia Milikku",
