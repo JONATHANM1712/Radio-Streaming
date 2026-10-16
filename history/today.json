@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:24:18.648099+00:00",
+  "updated_at_utc": "2026-10-16T05:25:31.974066+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bebe Rexha & Florida Georgia Line",
+        "title": "Meant to Be",
+        "detected_at_utc": "2026-10-16T05:25:31.845221+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Low (feat. T-Pain)",
