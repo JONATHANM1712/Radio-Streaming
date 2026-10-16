@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:49:49.297584+00:00",
+  "updated_at_utc": "2026-10-16T08:50:52.141083+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Closer",
+        "detected_at_utc": "2026-10-16T08:49:57.262688+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
