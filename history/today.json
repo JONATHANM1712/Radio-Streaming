@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:58:42.661854+00:00",
+  "updated_at_utc": "2026-10-16T06:00:48.384125+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Listen (From the Motion Picture \"Dreamgirls\")",
+        "detected_at_utc": "2026-10-16T06:00:48.264991+00:00"
+      },
       {
         "artist": "Indecent Obsession",
         "title": "Gentleman Style",
