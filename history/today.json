@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:27:08.715864+00:00",
+  "updated_at_utc": "2026-10-16T12:28:11.368845+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Save Your Tears",
+        "detected_at_utc": "2026-10-16T12:28:07.379362+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
