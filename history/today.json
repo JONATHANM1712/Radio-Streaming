@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:26:09.375774+00:00",
+  "updated_at_utc": "2026-10-16T17:27:24.989661+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-10-16T17:27:24.914417+00:00"
+      },
       {
         "artist": "Alter Bridge",
         "title": "Open Your Eyes",
