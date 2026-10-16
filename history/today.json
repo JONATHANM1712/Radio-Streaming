@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:17:10.294634+00:00",
+  "updated_at_utc": "2026-10-16T16:18:12.822275+00:00",
   "stations": {
     "kis": [
       {
@@ -705,6 +705,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Winans",
+        "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+        "detected_at_utc": "2026-10-16T16:17:10.847150+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Satu Bulan",
