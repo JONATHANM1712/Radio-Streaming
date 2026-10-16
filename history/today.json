@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:21:52.605139+00:00",
+  "updated_at_utc": "2026-10-16T06:25:02.495194+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Secrets",
+        "detected_at_utc": "2026-10-16T06:25:02.341522+00:00"
+      },
       {
         "artist": "The Chainsmokers",
         "title": "Closer (feat. Halsey)",
