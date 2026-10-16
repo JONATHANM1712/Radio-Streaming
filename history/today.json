@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:55:07.763292+00:00",
+  "updated_at_utc": "2026-10-16T17:56:10.257426+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-16T17:56:09.081249+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "Tattoo (Main Version)",
@@ -162,6 +167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Billy Idol",
+        "title": "Mony Mony",
+        "detected_at_utc": "2026-10-16T17:55:52.724365+00:00"
+      },
       {
         "artist": "Newcleus",
         "title": "Jam On Revenge (The Wikki Wikki Song)",
