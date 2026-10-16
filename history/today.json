@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:53:15.955074+00:00",
+  "updated_at_utc": "2026-10-16T05:54:19.416152+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-10-16T05:53:16.792384+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "NO",
