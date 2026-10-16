@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:35:17.680403+00:00",
+  "updated_at_utc": "2026-10-16T15:36:20.140142+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Lucky",
+        "detected_at_utc": "2026-10-16T15:36:05.869691+00:00"
+      },
       {
         "artist": "Kunto Aji",
         "title": "Rehat",
