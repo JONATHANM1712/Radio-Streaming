@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:42:37.621909+00:00",
+  "updated_at_utc": "2026-10-16T17:44:52.082454+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "detected_at_utc": "2026-10-16T17:44:51.997320+00:00"
+      },
       {
         "artist": "Jung Kook & Latto",
         "title": "Seven",
