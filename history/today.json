@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:20:17.598729+00:00",
+  "updated_at_utc": "2026-10-16T16:22:19.079502+00:00",
   "stations": {
     "kis": [
       {
@@ -710,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-16T16:22:19.002632+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
