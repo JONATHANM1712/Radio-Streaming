@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:31:11.650505+00:00",
+  "updated_at_utc": "2026-10-16T12:35:27.180600+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande & Nathan Sykes",
+        "title": "Almost Is Never Enough",
+        "detected_at_utc": "2026-10-16T12:35:27.013925+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Jatuh Cinta",
