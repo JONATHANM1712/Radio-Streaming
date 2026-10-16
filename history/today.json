@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:55:35.306037+00:00",
+  "updated_at_utc": "2026-10-16T16:57:28.136644+00:00",
   "stations": {
     "kis": [
       {
@@ -1592,6 +1592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tatsuro Yamashita",
+        "title": "Mermaid",
+        "detected_at_utc": "2026-10-16T16:57:28.057148+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Under the Bridge",
