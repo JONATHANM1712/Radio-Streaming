@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:27:28.991627+00:00",
+  "updated_at_utc": "2026-10-16T08:28:32.353902+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Finesse (Remix) [feat. Cardi B]",
+        "detected_at_utc": "2026-10-16T08:28:04.061399+00:00"
+      },
       {
         "artist": "Andien",
         "title": "Milikmu Selalu",
@@ -662,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Garbage",
+        "title": "Stupid Girl",
+        "detected_at_utc": "2026-10-16T08:28:31.702339+00:00"
+      },
       {
         "artist": "Ruzer",
         "title": "Alien",
