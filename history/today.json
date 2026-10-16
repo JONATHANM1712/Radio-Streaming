@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:54:28.774270+00:00",
+  "updated_at_utc": "2026-10-16T15:55:31.244021+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "detected_at_utc": "2026-10-16T15:54:40.550049+00:00"
+      },
       {
         "artist": "Duncan James & Keedie",
         "title": "I Believe My Heart",
