@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T10:39:13.484057+00:00",
+  "updated_at_utc": "2026-10-16T10:41:11.435027+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Satu Hati (Kita Semestinya)",
+        "detected_at_utc": "2026-10-16T10:41:11.320983+00:00"
+      },
       {
         "artist": "Shayne Ward",
         "title": "No Promises",
