@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T11:55:14.532380+00:00",
+  "updated_at_utc": "2026-10-16T11:57:24.124570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-10-16T11:57:23.945125+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Cintakan Membawamu Kembali",
