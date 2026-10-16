@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:18:57.426575+00:00",
+  "updated_at_utc": "2026-10-16T12:20:57.495519+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Good Charlotte",
+        "title": "I Just Wanna Live",
+        "detected_at_utc": "2026-10-16T12:20:57.359344+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
