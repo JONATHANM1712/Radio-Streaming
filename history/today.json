@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:38:17.642882+00:00",
+  "updated_at_utc": "2026-10-16T08:39:20.389230+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tangga",
+        "title": "Terbaik Untukmu",
+        "detected_at_utc": "2026-10-16T08:38:32.112697+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
