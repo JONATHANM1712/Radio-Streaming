@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T10:45:16.354856+00:00",
+  "updated_at_utc": "2026-10-16T10:47:23.362689+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "LeAnn Rimes",
+        "title": "I Need You",
+        "detected_at_utc": "2026-10-16T10:47:23.239848+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Satu Hati (Kita Semestinya)",
