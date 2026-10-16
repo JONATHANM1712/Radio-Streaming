@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T18:00:14.715498+00:00",
+  "updated_at_utc": "2026-10-16T18:01:18.385120+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "My Happy Ending",
+        "detected_at_utc": "2026-10-16T18:01:16.496298+00:00"
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-16T18:00:15.003651+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
@@ -172,6 +182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Keziah Jones",
+        "title": "Where's Life ?",
+        "detected_at_utc": "2026-10-16T18:00:59.992770+00:00"
+      },
       {
         "artist": "Billy Idol",
         "title": "Mony Mony",
