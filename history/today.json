@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:38:40.572264+00:00",
+  "updated_at_utc": "2026-10-16T14:39:44.010104+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "TheOvertunes",
+        "title": "Sayap Pelindungmu (Centre of Gravity)",
+        "detected_at_utc": "2026-10-16T14:39:02.076364+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Let Love Lead the Way",
