@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:42:28.064004+00:00",
+  "updated_at_utc": "2026-10-16T08:43:30.990050+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dan + Shay & Justin Bieber",
+        "title": "10,000 Hours",
+        "detected_at_utc": "2026-10-16T08:42:42.417534+00:00"
+      },
       {
         "artist": "Tangga",
         "title": "Terbaik Untukmu",
