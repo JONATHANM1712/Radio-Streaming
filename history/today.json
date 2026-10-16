@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:57:28.136644+00:00",
+  "updated_at_utc": "2026-10-16T16:58:37.588694+00:00",
   "stations": {
     "kis": [
       {
@@ -770,6 +770,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "detected_at_utc": "2026-10-16T16:58:37.504703+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "A Thousand Years",
