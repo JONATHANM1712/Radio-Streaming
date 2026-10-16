@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:31:16.197845+00:00",
+  "updated_at_utc": "2026-10-16T17:32:31.704753+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Dynamite",
+        "detected_at_utc": "2026-10-16T17:32:31.621241+00:00"
+      },
       {
         "artist": "Adele",
         "title": "All I Ask",
