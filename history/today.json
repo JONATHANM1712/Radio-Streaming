@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:42:53.504799+00:00",
+  "updated_at_utc": "2026-10-16T14:44:10.397272+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruzer",
+        "title": "Alien",
+        "detected_at_utc": "2026-10-16T14:44:10.263694+00:00"
+      },
       {
         "artist": "TheOvertunes",
         "title": "Sayap Pelindungmu (Centre of Gravity)",
