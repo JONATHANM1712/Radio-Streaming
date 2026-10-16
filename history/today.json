@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T09:04:22.958742+00:00",
+  "updated_at_utc": "2026-10-16T10:38:06.754199+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pamungkas",
+        "title": "To the Bone",
+        "detected_at_utc": "2026-10-16T10:38:06.274636+00:00"
+      },
       {
         "artist": "Anabell Da Diva",
         "title": "Always Be My Baby",
@@ -757,6 +762,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Roxus Band",
+        "title": "Where Are You Now",
+        "detected_at_utc": "2026-10-16T10:38:06.274716+00:00"
+      },
       {
         "artist": "KC and the Sunshine Band",
         "title": "I'm Your Boogie Man",
