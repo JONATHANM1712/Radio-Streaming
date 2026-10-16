@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:52:33.864267+00:00",
+  "updated_at_utc": "2026-10-16T06:54:06.658850+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Huey Lewis & The News & Gwyneth Paltrow",
+        "title": "Cruisin' (Single Edit)",
+        "detected_at_utc": "2026-10-16T06:54:06.573767+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Against All Odds (Take A Look At Me Now)",
