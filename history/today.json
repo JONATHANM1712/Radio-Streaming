@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:21:32.396165+00:00",
+  "updated_at_utc": "2026-10-16T14:22:35.648585+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Marry You",
+        "detected_at_utc": "2026-10-16T14:22:25.018423+00:00"
+      },
       {
         "artist": "Selena Gomez & Marshmello",
         "title": "Wolves",
