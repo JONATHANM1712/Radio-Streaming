@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:15:06.431414+00:00",
+  "updated_at_utc": "2026-10-16T17:16:08.931060+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-16T17:16:08.455387+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
@@ -52,6 +57,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Toto",
+        "title": "Waiting for Your Love",
+        "detected_at_utc": "2026-10-16T17:15:52.685382+00:00"
+      },
       {
         "artist": "Jay Graydon",
         "title": "Roxann",
