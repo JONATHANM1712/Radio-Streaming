@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:13:58.498381+00:00",
+  "updated_at_utc": "2026-10-16T08:15:01.131883+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "When You're Gone",
+        "detected_at_utc": "2026-10-16T08:14:37.325336+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
