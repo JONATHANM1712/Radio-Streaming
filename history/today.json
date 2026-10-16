@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:26:37.087067+00:00",
+  "updated_at_utc": "2026-10-16T13:27:51.949660+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "Shallow",
+        "detected_at_utc": "2026-10-16T13:27:51.824111+00:00"
+      },
       {
         "artist": "Adera",
         "title": "Lebih Indah",
