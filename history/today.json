@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:18:48.934891+00:00",
+  "updated_at_utc": "2026-10-16T05:19:54.722186+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Flo Rida",
+        "title": "Low (feat. T-Pain)",
+        "detected_at_utc": "2026-10-16T05:19:54.597248+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
