@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:37:23.965993+00:00",
+  "updated_at_utc": "2026-10-16T17:38:26.490720+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Manusia Kuat",
+        "detected_at_utc": "2026-10-16T17:37:38.315541+00:00"
+      },
       {
         "artist": "Lene Marlin",
         "title": "Another Day",
@@ -102,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Bis wir uns wiederseh'n",
+        "detected_at_utc": "2026-10-16T17:38:25.217667+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Kissed You In The Rain",
