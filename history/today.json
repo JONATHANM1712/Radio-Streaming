@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:24:24.048606+00:00",
+  "updated_at_utc": "2026-10-16T16:25:40.476097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nu Flavor",
+        "title": "Heaven",
+        "detected_at_utc": "2026-10-16T16:25:40.393135+00:00"
+      },
       {
         "artist": "Secondhand Serenade",
         "title": "Fall For You",
