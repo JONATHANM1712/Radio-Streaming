@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:14:47.381986+00:00",
+  "updated_at_utc": "2026-10-16T06:15:50.746335+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christian Bautista",
+        "title": "The Way You Look At Me (Acoustic)",
+        "detected_at_utc": "2026-10-16T06:15:19.331477+00:00"
+      },
       {
         "artist": "Tyla",
         "title": "CHANEL",
