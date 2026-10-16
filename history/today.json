@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:26:40.830931+00:00",
+  "updated_at_utc": "2026-10-16T14:29:37.111727+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "detected_at_utc": "2026-10-16T14:29:36.983033+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
