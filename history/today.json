@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:44:10.397272+00:00",
+  "updated_at_utc": "2026-10-16T14:45:09.534438+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Scarlet",
+        "title": "Independent Love Song",
+        "detected_at_utc": "2026-10-16T14:45:06.534607+00:00"
+      },
       {
         "artist": "Ruzer",
         "title": "Alien",
@@ -610,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-16T14:44:59.919132+00:00"
+      },
       {
         "artist": "Bondan Prakoso & Fade2black",
         "title": "Ya Sudahlah",
