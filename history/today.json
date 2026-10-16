@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:08:52.575464+00:00",
+  "updated_at_utc": "2026-10-16T07:11:29.398651+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-10-16T07:11:29.299600+00:00"
+      },
       {
         "artist": "Bilal Indrajaya",
         "title": "Niscaya",
