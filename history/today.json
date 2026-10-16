@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:06:47.022906+00:00",
+  "updated_at_utc": "2026-10-16T07:07:49.713663+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bilal Indrajaya",
+        "title": "Niscaya",
+        "detected_at_utc": "2026-10-16T07:07:07.469981+00:00"
+      },
       {
         "artist": "Shakira & Beyoncé",
         "title": "Beautiful Liar",
