@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T11:50:02.331952+00:00",
+  "updated_at_utc": "2026-10-16T11:51:05.758009+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Cintakan Membawamu Kembali",
+        "detected_at_utc": "2026-10-16T11:50:10.385134+00:00"
+      },
       {
         "artist": "Selena",
         "title": "I Could Fall In Love",
@@ -425,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "Easier",
+        "detected_at_utc": "2026-10-16T11:50:06.445157+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
