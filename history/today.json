@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T18:05:21.857916+00:00",
+  "updated_at_utc": "2026-10-16T18:06:24.298736+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "detected_at_utc": "2026-10-16T18:05:22.606083+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "My Happy Ending",
@@ -187,6 +192,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "N.W.A",
+        "title": "Express Yourself",
+        "detected_at_utc": "2026-10-16T18:06:07.080655+00:00"
+      },
       {
         "artist": "Keziah Jones",
         "title": "Where's Life ?",
