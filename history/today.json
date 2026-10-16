@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:05:29.019211+00:00",
+  "updated_at_utc": "2026-10-16T15:06:31.488754+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Evan & Jaron",
+        "title": "The Distance",
+        "detected_at_utc": "2026-10-16T15:05:37.959437+00:00"
+      },
       {
         "artist": "3 Doors Down",
         "title": "Here Without You",
