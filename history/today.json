@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:49:03.276163+00:00",
+  "updated_at_utc": "2026-10-16T17:50:06.275074+00:00",
   "stations": {
     "kis": [
       {
@@ -147,6 +147,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Newcleus",
+        "title": "Jam On Revenge (The Wikki Wikki Song)",
+        "detected_at_utc": "2026-10-16T17:49:44.488885+00:00"
+      },
       {
         "artist": "Chicago",
         "title": "You Come to My Senses",
