@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T10:52:32.982616+00:00",
+  "updated_at_utc": "2026-10-16T10:54:37.388609+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "detected_at_utc": "2026-10-16T10:54:37.262060+00:00"
+      },
       {
         "artist": "Pamungkas",
         "title": "To the Bone",
