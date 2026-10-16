@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:25:07.647680+00:00",
+  "updated_at_utc": "2026-10-16T15:27:56.277308+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "detected_at_utc": "2026-10-16T15:27:56.190364+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
