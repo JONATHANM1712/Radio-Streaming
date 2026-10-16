@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:49:15.146395+00:00",
+  "updated_at_utc": "2026-10-16T16:50:18.271172+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "detected_at_utc": "2026-10-16T16:49:23.138092+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Wide Awake",
