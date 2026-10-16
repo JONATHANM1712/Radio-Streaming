@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:42:36.182863+00:00",
+  "updated_at_utc": "2026-10-16T06:43:39.161674+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ruzer",
+        "title": "Alien",
+        "detected_at_utc": "2026-10-16T06:43:06.988201+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
