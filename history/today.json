@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:40:11.870101+00:00",
+  "updated_at_utc": "2026-10-16T13:41:15.101863+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Pupus",
+        "detected_at_utc": "2026-10-16T13:40:25.286477+00:00"
+      },
       {
         "artist": "Steps",
         "title": "It's the Way You Make Me Feel",
