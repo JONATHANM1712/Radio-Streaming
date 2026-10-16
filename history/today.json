@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:16:45.193876+00:00",
+  "updated_at_utc": "2026-10-16T05:18:48.934891+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "d'cinnamons",
+        "title": "Selamanya Cinta",
+        "detected_at_utc": "2026-10-16T05:18:48.795325+00:00"
+      },
       {
         "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
         "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
