@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:52:47.680345+00:00",
+  "updated_at_utc": "2026-10-16T12:53:56.619619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Benét",
+        "title": "Spend My Life With You",
+        "detected_at_utc": "2026-10-16T12:53:56.437089+00:00"
+      },
       {
         "artist": "Southern Sons",
         "title": "You Were There",
