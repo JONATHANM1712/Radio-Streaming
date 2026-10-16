@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:53:11.323686+00:00",
+  "updated_at_utc": "2026-10-16T14:54:14.003116+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lukas Graham",
+        "title": "7 Years",
+        "detected_at_utc": "2026-10-16T14:54:13.010505+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
