@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:19:23.083266+00:00",
+  "updated_at_utc": "2026-10-16T14:21:32.396165+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon",
+        "detected_at_utc": "2026-10-16T14:21:32.279785+00:00"
+      },
       {
         "artist": "Rossa",
         "title": "Nada-Nada Cinta",
