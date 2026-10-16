@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:25:03.131965+00:00",
+  "updated_at_utc": "2026-10-16T12:26:05.969134+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "That's Why (You Go Away)",
+        "detected_at_utc": "2026-10-16T12:25:10.911160+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Bubbly",
@@ -460,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Neida",
+        "title": "Tenang Saja (feat. Laleilmanino)",
+        "detected_at_utc": "2026-10-16T12:25:03.221652+00:00"
+      },
       {
         "artist": "Good Charlotte",
         "title": "I Just Wanna Live",
