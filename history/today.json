@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T08:17:18.272011+00:00",
+  "updated_at_utc": "2026-10-16T08:18:21.781696+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Henry Moodie",
+        "title": "drunk text",
+        "detected_at_utc": "2026-10-16T08:17:43.982256+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "When You're Gone",
