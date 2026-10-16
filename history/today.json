@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:42:35.686996+00:00",
+  "updated_at_utc": "2026-10-16T05:43:38.668267+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Raisa",
+        "title": "Apalah (Arti Menunggu)",
+        "detected_at_utc": "2026-10-16T05:43:34.931049+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "You Took My Heart Away",
@@ -257,6 +262,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "2Pac",
+        "title": "California Love",
+        "detected_at_utc": "2026-10-16T05:43:37.220852+00:00"
+      },
       {
         "artist": "2Pac",
         "title": "California Love (feat. Dr. Dre & Roger Troutman) [Remix]",
