@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:05:41.903715+00:00",
+  "updated_at_utc": "2026-10-16T12:07:42.369493+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SWV",
+        "title": "Weak",
+        "detected_at_utc": "2026-10-16T12:07:42.228669+00:00"
+      },
       {
         "artist": "98°",
         "title": "I Do (Cherish You)",
