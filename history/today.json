@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T11:51:05.758009+00:00",
+  "updated_at_utc": "2026-10-16T11:55:14.532380+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Film Favorit",
+        "detected_at_utc": "2026-10-16T11:55:14.404912+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "Easier",
