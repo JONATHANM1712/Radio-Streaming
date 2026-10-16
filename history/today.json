@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:19:08.598916+00:00",
+  "updated_at_utc": "2026-10-16T06:20:48.870999+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DJ Jazzy Jeff & The Fresh Prince",
+        "title": "Summertime",
+        "detected_at_utc": "2026-10-16T06:20:48.660838+00:00"
+      },
       {
         "artist": "Christian Bautista",
         "title": "The Way You Look At Me (Acoustic)",
