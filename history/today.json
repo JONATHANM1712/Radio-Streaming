@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-16T17:39:29.127611+00:00",
+  "updated_at_utc": "2026-10-16T17:40:31.961853+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Moloko",
+        "title": "Sing It Back",
+        "detected_at_utc": "2026-10-16T17:39:42.295995+00:00"
+      },
       {
         "artist": "Moloko",
         "title": "Sing It Back (Boris Musical Mix) [Edit]",
@@ -112,6 +117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Kissed You In The Rain",
+        "detected_at_utc": "2026-10-16T17:40:28.394944+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Bis wir uns wiederseh'n",
