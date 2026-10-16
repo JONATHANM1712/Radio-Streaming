@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:05:16.959226+00:00",
+  "updated_at_utc": "2026-10-16T13:07:11.886043+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-16T13:07:11.592085+00:00"
+      },
       {
         "artist": "Zara Larsson",
         "title": "Lush Life",
