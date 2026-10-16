@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:57:32.587177+00:00",
+  "updated_at_utc": "2026-10-16T05:58:42.661854+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yovie & Nuno",
+        "title": "Dia Milikku",
+        "detected_at_utc": "2026-10-16T05:58:42.419760+00:00"
+      },
+      {
+        "artist": "Christian Bautista",
+        "title": "The Way You Look At Me (Acoustic)",
+        "detected_at_utc": "2026-10-16T05:57:36.510001+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "With You (Main Version)",
@@ -292,6 +302,16 @@
       }
     ],
     "most": [
+      {
+        "artist": "B-Tight",
+        "title": "Sie will mich (Tai Jason Remix)",
+        "detected_at_utc": "2026-10-16T05:58:39.818197+00:00"
+      },
+      {
+        "artist": "David Storrs & Chris \"The Glove\" Taylor",
+        "title": "Reckless (feat. Ice-T) [Mixed]",
+        "detected_at_utc": "2026-10-16T05:57:35.355422+00:00"
+      },
       {
         "artist": "Felixs",
         "title": "Beats",
