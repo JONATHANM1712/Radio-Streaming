@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T15:18:55.910752+00:00",
+  "updated_at_utc": "2026-10-16T15:20:46.984643+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mêlée",
+        "title": "Built to Last",
+        "detected_at_utc": "2026-10-16T15:20:46.901830+00:00"
+      },
       {
         "artist": "Isyana Sarasvati",
         "title": "Kau Adalah (feat. Rayi Putra)",
