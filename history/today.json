@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:29:47.701768+00:00",
+  "updated_at_utc": "2026-10-16T05:30:51.092913+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-10-16T05:30:43.495930+00:00"
+      },
       {
         "artist": "Jodeci",
         "title": "Lately (Studio Version)",
