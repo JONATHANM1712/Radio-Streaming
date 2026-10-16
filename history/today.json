@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:21:43.462611+00:00",
+  "updated_at_utc": "2026-10-16T07:23:03.585180+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-16T07:23:03.502488+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Pandangan Pertama (Live)",
