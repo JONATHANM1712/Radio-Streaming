@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T16:18:12.822275+00:00",
+  "updated_at_utc": "2026-10-16T16:19:15.234040+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andien",
+        "title": "Gemintang",
+        "detected_at_utc": "2026-10-16T16:18:25.511950+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "End Of The Road",
