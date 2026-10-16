@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:37:26.995790+00:00",
+  "updated_at_utc": "2026-10-16T07:38:30.139107+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Matchbox Twenty",
+        "title": "If You're Gone",
+        "detected_at_utc": "2026-10-16T07:37:46.707071+00:00"
+      },
       {
         "artist": "Reza Chandika, Rendha Rais & Laleilmanino",
         "title": "Sampai Kapan",
