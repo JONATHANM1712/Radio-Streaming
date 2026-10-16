@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:05:02.502869+00:00",
+  "updated_at_utc": "2026-10-16T06:06:06.255335+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-16T06:05:33.478789+00:00"
+      },
       {
         "artist": "Zedd & Alessia Cara",
         "title": "Stay",
@@ -317,6 +322,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Limahl",
+        "title": "Inside to Outside (12\")",
+        "detected_at_utc": "2026-10-16T06:05:07.863896+00:00"
+      },
       {
         "artist": "B-Tight",
         "title": "Sie will mich (Tai Jason Remix)",
