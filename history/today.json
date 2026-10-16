@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:15:21.460438+00:00",
+  "updated_at_utc": "2026-10-16T13:16:25.908733+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Newman",
+        "title": "Love Me Again",
+        "detected_at_utc": "2026-10-16T13:16:25.692903+00:00"
+      },
       {
         "artist": "Nicole Scherzinger",
         "title": "Baby Love (feat. will.i.am)",
