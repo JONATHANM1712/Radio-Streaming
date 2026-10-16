@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:25:37.751800+00:00",
+  "updated_at_utc": "2026-10-16T14:26:40.830931+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-16T14:26:31.085745+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Marry You",
