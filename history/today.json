@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:36:18.073523+00:00",
+  "updated_at_utc": "2026-10-16T07:37:26.995790+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "BOYS LIKE GIRLS",
+        "title": "Two Is Better Than One (feat. Taylor Swift)",
+        "detected_at_utc": "2026-10-16T07:37:26.896493+00:00"
+      },
       {
         "artist": "Simply Red",
         "title": "You Make Me Feel Brand New",
