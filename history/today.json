@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T06:34:10.089498+00:00",
+  "updated_at_utc": "2026-10-16T06:35:13.527987+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Haruskah Ku Mati",
+        "detected_at_utc": "2026-10-16T06:35:08.113360+00:00"
+      },
       {
         "artist": "Nathan Sykes",
         "title": "Over and Over Again",
