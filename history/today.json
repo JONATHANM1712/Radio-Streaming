@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:53:56.619619+00:00",
+  "updated_at_utc": "2026-10-16T12:57:56.817525+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston & Justin Bieber",
+        "title": "Eenie Meenie",
+        "detected_at_utc": "2026-10-16T12:57:56.723410+00:00"
+      },
       {
         "artist": "Farrel Hilal",
         "title": "Keliling",
