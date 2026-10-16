@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T05:14:38.197036+00:00",
+  "updated_at_utc": "2026-10-16T05:15:41.207502+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
+        "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
+        "detected_at_utc": "2026-10-16T05:15:40.475194+00:00"
+      },
       {
         "artist": "Deana Carter",
         "title": "Colour Everywhere",
