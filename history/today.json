@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T07:47:12.173196+00:00",
+  "updated_at_utc": "2026-10-16T07:48:15.473047+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "You'll See",
+        "detected_at_utc": "2026-10-16T07:48:01.295270+00:00"
+      },
       {
         "artist": "Ari Lasso & Bunga Citra Lestari",
         "title": "Aku Dan Dirimu",
@@ -260,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "Like I Can",
+        "detected_at_utc": "2026-10-16T07:47:12.737120+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
