@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:22:43.267629+00:00",
+  "updated_at_utc": "2026-10-16T13:23:45.984760+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adera",
+        "title": "Lebih Indah",
+        "detected_at_utc": "2026-10-16T13:23:40.347478+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
