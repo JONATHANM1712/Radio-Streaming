@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T13:32:10.437732+00:00",
+  "updated_at_utc": "2026-10-16T13:33:23.498017+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Seal",
+        "title": "Kiss from a Rose",
+        "detected_at_utc": "2026-10-16T13:33:08.438367+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "PILLOWTALK",
