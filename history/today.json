@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T12:50:41.879096+00:00",
+  "updated_at_utc": "2026-10-16T12:51:44.345945+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Farrel Hilal",
+        "title": "Keliling",
+        "detected_at_utc": "2026-10-16T12:50:45.761266+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "So What",
