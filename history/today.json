@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T14:10:45.532018+00:00",
+  "updated_at_utc": "2026-10-16T14:12:50.858463+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Manja",
+        "detected_at_utc": "2026-10-16T14:12:50.682434+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
