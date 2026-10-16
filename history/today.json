@@ -1,8 +1,13 @@
 {
   "date": "2026-10-16",
-  "updated_at_utc": "2026-10-16T10:59:46.538013+00:00",
+  "updated_at_utc": "2026-10-16T11:00:50.108899+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Budapest",
+        "title": "Is This the Best It Gets?",
+        "detected_at_utc": "2026-10-16T11:00:49.985304+00:00"
+      },
       {
         "artist": "Brandy",
         "title": "Have You Ever",
