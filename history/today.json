@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:13:23.103192+00:00",
+  "updated_at_utc": "2026-10-17T16:14:31.964466+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coi Leray",
+        "title": "Players",
+        "detected_at_utc": "2026-10-17T16:14:31.848772+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Only Girl (In The World)",
