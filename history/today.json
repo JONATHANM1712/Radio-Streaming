@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:34:56.991184+00:00",
+  "updated_at_utc": "2026-10-17T05:36:35.311514+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Elton John & Dua Lipa",
+        "title": "Cold Heart (PNAU Remix)",
+        "detected_at_utc": "2026-10-17T05:36:35.171647+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Sedari Dulu",
