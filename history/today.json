@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:36:28.285944+00:00",
+  "updated_at_utc": "2026-10-17T08:38:30.018693+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fatur & Nadila",
+        "title": "Kulakukan Semua Untukmu",
+        "detected_at_utc": "2026-10-17T08:38:29.935065+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Crazy In Love (feat. JAŸ-Z)",
