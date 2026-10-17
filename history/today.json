@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:46:08.090426+00:00",
+  "updated_at_utc": "2026-10-17T13:48:15.054097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Perri",
+        "title": "A Thousand Years",
+        "detected_at_utc": "2026-10-17T13:48:14.852417+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Can't Take My Eyes Off of You (I Love You Baby)",
