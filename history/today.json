@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:44:51.290330+00:00",
+  "updated_at_utc": "2026-10-17T08:46:41.498477+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "*NSYNC",
+        "title": "Girlfriend",
+        "detected_at_utc": "2026-10-17T08:46:41.410096+00:00"
+      },
       {
         "artist": "A.R. Rahman & The Pussycat Dolls",
         "title": "Jai Ho! (You Are My Destiny) [feat. Nicole Scherzinger]",
