@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:18:49.121167+00:00",
+  "updated_at_utc": "2026-10-17T06:21:02.895699+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "detected_at_utc": "2026-10-17T06:21:02.762080+00:00"
+      },
       {
         "artist": "Junior Senior",
         "title": "Move Your Feet",
