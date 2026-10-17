@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:57:00.408044+00:00",
+  "updated_at_utc": "2026-10-17T12:58:02.839187+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-17T12:57:56.050408+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Superheroes",
