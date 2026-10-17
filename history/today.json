@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:06:56.935906+00:00",
+  "updated_at_utc": "2026-10-17T15:08:58.514867+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bridgit Mendler",
+        "title": "Ready or Not",
+        "detected_at_utc": "2026-10-17T15:08:58.402053+00:00"
+      },
       {
         "artist": "Nicky Youre & Dazy",
         "title": "Sunroof",
