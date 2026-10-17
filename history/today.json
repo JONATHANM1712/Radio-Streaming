@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:21:46.758641+00:00",
+  "updated_at_utc": "2026-10-17T13:23:51.859832+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Oops!...I Did It Again",
+        "detected_at_utc": "2026-10-17T13:23:51.724036+00:00"
+      },
       {
         "artist": "Padi",
         "title": "Semua Tak Sama",
@@ -625,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-10-17T13:23:51.724118+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Stronger",
