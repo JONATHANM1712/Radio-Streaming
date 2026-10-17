@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:39:03.716760+00:00",
+  "updated_at_utc": "2026-10-17T16:40:06.252284+00:00",
   "stations": {
     "kis": [
       {
@@ -870,6 +870,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "title": "Smokin Out the Window",
+        "detected_at_utc": "2026-10-17T16:39:04.048373+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Stop Crying Your Heart Out",
