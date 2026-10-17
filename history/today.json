@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:14:53.311944+00:00",
+  "updated_at_utc": "2026-10-17T04:15:56.991280+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hindia",
+        "title": "everything u are",
+        "detected_at_utc": "2026-10-17T04:14:54.014529+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
