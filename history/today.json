@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:41:28.311171+00:00",
+  "updated_at_utc": "2026-10-17T04:43:01.222675+00:00",
   "stations": {
     "kis": [
       {
@@ -292,6 +292,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Powermad",
+        "title": "Nice Dreams",
+        "detected_at_utc": "2026-10-17T04:43:01.060124+00:00"
+      },
       {
         "artist": "Anthrax",
         "title": "Antisocial",
