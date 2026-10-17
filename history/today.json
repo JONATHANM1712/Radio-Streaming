@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:37:22.267739+00:00",
+  "updated_at_utc": "2026-10-17T12:38:24.779357+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Telephone (feat. Beyoncé)",
+        "detected_at_utc": "2026-10-17T12:37:26.922637+00:00"
+      },
       {
         "artist": "Marc Anthony",
         "title": "I Need to Know",
@@ -1272,6 +1277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kiss",
+        "title": "Lick It Up",
+        "detected_at_utc": "2026-10-17T12:38:18.533891+00:00"
+      },
       {
         "artist": "Living Colour",
         "title": "Cult Of Personality",
