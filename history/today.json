@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:16:37.336202+00:00",
+  "updated_at_utc": "2026-10-17T16:17:39.803121+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "One Direction",
+        "title": "What Makes You Beautiful",
+        "detected_at_utc": "2026-10-17T16:17:28.225816+00:00"
+      },
       {
         "artist": "Hedi Yunus",
         "title": "Sebatas Mimpi",
