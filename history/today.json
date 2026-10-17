@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:45:11.877200+00:00",
+  "updated_at_utc": "2026-10-17T16:46:14.324116+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "A New Day Has Come (Radio Remix)",
+        "detected_at_utc": "2026-10-17T16:46:08.516402+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "A New Day Has Come",
