@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:50:47.146917+00:00",
+  "updated_at_utc": "2026-10-17T05:51:49.877575+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Corinne Bailey Rae",
+        "title": "Put Your Records On",
+        "detected_at_utc": "2026-10-17T05:51:18.959714+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "Want To Want Me",
@@ -477,6 +482,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Faith No More",
+        "title": "Stripsearch",
+        "detected_at_utc": "2026-10-17T05:51:14.515443+00:00"
+      },
       {
         "artist": "Skid Row",
         "title": "Wasted Time",
