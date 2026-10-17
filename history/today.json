@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:45:07.832730+00:00",
+  "updated_at_utc": "2026-10-17T04:46:11.494980+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "LFO",
+        "title": "Girl On TV",
+        "detected_at_utc": "2026-10-17T04:45:36.017294+00:00"
+      },
       {
         "artist": "Gotye",
         "title": "Somebody That I Used to Know (feat. Kimbra)",
