@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:58:17.501792+00:00",
+  "updated_at_utc": "2026-10-17T10:59:21.028424+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-17T10:58:24.936536+00:00"
+      },
       {
         "artist": "Ryan Cabrera",
         "title": "True",
