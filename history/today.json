@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:14:01.853187+00:00",
+  "updated_at_utc": "2026-10-17T07:15:04.280684+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-17T07:14:30.164566+00:00"
+      },
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "I Know What You Did Last Summer",
