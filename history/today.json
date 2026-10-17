@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:17:57.402971+00:00",
+  "updated_at_utc": "2026-10-17T10:19:04.536400+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alexis Jordan",
+        "title": "Happiness",
+        "detected_at_utc": "2026-10-17T10:18:56.456676+00:00"
+      },
       {
         "artist": "Gabrielle",
         "title": "Sunshine",
@@ -405,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Billie Eilish",
+        "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
+        "detected_at_utc": "2026-10-17T10:17:57.446688+00:00"
+      },
       {
         "artist": "Jennifer Lopez & Pitbull",
         "title": "Dance Again",
