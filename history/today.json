@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:37:44.477857+00:00",
+  "updated_at_utc": "2026-10-17T10:39:45.535031+00:00",
   "stations": {
     "kis": [
       {
@@ -972,6 +972,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Don't Go Away Mad (Just Go Away)",
+        "detected_at_utc": "2026-10-17T10:39:45.294501+00:00"
+      },
       {
         "artist": "Beastie Boys",
         "title": "Car Thief",
