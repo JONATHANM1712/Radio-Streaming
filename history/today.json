@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:55:33.808192+00:00",
+  "updated_at_utc": "2026-10-17T14:56:36.590462+00:00",
   "stations": {
     "kis": [
       {
@@ -1632,6 +1632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mad Season",
+        "title": "River Of Deceit",
+        "detected_at_utc": "2026-10-17T14:56:36.031012+00:00"
+      },
       {
         "artist": "Black Sabbath",
         "title": "Iron Man",
