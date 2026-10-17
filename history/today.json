@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:44:26.839144+00:00",
+  "updated_at_utc": "2026-10-17T05:45:58.603088+00:00",
   "stations": {
     "kis": [
       {
@@ -457,6 +457,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Skid Row",
+        "title": "Wasted Time",
+        "detected_at_utc": "2026-10-17T05:45:58.508699+00:00"
+      },
       {
         "artist": "Rage Against the Machine",
         "title": "Bombtrack",
