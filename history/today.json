@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:29:53.188742+00:00",
+  "updated_at_utc": "2026-10-17T16:32:55.852381+00:00",
   "stations": {
     "kis": [
       {
@@ -860,6 +860,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Oasis",
+        "title": "Stop Crying Your Heart Out",
+        "detected_at_utc": "2026-10-17T16:32:55.752616+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
