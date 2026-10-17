@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:32:45.700718+00:00",
+  "updated_at_utc": "2026-10-17T07:33:48.079896+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GAYLE",
+        "title": "abcdefu",
+        "detected_at_utc": "2026-10-17T07:33:00.396899+00:00"
+      },
       {
         "artist": "Paula DeAnda",
         "title": "Walk Away (Remember Me)",
