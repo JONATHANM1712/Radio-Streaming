@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:47:14.899869+00:00",
+  "updated_at_utc": "2026-10-17T04:52:26.507791+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sal Priadi",
+        "title": "Ada titik-titik di ujung doa",
+        "detected_at_utc": "2026-10-17T04:52:26.125667+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
