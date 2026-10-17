@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:17:22.187625+00:00",
+  "updated_at_utc": "2026-10-17T07:18:36.230088+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "What I've Done",
+        "detected_at_utc": "2026-10-17T07:18:36.142641+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
