@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:00:45.543217+00:00",
+  "updated_at_utc": "2026-10-17T08:03:46.838840+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Steal My Girl",
+        "detected_at_utc": "2026-10-17T08:03:46.725192+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Till the World Ends",
