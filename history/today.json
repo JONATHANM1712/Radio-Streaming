@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:58:42.652272+00:00",
+  "updated_at_utc": "2026-10-17T04:59:46.877926+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "Say You Love Me",
+        "detected_at_utc": "2026-10-17T04:59:14.211825+00:00"
+      },
       {
         "artist": "Dave Matthews Band",
         "title": "Ants Marching",
