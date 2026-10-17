@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:27:20.821927+00:00",
+  "updated_at_utc": "2026-10-17T11:29:22.036609+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Donell Jones",
+        "title": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
+        "detected_at_utc": "2026-10-17T11:29:21.877433+00:00"
+      },
       {
         "artist": "Divine Destiny",
         "title": "Beautiful in White",
