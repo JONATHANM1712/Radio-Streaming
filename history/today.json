@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:06:15.329246+00:00",
+  "updated_at_utc": "2026-10-17T13:07:17.786221+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alex Warren",
+        "title": "Ordinary",
+        "detected_at_utc": "2026-10-17T13:07:09.323903+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Hot N Cold",
@@ -1347,6 +1352,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Anthrax",
+        "title": "Madhouse",
+        "detected_at_utc": "2026-10-17T13:07:03.763403+00:00"
+      },
       {
         "artist": "Deep Purple",
         "title": "Woman from Tokyo",
