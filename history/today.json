@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:36:34.476687+00:00",
+  "updated_at_utc": "2026-10-17T15:37:37.182411+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vina Panduwinata",
+        "title": "Aku Makin Cinta",
+        "detected_at_utc": "2026-10-17T15:37:34.138047+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Clocks",
