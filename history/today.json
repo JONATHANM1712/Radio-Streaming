@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:14:43.917767+00:00",
+  "updated_at_utc": "2026-10-17T12:16:54.452465+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "I Gotta Feeling",
+        "detected_at_utc": "2026-10-17T12:16:54.360127+00:00"
+      },
       {
         "artist": "VIDI",
         "title": "Datang Dan Kembali",
