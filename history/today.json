@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:29:07.973072+00:00",
+  "updated_at_utc": "2026-10-17T13:30:12.373464+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Too Little Too Late",
+        "detected_at_utc": "2026-10-17T13:30:12.189891+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
