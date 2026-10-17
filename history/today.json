@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:32:22.523077+00:00",
+  "updated_at_utc": "2026-10-17T08:34:23.543167+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Crazy In Love (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-10-17T08:34:23.436275+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Superheroes",
