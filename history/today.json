@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:06:16.244311+00:00",
+  "updated_at_utc": "2026-10-17T07:08:06.070862+00:00",
   "stations": {
     "kis": [
       {
@@ -667,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "ZZ Top",
+        "title": "Gimme All Your Lovin'",
+        "detected_at_utc": "2026-10-17T07:08:05.972838+00:00"
+      },
       {
         "artist": "DOWN",
         "title": "Stone the Crow",
