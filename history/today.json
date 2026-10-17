@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:09:20.210917+00:00",
+  "updated_at_utc": "2026-10-17T06:10:22.951485+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "I Hate This Part",
+        "detected_at_utc": "2026-10-17T06:09:24.328968+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
