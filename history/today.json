@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:27:49.446797+00:00",
+  "updated_at_utc": "2026-10-17T14:29:53.224481+00:00",
   "stations": {
     "kis": [
       {
@@ -710,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-17T14:29:53.008560+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Mad",
