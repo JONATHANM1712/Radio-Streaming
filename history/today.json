@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:32:32.883753+00:00",
+  "updated_at_utc": "2026-10-17T15:34:34.662658+00:00",
   "stations": {
     "kis": [
       {
@@ -790,6 +790,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashanti",
+        "title": "Foolish",
+        "detected_at_utc": "2026-10-17T15:34:34.409677+00:00"
+      },
       {
         "artist": "Coldplay & BTS",
         "title": "My Universe",
