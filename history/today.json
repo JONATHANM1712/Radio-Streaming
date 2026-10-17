@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:55:10.131978+00:00",
+  "updated_at_utc": "2026-10-17T11:56:13.064781+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paris Hilton",
+        "title": "Stars Are Blind",
+        "detected_at_utc": "2026-10-17T11:56:12.763656+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -1162,6 +1167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Martin Landstrom",
+        "title": "Midside Notes",
+        "detected_at_utc": "2026-10-17T11:56:11.723766+00:00"
+      },
       {
         "artist": "Blur",
         "title": "She's So High",
