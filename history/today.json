@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:55:46.618532+00:00",
+  "updated_at_utc": "2026-10-17T13:56:49.836212+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sinéad O'Connor",
+        "title": "Nothing Compares 2 U",
+        "detected_at_utc": "2026-10-17T13:56:47.234180+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "When You're Gone",
