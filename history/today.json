@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:11:50.782263+00:00",
+  "updated_at_utc": "2026-10-17T05:13:30.813406+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Omi",
+        "title": "Cheerleader (Felix Jaehn Remix Radio Edit)",
+        "detected_at_utc": "2026-10-17T05:13:30.597674+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Ada titik-titik di ujung doa",
