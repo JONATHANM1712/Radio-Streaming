@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:42:12.426321+00:00",
+  "updated_at_utc": "2026-10-17T14:43:15.499718+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-10-17T14:42:15.957311+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "AMAZING",
