@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:31:20.176294+00:00",
+  "updated_at_utc": "2026-10-17T08:32:22.523077+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-17T08:31:28.957959+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "TiK ToK",
