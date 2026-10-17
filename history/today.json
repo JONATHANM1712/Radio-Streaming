@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:56:49.836212+00:00",
+  "updated_at_utc": "2026-10-17T13:57:53.211233+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-17T13:57:52.783865+00:00"
+      },
       {
         "artist": "India.Arie",
         "title": "Can I Walk With You",
