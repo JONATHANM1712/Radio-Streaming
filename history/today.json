@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:40:34.900231+00:00",
+  "updated_at_utc": "2026-10-17T08:41:43.958449+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "Never Say Never",
+        "detected_at_utc": "2026-10-17T08:41:43.870284+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "Don't Start Now",
