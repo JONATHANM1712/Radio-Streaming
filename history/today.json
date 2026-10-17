@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:17:46.189415+00:00",
+  "updated_at_utc": "2026-10-17T06:18:49.121167+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "Overjoyed (with Stevie Wonder)",
+        "detected_at_utc": "2026-10-17T06:18:20.722126+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Jikalau",
@@ -245,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-10-17T06:17:51.953259+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
