@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:26:16.788568+00:00",
+  "updated_at_utc": "2026-10-17T06:27:20.279439+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-10-17T06:26:55.558832+00:00"
+      },
       {
         "artist": "Donna Lewis & Richard Marx",
         "title": "At the Beginning",
