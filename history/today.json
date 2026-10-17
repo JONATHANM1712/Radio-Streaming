@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:53:13.150219+00:00",
+  "updated_at_utc": "2026-10-17T10:54:16.555629+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ryan Cabrera",
+        "title": "True",
+        "detected_at_utc": "2026-10-17T10:54:16.320264+00:00"
+      },
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-10-17T10:53:14.515007+00:00"
+      },
       {
         "artist": "CeeLo Green",
         "title": "F**k You",
