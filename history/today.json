@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:57:39.171593+00:00",
+  "updated_at_utc": "2026-10-17T14:58:41.715482+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SWV",
+        "title": "Weak",
+        "detected_at_utc": "2026-10-17T14:58:38.304987+00:00"
+      },
       {
         "artist": "Major Lazer",
         "title": "Cold Water (feat. Justin Bieber & MØ)",
@@ -745,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tamia",
+        "title": "Officially Missing You",
+        "detected_at_utc": "2026-10-17T14:57:41.773085+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
