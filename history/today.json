@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:02:01.760657+00:00",
+  "updated_at_utc": "2026-10-17T06:03:04.976556+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Photograph",
+        "detected_at_utc": "2026-10-17T06:02:26.367501+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Selamat Pagi (Live)",
