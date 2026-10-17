@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:06:37.450920+00:00",
+  "updated_at_utc": "2026-10-17T11:07:40.427010+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Virtual Insanity",
+        "detected_at_utc": "2026-10-17T11:07:34.980864+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "My Place (feat. Jaheim)",
@@ -460,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "J.Tajor",
+        "title": "Like I Do",
+        "detected_at_utc": "2026-10-17T11:06:39.375740+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Bubbly",
