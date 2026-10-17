@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:55:02.632630+00:00",
+  "updated_at_utc": "2026-10-17T06:56:31.714927+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "You're Gonna Live Forever in Me",
+        "detected_at_utc": "2026-10-17T06:56:31.434479+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
