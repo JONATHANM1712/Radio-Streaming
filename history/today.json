@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:13:33.251250+00:00",
+  "updated_at_utc": "2026-10-17T06:14:36.129522+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "detected_at_utc": "2026-10-17T06:13:39.143662+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "I Hate This Part",
