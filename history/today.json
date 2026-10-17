@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:05:41.796174+00:00",
+  "updated_at_utc": "2026-10-17T17:07:43.086075+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "If You Come Back",
+        "detected_at_utc": "2026-10-17T17:07:42.974568+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Last Friday Night (T.G.I.F.)",
