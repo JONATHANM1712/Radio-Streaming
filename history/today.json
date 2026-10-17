@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:40:41.822628+00:00",
+  "updated_at_utc": "2026-10-17T11:41:45.045020+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alanis Morissette",
+        "title": "Head Over Feet",
+        "detected_at_utc": "2026-10-17T11:40:44.402422+00:00"
+      },
       {
         "artist": "Float",
         "title": "Pulang",
@@ -500,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "Cooler Than Me (Single Mix)",
+        "detected_at_utc": "2026-10-17T11:41:44.769260+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Say You Won't Let Go",
