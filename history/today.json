@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:24:23.652700+00:00",
+  "updated_at_utc": "2026-10-17T05:25:27.058030+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nathan Sykes",
+        "title": "Over and Over Again",
+        "detected_at_utc": "2026-10-17T05:25:26.548610+00:00"
+      },
       {
         "artist": "Nathan Sykes",
         "title": "Over and Over Again (feat. Ariana Grande)",
@@ -175,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Labrinth",
+        "title": "Beneath Your Beautiful (feat. Emeli Sande)",
+        "detected_at_utc": "2026-10-17T05:25:02.663895+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
