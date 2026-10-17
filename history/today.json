@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:56:35.400105+00:00",
+  "updated_at_utc": "2026-10-17T04:57:38.699563+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City",
+        "title": "Vanilla Twilight",
+        "detected_at_utc": "2026-10-17T04:56:39.864641+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Ada titik-titik di ujung doa",
