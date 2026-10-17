@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:03:36.098394+00:00",
+  "updated_at_utc": "2026-10-17T17:04:39.349369+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "detected_at_utc": "2026-10-17T17:03:36.922290+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Starlight",
