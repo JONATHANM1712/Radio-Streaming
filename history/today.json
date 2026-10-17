@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:29:24.079865+00:00",
+  "updated_at_utc": "2026-10-17T15:31:30.452996+00:00",
   "stations": {
     "kis": [
       {
@@ -785,6 +785,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay & BTS",
+        "title": "My Universe",
+        "detected_at_utc": "2026-10-17T15:31:30.371696+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "SexyBack (feat. Timbaland)",
