@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:23:13.939226+00:00",
+  "updated_at_utc": "2026-10-17T10:25:18.606340+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-10-17T10:25:18.420981+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Yellow",
