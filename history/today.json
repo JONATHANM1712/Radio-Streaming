@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:51:16.260277+00:00",
+  "updated_at_utc": "2026-10-17T07:53:31.639213+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Mind Trick",
+        "detected_at_utc": "2026-10-17T07:53:31.555190+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
