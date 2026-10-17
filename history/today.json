@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:53:58.192709+00:00",
+  "updated_at_utc": "2026-10-17T06:55:02.632630+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Julia Michaels",
+        "title": "Issues",
+        "detected_at_utc": "2026-10-17T06:55:00.116815+00:00"
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon",
+        "detected_at_utc": "2026-10-17T06:53:58.257126+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Talking to the Moon (Acoustic Piano)",
@@ -632,6 +642,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Led Zeppelin",
+        "title": "The Song Remains the Same",
+        "detected_at_utc": "2026-10-17T06:54:42.788456+00:00"
+      },
       {
         "artist": "Judas Priest",
         "title": "Johnny B. Goode",
