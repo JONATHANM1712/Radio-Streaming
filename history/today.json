@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:09:42.554394+00:00",
+  "updated_at_utc": "2026-10-17T12:10:44.954914+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Take a Bow",
+        "detected_at_utc": "2026-10-17T12:10:36.536446+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
@@ -1207,6 +1212,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Sympathy For The Devil",
+        "detected_at_utc": "2026-10-17T12:10:34.828392+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Tragic Kingdom",
