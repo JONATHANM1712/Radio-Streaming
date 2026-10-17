@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:22:14.474172+00:00",
+  "updated_at_utc": "2026-10-17T11:25:14.376288+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Divine Destiny",
+        "title": "Beautiful in White",
+        "detected_at_utc": "2026-10-17T11:25:14.230457+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Fix You",
