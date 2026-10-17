@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:07:17.786221+00:00",
+  "updated_at_utc": "2026-10-17T13:10:16.190902+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd",
+        "title": "Clarity (feat. Foxes)",
+        "detected_at_utc": "2026-10-17T13:10:16.091812+00:00"
+      },
       {
         "artist": "Alex Warren",
         "title": "Ordinary",
