@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:58:57.946630+00:00",
+  "updated_at_utc": "2026-10-17T14:02:09.550969+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-10-17T14:02:09.349856+00:00"
+      },
       {
         "artist": "Sinéad O'Connor",
         "title": "Nothing Compares 2 U",
