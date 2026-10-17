@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:21:10.311206+00:00",
+  "updated_at_utc": "2026-10-17T11:22:14.474172+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-17T11:22:11.058422+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "She Looks So Perfect",
@@ -1077,6 +1082,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Everlong",
+        "detected_at_utc": "2026-10-17T11:22:09.848883+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Guns In The Sky",
