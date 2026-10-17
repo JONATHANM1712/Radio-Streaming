@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:24:17.212320+00:00",
+  "updated_at_utc": "2026-10-17T15:26:23.561049+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "SexyBack (feat. Timbaland)",
+        "detected_at_utc": "2026-10-17T15:26:23.461065+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
