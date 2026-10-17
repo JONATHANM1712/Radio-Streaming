@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:13:12.548907+00:00",
+  "updated_at_utc": "2026-10-17T14:15:15.420555+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andien",
+        "title": "Gemilang",
+        "detected_at_utc": "2026-10-17T14:15:15.274999+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
