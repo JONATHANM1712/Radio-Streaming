@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:04:29.582372+00:00",
+  "updated_at_utc": "2026-10-17T05:05:32.938297+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Guetta",
+        "title": "Titanium (feat. Sia)",
+        "detected_at_utc": "2026-10-17T05:05:07.171179+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "You Da One",
