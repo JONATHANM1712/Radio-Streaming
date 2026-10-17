@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:23:04.136014+00:00",
+  "updated_at_utc": "2026-10-17T12:26:01.969370+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "Your Love Is My Drug",
+        "detected_at_utc": "2026-10-17T12:26:01.812559+00:00"
+      },
       {
         "artist": "Jonas Blue",
         "title": "Rise (feat. Jack & Jack)",
