@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:02:57.972089+00:00",
+  "updated_at_utc": "2026-10-17T07:04:00.535672+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & The Scene",
+        "title": "Who Says",
+        "detected_at_utc": "2026-10-17T07:03:11.569301+00:00"
+      },
       {
         "artist": "Outkast",
         "title": "Hey Ya!",
