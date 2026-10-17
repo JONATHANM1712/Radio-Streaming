@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:16:54.698096+00:00",
+  "updated_at_utc": "2026-10-17T17:17:57.081852+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-10-17T17:17:52.608537+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Gantung",
@@ -31,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Nelly Furtado",
+        "title": "I'm Like A Bird",
+        "detected_at_utc": "2026-10-17T17:16:55.242784+00:00"
+      },
+      {
         "artist": "Dominic Fike",
         "title": "Babydoll",
         "detected_at_utc": "2026-10-17T17:14:52.582231+00:00"
@@ -57,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stevie Wonder",
+        "title": "Ribbon In The Sky",
+        "detected_at_utc": "2026-10-17T17:17:55.923492+00:00"
+      },
       {
         "artist": "Good News",
         "title": "Breaking News",
