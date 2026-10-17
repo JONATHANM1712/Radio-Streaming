@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:28:24.754212+00:00",
+  "updated_at_utc": "2026-10-17T10:30:22.323343+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Luther Vandross",
+        "title": "The Closer I Get to You (feat. Beyoncé)",
+        "detected_at_utc": "2026-10-17T10:30:22.134907+00:00"
+      },
       {
         "artist": "Labrinth",
         "title": "Beneath Your Beautiful (feat. Emeli Sande)",
