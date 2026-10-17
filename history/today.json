@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:11:49.788446+00:00",
+  "updated_at_utc": "2026-10-17T11:12:52.924568+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "honk!",
+        "detected_at_utc": "2026-10-17T11:12:51.134411+00:00"
+      },
       {
         "artist": "Camila Cabello",
         "title": "Havana (feat. Young Thug)",
