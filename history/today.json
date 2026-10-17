@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:42:34.954415+00:00",
+  "updated_at_utc": "2026-10-17T12:44:34.367095+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-17T12:44:34.272395+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "You Found Me",
