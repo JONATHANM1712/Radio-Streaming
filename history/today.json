@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:57:24.172739+00:00",
+  "updated_at_utc": "2026-10-17T16:58:28.904346+00:00",
   "stations": {
     "kis": [
       {
@@ -1957,6 +1957,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cure",
+        "title": "Closedown",
+        "detected_at_utc": "2026-10-17T16:58:28.807607+00:00"
+      },
       {
         "artist": "TOOL",
         "title": "Stinkfist",
