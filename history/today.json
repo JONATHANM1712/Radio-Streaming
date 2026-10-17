@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:12:02.719448+00:00",
+  "updated_at_utc": "2026-10-17T15:13:05.347133+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-17T15:13:04.584442+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
@@ -1682,6 +1687,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Soundgarden",
+        "title": "Superunknown",
+        "detected_at_utc": "2026-10-17T15:13:01.626155+00:00"
+      },
       {
         "artist": "EMF",
         "title": "Unbelievable",
