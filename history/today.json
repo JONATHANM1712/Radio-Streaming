@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:45:04.351421+00:00",
+  "updated_at_utc": "2026-10-17T13:46:08.090426+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Un-thinkable (I'm Ready)",
+        "detected_at_utc": "2026-10-17T13:45:07.322080+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "Thunder",
