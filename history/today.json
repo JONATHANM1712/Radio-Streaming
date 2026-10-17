@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:30:25.186963+00:00",
+  "updated_at_utc": "2026-10-17T11:31:28.500935+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Feby Putri & Fiersa Besari",
+        "title": "Runtuh",
+        "detected_at_utc": "2026-10-17T11:30:25.689779+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Titanium (feat. Sia)",
