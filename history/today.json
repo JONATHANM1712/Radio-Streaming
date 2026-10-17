@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:22:44.019534+00:00",
+  "updated_at_utc": "2026-10-17T16:24:45.624291+00:00",
   "stations": {
     "kis": [
       {
@@ -850,6 +850,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "The A Team",
+        "detected_at_utc": "2026-10-17T16:24:45.517561+00:00"
+      },
       {
         "artist": "Silentó",
         "title": "Watch Me (Whip / Nae Nae)",
