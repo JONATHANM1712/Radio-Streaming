@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:22:01.636188+00:00",
+  "updated_at_utc": "2026-10-17T12:23:04.136014+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue",
+        "title": "Rise (feat. Jack & Jack)",
+        "detected_at_utc": "2026-10-17T12:22:57.138279+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Complicated",
@@ -1237,6 +1242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Ozzy Osbourne",
+        "title": "Mama, I'm Coming Home",
+        "detected_at_utc": "2026-10-17T12:22:55.325870+00:00"
+      },
       {
         "artist": "Sublime",
         "title": "Santeria",
