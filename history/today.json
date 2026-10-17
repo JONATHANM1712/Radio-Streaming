@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:44:56.807087+00:00",
+  "updated_at_utc": "2026-10-17T10:46:00.038030+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Louchie Lou & Michie One & Michie One",
+        "title": "10 Out Of 10",
+        "detected_at_utc": "2026-10-17T10:45:54.306011+00:00"
+      },
       {
         "artist": "Room 5",
         "title": "Make Luv",
