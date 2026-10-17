@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:26:08.436966+00:00",
+  "updated_at_utc": "2026-10-17T17:28:12.313556+00:00",
   "stations": {
     "kis": [
       {
@@ -87,6 +87,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Summer Of '69",
+        "detected_at_utc": "2026-10-17T17:28:12.224124+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Viva Forever",
