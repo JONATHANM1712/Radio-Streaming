@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:10:21.421205+00:00",
+  "updated_at_utc": "2026-10-17T16:11:25.153056+00:00",
   "stations": {
     "kis": [
       {
@@ -835,6 +835,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In The World)",
+        "detected_at_utc": "2026-10-17T16:10:25.050123+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
