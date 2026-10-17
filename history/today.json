@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:13:56.366665+00:00",
+  "updated_at_utc": "2026-10-17T11:14:59.802935+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruth Sahanaya, Kris Dayanti, Titi Dj",
+        "title": "Semua Jadi Satu",
+        "detected_at_utc": "2026-10-17T11:14:51.817935+00:00"
+      },
       {
         "artist": "Fort Minor",
         "title": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
@@ -470,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "We Are Young (feat. Janelle Monáe)",
+        "detected_at_utc": "2026-10-17T11:14:55.098556+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
