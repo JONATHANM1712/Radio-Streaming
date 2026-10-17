@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:59:46.877926+00:00",
+  "updated_at_utc": "2026-10-17T05:00:51.760968+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "You Da One",
+        "detected_at_utc": "2026-10-17T04:59:51.564362+00:00"
+      },
       {
         "artist": "Owl City",
         "title": "Vanilla Twilight",
