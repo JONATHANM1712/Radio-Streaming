@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:05:32.938297+00:00",
+  "updated_at_utc": "2026-10-17T05:07:38.007244+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Canned Heat",
+        "detected_at_utc": "2026-10-17T05:07:37.869862+00:00"
+      },
       {
         "artist": "Nelly Furtado",
         "title": "I'm Like A Bird",
