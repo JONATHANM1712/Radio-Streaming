@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:55:22.245552+00:00",
+  "updated_at_utc": "2026-10-17T07:57:37.898656+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-10-17T07:57:37.744942+00:00"
+      },
       {
         "artist": "Jamie Cullum",
         "title": "Mind Trick",
