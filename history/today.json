@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T03:59:19.530297+00:00",
+  "updated_at_utc": "2026-10-17T04:05:02.192624+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hootie & The Blowfish",
+        "title": "Only Wanna Be With You",
+        "detected_at_utc": "2026-10-17T04:05:02.045508+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Play",
