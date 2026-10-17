@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:22:36.304475+00:00",
+  "updated_at_utc": "2026-10-17T14:23:39.783803+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gloria Estefan",
+        "title": "Reach (NBC Olympic Version)",
+        "detected_at_utc": "2026-10-17T14:23:36.083823+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Love Hurts",
