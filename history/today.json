@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:15:04.280684+00:00",
+  "updated_at_utc": "2026-10-17T07:17:22.187625+00:00",
   "stations": {
     "kis": [
       {
@@ -682,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suicidal Tendencies",
+        "title": "Lovely",
+        "detected_at_utc": "2026-10-17T07:17:22.101984+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Land of Confusion",
