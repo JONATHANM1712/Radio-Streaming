@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:15:04.015807+00:00",
+  "updated_at_utc": "2026-10-17T15:17:10.881918+00:00",
   "stations": {
     "kis": [
       {
@@ -770,6 +770,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City",
+        "title": "Vanilla Twilight",
+        "detected_at_utc": "2026-10-17T15:17:10.793045+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
