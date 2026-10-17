@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:27:38.909696+00:00",
+  "updated_at_utc": "2026-10-17T07:28:41.383456+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paula DeAnda",
+        "title": "Walk Away (Remember Me)",
+        "detected_at_utc": "2026-10-17T07:27:51.782983+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
