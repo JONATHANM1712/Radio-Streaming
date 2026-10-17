@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:16:54.452465+00:00",
+  "updated_at_utc": "2026-10-17T12:17:56.925488+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Complicated",
+        "detected_at_utc": "2026-10-17T12:17:49.239847+00:00"
+      },
       {
         "artist": "Madison Beer",
         "title": "Reckless",
@@ -1227,6 +1232,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Motörhead",
+        "title": "Ace of Spades",
+        "detected_at_utc": "2026-10-17T12:17:46.694234+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Sympathy For The Devil",
