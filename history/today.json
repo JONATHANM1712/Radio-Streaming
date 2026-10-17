@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:12:21.003379+00:00",
+  "updated_at_utc": "2026-10-17T13:14:22.826353+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-17T13:14:22.732142+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Clarity (feat. Foxes)",
