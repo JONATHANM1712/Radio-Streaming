@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:04:00.535672+00:00",
+  "updated_at_utc": "2026-10-17T07:06:16.244311+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Lantis",
+        "title": "Bunga Maaf",
+        "detected_at_utc": "2026-10-17T07:06:16.140627+00:00"
+      },
       {
         "artist": "Selena Gomez & The Scene",
         "title": "Who Says",
