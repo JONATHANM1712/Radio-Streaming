@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:24:47.023857+00:00",
+  "updated_at_utc": "2026-10-17T07:26:36.417157+00:00",
   "stations": {
     "kis": [
       {
@@ -697,6 +697,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Las Palabras De Amor (The Words Of Love)",
+        "detected_at_utc": "2026-10-17T07:26:36.327129+00:00"
+      },
       {
         "artist": "Suicidal Tendencies",
         "title": "You Can't Bring Me Down",
