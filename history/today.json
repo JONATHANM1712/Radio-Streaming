@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:10:47.324277+00:00",
+  "updated_at_utc": "2026-10-17T17:13:50.692240+00:00",
   "stations": {
     "kis": [
       {
@@ -47,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury",
+        "title": "The Great Pretender",
+        "detected_at_utc": "2026-10-17T17:13:50.609864+00:00"
+      },
       {
         "artist": "Everything But the Girl",
         "title": "I Don't Want to Talk About It",
