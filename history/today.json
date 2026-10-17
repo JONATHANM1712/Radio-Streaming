@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:16:58.494724+00:00",
+  "updated_at_utc": "2026-10-17T11:19:04.013995+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "She Looks So Perfect",
+        "detected_at_utc": "2026-10-17T11:19:03.829250+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "We Are Young (feat. Janelle Monáe)",
