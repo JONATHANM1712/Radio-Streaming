@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:46:00.038030+00:00",
+  "updated_at_utc": "2026-10-17T10:47:03.521966+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CeeLo Green",
+        "title": "F**k You",
+        "detected_at_utc": "2026-10-17T10:46:01.067720+00:00"
+      },
       {
         "artist": "DNCE",
         "title": "Got Me Good",
