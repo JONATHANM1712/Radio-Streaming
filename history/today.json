@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:43:09.307066+00:00",
+  "updated_at_utc": "2026-10-17T16:45:11.877200+00:00",
   "stations": {
     "kis": [
       {
@@ -875,6 +875,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-10-17T16:45:11.788820+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Shut Up and Let Me Go",
