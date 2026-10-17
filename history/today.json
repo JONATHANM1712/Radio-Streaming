@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:11:25.153056+00:00",
+  "updated_at_utc": "2026-10-17T16:13:23.103192+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hedi Yunus",
+        "title": "Sebatas Mimpi",
+        "detected_at_utc": "2026-10-17T16:13:23.005698+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "All That I Need (Edit)",
