@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:58:40.727205+00:00",
+  "updated_at_utc": "2026-10-17T07:59:43.148627+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "You Are My Everything (feat. Red)",
+        "detected_at_utc": "2026-10-17T07:59:28.009554+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Let's Get It Started (Spike Mix)",
