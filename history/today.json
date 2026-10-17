@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:28:07.239978+00:00",
+  "updated_at_utc": "2026-10-17T12:29:09.881497+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-17T12:29:07.659285+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Your Love Is My Drug",
