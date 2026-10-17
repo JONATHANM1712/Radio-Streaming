@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:19:36.541687+00:00",
+  "updated_at_utc": "2026-10-17T16:20:39.042988+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Roxette",
+        "title": "Vulnerable",
+        "detected_at_utc": "2026-10-17T16:20:32.450191+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "What Makes You Beautiful",
