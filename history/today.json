@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:27:20.279439+00:00",
+  "updated_at_utc": "2026-10-17T06:29:33.879782+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-17T06:29:33.774820+00:00"
+      },
       {
         "artist": "MGMT",
         "title": "Time to Pretend",
