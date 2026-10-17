@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:13:50.692240+00:00",
+  "updated_at_utc": "2026-10-17T17:14:53.084105+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Melly Goeslaw",
+        "title": "Gantung",
+        "detected_at_utc": "2026-10-17T17:14:48.603289+00:00"
+      },
       {
         "artist": "Shania Twain",
         "title": "You've Got A Way (International Mix)",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-17T17:14:52.582231+00:00"
+      },
       {
         "artist": "A Great Big World",
         "title": "Say Something",
