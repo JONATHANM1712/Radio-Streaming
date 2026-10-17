@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:42:46.733997+00:00",
+  "updated_at_utc": "2026-10-17T10:43:50.869664+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DNCE",
+        "title": "Got Me Good",
+        "detected_at_utc": "2026-10-17T10:42:53.980352+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Ordinary People",
