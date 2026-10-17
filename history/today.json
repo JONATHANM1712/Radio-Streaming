@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:38:40.858210+00:00",
+  "updated_at_utc": "2026-10-17T15:41:39.641552+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hanson",
+        "title": "Mmmbop",
+        "detected_at_utc": "2026-10-17T15:41:39.538972+00:00"
+      },
       {
         "artist": "Vina Panduwinata",
         "title": "Aku Makin Cinta",
