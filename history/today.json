@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:29:33.879782+00:00",
+  "updated_at_utc": "2026-10-17T06:30:36.900908+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Luther Vandross",
+        "title": "Dance With My Father",
+        "detected_at_utc": "2026-10-17T06:30:13.759927+00:00"
+      },
       {
         "artist": "Carly Rae Jepsen",
         "title": "Call Me Maybe",
