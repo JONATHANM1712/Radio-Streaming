@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:32:19.454290+00:00",
+  "updated_at_utc": "2026-10-17T05:33:22.926279+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Sedari Dulu",
+        "detected_at_utc": "2026-10-17T05:32:22.301277+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
