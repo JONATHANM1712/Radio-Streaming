@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T10:19:04.536400+00:00",
+  "updated_at_utc": "2026-10-17T10:20:07.744492+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Yellow",
+        "detected_at_utc": "2026-10-17T10:20:02.110214+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
