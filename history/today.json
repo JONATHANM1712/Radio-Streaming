@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:30:33.318891+00:00",
+  "updated_at_utc": "2026-10-17T04:32:44.420724+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Bila Kau Tak Disampingku",
+        "detected_at_utc": "2026-10-17T04:32:44.289748+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
