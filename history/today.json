@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:49:35.169579+00:00",
+  "updated_at_utc": "2026-10-17T12:50:37.620006+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dashboard Confessional",
+        "title": "Stolen",
+        "detected_at_utc": "2026-10-17T12:49:48.020319+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "For the Girl Who Has Everything (Club Mix)",
@@ -585,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "I Know You Want Me (Calle Ocho)",
+        "detected_at_utc": "2026-10-17T12:49:41.627368+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
