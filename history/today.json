@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:58:28.904346+00:00",
+  "updated_at_utc": "2026-10-17T16:59:33.596251+00:00",
   "stations": {
     "kis": [
       {
@@ -900,6 +900,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Starlight",
+        "detected_at_utc": "2026-10-17T16:59:31.125413+00:00"
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-17T16:58:29.870777+00:00"
+      },
       {
         "artist": "Drake",
         "title": "Hotline Bling",
