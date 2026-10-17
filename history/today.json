@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:58:21.111429+00:00",
+  "updated_at_utc": "2026-10-17T11:59:24.257550+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Hold It Against Me",
+        "detected_at_utc": "2026-10-17T11:59:17.967042+00:00"
+      },
       {
         "artist": "Paris Hilton",
         "title": "Stars Are Blind",
