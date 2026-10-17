@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:50:45.884789+00:00",
+  "updated_at_utc": "2026-10-17T08:51:48.712981+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gabrielle",
+        "title": "Sunshine",
+        "detected_at_utc": "2026-10-17T08:50:47.525071+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "Girlfriend",
