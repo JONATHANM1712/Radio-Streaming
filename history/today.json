@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:39:00.936535+00:00",
+  "updated_at_utc": "2026-10-17T04:41:28.311171+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gotye",
+        "title": "Somebody That I Used to Know (feat. Kimbra)",
+        "detected_at_utc": "2026-10-17T04:41:28.139397+00:00"
+      },
       {
         "artist": "Garbage",
         "title": "Androgyny",
