@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:48:10.123866+00:00",
+  "updated_at_utc": "2026-10-17T05:49:12.843993+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "Want To Want Me",
+        "detected_at_utc": "2026-10-17T05:48:10.167010+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
