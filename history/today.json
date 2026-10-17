@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:44:04.555894+00:00",
+  "updated_at_utc": "2026-10-17T04:45:07.832730+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Give Your Heart a Break",
+        "detected_at_utc": "2026-10-17T04:44:08.216772+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
