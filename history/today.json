@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:23:14.710944+00:00",
+  "updated_at_utc": "2026-10-17T15:24:17.212320+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-17T15:23:18.848809+00:00"
+      },
       {
         "artist": "Jamie Lawson",
         "title": "Wasn't Expecting That",
@@ -1712,6 +1717,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "You & I",
+        "detected_at_utc": "2026-10-17T15:23:15.738415+00:00"
+      },
       {
         "artist": "Ugly Kid Joe",
         "title": "Neighbor (Full-Length Version)",
