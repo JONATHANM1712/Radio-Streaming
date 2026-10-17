@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:54:00.865995+00:00",
+  "updated_at_utc": "2026-10-17T15:55:03.584564+00:00",
   "stations": {
     "kis": [
       {
@@ -815,6 +815,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Click Five",
+        "title": "Empty",
+        "detected_at_utc": "2026-10-17T15:55:02.969953+00:00"
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-10-17T15:54:01.550827+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Love Don't Cost a Thing",
