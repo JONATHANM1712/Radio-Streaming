@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:14:34.851947+00:00",
+  "updated_at_utc": "2026-10-17T05:15:38.629433+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Sebuah Kisah Klasik (Re-Mix)",
+        "detected_at_utc": "2026-10-17T05:14:56.688783+00:00"
+      },
       {
         "artist": "AndreiD",
         "title": "Voyage (Remix)",
