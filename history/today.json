@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:09:44.427795+00:00",
+  "updated_at_utc": "2026-10-17T04:11:57.826607+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore",
+        "title": "I Wanna Be With You",
+        "detected_at_utc": "2026-10-17T04:11:12.067465+00:00"
+      },
       {
         "artist": "Hootie & The Blowfish",
         "title": "Only Wanna Be With You",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Landon Pigg",
+        "title": "Falling In Love At a Coffee Shop",
+        "detected_at_utc": "2026-10-17T04:11:47.057426+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
@@ -227,6 +237,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Lilywhite Lilith (2025 Remaster)",
+        "detected_at_utc": "2026-10-17T04:11:46.033625+00:00"
+      },
       {
         "artist": "Nazareth",
         "title": "Hair Of The Dog (Live)",
