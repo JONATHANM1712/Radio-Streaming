@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:19:30.891113+00:00",
+  "updated_at_utc": "2026-10-17T14:21:33.236235+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "I Need Your Love (feat. Ellie Goulding)",
+        "detected_at_utc": "2026-10-17T14:21:33.102310+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Breakaway",
