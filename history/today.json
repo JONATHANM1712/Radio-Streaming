@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:50:37.234812+00:00",
+  "updated_at_utc": "2026-10-17T06:51:40.162323+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon",
+        "detected_at_utc": "2026-10-17T06:50:52.297908+00:00"
+      },
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
