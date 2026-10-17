@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:21:41.890121+00:00",
+  "updated_at_utc": "2026-10-17T07:24:47.023857+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-17T07:24:46.932493+00:00"
+      },
       {
         "artist": "Omi",
         "title": "Hula Hoop",
