@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:40:46.620228+00:00",
+  "updated_at_utc": "2026-10-17T13:41:53.730476+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "detected_at_utc": "2026-10-17T13:41:53.576816+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "7 Days",
