@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:51:48.712981+00:00",
+  "updated_at_utc": "2026-10-17T10:17:57.402971+00:00",
   "stations": {
     "kis": [
       {
@@ -917,6 +917,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rammstein",
+        "title": "Du riechst so gut",
+        "detected_at_utc": "2026-10-17T10:17:56.944580+00:00"
+      },
       {
         "artist": "Rage Against the Machine",
         "title": "Bulls On Parade",
