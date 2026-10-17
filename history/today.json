@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:30:12.373464+00:00",
+  "updated_at_utc": "2026-10-17T13:31:16.308555+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-17T13:31:13.006286+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Misery",
