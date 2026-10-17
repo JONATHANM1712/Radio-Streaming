@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:46:11.494980+00:00",
+  "updated_at_utc": "2026-10-17T04:47:14.899869+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-17T04:47:14.829354+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Give Your Heart a Break",
@@ -307,6 +312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "Mayonaise",
+        "detected_at_utc": "2026-10-17T04:47:08.845053+00:00"
+      },
       {
         "artist": "Powermad",
         "title": "Nice Dreams",
