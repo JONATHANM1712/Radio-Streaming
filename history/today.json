@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:42:03.051391+00:00",
+  "updated_at_utc": "2026-10-17T16:43:09.307066+00:00",
   "stations": {
     "kis": [
       {
@@ -875,6 +875,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Shut Up and Let Me Go",
+        "detected_at_utc": "2026-10-17T16:43:09.227034+00:00"
+      },
       {
         "artist": "Bruno Mars, Anderson .Paak & Silk Sonic",
         "title": "Smokin Out the Window",
