@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:51:05.080916+00:00",
+  "updated_at_utc": "2026-10-17T11:53:10.283605+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babyface, Mariah Carey, Kenny G & Sheila E.",
+        "title": "Every Time I Close My Eyes",
+        "detected_at_utc": "2026-10-17T11:53:10.134037+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Lonely",
