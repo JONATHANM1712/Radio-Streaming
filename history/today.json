@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:37:03.629101+00:00",
+  "updated_at_utc": "2026-10-17T14:39:10.271687+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "AMAZING",
+        "detected_at_utc": "2026-10-17T14:39:10.126823+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Shut Up",
