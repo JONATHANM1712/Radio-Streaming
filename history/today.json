@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:11:01.171324+00:00",
+  "updated_at_utc": "2026-10-17T14:13:12.548907+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Caesar",
+        "title": "Who Knows",
+        "detected_at_utc": "2026-10-17T14:13:12.343353+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "As Long As You Love Me (feat. Big Sean)",
