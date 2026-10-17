@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:33:15.754357+00:00",
+  "updated_at_utc": "2026-10-17T12:37:22.267739+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Talk (feat. Disclosure)",
+        "detected_at_utc": "2026-10-17T12:37:22.177560+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Just a Friend 2002",
