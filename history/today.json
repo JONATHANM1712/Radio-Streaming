@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:38:30.018693+00:00",
+  "updated_at_utc": "2026-10-17T08:39:32.497946+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "detected_at_utc": "2026-10-17T08:38:39.051873+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Walking Away",
