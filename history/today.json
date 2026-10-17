@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:44:18.625469+00:00",
+  "updated_at_utc": "2026-10-17T14:45:21.844302+00:00",
   "stations": {
     "kis": [
       {
@@ -730,6 +730,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-17T14:45:21.339123+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Someday (From the August Rush Soundtrack)",
