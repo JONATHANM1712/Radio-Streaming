@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:53:10.283605+00:00",
+  "updated_at_utc": "2026-10-17T11:55:10.131978+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-17T11:55:09.983915+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Yeah! (feat. Lil Jon & Ludacris)",
