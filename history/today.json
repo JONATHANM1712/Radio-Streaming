@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:09:44.839406+00:00",
+  "updated_at_utc": "2026-10-17T17:10:47.324277+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shania Twain",
+        "title": "You've Got A Way (International Mix)",
+        "detected_at_utc": "2026-10-17T17:10:43.188684+00:00"
+      },
       {
         "artist": "Joe",
         "title": "I Wanna Know",
@@ -20,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "A Great Big World",
+        "title": "Say Something",
+        "detected_at_utc": "2026-10-17T17:10:47.150654+00:00"
+      },
       {
         "artist": "Blue",
         "title": "If You Come Back",
