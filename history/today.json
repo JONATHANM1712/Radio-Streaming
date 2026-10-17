@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:57:53.211233+00:00",
+  "updated_at_utc": "2026-10-17T13:58:57.946630+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fall Out Boy",
+        "title": "Thnks Fr Th Mmrs",
+        "detected_at_utc": "2026-10-17T13:58:57.808513+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
