@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:23:39.845881+00:00",
+  "updated_at_utc": "2026-10-17T06:24:42.600156+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MGMT",
+        "title": "Time to Pretend",
+        "detected_at_utc": "2026-10-17T06:24:12.039735+00:00"
+      },
       {
         "artist": "Ella Mai",
         "title": "Boo'd Up",
