@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:37:57.282645+00:00",
+  "updated_at_utc": "2026-10-17T07:38:59.662863+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blondie",
+        "title": "Maria",
+        "detected_at_utc": "2026-10-17T07:38:57.092358+00:00"
+      },
       {
         "artist": "Groove Bandit",
         "title": "Gelora Asmara",
