@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:52:38.367511+00:00",
+  "updated_at_utc": "2026-10-17T14:55:33.808192+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Major Lazer",
+        "title": "Cold Water (feat. Justin Bieber & MØ)",
+        "detected_at_utc": "2026-10-17T14:55:33.691038+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "The Climb",
