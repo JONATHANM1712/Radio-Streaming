@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:45:58.603088+00:00",
+  "updated_at_utc": "2026-10-17T05:47:07.202117+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-17T05:47:07.116061+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
