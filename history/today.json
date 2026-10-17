@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:15:56.991280+00:00",
+  "updated_at_utc": "2026-10-17T04:17:59.740875+00:00",
   "stations": {
     "kis": [
       {
@@ -242,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "L.A. Guns",
+        "title": "Rip And Tear",
+        "detected_at_utc": "2026-10-17T04:17:59.535232+00:00"
+      },
       {
         "artist": "Infectious Grooves",
         "title": "Therapy",
