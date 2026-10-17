@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:36:32.330513+00:00",
+  "updated_at_utc": "2026-10-17T13:37:39.665221+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "7 Days",
+        "detected_at_utc": "2026-10-17T13:37:39.416969+00:00"
+      },
       {
         "artist": "Megan Thee Stallion",
         "title": "Savage",
