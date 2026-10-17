@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:05:02.192624+00:00",
+  "updated_at_utc": "2026-10-17T04:06:05.753372+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-10-17T04:05:18.500079+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "You Found Me",
@@ -217,6 +222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Supergroove",
+        "title": "Scorpio Girls",
+        "detected_at_utc": "2026-10-17T04:05:18.860317+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Paint It, Black",
