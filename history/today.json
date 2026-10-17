@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:40:05.944295+00:00",
+  "updated_at_utc": "2026-10-17T06:41:25.545233+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "What the Hell",
+        "detected_at_utc": "2026-10-17T06:41:25.458819+00:00"
+      },
       {
         "artist": "MAX",
         "title": "Blueberry Eyes (feat. SUGA of BTS)",
