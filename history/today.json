@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:48:00.730829+00:00",
+  "updated_at_utc": "2026-10-17T11:50:02.121643+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Akon",
+        "title": "Lonely",
+        "detected_at_utc": "2026-10-17T11:50:01.984151+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "The One That Got Away",
