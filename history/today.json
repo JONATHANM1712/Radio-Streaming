@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:03:34.491411+00:00",
+  "updated_at_utc": "2026-10-17T11:06:37.450920+00:00",
   "stations": {
     "kis": [
       {
@@ -1032,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "Trash",
+        "detected_at_utc": "2026-10-17T11:06:37.306154+00:00"
+      },
       {
         "artist": "Bush",
         "title": "Swallowed",
