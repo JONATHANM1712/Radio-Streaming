@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:26:50.677917+00:00",
+  "updated_at_utc": "2026-10-17T16:28:50.641956+00:00",
   "stations": {
     "kis": [
       {
@@ -855,6 +855,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-17T16:28:50.549793+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "The A Team",
