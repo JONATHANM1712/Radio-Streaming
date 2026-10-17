@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:08:40.122811+00:00",
+  "updated_at_utc": "2026-10-17T04:09:44.427795+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-17T04:08:42.326646+00:00"
+      },
       {
         "artist": "R. City",
         "title": "Locked Away (feat. Adam Levine)",
