@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:00:36.236586+00:00",
+  "updated_at_utc": "2026-10-17T17:02:31.286870+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-10-17T17:02:31.119973+00:00"
+      },
       {
         "artist": "Blur",
         "title": "Coffee & TV",
