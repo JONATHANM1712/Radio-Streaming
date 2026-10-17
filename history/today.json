@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:23:07.090451+00:00",
+  "updated_at_utc": "2026-10-17T08:24:19.026301+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Roses (feat. ROZES)",
+        "detected_at_utc": "2026-10-17T08:24:18.936875+00:00"
+      },
       {
         "artist": "Jennifer Love Hewitt",
         "title": "BareNaked (Video Version)",
