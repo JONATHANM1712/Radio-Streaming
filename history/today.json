@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:26:23.871729+00:00",
+  "updated_at_utc": "2026-10-17T08:28:24.937581+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "TiK ToK",
+        "detected_at_utc": "2026-10-17T08:28:24.832864+00:00"
+      },
       {
         "artist": "The Chainsmokers",
         "title": "Roses (feat. ROZES)",
