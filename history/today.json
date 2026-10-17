@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T11:37:37.808611+00:00",
+  "updated_at_utc": "2026-10-17T11:38:40.916074+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur",
+        "title": "Say You Won't Let Go",
+        "detected_at_utc": "2026-10-17T11:38:39.732733+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Drive",
