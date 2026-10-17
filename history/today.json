@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:49:34.546743+00:00",
+  "updated_at_utc": "2026-10-17T06:50:37.234812+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Will You Wait For Me",
+        "detected_at_utc": "2026-10-17T06:50:20.894834+00:00"
+      },
       {
         "artist": "Darren Hayes",
         "title": "Insatiable",
