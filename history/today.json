@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:29:14.102214+00:00",
+  "updated_at_utc": "2026-10-17T05:30:43.478097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
+        "detected_at_utc": "2026-10-17T05:30:43.311580+00:00"
+      },
       {
         "artist": "Tyler Collins",
         "title": "Thanks to You",
