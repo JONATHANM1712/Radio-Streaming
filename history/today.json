@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:52:58.481665+00:00",
+  "updated_at_utc": "2026-10-17T15:54:00.865995+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Code Red",
+        "title": "This Is Our Song",
+        "detected_at_utc": "2026-10-17T15:53:56.801711+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "You Belong With Me",
