@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:38:24.779357+00:00",
+  "updated_at_utc": "2026-10-17T12:40:26.687020+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me",
+        "detected_at_utc": "2026-10-17T12:40:26.597440+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Talk (feat. Disclosure)",
