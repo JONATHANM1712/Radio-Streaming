@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:56:31.714927+00:00",
+  "updated_at_utc": "2026-10-17T06:58:04.942380+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Outkast",
+        "title": "Hey Ya!",
+        "detected_at_utc": "2026-10-17T06:58:04.853423+00:00"
+      },
       {
         "artist": "Julia Michaels",
         "title": "Issues",
