@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:31:17.361821+00:00",
+  "updated_at_utc": "2026-10-17T17:32:19.829077+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "You Took My Heart Away",
+        "detected_at_utc": "2026-10-17T17:32:11.379284+00:00"
+      },
       {
         "artist": "Simple Plan",
         "title": "Jet Lag (feat. Natasha Bedingfield)",
@@ -102,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bee Gees",
+        "title": "Too Much Heaven",
+        "detected_at_utc": "2026-10-17T17:32:18.929046+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Summer Of '69",
