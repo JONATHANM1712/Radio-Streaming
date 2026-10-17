@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:52:54.110281+00:00",
+  "updated_at_utc": "2026-10-17T12:53:56.533401+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Superheroes",
+        "detected_at_utc": "2026-10-17T12:53:49.354046+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "I Know You Want Me (Calle Ocho)",
@@ -1312,6 +1317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "Big Empty",
+        "detected_at_utc": "2026-10-17T12:53:42.062798+00:00"
+      },
       {
         "artist": "Nirvana",
         "title": "In Bloom",
