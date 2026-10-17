@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:29:14.745731+00:00",
+  "updated_at_utc": "2026-10-17T17:31:17.361821+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Iggy Azalea",
+        "title": "Fancy (feat. Charli XCX)",
+        "detected_at_utc": "2026-10-17T17:31:17.255895+00:00"
+      },
       {
         "artist": "Calum Scott",
         "title": "At Your Worst (Acoustic)",
