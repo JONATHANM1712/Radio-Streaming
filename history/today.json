@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:19:03.163588+00:00",
+  "updated_at_utc": "2026-10-17T04:22:07.940730+00:00",
   "stations": {
     "kis": [
       {
@@ -247,6 +247,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "And So I Know",
+        "detected_at_utc": "2026-10-17T04:22:07.806110+00:00"
+      },
       {
         "artist": "L.A. Guns",
         "title": "Rip And Tear",
