@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:40:43.548569+00:00",
+  "updated_at_utc": "2026-10-17T05:41:46.912157+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Winans",
+        "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+        "detected_at_utc": "2026-10-17T05:40:48.067472+00:00"
+      },
       {
         "artist": "Elton John & Dua Lipa",
         "title": "Cold Heart (PNAU Remix)",
