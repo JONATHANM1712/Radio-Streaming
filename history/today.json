@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:08:41.960882+00:00",
+  "updated_at_utc": "2026-10-17T05:10:46.829683+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-10-17T05:10:46.625365+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Canned Heat",
