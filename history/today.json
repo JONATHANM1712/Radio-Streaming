@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:33:03.706691+00:00",
+  "updated_at_utc": "2026-10-17T14:36:00.593656+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ratu",
+        "title": "Teman Tapi Mesra",
+        "detected_at_utc": "2026-10-17T14:36:00.394688+00:00"
+      },
       {
         "artist": "R.E.M.",
         "title": "Imitation of Life",
