@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:33:47.575085+00:00",
+  "updated_at_utc": "2026-10-17T04:36:53.523895+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dheeraj Jadhav",
+        "title": "Close This Distance",
+        "detected_at_utc": "2026-10-17T04:36:53.347385+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Bila Kau Tak Disampingku",
