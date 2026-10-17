@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:14:22.826353+00:00",
+  "updated_at_utc": "2026-10-17T13:15:25.417057+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Go On Girl",
+        "detected_at_utc": "2026-10-17T13:14:32.211871+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "All I Have to Give",
@@ -615,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-17T13:15:24.071512+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
