@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:59:35.953962+00:00",
+  "updated_at_utc": "2026-10-17T07:00:38.632677+00:00",
   "stations": {
     "kis": [
       {
@@ -657,6 +657,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sonic Spark",
+        "title": "Alright Come On",
+        "detected_at_utc": "2026-10-17T06:59:51.329822+00:00"
+      },
       {
         "artist": "Led Zeppelin",
         "title": "The Song Remains the Same",
