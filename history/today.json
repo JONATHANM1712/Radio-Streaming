@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:59:05.331656+00:00",
+  "updated_at_utc": "2026-10-17T13:01:07.797939+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Arjuna",
+        "detected_at_utc": "2026-10-17T13:01:07.700003+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Nothing But Love",
