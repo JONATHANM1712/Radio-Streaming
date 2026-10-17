@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:03:46.838840+00:00",
+  "updated_at_utc": "2026-10-17T08:04:49.400736+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "Scream",
+        "detected_at_utc": "2026-10-17T08:04:35.484810+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "You Are My Everything (feat. Red)",
@@ -787,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joy Division",
+        "title": "Disorder",
+        "detected_at_utc": "2026-10-17T08:04:34.899606+00:00"
+      },
       {
         "artist": "The Cure",
         "title": "Just Like Heaven",
