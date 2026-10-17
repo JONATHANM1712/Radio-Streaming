@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:45:10.182189+00:00",
+  "updated_at_utc": "2026-10-17T07:47:08.848248+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Gravity",
+        "detected_at_utc": "2026-10-17T07:47:08.764751+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Night Changes",
