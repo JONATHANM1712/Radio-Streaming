@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:52:53.926838+00:00",
+  "updated_at_utc": "2026-10-17T06:53:58.192709+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon (Acoustic Piano)",
+        "detected_at_utc": "2026-10-17T06:52:55.625034+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Talking to the Moon",
