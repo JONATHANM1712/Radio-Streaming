@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T14:07:43.087383+00:00",
+  "updated_at_utc": "2026-10-17T14:09:55.889127+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
+        "detected_at_utc": "2026-10-17T14:09:55.662254+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Running",
