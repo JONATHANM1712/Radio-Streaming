@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:50:52.637970+00:00",
+  "updated_at_utc": "2026-10-17T15:51:55.335547+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Love Don't Cost a Thing",
+        "detected_at_utc": "2026-10-17T15:50:57.745837+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
@@ -1777,6 +1782,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Green Day",
+        "title": "Basket Case",
+        "detected_at_utc": "2026-10-17T15:50:53.887888+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "Given to Fly",
