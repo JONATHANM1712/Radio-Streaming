@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:46:41.498477+00:00",
+  "updated_at_utc": "2026-10-17T08:47:44.296599+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-17T08:46:51.508787+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "Never Say Never",
