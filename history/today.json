@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T04:22:07.940730+00:00",
+  "updated_at_utc": "2026-10-17T04:23:12.103966+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone & Swae Lee",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "detected_at_utc": "2026-10-17T04:23:11.920860+00:00"
+      },
       {
         "artist": "Ciara",
         "title": "1, 2 Step (feat. Missy Elliott)",
