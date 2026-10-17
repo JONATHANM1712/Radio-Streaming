@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:33:58.402485+00:00",
+  "updated_at_utc": "2026-10-17T16:37:57.336247+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "If I Were a Boy",
+        "detected_at_utc": "2026-10-17T16:37:57.242669+00:00"
+      },
       {
         "artist": "Once Mekel",
         "title": "Anggun",
