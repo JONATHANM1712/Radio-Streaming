@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:19:01.349468+00:00",
+  "updated_at_utc": "2026-10-17T08:20:13.128198+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Love Hewitt",
+        "title": "BareNaked (Video Version)",
+        "detected_at_utc": "2026-10-17T08:20:13.028738+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Sports car",
