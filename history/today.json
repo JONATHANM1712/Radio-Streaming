@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:30:12.326647+00:00",
+  "updated_at_utc": "2026-10-17T12:32:13.401740+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario",
+        "title": "Just a Friend 2002",
+        "detected_at_utc": "2026-10-17T12:32:13.316335+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
