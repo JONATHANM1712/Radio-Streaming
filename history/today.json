@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:59:08.630760+00:00",
+  "updated_at_utc": "2026-10-17T16:00:11.059099+00:00",
   "stations": {
     "kis": [
       {
@@ -1807,6 +1807,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "New Year's Day",
+        "detected_at_utc": "2026-10-17T16:00:07.143197+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Never Tear Us Apart",
