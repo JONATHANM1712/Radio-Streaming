@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T05:51:49.877575+00:00",
+  "updated_at_utc": "2026-10-17T05:53:58.492945+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Karma",
+        "detected_at_utc": "2026-10-17T05:53:58.346717+00:00"
+      },
       {
         "artist": "Rod Stewart",
         "title": "Have I Told You Lately (Unplugged Version)",
