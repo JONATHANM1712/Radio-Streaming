@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:20:39.042988+00:00",
+  "updated_at_utc": "2026-10-17T16:21:41.463040+00:00",
   "stations": {
     "kis": [
       {
@@ -850,6 +850,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Silentó",
+        "title": "Watch Me (Whip / Nae Nae)",
+        "detected_at_utc": "2026-10-17T16:21:41.081153+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "My Place (feat. Jaheim)",
