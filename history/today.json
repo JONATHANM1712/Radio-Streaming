@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:14:31.964466+00:00",
+  "updated_at_utc": "2026-10-17T16:15:34.822501+00:00",
   "stations": {
     "kis": [
       {
@@ -1847,6 +1847,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "Bullet with Butterfly Wings",
+        "detected_at_utc": "2026-10-17T16:15:31.118282+00:00"
+      },
       {
         "artist": "Rage Against the Machine",
         "title": "Wake Up",
