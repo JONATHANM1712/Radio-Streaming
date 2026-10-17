@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:51:40.162323+00:00",
+  "updated_at_utc": "2026-10-17T06:52:53.926838+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-10-17T06:52:24.474258+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Will You Wait For Me",
