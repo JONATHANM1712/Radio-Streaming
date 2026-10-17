@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T03:58:08.902369+00:00",
+  "updated_at_utc": "2026-10-17T03:59:19.530297+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me",
+        "detected_at_utc": "2026-10-17T03:59:19.393982+00:00"
+      },
       {
         "artist": "Nelly Furtado",
         "title": "Say It Right",
@@ -207,6 +212,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Paint It, Black",
+        "detected_at_utc": "2026-10-17T03:59:19.437808+00:00"
+      },
       {
         "artist": "Alice In Chains",
         "title": "Nutshell (Unplugged)",
