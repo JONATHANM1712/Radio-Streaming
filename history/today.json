@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T06:39:02.869243+00:00",
+  "updated_at_utc": "2026-10-17T06:40:05.944295+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snow Patrol",
+        "title": "Chasing Cars",
+        "detected_at_utc": "2026-10-17T06:39:48.609610+00:00"
+      },
       {
         "artist": "Caffeine",
         "title": "Hidupku Kan Damaikan Hatimu",
@@ -270,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MAX",
+        "title": "Blueberry Eyes (feat. SUGA of BTS)",
+        "detected_at_utc": "2026-10-17T06:39:15.771424+00:00"
+      },
       {
         "artist": "Mary J. Blige",
         "title": "Be Without You (Kendu Mix)",
