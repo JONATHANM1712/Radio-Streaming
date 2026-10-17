@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T13:16:28.022440+00:00",
+  "updated_at_utc": "2026-10-17T13:19:38.662277+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Stronger",
+        "detected_at_utc": "2026-10-17T13:19:38.422965+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
