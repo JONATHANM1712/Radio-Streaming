@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T15:46:51.446924+00:00",
+  "updated_at_utc": "2026-10-17T15:47:54.371708+00:00",
   "stations": {
     "kis": [
       {
@@ -805,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-17T15:46:51.566166+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Touch My Hand",
