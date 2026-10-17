@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:15:34.822501+00:00",
+  "updated_at_utc": "2026-10-17T16:16:37.336202+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "My Place (feat. Jaheim)",
+        "detected_at_utc": "2026-10-17T16:16:34.505512+00:00"
+      },
       {
         "artist": "Coi Leray",
         "title": "Players",
