@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T12:06:32.367429+00:00",
+  "updated_at_utc": "2026-10-17T12:07:34.742330+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-17T12:07:32.364950+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Stitches",
