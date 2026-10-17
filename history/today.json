@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T08:22:04.520945+00:00",
+  "updated_at_utc": "2026-10-17T08:23:07.090451+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Make You Feel My Love",
+        "detected_at_utc": "2026-10-17T08:22:06.085351+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Engga Ngerti",
