@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T16:00:11.059099+00:00",
+  "updated_at_utc": "2026-10-17T16:01:13.820472+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Let It Go (Single Version)",
+        "detected_at_utc": "2026-10-17T16:01:06.970814+00:00"
+      },
       {
         "artist": "Joss Stone",
         "title": "Don't Cha Wanna Ride",
