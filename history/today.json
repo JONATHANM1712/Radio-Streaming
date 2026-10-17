@@ -1,8 +1,13 @@
 {
   "date": "2026-10-17",
-  "updated_at_utc": "2026-10-17T07:26:36.417157+00:00",
+  "updated_at_utc": "2026-10-17T07:27:38.909696+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bernard Oattes",
+        "title": "Throw Your Fears To The Wind",
+        "detected_at_utc": "2026-10-17T07:27:35.790457+00:00"
+      },
       {
         "artist": "Lisa Keith",
         "title": "Better Than You",
