@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:51:35.834720+00:00",
+  "updated_at_utc": "2026-10-18T12:53:46.762920+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-18T12:53:46.671425+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Imma Be",
