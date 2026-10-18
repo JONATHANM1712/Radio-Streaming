@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:26:40.906750+00:00",
+  "updated_at_utc": "2026-10-18T16:28:36.373113+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "will.i.am",
+        "title": "Scream & Shout (feat. Britney Spears)",
+        "detected_at_utc": "2026-10-18T16:28:36.281237+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
