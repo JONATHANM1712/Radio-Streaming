@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:30:30.094769+00:00",
+  "updated_at_utc": "2026-10-18T15:31:58.579021+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vertical Horizon",
+        "title": "Best I Ever Had (Grey Sky Morning)",
+        "detected_at_utc": "2026-10-18T15:31:58.479193+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
