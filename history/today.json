@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:16:01.288947+00:00",
+  "updated_at_utc": "2026-10-18T06:17:04.624636+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Jangan Cintai Aku Apa Adanya",
+        "detected_at_utc": "2026-10-18T06:16:10.612659+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Forever (Main Version)",
@@ -70,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Empire Of The Sun",
+        "title": "Walking On A Dream",
+        "detected_at_utc": "2026-10-18T06:16:21.170650+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
