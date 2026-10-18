@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:45:43.389206+00:00",
+  "updated_at_utc": "2026-10-18T13:46:51.121460+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-18T13:46:51.031848+00:00"
+      },
       {
         "artist": "Iyaz",
         "title": "Solo",
