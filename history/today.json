@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:49:11.502945+00:00",
+  "updated_at_utc": "2026-10-18T08:50:56.582249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gorillaz",
+        "title": "On Melancholy Hill",
+        "detected_at_utc": "2026-10-18T08:50:56.492884+00:00"
+      },
       {
         "artist": "Charli xcx",
         "title": "Boom Clap",
