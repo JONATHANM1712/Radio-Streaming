@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:52:45.777399+00:00",
+  "updated_at_utc": "2026-10-18T17:54:53.603520+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kesha",
+        "title": "Your Love Is My Drug",
+        "detected_at_utc": "2026-10-18T17:54:53.508936+00:00"
+      },
       {
         "artist": "Eagle-Eye Cherry",
         "title": "Save Tonight",
