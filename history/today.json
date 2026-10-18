@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:49:25.742092+00:00",
+  "updated_at_utc": "2026-10-18T12:50:32.886014+00:00",
   "stations": {
     "kis": [
       {
@@ -887,6 +887,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Art Company",
+        "title": "Susanna",
+        "detected_at_utc": "2026-10-18T12:50:32.786599+00:00"
+      },
       {
         "artist": "Rick Astley",
         "title": "It Would Take a Strong Strong Man",
