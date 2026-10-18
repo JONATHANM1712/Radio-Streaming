@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:41:21.786007+00:00",
+  "updated_at_utc": "2026-10-18T11:42:38.911332+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Never Gonna Leave This Bed",
+        "detected_at_utc": "2026-10-18T11:42:38.777208+00:00"
+      },
       {
         "artist": "POTRET",
         "title": "Bagaikan Langit",
