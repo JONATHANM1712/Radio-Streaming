@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:32:38.691021+00:00",
+  "updated_at_utc": "2026-10-18T13:33:41.456710+00:00",
   "stations": {
     "kis": [
       {
@@ -1002,6 +1002,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "L.A. Guns",
+        "title": "The Ballad Of Jayne",
+        "detected_at_utc": "2026-10-18T13:33:37.092446+00:00"
+      },
       {
         "artist": "Itsuwa Mayumi",
         "title": "Kokoronotomo (Toki No Nagareni Live)",
