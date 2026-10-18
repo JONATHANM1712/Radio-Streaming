@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:25:49.455838+00:00",
+  "updated_at_utc": "2026-10-18T13:28:03.952653+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-18T13:28:03.859810+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Umbrella (feat. JAŸ-Z) [Mixed]",
