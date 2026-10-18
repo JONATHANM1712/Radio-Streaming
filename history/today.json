@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:14:50.160449+00:00",
+  "updated_at_utc": "2026-10-18T13:15:52.602168+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Teruskanlah",
+        "detected_at_utc": "2026-10-18T13:15:02.247581+00:00"
+      },
       {
         "artist": "Lisa Loeb & Nine Stories",
         "title": "Do You Sleep?",
