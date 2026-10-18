@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:12:27.590664+00:00",
+  "updated_at_utc": "2026-10-18T14:13:30.237720+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Dark Horse (feat. Juicy J)",
+        "detected_at_utc": "2026-10-18T14:12:57.629648+00:00"
+      },
       {
         "artist": "Lady Gaga & Bruno Mars",
         "title": "Die With A Smile",
