@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:28:24.469037+00:00",
+  "updated_at_utc": "2026-10-18T08:30:07.235771+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fatima Rainey",
+        "title": "Love Is a Wonderful Thing (Club version)",
+        "detected_at_utc": "2026-10-18T08:30:07.129456+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
