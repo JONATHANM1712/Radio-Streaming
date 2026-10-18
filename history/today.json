@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:45:42.625937+00:00",
+  "updated_at_utc": "2026-10-18T11:46:45.735309+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "No Such Thing",
+        "detected_at_utc": "2026-10-18T11:45:48.981236+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Never Gonna Leave This Bed",
@@ -335,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Someone Like You",
+        "detected_at_utc": "2026-10-18T11:46:45.563527+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
