@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:30:00.220203+00:00",
+  "updated_at_utc": "2026-10-18T11:31:03.547508+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fort Minor",
+        "title": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
+        "detected_at_utc": "2026-10-18T11:30:46.347587+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
