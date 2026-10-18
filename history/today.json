@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:56:08.176049+00:00",
+  "updated_at_utc": "2026-10-18T08:57:11.237834+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-18T08:56:33.529731+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "You and I Both",
