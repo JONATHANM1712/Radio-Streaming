@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:15:52.602168+00:00",
+  "updated_at_utc": "2026-10-18T13:16:55.832699+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Brian McKnight",
+        "title": "My Kind of Girl (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-10-18T13:16:55.736188+00:00"
+      },
       {
         "artist": "benny blanco, BTS & Snoop Dogg",
         "title": "Bad Decisions",
