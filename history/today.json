@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:12:02.356323+00:00",
+  "updated_at_utc": "2026-10-18T06:13:09.652741+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-10-18T06:12:12.519110+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
