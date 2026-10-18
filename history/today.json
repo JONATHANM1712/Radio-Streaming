@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:14:17.771105+00:00",
+  "updated_at_utc": "2026-10-18T15:15:20.388100+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly & The Bakuucakar",
+        "title": "Malaikat Juga Tahu",
+        "detected_at_utc": "2026-10-18T15:14:41.408582+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "Last Kiss",
