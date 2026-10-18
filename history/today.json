@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:54:15.069957+00:00",
+  "updated_at_utc": "2026-10-18T11:56:13.505427+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sophie Ellis-Bextor",
+        "title": "Murder On The Dancefloor",
+        "detected_at_utc": "2026-10-18T11:56:13.367776+00:00"
+      },
       {
         "artist": "Snakehips",
         "title": "All My Friends (feat. Tinashe & Chance The Rapper)",
