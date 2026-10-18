@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:22:15.530373+00:00",
+  "updated_at_utc": "2026-10-18T07:25:39.631301+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Criminal",
+        "detected_at_utc": "2026-10-18T07:25:39.506486+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "What Do You Mean?",
