@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:32:48.233060+00:00",
+  "updated_at_utc": "2026-10-18T16:33:50.906323+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Interaksi",
+        "detected_at_utc": "2026-10-18T16:33:43.707755+00:00"
+      },
       {
         "artist": "will.i.am",
         "title": "Scream & Shout (feat. Britney Spears)",
