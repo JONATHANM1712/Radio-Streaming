@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:57:11.237834+00:00",
+  "updated_at_utc": "2026-10-18T09:02:45.277941+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Supermassive Black Hole",
+        "detected_at_utc": "2026-10-18T08:57:35.316686+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
