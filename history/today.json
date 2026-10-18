@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:19:06.417417+00:00",
+  "updated_at_utc": "2026-10-18T08:20:12.169022+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Hair",
+        "detected_at_utc": "2026-10-18T08:20:09.550036+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
