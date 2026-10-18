@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:07:23.884936+00:00",
+  "updated_at_utc": "2026-10-18T15:08:28.198331+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-18T15:08:04.400434+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Earned It (Fifty Shades of Grey)",
