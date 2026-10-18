@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:06:37.070738+00:00",
+  "updated_at_utc": "2026-10-18T17:08:38.430534+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Blunt",
+        "title": "You're Beautiful",
+        "detected_at_utc": "2026-10-18T17:08:38.329077+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Nothing",
