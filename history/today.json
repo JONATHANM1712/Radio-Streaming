@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:06:24.924414+00:00",
+  "updated_at_utc": "2026-10-18T13:07:28.182726+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "My Happy Ending",
+        "detected_at_utc": "2026-10-18T13:06:36.509315+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "New Rules",
