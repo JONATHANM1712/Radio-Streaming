@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:46:31.300075+00:00",
+  "updated_at_utc": "2026-10-18T15:48:32.409053+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Make You Feel My Love",
+        "detected_at_utc": "2026-10-18T15:48:32.309625+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
