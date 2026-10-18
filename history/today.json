@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:00:31.744768+00:00",
+  "updated_at_utc": "2026-10-18T15:02:19.606994+00:00",
   "stations": {
     "kis": [
       {
@@ -1227,6 +1227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "We Can't Go Wrong",
+        "detected_at_utc": "2026-10-18T15:02:19.514289+00:00"
+      },
       {
         "artist": "Warrant",
         "title": "Heaven",
