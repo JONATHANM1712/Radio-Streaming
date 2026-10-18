@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:13:55.143658+00:00",
+  "updated_at_utc": "2026-10-18T08:14:58.166615+00:00",
   "stations": {
     "kis": [
       {
@@ -457,6 +457,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric Carmen",
+        "title": "Hungry Eyes",
+        "detected_at_utc": "2026-10-18T08:14:54.610610+00:00"
+      },
       {
         "artist": "Lisa Loeb",
         "title": "Stay (I Missed You)",
