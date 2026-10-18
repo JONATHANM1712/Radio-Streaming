@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:24:16.146219+00:00",
+  "updated_at_utc": "2026-10-18T06:25:19.337606+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Arthur",
+        "title": "Say You Won't Let Go",
+        "detected_at_utc": "2026-10-18T06:24:27.270948+00:00"
+      },
       {
         "artist": "Jamie Cullum",
         "title": "Mind Trick",
