@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:15:20.388100+00:00",
+  "updated_at_utc": "2026-10-18T15:16:23.512638+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Gabriela",
+        "detected_at_utc": "2026-10-18T15:15:21.242670+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
@@ -1267,6 +1272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Gary Moore",
+        "title": "Still Got the Blues",
+        "detected_at_utc": "2026-10-18T15:15:57.240433+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "Sleeping Child",
