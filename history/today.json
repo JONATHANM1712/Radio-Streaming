@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:24:18.768873+00:00",
+  "updated_at_utc": "2026-10-18T08:27:21.046380+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "Die Young",
+        "detected_at_utc": "2026-10-18T08:27:20.817884+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
