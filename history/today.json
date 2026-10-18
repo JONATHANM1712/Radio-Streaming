@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:21:41.056497+00:00",
+  "updated_at_utc": "2026-10-18T11:22:44.644571+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "Some Nights",
+        "detected_at_utc": "2026-10-18T11:22:27.241784+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Sorry",
