@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:28:36.195219+00:00",
+  "updated_at_utc": "2026-10-18T06:29:39.203756+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget Me",
+        "detected_at_utc": "2026-10-18T06:28:47.299911+00:00"
+      },
       {
         "artist": "Far East Movement & Ryan Tedder",
         "title": "Rocketeer (feat. Ryan Tedder)",
