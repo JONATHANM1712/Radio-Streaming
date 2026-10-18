@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:59:47.515317+00:00",
+  "updated_at_utc": "2026-10-18T08:01:18.351268+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-18T08:01:18.240218+00:00"
+      },
       {
         "artist": "Tyler, The Creator",
         "title": "See You Again (feat. Kali Uchis)",
