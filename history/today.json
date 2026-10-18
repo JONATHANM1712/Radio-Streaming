@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:54:58.097730+00:00",
+  "updated_at_utc": "2026-10-18T07:56:01.455956+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Stay (feat. Mikky Ekko)",
+        "detected_at_utc": "2026-10-18T07:55:36.026338+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Love Story",
