@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:11:41.176615+00:00",
+  "updated_at_utc": "2026-10-18T13:12:44.004961+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-18T13:12:43.916268+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "My Life Would Suck Without You",
