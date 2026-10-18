@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:27:06.185097+00:00",
+  "updated_at_utc": "2026-10-18T17:29:14.441121+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flo Rida",
+        "title": "Wild Ones (feat. Sia)",
+        "detected_at_utc": "2026-10-18T17:29:14.338968+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Waiting for Tonight",
