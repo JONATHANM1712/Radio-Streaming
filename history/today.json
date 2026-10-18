@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:12:24.663856+00:00",
+  "updated_at_utc": "2026-10-18T17:14:47.326040+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-18T17:14:47.231574+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Drag Me Down",
