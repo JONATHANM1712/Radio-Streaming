@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:34:48.620388+00:00",
+  "updated_at_utc": "2026-10-18T14:36:44.296979+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ello",
+        "title": "Gak Kayak Mantanmu",
+        "detected_at_utc": "2026-10-18T14:36:44.189118+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Rock DJ",
