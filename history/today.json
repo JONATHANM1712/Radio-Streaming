@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:38:56.936728+00:00",
+  "updated_at_utc": "2026-10-18T06:40:49.376718+00:00",
   "stations": {
     "kis": [
       {
@@ -222,6 +222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Soul to Squeeze",
+        "detected_at_utc": "2026-10-18T06:40:49.204944+00:00"
+      },
       {
         "artist": "Queen",
         "title": "Get Down, Make Love",
