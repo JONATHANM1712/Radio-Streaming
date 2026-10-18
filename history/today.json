@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:01:18.351268+00:00",
+  "updated_at_utc": "2026-10-18T08:02:22.073737+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-10-18T08:02:21.973056+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
