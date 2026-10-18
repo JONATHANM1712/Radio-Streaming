@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:56:17.388440+00:00",
+  "updated_at_utc": "2026-10-18T13:57:21.885746+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Weeknd",
+        "title": "Can't Feel My Face",
+        "detected_at_utc": "2026-10-18T13:57:21.793627+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Bleeding Love",
