@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:43:36.561021+00:00",
+  "updated_at_utc": "2026-10-18T17:45:33.370235+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "detected_at_utc": "2026-10-18T17:45:33.284751+00:00"
+      },
       {
         "artist": "Afgan, Isyana Sarasvati & Rendy Pandugo",
         "title": "Heaven",
