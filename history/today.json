@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:05:29.000483+00:00",
+  "updated_at_utc": "2026-10-18T14:07:12.741193+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Code Red & Dawn Dineros",
+        "title": "We Can Make It",
+        "detected_at_utc": "2026-10-18T14:07:12.580221+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Hey Baby",
