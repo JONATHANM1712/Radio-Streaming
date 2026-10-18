@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:52:52.124130+00:00",
+  "updated_at_utc": "2026-10-18T13:54:45.073756+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Talking Body",
+        "detected_at_utc": "2026-10-18T13:54:44.987797+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Bleeding Love",
