@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:51:32.231278+00:00",
+  "updated_at_utc": "2026-10-18T06:53:24.931004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "India.Arie",
+        "title": "Chocolate High (feat. Musiq Soulchild)",
+        "detected_at_utc": "2026-10-18T06:53:24.752569+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Perfect",
