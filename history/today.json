@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:19:16.698146+00:00",
+  "updated_at_utc": "2026-10-18T11:20:20.088296+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Sorry",
+        "detected_at_utc": "2026-10-18T11:19:20.059831+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
