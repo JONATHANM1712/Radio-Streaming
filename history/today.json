@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:55:56.005861+00:00",
+  "updated_at_utc": "2026-10-18T17:56:58.447110+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Don't Matter",
+        "detected_at_utc": "2026-10-18T17:56:49.943413+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
@@ -157,6 +162,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Gloria Estefan",
+        "title": "Rhythm Is Gonna Get You",
+        "detected_at_utc": "2026-10-18T17:56:30.963776+00:00"
+      },
       {
         "artist": "Julian Lennon",
         "title": "Valotte",
