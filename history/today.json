@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:34:19.343253+00:00",
+  "updated_at_utc": "2026-10-18T08:35:21.993232+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Where Is The Love?",
+        "detected_at_utc": "2026-10-18T08:34:38.049617+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "Levitating (feat. DaBaby)",
