@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:13:08.548911+00:00",
+  "updated_at_utc": "2026-10-18T12:15:07.541697+00:00",
   "stations": {
     "kis": [
       {
@@ -792,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Culture Club",
+        "title": "Do You Really Want To Hurt Me",
+        "detected_at_utc": "2026-10-18T12:15:07.412416+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "To Face the Truth",
