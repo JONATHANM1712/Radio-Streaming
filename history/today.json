@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:26:42.480288+00:00",
+  "updated_at_utc": "2026-10-18T07:28:44.931024+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-18T07:28:44.811395+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Criminal",
