@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:17:04.624636+00:00",
+  "updated_at_utc": "2026-10-18T06:19:06.985548+00:00",
   "stations": {
     "kis": [
       {
@@ -167,6 +167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Collective Soul",
+        "title": "December",
+        "detected_at_utc": "2026-10-18T06:19:06.831974+00:00"
+      },
       {
         "artist": "Joey Scarbury",
         "title": "Theme from \"Greatest American Hero\" (Believe It or Not)",
