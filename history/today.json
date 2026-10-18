@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:29:14.441121+00:00",
+  "updated_at_utc": "2026-10-18T17:30:16.995359+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Strangers",
+        "detected_at_utc": "2026-10-18T17:30:09.664392+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Stronger (What Doesn't Kill You)",
