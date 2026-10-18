@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:40:58.416567+00:00",
+  "updated_at_utc": "2026-10-18T07:43:27.448409+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "detected_at_utc": "2026-10-18T07:41:05.343588+00:00"
+      },
       {
         "artist": "Andien",
         "title": "Sahabat Setia",
