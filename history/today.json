@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:20:28.975031+00:00",
+  "updated_at_utc": "2026-10-18T16:22:26.409610+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Lips Are Movin",
+        "detected_at_utc": "2026-10-18T16:22:26.135818+00:00"
+      },
       {
         "artist": "Nelly Furtado & Timbaland",
         "title": "Promiscuous (feat. Timbaland)",
