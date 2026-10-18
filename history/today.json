@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:03:41.130855+00:00",
+  "updated_at_utc": "2026-10-18T11:04:44.352578+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "We Can't Stop",
+        "detected_at_utc": "2026-10-18T11:03:45.265474+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Selimut Hati",
@@ -607,6 +612,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "Love Games",
+        "detected_at_utc": "2026-10-18T11:04:40.897419+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Love Games (Level Best Remix)",
