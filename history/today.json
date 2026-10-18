@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:51:06.611597+00:00",
+  "updated_at_utc": "2026-10-18T11:52:09.826097+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snakehips",
+        "title": "All My Friends (feat. Tinashe & Chance The Rapper)",
+        "detected_at_utc": "2026-10-18T11:52:05.662070+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Someone Like You",
