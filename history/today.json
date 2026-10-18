@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:10:50.270029+00:00",
+  "updated_at_utc": "2026-10-18T06:12:02.356323+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-10-18T06:12:02.223756+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Thank You",
