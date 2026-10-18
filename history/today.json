@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:01:07.839735+00:00",
+  "updated_at_utc": "2026-10-18T13:03:14.352398+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "Let Me",
+        "detected_at_utc": "2026-10-18T13:03:14.270948+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Independent Women, Pt. I",
