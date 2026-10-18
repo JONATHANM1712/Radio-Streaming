@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:19:06.985548+00:00",
+  "updated_at_utc": "2026-10-18T06:20:10.158229+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Pink + White",
+        "detected_at_utc": "2026-10-18T06:19:29.051034+00:00"
+      },
       {
         "artist": "Empire Of The Sun",
         "title": "Walking On A Dream",
