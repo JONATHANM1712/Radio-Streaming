@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:13:09.652741+00:00",
+  "updated_at_utc": "2026-10-18T06:14:12.727116+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-18T06:13:15.367850+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
