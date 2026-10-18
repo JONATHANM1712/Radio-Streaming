@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:08:58.003099+00:00",
+  "updated_at_utc": "2026-10-18T12:10:01.615000+00:00",
   "stations": {
     "kis": [
       {
@@ -782,6 +782,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "To Face the Truth",
+        "detected_at_utc": "2026-10-18T12:09:57.661335+00:00"
+      },
       {
         "artist": "Loïs Lane",
         "title": "I Wanna Be",
