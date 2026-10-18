@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:55:18.245362+00:00",
+  "updated_at_utc": "2026-10-18T14:58:26.266843+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Won't Go Home Without You",
+        "detected_at_utc": "2026-10-18T14:58:26.164930+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Shake It Off",
