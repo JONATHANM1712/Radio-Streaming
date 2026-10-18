@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:10:25.081938+00:00",
+  "updated_at_utc": "2026-10-18T14:12:27.590664+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "I Hate This Part",
+        "detected_at_utc": "2026-10-18T14:12:27.502985+00:00"
+      },
       {
         "artist": "Code Red & Dawn Dineros",
         "title": "We Can Make It",
