@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-17T17:41:31.521414+00:00",
+  "updated_at_utc": "2026-10-18T06:06:11.501660+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tamia",
+        "title": "Officially Missing You",
+        "detected_at_utc": "2026-10-18T06:05:22.002168+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "You Took My Heart Away",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "The One That Got Away",
+        "detected_at_utc": "2026-10-18T06:05:29.799120+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Circles",
@@ -117,6 +127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Doobie Brothers",
+        "title": "Long Train Runnin'",
+        "detected_at_utc": "2026-10-18T06:05:13.757015+00:00"
+      },
       {
         "artist": "Joy Division",
         "title": "Passover (2020 Digital Master)",
