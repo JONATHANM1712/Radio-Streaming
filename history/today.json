@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:21:47.579904+00:00",
+  "updated_at_utc": "2026-10-18T08:23:15.896056+00:00",
   "stations": {
     "kis": [
       {
@@ -477,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rod Stewart",
+        "title": "Some Guys Have All the Luck",
+        "detected_at_utc": "2026-10-18T08:23:15.695347+00:00"
+      },
       {
         "artist": "FireHouse",
         "title": "I Live My Life for You",
