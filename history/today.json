@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:37:53.795549+00:00",
+  "updated_at_utc": "2026-10-18T06:38:56.936728+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "The Heart Wants What It Wants",
+        "detected_at_utc": "2026-10-18T06:38:05.280247+00:00"
+      },
       {
         "artist": "Missy Elliott",
         "title": "Work It",
