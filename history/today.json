@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:38:25.222007+00:00",
+  "updated_at_utc": "2026-10-18T08:39:27.838366+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure & Sam Smith",
+        "title": "Latch",
+        "detected_at_utc": "2026-10-18T08:38:48.184556+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Where Is The Love?",
