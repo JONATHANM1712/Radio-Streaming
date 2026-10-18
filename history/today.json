@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:01:33.108941+00:00",
+  "updated_at_utc": "2026-10-18T07:02:36.481804+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-10-18T07:01:42.257457+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "Never Let You Go",
