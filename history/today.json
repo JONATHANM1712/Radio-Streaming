@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:25:39.631301+00:00",
+  "updated_at_utc": "2026-10-18T07:26:42.480288+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "detected_at_utc": "2026-10-18T07:26:29.351366+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "I Can Love You Like That",
@@ -332,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lighthouse Family",
+        "title": "High",
+        "detected_at_utc": "2026-10-18T07:26:23.827740+00:00"
+      },
       {
         "artist": "Itsuwa Mayumi",
         "title": "Amayadori",
