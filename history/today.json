@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:52:27.107495+00:00",
+  "updated_at_utc": "2026-10-18T07:53:29.700087+00:00",
   "stations": {
     "kis": [
       {
@@ -392,6 +392,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric B. & Rakim",
+        "title": "Paid In Full",
+        "detected_at_utc": "2026-10-18T07:53:23.153235+00:00"
+      },
       {
         "artist": "Stryper",
         "title": "I Believe In You",
