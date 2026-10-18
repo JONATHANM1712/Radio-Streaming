@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:05:21.301749+00:00",
+  "updated_at_utc": "2026-10-18T13:06:24.924414+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-18T13:06:23.791018+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "Let Me",
@@ -922,6 +927,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Carpenters",
+        "title": "Yesterday Once More",
+        "detected_at_utc": "2026-10-18T13:05:25.572744+00:00"
+      },
       {
         "artist": "John Lennon",
         "title": "Jealous Guy",
