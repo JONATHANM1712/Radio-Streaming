@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:11:22.281162+00:00",
+  "updated_at_utc": "2026-10-18T17:12:24.663856+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Seal",
+        "title": "Prayer For The Dying (Live)",
+        "detected_at_utc": "2026-10-18T17:11:48.459641+00:00"
+      },
       {
         "artist": "Atomic Kitten",
         "title": "Whole Again",
@@ -15,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Drag Me Down",
+        "detected_at_utc": "2026-10-18T17:11:42.762206+00:00"
+      },
       {
         "artist": "James Blunt",
         "title": "You're Beautiful",
