@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T10:56:18.296584+00:00",
+  "updated_at_utc": "2026-10-18T10:57:22.098043+00:00",
   "stations": {
     "kis": [
       {
@@ -592,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Elton John",
+        "title": "Goodbye Yellow Brick Road",
+        "detected_at_utc": "2026-10-18T10:57:21.971512+00:00"
+      },
       {
         "artist": "Debbie Gibson",
         "title": "No More Rhyme [Acoustic]",
