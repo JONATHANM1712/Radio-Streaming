@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:40:18.288943+00:00",
+  "updated_at_utc": "2026-10-18T11:41:21.786007+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "Just A Dream (Main)",
+        "detected_at_utc": "2026-10-18T11:40:20.498827+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Tutur Batin",
