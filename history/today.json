@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:02:19.606994+00:00",
+  "updated_at_utc": "2026-10-18T15:03:49.783337+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Earned It (Fifty Shades of Grey)",
+        "detected_at_utc": "2026-10-18T15:03:49.679090+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Won't Go Home Without You",
