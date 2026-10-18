@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:24:06.669581+00:00",
+  "updated_at_utc": "2026-10-18T17:26:03.697706+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Stronger (What Doesn't Kill You)",
+        "detected_at_utc": "2026-10-18T17:26:03.606341+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Need To Know",
