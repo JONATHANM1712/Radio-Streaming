@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T10:55:15.402471+00:00",
+  "updated_at_utc": "2026-10-18T10:56:18.296584+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sade",
+        "title": "By Your Side",
+        "detected_at_utc": "2026-10-18T10:55:15.591822+00:00"
+      },
       {
         "artist": "Steps",
         "title": "One for Sorrow",
@@ -275,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Wake Up Call",
+        "detected_at_utc": "2026-10-18T10:55:15.422963+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Supermassive Black Hole",
