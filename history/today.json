@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T10:58:25.050626+00:00",
+  "updated_at_utc": "2026-10-18T10:59:29.007056+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Selimut Hati",
+        "detected_at_utc": "2026-10-18T10:59:28.854150+00:00"
+      },
       {
         "artist": "Sade",
         "title": "By Your Side",
