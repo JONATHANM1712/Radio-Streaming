@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:43:27.448409+00:00",
+  "updated_at_utc": "2026-10-18T07:44:30.491476+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Your Body Is a Wonderland",
+        "detected_at_utc": "2026-10-18T07:44:10.962070+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Count On Me",
@@ -170,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olly Murs",
+        "title": "Troublemaker (feat. Flo Rida)",
+        "detected_at_utc": "2026-10-18T07:44:16.372484+00:00"
+      },
       {
         "artist": "Raisa & Andi Rianto",
         "title": "Bahasa Kalbu",
@@ -367,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "This Ain't a Love Song",
+        "detected_at_utc": "2026-10-18T07:44:05.481489+00:00"
+      },
       {
         "artist": "Moby",
         "title": "Porcelain",
