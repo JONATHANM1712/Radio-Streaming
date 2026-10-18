@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:45:09.483886+00:00",
+  "updated_at_utc": "2026-10-18T06:48:14.850122+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "detected_at_utc": "2026-10-18T06:48:14.673803+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "If You Had My Love",
