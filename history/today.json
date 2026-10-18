@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:33:50.906323+00:00",
+  "updated_at_utc": "2026-10-18T16:35:47.213966+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Paul & Keyshia Cole",
+        "title": "(When You Gonna) Give It Up to Me [Radio Version] [feat. Keyshia Cole]",
+        "detected_at_utc": "2026-10-18T16:35:46.914518+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Interaksi",
