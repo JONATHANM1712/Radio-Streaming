@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:45:33.370235+00:00",
+  "updated_at_utc": "2026-10-18T17:47:42.650220+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore",
+        "title": "Cry",
+        "detected_at_utc": "2026-10-18T17:47:42.559532+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "One Thing",
