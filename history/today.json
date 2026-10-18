@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:09:51.432320+00:00",
+  "updated_at_utc": "2026-10-18T07:12:56.948206+00:00",
   "stations": {
     "kis": [
       {
@@ -297,6 +297,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Phil Collins",
+        "title": "A Groovy Kind of Love",
+        "detected_at_utc": "2026-10-18T07:12:56.102956+00:00"
+      },
       {
         "artist": "Warren G",
         "title": "Regulate (feat. Nate Dogg)",
