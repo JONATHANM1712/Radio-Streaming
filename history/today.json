@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:56:46.323229+00:00",
+  "updated_at_utc": "2026-10-18T12:58:57.518248+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. I",
+        "detected_at_utc": "2026-10-18T12:58:57.412873+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
