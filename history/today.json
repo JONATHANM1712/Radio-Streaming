@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:15:06.989235+00:00",
+  "updated_at_utc": "2026-10-18T11:16:09.902906+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-10-18T11:15:08.800103+00:00"
+      },
       {
         "artist": "Jack Harlow",
         "title": "Lovin On Me",
