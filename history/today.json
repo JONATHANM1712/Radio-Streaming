@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:42:59.110940+00:00",
+  "updated_at_utc": "2026-10-18T16:44:05.446838+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Wildest Dreams",
+        "detected_at_utc": "2026-10-18T16:44:05.101684+00:00"
+      },
       {
         "artist": "INOJ",
         "title": "Time After Time",
