@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:14:12.727116+00:00",
+  "updated_at_utc": "2026-10-18T06:16:01.288947+00:00",
   "stations": {
     "kis": [
       {
@@ -157,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joey Scarbury",
+        "title": "Theme from \"Greatest American Hero\" (Believe It or Not)",
+        "detected_at_utc": "2026-10-18T06:16:01.129070+00:00"
+      },
       {
         "artist": "The Cover Girls",
         "title": "Because of You",
