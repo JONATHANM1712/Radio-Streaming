@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:36:49.663218+00:00",
+  "updated_at_utc": "2026-10-18T16:39:53.347475+00:00",
   "stations": {
     "kis": [
       {
@@ -695,6 +695,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "detected_at_utc": "2026-10-18T16:39:53.239050+00:00"
+      },
       {
         "artist": "Sean Paul & Keyshia Cole",
         "title": "(When You Gonna) Give It Up to Me [Radio Version] [feat. Keyshia Cole]",
