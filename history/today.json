@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:58:13.805598+00:00",
+  "updated_at_utc": "2026-10-18T07:59:47.515317+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peter Cox",
+        "title": "If You Walk Away",
+        "detected_at_utc": "2026-10-18T07:59:47.415053+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Stay (feat. Mikky Ekko)",
