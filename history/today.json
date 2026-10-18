@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:47:06.518120+00:00",
+  "updated_at_utc": "2026-10-18T08:48:09.019433+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charli xcx",
+        "title": "Boom Clap",
+        "detected_at_utc": "2026-10-18T08:47:49.666354+00:00"
+      },
       {
         "artist": "Toni Braxton",
         "title": "I Don't Want To",
