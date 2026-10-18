@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:21:12.874148+00:00",
+  "updated_at_utc": "2026-10-18T07:22:15.530373+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All-4-One",
+        "title": "I Can Love You Like That",
+        "detected_at_utc": "2026-10-18T07:21:19.852538+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Clumsy",
@@ -145,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "What Do You Mean?",
+        "detected_at_utc": "2026-10-18T07:21:31.787732+00:00"
+      },
       {
         "artist": "Creed",
         "title": "With Arms Wide Open",
