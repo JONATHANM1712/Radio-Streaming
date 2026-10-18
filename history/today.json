@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:42:03.881459+00:00",
+  "updated_at_utc": "2026-10-18T14:43:07.235070+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-18T14:42:34.898570+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "My Love",
