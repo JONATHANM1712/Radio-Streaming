@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:31:45.638735+00:00",
+  "updated_at_utc": "2026-10-18T16:32:48.233060+00:00",
   "stations": {
     "kis": [
       {
@@ -1462,6 +1462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "When the Smoke Is Going Down (Live)",
+        "detected_at_utc": "2026-10-18T16:32:19.535962+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Tonight, Tonight, Tonight (2007 Remaster)",
