@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:24:29.089319+00:00",
+  "updated_at_utc": "2026-10-18T13:25:49.455838+00:00",
   "stations": {
     "kis": [
       {
@@ -982,6 +982,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Ugly Kid Joe",
+        "title": "Cats in the Cradle",
+        "detected_at_utc": "2026-10-18T13:25:49.365812+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "I Don't Care Anymore",
