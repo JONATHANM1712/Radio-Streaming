@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:04:01.107316+00:00",
+  "updated_at_utc": "2026-10-18T16:05:04.310090+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse & Mark Ronson",
+        "title": "Valerie (Version Revisited)",
+        "detected_at_utc": "2026-10-18T16:04:58.583589+00:00"
+      },
       {
         "artist": "The Wanted",
         "title": "Glad You Came",
@@ -1377,6 +1382,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "The Chauffeur",
+        "detected_at_utc": "2026-10-18T16:04:37.132537+00:00"
+      },
       {
         "artist": "Suede",
         "title": "Lazy",
