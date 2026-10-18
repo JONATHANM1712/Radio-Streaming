@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:21:26.773538+00:00",
+  "updated_at_utc": "2026-10-18T12:22:30.527033+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-10-18T12:22:30.366184+00:00"
+      },
       {
         "artist": "David Guetta & Kelly Rowland",
         "title": "When Love Takes Over (feat. Kelly Rowland)",
