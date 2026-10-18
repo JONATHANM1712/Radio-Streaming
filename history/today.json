@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:59:12.165196+00:00",
+  "updated_at_utc": "2026-10-18T14:00:15.650774+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fall Out Boy",
+        "title": "Sugar, We're Goin Down",
+        "detected_at_utc": "2026-10-18T14:00:13.998607+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -1062,6 +1067,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Styx",
+        "title": "Show Me the Way",
+        "detected_at_utc": "2026-10-18T13:59:42.762676+00:00"
+      },
       {
         "artist": "Fool's Garden",
         "title": "Lemon Tree",
