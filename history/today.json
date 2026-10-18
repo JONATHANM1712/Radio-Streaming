@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:29:24.345624+00:00",
+  "updated_at_utc": "2026-10-18T13:30:27.298527+00:00",
   "stations": {
     "kis": [
       {
@@ -992,6 +992,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Itsuwa Mayumi",
+        "title": "Kokoronotomo (Toki No Nagareni Live)",
+        "detected_at_utc": "2026-10-18T13:30:25.257599+00:00"
+      },
       {
         "artist": "Ugly Kid Joe",
         "title": "Cats in the Cradle",
