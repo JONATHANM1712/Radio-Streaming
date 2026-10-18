@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:28:36.373113+00:00",
+  "updated_at_utc": "2026-10-18T16:31:45.638735+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-10-18T16:31:45.542487+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Kiss of Life",
