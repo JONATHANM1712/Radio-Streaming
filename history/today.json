@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:18:07.505611+00:00",
+  "updated_at_utc": "2026-10-18T07:19:10.702718+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fergie",
+        "title": "Clumsy",
+        "detected_at_utc": "2026-10-18T07:18:14.381292+00:00"
+      },
       {
         "artist": "Marcell",
         "title": "Jangan Pernah Berubah",
