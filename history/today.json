@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:14:13.492421+00:00",
+  "updated_at_utc": "2026-10-18T16:15:17.488345+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Europe",
+        "title": "The Final Countdown",
+        "detected_at_utc": "2026-10-18T16:14:17.255196+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Baby (feat. Ludacris)",
@@ -660,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-18T16:15:14.794103+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
