@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:53:55.638788+00:00",
+  "updated_at_utc": "2026-10-18T16:54:58.384057+00:00",
   "stations": {
     "kis": [
       {
@@ -715,6 +715,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-18T16:54:17.013982+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Survivor",
