@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:18:23.738834+00:00",
+  "updated_at_utc": "2026-10-18T16:19:26.360398+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly Furtado & Timbaland",
+        "title": "Promiscuous (feat. Timbaland)",
+        "detected_at_utc": "2026-10-18T16:19:21.129333+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
