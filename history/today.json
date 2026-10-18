@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:19:10.702718+00:00",
+  "updated_at_utc": "2026-10-18T07:21:12.874148+00:00",
   "stations": {
     "kis": [
       {
@@ -317,6 +317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Itsuwa Mayumi",
+        "title": "Amayadori",
+        "detected_at_utc": "2026-10-18T07:21:12.597835+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "Under the Same Sun",
