@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:59:29.015293+00:00",
+  "updated_at_utc": "2026-10-18T15:00:31.744768+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Artful Dodger & Craig David",
+        "title": "Re-Rewind (The Crowd Say Bo Selecta) [Radio Edit]",
+        "detected_at_utc": "2026-10-18T14:59:57.030328+00:00"
+      },
       {
         "artist": "Jordan Knight",
         "title": "Give It To You",
