@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:39:55.101018+00:00",
+  "updated_at_utc": "2026-10-18T15:41:21.858032+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fort Minor",
+        "title": "Believe Me (feat. Bobo & Styles of Beyond)",
+        "detected_at_utc": "2026-10-18T15:41:21.769341+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Beautiful People (feat. Khalid)",
