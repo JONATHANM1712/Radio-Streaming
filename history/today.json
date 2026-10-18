@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:57:21.885746+00:00",
+  "updated_at_utc": "2026-10-18T13:59:12.165196+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-18T13:59:12.076841+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Talking Body",
