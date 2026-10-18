@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:08:28.198331+00:00",
+  "updated_at_utc": "2026-10-18T15:09:30.828422+00:00",
   "stations": {
     "kis": [
       {
@@ -1247,6 +1247,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Hot Chocolate",
+        "title": "Every 1's a Winner",
+        "detected_at_utc": "2026-10-18T15:08:35.692564+00:00"
+      },
       {
         "artist": "The Cover Girls",
         "title": "We Can't Go Wrong",
