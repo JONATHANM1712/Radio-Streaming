@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:26:14.665206+00:00",
+  "updated_at_utc": "2026-10-18T15:28:51.363745+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-18T15:28:51.264686+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "In My Head",
