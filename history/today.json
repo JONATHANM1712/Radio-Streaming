@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:10:01.615000+00:00",
+  "updated_at_utc": "2026-10-18T12:11:05.548107+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "This Kiss",
+        "detected_at_utc": "2026-10-18T12:11:02.412472+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Dive",
