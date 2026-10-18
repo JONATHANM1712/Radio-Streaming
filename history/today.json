@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:15:49.712978+00:00",
+  "updated_at_utc": "2026-10-18T17:16:56.243106+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Yovie & Nuno",
+        "title": "Janji Suci",
+        "detected_at_utc": "2026-10-18T17:16:56.164836+00:00"
+      },
       {
         "artist": "Seal",
         "title": "Prayer For The Dying (Live)",
