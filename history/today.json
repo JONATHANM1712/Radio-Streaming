@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:09:14.946952+00:00",
+  "updated_at_utc": "2026-10-18T08:10:18.038261+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dawin",
+        "title": "Dessert",
+        "detected_at_utc": "2026-10-18T08:09:42.877144+00:00"
+      },
       {
         "artist": "Madonna & Sabrina Carpenter",
         "title": "Bring Your Love",
