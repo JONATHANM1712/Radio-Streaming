@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:53:29.700087+00:00",
+  "updated_at_utc": "2026-10-18T07:54:58.097730+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Natasha Bedingfield",
+        "title": "Pocketful of Sunshine",
+        "detected_at_utc": "2026-10-18T07:54:58.074527+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
@@ -392,6 +397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "P.M. Dawn",
+        "title": "Set Adrift On Memory Bliss",
+        "detected_at_utc": "2026-10-18T07:54:57.999081+00:00"
+      },
       {
         "artist": "Eric B. & Rakim",
         "title": "Paid In Full",
