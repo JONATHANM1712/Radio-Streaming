@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:09:22.324694+00:00",
+  "updated_at_utc": "2026-10-18T14:10:25.081938+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bruno Mars",
+        "title": "Die With A Smile",
+        "detected_at_utc": "2026-10-18T14:09:50.004898+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "Butterfly",
