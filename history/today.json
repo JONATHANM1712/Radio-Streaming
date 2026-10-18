@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:21:33.291244+00:00",
+  "updated_at_utc": "2026-10-18T13:23:25.534697+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Umbrella (feat. JAŸ-Z) [Mixed]",
+        "detected_at_utc": "2026-10-18T13:23:25.456017+00:00"
+      },
       {
         "artist": "Deorro & Chris Brown",
         "title": "Five More Hours",
