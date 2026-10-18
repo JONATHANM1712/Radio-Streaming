@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:43:07.069705+00:00",
+  "updated_at_utc": "2026-10-18T12:44:10.194510+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flo Rida",
+        "title": "Low (feat. T-Pain)",
+        "detected_at_utc": "2026-10-18T12:43:23.305490+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Royals",
