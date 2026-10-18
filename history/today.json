@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:48:14.850122+00:00",
+  "updated_at_utc": "2026-10-18T06:49:18.287628+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-18T06:48:26.168733+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
