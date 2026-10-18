@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:07:05.639991+00:00",
+  "updated_at_utc": "2026-10-18T16:08:08.001571+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Hold On",
+        "detected_at_utc": "2026-10-18T16:08:03.201512+00:00"
+      },
       {
         "artist": "Amy Winehouse & Mark Ronson",
         "title": "Valerie (Version Revisited)",
