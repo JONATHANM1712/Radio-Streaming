@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:03:14.352398+00:00",
+  "updated_at_utc": "2026-10-18T13:04:18.184692+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "detected_at_utc": "2026-10-18T13:03:27.330894+00:00"
+      },
       {
         "artist": "Sisqó",
         "title": "Thong Song",
@@ -917,6 +922,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "John Lennon",
+        "title": "Jealous Guy (Ultimate Mix)",
+        "detected_at_utc": "2026-10-18T13:03:16.810696+00:00"
+      },
       {
         "artist": "John Lennon",
         "title": "Jealous Guy",
