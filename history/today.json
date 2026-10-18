@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:07:28.182726+00:00",
+  "updated_at_utc": "2026-10-18T13:09:34.474659+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "My Life Would Suck Without You",
+        "detected_at_utc": "2026-10-18T13:09:34.381084+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
