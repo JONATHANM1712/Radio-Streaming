@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:30:41.888071+00:00",
+  "updated_at_utc": "2026-10-18T12:31:58.856123+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunglon",
+        "title": "Cerita Lalu",
+        "detected_at_utc": "2026-10-18T12:31:58.757495+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "You Rock My World",
