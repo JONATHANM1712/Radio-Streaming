@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:39:53.347475+00:00",
+  "updated_at_utc": "2026-10-18T16:40:55.824612+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "INOJ",
+        "title": "Time After Time",
+        "detected_at_utc": "2026-10-18T16:39:58.136060+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Cinta 'Kan Membawamu Kembali",
@@ -1482,6 +1487,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Night Ranger",
+        "title": "Sister Christian",
+        "detected_at_utc": "2026-10-18T16:40:31.612406+00:00"
+      },
       {
         "artist": "Nikka Costa",
         "title": "First Love",
