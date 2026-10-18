@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:28:41.846110+00:00",
+  "updated_at_utc": "2026-10-18T11:30:00.220203+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "The Time (Dirty Bit)",
+        "detected_at_utc": "2026-10-18T11:30:00.098062+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Against All Odds (Take A Look At Me Now)",
