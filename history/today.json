@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:51:42.670868+00:00",
+  "updated_at_utc": "2026-10-18T15:52:45.056411+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-10-18T15:52:38.542665+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Make You Feel My Love",
@@ -1347,6 +1352,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "UB40",
+        "title": "Red Red Wine",
+        "detected_at_utc": "2026-10-18T15:52:18.082162+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "Tears On My Pillow",
