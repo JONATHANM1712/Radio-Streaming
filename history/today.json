@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T06:25:19.337606+00:00",
+  "updated_at_utc": "2026-10-18T06:26:22.589375+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement & Ryan Tedder",
+        "title": "Rocketeer (feat. Ryan Tedder)",
+        "detected_at_utc": "2026-10-18T06:25:41.589402+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
