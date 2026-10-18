@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:50:39.905885+00:00",
+  "updated_at_utc": "2026-10-18T13:51:43.056778+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Bleeding Love",
+        "detected_at_utc": "2026-10-18T13:51:22.639877+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
