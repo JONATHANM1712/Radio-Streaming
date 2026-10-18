@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:56:01.455956+00:00",
+  "updated_at_utc": "2026-10-18T07:57:11.254543+00:00",
   "stations": {
     "kis": [
       {
@@ -402,6 +402,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "S.O.U.L. S.Y.S.T.E.M.",
+        "title": "It's Gonna Be A Lovely Day",
+        "detected_at_utc": "2026-10-18T07:57:11.150334+00:00"
+      },
       {
         "artist": "P.M. Dawn",
         "title": "Set Adrift On Memory Bliss",
