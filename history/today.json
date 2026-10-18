@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:03:23.531436+00:00",
+  "updated_at_utc": "2026-10-18T14:04:26.256542+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "No Doubt",
+        "title": "Hey Baby",
+        "detected_at_utc": "2026-10-18T14:03:55.324837+00:00"
+      },
       {
         "artist": "Christina Aguilera",
         "title": "Come On Over (All I Want Is You)",
@@ -520,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vinayak",
+        "title": "Cartoon network",
+        "detected_at_utc": "2026-10-18T14:03:24.160402+00:00"
+      },
       {
         "artist": "Fall Out Boy",
         "title": "Sugar, We're Goin Down",
@@ -1082,6 +1092,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "I'll Be There For You",
+        "detected_at_utc": "2026-10-18T14:04:00.638454+00:00"
+      },
       {
         "artist": "Styx",
         "title": "Show Me the Way",
