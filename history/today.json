@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:33:20.570895+00:00",
+  "updated_at_utc": "2026-10-18T17:34:23.057387+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avicii",
+        "title": "Wake Me Up",
+        "detected_at_utc": "2026-10-18T17:34:15.778429+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Strangers",
