@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:04:52.374112+00:00",
+  "updated_at_utc": "2026-10-18T15:07:23.884936+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Musiq Soulchild",
+        "title": "Just Friends (Sunny)",
+        "detected_at_utc": "2026-10-18T15:07:23.793425+00:00"
+      },
       {
         "artist": "Jessie J",
         "title": "Masterpiece",
