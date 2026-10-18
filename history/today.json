@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:12:51.406512+00:00",
+  "updated_at_utc": "2026-10-18T15:14:17.771105+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-18T15:14:17.678643+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "All The Right Moves",
