@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:37:03.671447+00:00",
+  "updated_at_utc": "2026-10-18T17:38:22.339961+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Break Your Heart (feat. Ludacris)",
+        "detected_at_utc": "2026-10-18T17:38:22.215938+00:00"
+      },
       {
         "artist": "Avicii",
         "title": "Wake Me Up",
