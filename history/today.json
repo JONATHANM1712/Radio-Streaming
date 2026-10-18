@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:57:11.254543+00:00",
+  "updated_at_utc": "2026-10-18T07:58:13.805598+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyler, The Creator",
+        "title": "See You Again (feat. Kali Uchis)",
+        "detected_at_utc": "2026-10-18T07:58:12.780073+00:00"
+      },
       {
         "artist": "Natasha Bedingfield",
         "title": "Pocketful of Sunshine",
@@ -402,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paulinho Da Costa",
+        "title": "Deja Vu",
+        "detected_at_utc": "2026-10-18T07:58:12.782940+00:00"
+      },
       {
         "artist": "S.O.U.L. S.Y.S.T.E.M.",
         "title": "It's Gonna Be A Lovely Day",
