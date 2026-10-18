@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:16:10.686308+00:00",
+  "updated_at_utc": "2026-10-18T12:17:13.832825+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MYMP",
+        "title": "Especially For You",
+        "detected_at_utc": "2026-10-18T12:16:15.903180+00:00"
+      },
       {
         "artist": "Parkdrive",
         "title": "Biarkan",
@@ -375,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-18T12:16:13.422242+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
