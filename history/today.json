@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:11:48.462328+00:00",
+  "updated_at_utc": "2026-10-18T08:12:51.660994+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-10-18T08:12:48.867323+00:00"
+      },
       {
         "artist": "Dawin",
         "title": "Dessert",
