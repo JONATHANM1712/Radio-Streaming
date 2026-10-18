@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:40:08.059586+00:00",
+  "updated_at_utc": "2026-10-18T12:41:10.882585+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lorde",
+        "title": "Royals",
+        "detected_at_utc": "2026-10-18T12:40:16.536411+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Runaway",
