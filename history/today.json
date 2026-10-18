@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:02:36.481804+00:00",
+  "updated_at_utc": "2026-10-18T07:03:40.318469+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Can't Feel My Face",
+        "detected_at_utc": "2026-10-18T07:02:54.016022+00:00"
+      },
       {
         "artist": "Major Lazer, MØ & DJ Snake",
         "title": "Lean On",
