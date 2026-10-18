@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T08:07:13.283527+00:00",
+  "updated_at_utc": "2026-10-18T08:09:14.946952+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peabo Bryson & Regina Belle",
+        "title": "A Whole New World (Aladdin's Theme)",
+        "detected_at_utc": "2026-10-18T08:09:14.812846+00:00"
+      },
       {
         "artist": "Natasha Bedingfield",
         "title": "Unwritten",
