@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:23:14.869541+00:00",
+  "updated_at_utc": "2026-10-18T14:24:17.679605+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Iggy Azalea",
+        "title": "Black Widow (feat. Rita Ora)",
+        "detected_at_utc": "2026-10-18T14:24:05.172356+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Rock Your Body",
@@ -540,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Martin Garrix & Bebe Rexha",
+        "title": "In the Name of Love",
+        "detected_at_utc": "2026-10-18T14:23:36.203028+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Save Room",
