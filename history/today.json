@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:04:26.256542+00:00",
+  "updated_at_utc": "2026-10-18T14:05:29.000483+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "Butterfly",
+        "detected_at_utc": "2026-10-18T14:04:26.996128+00:00"
+      },
       {
         "artist": "Vinayak",
         "title": "Cartoon network",
