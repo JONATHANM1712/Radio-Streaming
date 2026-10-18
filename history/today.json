@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:50:29.781308+00:00",
+  "updated_at_utc": "2026-10-18T14:51:32.723687+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-10-18T14:51:04.573876+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "We R Who We R",
