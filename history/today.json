@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T15:55:48.559906+00:00",
+  "updated_at_utc": "2026-10-18T15:56:50.974491+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "What's Your Flava? (Radio Edit)",
+        "detected_at_utc": "2026-10-18T15:56:44.519319+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
