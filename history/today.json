@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:08:53.812538+00:00",
+  "updated_at_utc": "2026-10-18T11:09:56.999139+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Regina Spektor",
+        "title": "Fidelity",
+        "detected_at_utc": "2026-10-18T11:08:53.918995+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
