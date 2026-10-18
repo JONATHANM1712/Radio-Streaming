@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:33:41.456710+00:00",
+  "updated_at_utc": "2026-10-18T13:35:52.760405+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gita Gutawa",
+        "title": "Aku Cinta Dia",
+        "detected_at_utc": "2026-10-18T13:35:52.640243+00:00"
+      },
       {
         "artist": "Gabrielle",
         "title": "Out of Reach (Bridget Jones's Diary Soundtrack Version)",
