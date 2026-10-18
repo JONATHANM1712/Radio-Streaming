@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T07:37:48.426743+00:00",
+  "updated_at_utc": "2026-10-18T07:38:51.101332+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa & Andi Rianto",
+        "title": "Bahasa Kalbu",
+        "detected_at_utc": "2026-10-18T07:38:02.617583+00:00"
+      },
       {
         "artist": "311",
         "title": "Love Song",
