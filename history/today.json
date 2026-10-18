@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:10:46.497011+00:00",
+  "updated_at_utc": "2026-10-18T16:11:48.973988+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Baby (feat. Ludacris)",
+        "detected_at_utc": "2026-10-18T16:11:11.783475+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "If I Let You Go (Radio Edit)",
@@ -655,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "I Really Like You",
+        "detected_at_utc": "2026-10-18T16:11:07.813990+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Hold On",
