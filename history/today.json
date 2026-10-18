@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:02:41.217970+00:00",
+  "updated_at_utc": "2026-10-18T12:04:44.481142+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse",
+        "title": "Rehab",
+        "detected_at_utc": "2026-10-18T12:04:44.349858+00:00"
+      },
       {
         "artist": "Gnarls Barkley",
         "title": "Crazy",
