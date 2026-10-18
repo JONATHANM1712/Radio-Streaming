@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:11:48.973988+00:00",
+  "updated_at_utc": "2026-10-18T16:14:13.492421+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-10-18T16:14:13.235368+00:00"
+      },
       {
         "artist": "Carly Rae Jepsen",
         "title": "I Really Like You",
