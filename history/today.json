@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T13:46:51.121460+00:00",
+  "updated_at_utc": "2026-10-18T13:49:36.044403+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mr. Big",
+        "title": "Just Take My Heart",
+        "detected_at_utc": "2026-10-18T13:49:35.953638+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Me, Myself and I",
