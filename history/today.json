@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:57:16.390088+00:00",
+  "updated_at_utc": "2026-10-18T11:58:28.034100+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-10-18T11:58:27.898225+00:00"
+      },
       {
         "artist": "Regina Spektor",
         "title": "Fidelity",
