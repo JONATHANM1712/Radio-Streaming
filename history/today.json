@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:54:15.230107+00:00",
+  "updated_at_utc": "2026-10-18T14:55:18.245362+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordan Knight",
+        "title": "Give It To You",
+        "detected_at_utc": "2026-10-18T14:54:40.893466+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Alejandro",
@@ -1212,6 +1217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Barbra Streisand",
+        "title": "Woman In Love",
+        "detected_at_utc": "2026-10-18T14:54:52.571757+00:00"
+      },
       {
         "artist": "Jason Donovan",
         "title": "Sealed With a Kiss",
