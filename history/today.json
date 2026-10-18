@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:58:07.518735+00:00",
+  "updated_at_utc": "2026-10-18T16:59:24.824982+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LANY",
+        "title": "ILYSB (Stripped)",
+        "detected_at_utc": "2026-10-18T16:59:24.704615+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Wish You Were Here",
