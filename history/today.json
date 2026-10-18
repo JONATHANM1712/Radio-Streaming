@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:52:35.335663+00:00",
+  "updated_at_utc": "2026-10-18T14:54:15.230107+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Shake It Off",
+        "detected_at_utc": "2026-10-18T14:54:15.148636+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
