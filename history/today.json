@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:35:47.213966+00:00",
+  "updated_at_utc": "2026-10-18T16:36:49.663218+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Cinta 'Kan Membawamu Kembali",
+        "detected_at_utc": "2026-10-18T16:35:51.678861+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
@@ -1472,6 +1477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nikka Costa",
+        "title": "First Love",
+        "detected_at_utc": "2026-10-18T16:36:25.665756+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "When the Smoke Is Going Down (Live)",
