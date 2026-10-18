@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T11:10:59.870598+00:00",
+  "updated_at_utc": "2026-10-18T11:12:03.032995+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-18T11:12:01.364041+00:00"
+      },
       {
         "artist": "Regina Spektor",
         "title": "Fidelity",
