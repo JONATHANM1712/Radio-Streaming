@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:19:19.891211+00:00",
+  "updated_at_utc": "2026-10-18T12:20:23.316037+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Guetta & Kelly Rowland",
+        "title": "When Love Takes Over (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-10-18T12:19:24.645349+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
