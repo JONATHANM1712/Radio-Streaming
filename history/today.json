@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T12:33:55.987086+00:00",
+  "updated_at_utc": "2026-10-18T12:36:08.328224+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Runaway",
+        "detected_at_utc": "2026-10-18T12:36:08.240986+00:00"
+      },
       {
         "artist": "Bunglon",
         "title": "Cerita Lalu",
