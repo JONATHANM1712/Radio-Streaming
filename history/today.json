@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T16:00:50.748344+00:00",
+  "updated_at_utc": "2026-10-18T16:04:01.107316+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "detected_at_utc": "2026-10-18T16:04:01.020986+00:00"
+      },
       {
         "artist": "Rialto",
         "title": "Untouchable",
