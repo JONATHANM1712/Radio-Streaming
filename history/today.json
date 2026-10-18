@@ -1,8 +1,13 @@
 {
   "date": "2026-10-18",
-  "updated_at_utc": "2026-10-18T14:27:26.934910+00:00",
+  "updated_at_utc": "2026-10-18T14:28:29.594028+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Five",
+        "title": "When the Lights Go Out",
+        "detected_at_utc": "2026-10-18T14:28:16.727705+00:00"
+      },
       {
         "artist": "Iggy Azalea",
         "title": "Black Widow (feat. Rita Ora)",
@@ -545,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-18T14:27:44.978337+00:00"
+      },
       {
         "artist": "Martin Garrix & Bebe Rexha",
         "title": "In the Name of Love",
