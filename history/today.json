@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:36:42.487348+00:00",
+  "updated_at_utc": "2026-10-19T17:37:55.244025+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-10-19T17:37:55.156423+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "The Remedy (I Won't Worry)",
