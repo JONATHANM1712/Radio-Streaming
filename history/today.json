@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:02:01.387095+00:00",
+  "updated_at_utc": "2026-10-19T06:04:05.109584+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-19T06:04:04.952457+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
