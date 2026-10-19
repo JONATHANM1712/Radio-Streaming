@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:42:45.581307+00:00",
+  "updated_at_utc": "2026-10-19T11:43:48.265096+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "That Should Be Me",
+        "detected_at_utc": "2026-10-19T11:43:41.238244+00:00"
+      },
       {
         "artist": "Cokelat",
         "title": "Pergi",
