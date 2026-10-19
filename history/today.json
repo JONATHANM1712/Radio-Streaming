@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:03:15.847048+00:00",
+  "updated_at_utc": "2026-10-19T12:05:14.313246+00:00",
   "stations": {
     "kis": [
       {
@@ -547,6 +547,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "Suburbia",
+        "detected_at_utc": "2026-10-19T12:05:14.228821+00:00"
+      },
       {
         "artist": "Crystal Waters",
         "title": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) [Radio Mix]",
