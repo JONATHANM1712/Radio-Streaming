@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:09:54.128019+00:00",
+  "updated_at_utc": "2026-10-19T15:11:51.985222+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Setapak Sriwedari",
+        "detected_at_utc": "2026-10-19T15:11:51.892140+00:00"
+      },
       {
         "artist": "Tommy Richman",
         "title": "MILLION DOLLAR BABY",
