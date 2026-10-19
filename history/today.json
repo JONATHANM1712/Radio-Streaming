@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:09:24.644611+00:00",
+  "updated_at_utc": "2026-10-19T17:11:25.818430+00:00",
   "stations": {
     "kis": [
       {
@@ -47,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "A Matter of Feeling",
+        "detected_at_utc": "2026-10-19T17:11:25.732883+00:00"
+      },
       {
         "artist": "Iggy Pop",
         "title": "Real Wild Child (Wild One)",
