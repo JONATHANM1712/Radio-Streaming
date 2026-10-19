@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:38:01.608467+00:00",
+  "updated_at_utc": "2026-10-19T10:39:04.376849+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "I Gotta Feeling",
+        "detected_at_utc": "2026-10-19T10:38:02.179105+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "4 Minutes (feat. Justin Timberlake & Timbaland)",
@@ -392,6 +397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Timex Social Club",
+        "title": "Rumors",
+        "detected_at_utc": "2026-10-19T10:38:03.707379+00:00"
+      },
       {
         "artist": "Gucci Girls",
         "title": "Gucci You're Thru",
