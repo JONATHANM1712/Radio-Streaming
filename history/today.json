@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:50:57.449963+00:00",
+  "updated_at_utc": "2026-10-19T11:52:02.992301+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Troye Sivan",
+        "title": "Angel Baby",
+        "detected_at_utc": "2026-10-19T11:52:02.887168+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Wide Awake",
