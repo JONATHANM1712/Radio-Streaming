@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:55:05.946013+00:00",
+  "updated_at_utc": "2026-10-19T17:56:08.366330+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "Fighter",
+        "detected_at_utc": "2026-10-19T17:55:15.763256+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
