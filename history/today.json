@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:11:22.942030+00:00",
+  "updated_at_utc": "2026-10-19T06:12:26.510672+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jessie J",
+        "title": "Domino",
+        "detected_at_utc": "2026-10-19T06:11:31.976812+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
