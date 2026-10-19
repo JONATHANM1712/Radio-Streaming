@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:28:50.655241+00:00",
+  "updated_at_utc": "2026-10-19T13:31:02.727719+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ALEXA",
+        "title": "Dewi",
+        "detected_at_utc": "2026-10-19T13:31:02.644418+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
