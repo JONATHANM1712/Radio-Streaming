@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:11:48.216515+00:00",
+  "updated_at_utc": "2026-10-19T11:12:50.586816+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "B*Witched",
+        "title": "Blame It On the Weatherman",
+        "detected_at_utc": "2026-10-19T11:12:48.926919+00:00"
+      },
       {
         "artist": "Hoobastank",
         "title": "The Reason",
