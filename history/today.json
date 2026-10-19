@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:50:12.538384+00:00",
+  "updated_at_utc": "2026-10-19T17:52:12.096336+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-19T17:52:12.009458+00:00"
+      },
       {
         "artist": "Lily Allen",
         "title": "Smile",
