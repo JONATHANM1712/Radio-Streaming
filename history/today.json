@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:43:38.833090+00:00",
+  "updated_at_utc": "2026-10-19T15:45:17.484154+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-19T15:45:17.396873+00:00"
+      },
       {
         "artist": "Lingua",
         "title": "Jangan Kau Henti (Remastered)",
