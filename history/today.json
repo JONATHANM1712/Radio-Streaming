@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:23:34.982017+00:00",
+  "updated_at_utc": "2026-10-19T13:24:37.426072+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Cloud Number Nine (Chicane Mix)",
+        "detected_at_utc": "2026-10-19T13:24:36.407267+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "London Bridge",
@@ -360,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alesso",
+        "title": "Heroes (We Could Be) [feat. Tove Lo]",
+        "detected_at_utc": "2026-10-19T13:23:50.542297+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
