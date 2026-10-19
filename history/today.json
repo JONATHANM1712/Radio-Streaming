@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:08:51.659438+00:00",
+  "updated_at_utc": "2026-10-19T15:09:54.128019+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Keane",
+        "title": "Somewhere Only We Know",
+        "detected_at_utc": "2026-10-19T15:09:30.899312+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Dangerous Woman",
@@ -490,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tommy Richman",
+        "title": "MILLION DOLLAR BABY",
+        "detected_at_utc": "2026-10-19T15:09:47.654645+00:00"
+      },
       {
         "artist": "Sara Bareilles",
         "title": "Love Song",
