@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:47:57.120485+00:00",
+  "updated_at_utc": "2026-10-19T16:50:56.948658+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-19T16:50:56.860733+00:00"
+      },
       {
         "artist": "Lady A",
         "title": "Need You Now",
