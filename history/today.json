@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:37:41.906072+00:00",
+  "updated_at_utc": "2026-10-19T16:40:47.777344+00:00",
   "stations": {
     "kis": [
       {
@@ -1192,6 +1192,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Wanted Dead Or Alive",
+        "detected_at_utc": "2026-10-19T16:40:47.672066+00:00"
+      },
       {
         "artist": "Wilson Phillips",
         "title": "Hold On",
