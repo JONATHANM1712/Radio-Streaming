@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:32:00.232860+00:00",
+  "updated_at_utc": "2026-10-19T15:33:02.754305+00:00",
   "stations": {
     "kis": [
       {
@@ -521,6 +521,11 @@
     ],
     "jak": [
       {
+        "artist": "Rex Orange County",
+        "title": "THE SHADE",
+        "detected_at_utc": "2026-10-19T15:32:17.640758+00:00"
+      },
+      {
         "artist": "ROSÉ",
         "title": "new trick",
         "detected_at_utc": "2026-10-19T15:29:13.656707+00:00"
@@ -1027,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Roxette",
+        "title": "You Don't Understand Me",
+        "detected_at_utc": "2026-10-19T15:32:22.010102+00:00"
+      },
       {
         "artist": "Earth, Wind & Fire",
         "title": "Fantasy",
