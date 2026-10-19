@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:36:11.439698+00:00",
+  "updated_at_utc": "2026-10-19T06:37:15.234084+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I'm with You",
+        "detected_at_utc": "2026-10-19T06:37:15.087654+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "That's Hilarious",
