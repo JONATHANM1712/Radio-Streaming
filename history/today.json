@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:04:17.256506+00:00",
+  "updated_at_utc": "2026-10-19T17:05:19.703096+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Benét",
+        "title": "Spend My Life With You",
+        "detected_at_utc": "2026-10-19T17:05:00.959777+00:00"
+      },
       {
         "artist": "The Sundays",
         "title": "When I'm Thinking About You",
