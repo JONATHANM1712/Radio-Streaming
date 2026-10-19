@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:25:56.829066+00:00",
+  "updated_at_utc": "2026-10-19T12:29:00.446757+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elton John",
+        "title": "Candle In the Wind",
+        "detected_at_utc": "2026-10-19T12:29:00.363426+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Special Kind Of Something",
