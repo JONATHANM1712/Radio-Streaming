@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:14:27.328794+00:00",
+  "updated_at_utc": "2026-10-19T17:17:16.460826+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ello",
+        "title": "Pergi Untuk Kembali",
+        "detected_at_utc": "2026-10-19T17:17:16.369940+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "Jar of Hearts",
