@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T07:05:15.716896+00:00",
+  "updated_at_utc": "2026-10-19T07:06:38.704895+00:00",
   "stations": {
     "kis": [
       {
@@ -387,6 +387,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Gucci Girls",
+        "title": "Gucci You're Thru",
+        "detected_at_utc": "2026-10-19T07:06:38.519075+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Stranger In Town",
