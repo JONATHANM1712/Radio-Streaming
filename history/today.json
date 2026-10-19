@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:08:22.190996+00:00",
+  "updated_at_utc": "2026-10-19T17:09:24.644611+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-10-19T17:09:06.029527+00:00"
+      },
       {
         "artist": "Eric Benét",
         "title": "Spend My Life With You",
@@ -15,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Missy Elliott",
+        "title": "Get Ur Freak On",
+        "detected_at_utc": "2026-10-19T17:09:19.805348+00:00"
+      },
       {
         "artist": "Jonas Brothers",
         "title": "Sucker",
