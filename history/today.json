@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:16:46.240241+00:00",
+  "updated_at_utc": "2026-10-19T06:18:58.622105+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dido",
+        "title": "Thank You",
+        "detected_at_utc": "2026-10-19T06:18:58.484711+00:00"
+      },
       {
         "artist": "sombr",
         "title": "back to friends",
