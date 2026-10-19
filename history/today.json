@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:04:02.643396+00:00",
+  "updated_at_utc": "2026-10-19T13:05:05.204587+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "detected_at_utc": "2026-10-19T13:04:14.198541+00:00"
+      },
       {
         "artist": "Scott Buckley",
         "title": "Legacy (Special Version)",
