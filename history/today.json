@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:13:31.347627+00:00",
+  "updated_at_utc": "2026-10-19T12:15:46.646598+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-19T12:15:46.552555+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Symphony (feat. Zara Larsson)",
