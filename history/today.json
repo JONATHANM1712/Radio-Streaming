@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:33:39.486547+00:00",
+  "updated_at_utc": "2026-10-19T17:35:40.089888+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Beautiful (feat. Pharrell Williams & Uncle Charlie Wilson)",
+        "detected_at_utc": "2026-10-19T17:35:40.006691+00:00"
+      },
       {
         "artist": "Mono",
         "title": "Life in Mono",
