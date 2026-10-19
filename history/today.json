@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:43:30.836214+00:00",
+  "updated_at_utc": "2026-10-19T05:46:34.814775+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-10-19T05:46:34.692332+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "She Will Be Loved",
