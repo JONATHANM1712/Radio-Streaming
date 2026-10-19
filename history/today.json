@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:25:38.030825+00:00",
+  "updated_at_utc": "2026-10-19T14:27:11.341100+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "detected_at_utc": "2026-10-19T14:27:11.194807+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Ordinary People",
