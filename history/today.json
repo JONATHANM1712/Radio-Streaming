@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:41:05.613559+00:00",
+  "updated_at_utc": "2026-10-19T10:43:10.495001+00:00",
   "stations": {
     "kis": [
       {
@@ -402,6 +402,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Philip Bailey & Phil Collins",
+        "title": "Easy Lover",
+        "detected_at_utc": "2026-10-19T10:43:10.379100+00:00"
+      },
       {
         "artist": "Timex Social Club",
         "title": "Rumors",
