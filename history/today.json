@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:44:36.570218+00:00",
+  "updated_at_utc": "2026-10-19T12:45:39.043425+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "What a Girl Wants",
+        "detected_at_utc": "2026-10-19T12:45:26.836492+00:00"
+      },
       {
         "artist": "Alesso",
         "title": "Heroes (We Could Be) [feat. Tove Lo]",
