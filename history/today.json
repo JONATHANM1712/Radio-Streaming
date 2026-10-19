@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:57:30.323368+00:00",
+  "updated_at_utc": "2026-10-19T06:58:34.026628+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fun.",
+        "title": "We Are Young (feat. Janelle Monáe)",
+        "detected_at_utc": "2026-10-19T06:57:59.641592+00:00"
+      },
       {
         "artist": "Everything But the Girl & Todd Terry",
         "title": "Missing (Todd Terry Club Mix)",
@@ -367,6 +372,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Faith",
+        "detected_at_utc": "2026-10-19T06:58:10.162746+00:00"
+      },
       {
         "artist": "Siouxsie & The Banshees",
         "title": "Happy House",
