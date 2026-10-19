@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:16:49.129322+00:00",
+  "updated_at_utc": "2026-10-19T12:19:53.970074+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement, The Cataracs & DEV",
+        "title": "Like a G6",
+        "detected_at_utc": "2026-10-19T12:19:53.870130+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
