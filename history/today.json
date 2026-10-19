@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:37:15.234084+00:00",
+  "updated_at_utc": "2026-10-19T06:38:32.419108+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coolio & L.V.",
+        "title": "Gangsta's Paradise",
+        "detected_at_utc": "2026-10-19T06:38:32.288267+00:00"
+      },
       {
         "artist": "The Chainsmokers",
         "title": "Closer (feat. Halsey)",
