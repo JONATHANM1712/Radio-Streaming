@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:10:45.791564+00:00",
+  "updated_at_utc": "2026-10-19T11:11:48.216515+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Misery",
+        "detected_at_utc": "2026-10-19T11:10:47.616139+00:00"
+      },
       {
         "artist": "LAY & LAUV",
         "title": "Run Back To You",
@@ -452,6 +457,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Whitesnake",
+        "title": "Is This Love",
+        "detected_at_utc": "2026-10-19T11:11:48.153375+00:00"
+      },
       {
         "artist": "Bread",
         "title": "Baby I'm-A Want You",
