@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:24:34.653705+00:00",
+  "updated_at_utc": "2026-10-19T14:25:38.030825+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "XO",
+        "detected_at_utc": "2026-10-19T14:25:29.912644+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
