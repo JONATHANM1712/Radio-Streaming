@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:35:36.171351+00:00",
+  "updated_at_utc": "2026-10-19T16:36:39.031285+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tompi",
+        "title": "Tak Pernah Setengah Hati",
+        "detected_at_utc": "2026-10-19T16:36:23.827810+00:00"
+      },
       {
         "artist": "Norah Jones",
         "title": "Don't Know Why",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "detected_at_utc": "2026-10-19T16:36:37.336387+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "What Goes Around...Comes Around (Interlude)",
