@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:06:07.618482+00:00",
+  "updated_at_utc": "2026-10-19T13:07:20.623932+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "Feel This Moment (feat. Christina Aguilera)",
+        "detected_at_utc": "2026-10-19T13:07:20.535363+00:00"
+      },
       {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
