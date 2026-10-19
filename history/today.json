@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:45:06.096308+00:00",
+  "updated_at_utc": "2026-10-19T14:46:09.046217+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Radicals",
+        "title": "Someday We'll Know",
+        "detected_at_utc": "2026-10-19T14:45:52.239554+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Tega",
