@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:35:33.984522+00:00",
+  "updated_at_utc": "2026-10-19T14:36:37.007082+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Larissa Lambert",
+        "title": "Weak",
+        "detected_at_utc": "2026-10-19T14:35:46.718981+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Larut",
