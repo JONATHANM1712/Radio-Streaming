@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:06:47.016888+00:00",
+  "updated_at_utc": "2026-10-19T14:08:47.834117+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-19T14:08:47.699985+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "What Lovers Do (feat. SZA)",
