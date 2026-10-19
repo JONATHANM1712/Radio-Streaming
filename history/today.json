@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:31:16.656403+00:00",
+  "updated_at_utc": "2026-10-19T12:32:19.354016+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stephen Sanchez & Em Beihold",
+        "title": "Until I Found You (Em Beihold Version)",
+        "detected_at_utc": "2026-10-19T12:32:19.262357+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
