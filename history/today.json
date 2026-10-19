@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:29:15.391396+00:00",
+  "updated_at_utc": "2026-10-19T11:33:29.604066+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd, Maren Morris & Grey",
+        "title": "The Middle",
+        "detected_at_utc": "2026-10-19T11:33:29.465404+00:00"
+      },
       {
         "artist": "Louis Tomlinson",
         "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
