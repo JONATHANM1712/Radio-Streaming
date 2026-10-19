@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:30:06.404378+00:00",
+  "updated_at_utc": "2026-10-19T05:31:09.557266+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-19T05:31:07.242031+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "Blurred Lines (feat. T.I. & Pharrell)",
