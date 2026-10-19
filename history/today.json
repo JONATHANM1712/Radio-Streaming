@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:45:35.065102+00:00",
+  "updated_at_utc": "2026-10-19T13:46:39.054856+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Evan & Jaron",
+        "title": "The Distance",
+        "detected_at_utc": "2026-10-19T13:46:33.191916+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Dreams",
@@ -777,6 +782,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Saigon Kick",
+        "title": "I Love You",
+        "detected_at_utc": "2026-10-19T13:46:34.898398+00:00"
+      },
       {
         "artist": "Sybil",
         "title": "Walk On By",
