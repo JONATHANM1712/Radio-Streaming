@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:43:33.508587+00:00",
+  "updated_at_utc": "2026-10-19T16:45:50.096676+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-19T16:45:49.945219+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
