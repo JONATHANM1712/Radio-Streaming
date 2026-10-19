@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:36:17.591315+00:00",
+  "updated_at_utc": "2026-10-19T05:37:20.695286+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Keabadian (Remastered 2026)",
+        "detected_at_utc": "2026-10-19T05:36:17.729304+00:00"
+      },
       {
         "artist": "Daniel Bedingfield",
         "title": "If You're Not the One",
@@ -80,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "She Will Be Loved",
+        "detected_at_utc": "2026-10-19T05:37:18.601960+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Snooze",
