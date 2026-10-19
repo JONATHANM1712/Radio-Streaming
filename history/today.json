@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:29:45.059529+00:00",
+  "updated_at_utc": "2026-10-19T17:31:34.620330+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mono",
+        "title": "Life in Mono",
+        "detected_at_utc": "2026-10-19T17:31:34.537263+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "On Top Of The World",
