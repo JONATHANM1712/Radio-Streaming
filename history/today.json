@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:53:02.006506+00:00",
+  "updated_at_utc": "2026-10-19T16:55:49.496822+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Clarity",
+        "detected_at_utc": "2026-10-19T16:55:49.412279+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Bleeding Love",
