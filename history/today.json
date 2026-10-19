@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:12:26.510672+00:00",
+  "updated_at_utc": "2026-10-19T06:14:34.836797+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "That's the Way It Is",
+        "detected_at_utc": "2026-10-19T06:14:34.630051+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
