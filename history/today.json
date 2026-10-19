@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:41:27.221846+00:00",
+  "updated_at_utc": "2026-10-19T05:43:30.836214+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-10-19T05:43:30.709597+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
