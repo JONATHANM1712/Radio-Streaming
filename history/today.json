@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T07:06:38.704895+00:00",
+  "updated_at_utc": "2026-10-19T10:38:01.608467+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blue",
+        "title": "All Rise",
+        "detected_at_utc": "2026-10-19T10:38:01.474132+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
