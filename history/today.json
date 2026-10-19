@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:05:19.703096+00:00",
+  "updated_at_utc": "2026-10-19T17:06:22.305678+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Brothers",
+        "title": "Sucker",
+        "detected_at_utc": "2026-10-19T17:06:16.132950+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "I Want You To Know (feat. Selena Gomez)",
