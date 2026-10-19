@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:28:13.022470+00:00",
+  "updated_at_utc": "2026-10-19T11:29:15.391396+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "detected_at_utc": "2026-10-19T11:28:21.946517+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Flowers",
