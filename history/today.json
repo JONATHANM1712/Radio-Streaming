@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:22:32.560784+00:00",
+  "updated_at_utc": "2026-10-19T13:23:34.982017+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-19T13:22:49.037068+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Low (feat. T-Pain)",
