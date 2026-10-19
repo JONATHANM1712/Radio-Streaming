@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:15:17.500060+00:00",
+  "updated_at_utc": "2026-10-19T16:16:19.954113+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lifehouse",
+        "title": "You and Me",
+        "detected_at_utc": "2026-10-19T16:16:11.842269+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "With You (Main Version)",
