@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:33:55.480996+00:00",
+  "updated_at_utc": "2026-10-19T13:35:10.281326+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain't Worried",
+        "detected_at_utc": "2026-10-19T13:35:10.156745+00:00"
+      },
       {
         "artist": "ALEXA",
         "title": "Dewi",
