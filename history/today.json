@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:14:08.005971+00:00",
+  "updated_at_utc": "2026-10-19T14:15:11.409902+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-10-19T14:14:44.402419+00:00"
+      },
       {
         "artist": "Charles & Eddie",
         "title": "Would I Lie To You?",
