@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:08:23.026870+00:00",
+  "updated_at_utc": "2026-10-19T13:10:10.472267+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jessica Jay",
+        "title": "Casablanca (Jay In The mix)",
+        "detected_at_utc": "2026-10-19T13:10:10.373074+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "Unwell",
