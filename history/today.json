@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:14:38.813097+00:00",
+  "updated_at_utc": "2026-10-19T15:15:57.173018+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-19T15:15:57.093197+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Setapak Sriwedari",
