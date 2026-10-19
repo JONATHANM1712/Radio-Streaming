@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:57:08.661099+00:00",
+  "updated_at_utc": "2026-10-19T16:58:11.055126+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Rolling In the Deep",
+        "detected_at_utc": "2026-10-19T16:58:05.901174+00:00"
+      },
       {
         "artist": "Labrinth",
         "title": "Jealous",
