@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:41:33.697823+00:00",
+  "updated_at_utc": "2026-10-19T15:42:36.095364+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-19T15:42:30.500437+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Because of You",
