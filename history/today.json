@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:37:04.829646+00:00",
+  "updated_at_utc": "2026-10-19T13:38:07.904664+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "Crazy In Love (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-10-19T13:37:13.626279+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "I Ain't Worried",
