@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:14:15.082512+00:00",
+  "updated_at_utc": "2026-10-19T16:15:17.500060+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Afgan & Raisa",
+        "title": "Percayalah",
+        "detected_at_utc": "2026-10-19T16:14:53.802206+00:00"
+      },
       {
         "artist": "Take That",
         "title": "Patience",
