@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:52:12.096336+00:00",
+  "updated_at_utc": "2026-10-19T17:54:03.367134+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Keep Holding On",
+        "detected_at_utc": "2026-10-19T17:54:03.279931+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go",
