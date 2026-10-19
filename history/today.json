@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:27:48.272705+00:00",
+  "updated_at_utc": "2026-10-19T13:28:50.655241+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zedd",
+        "title": "Clarity (feat. Foxes)",
+        "detected_at_utc": "2026-10-19T13:28:45.613110+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Cloud Number Nine (Chicane Mix)",
