@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:05:25.133941+00:00",
+  "updated_at_utc": "2026-10-19T15:06:27.929916+00:00",
   "stations": {
     "kis": [
       {
@@ -491,6 +491,11 @@
     ],
     "jak": [
       {
+        "artist": "Sara Bareilles",
+        "title": "Love Song",
+        "detected_at_utc": "2026-10-19T15:05:41.855006+00:00"
+      },
+      {
         "artist": "Christina Perri",
         "title": "Jar of Hearts",
         "detected_at_utc": "2026-10-19T14:57:29.183985+00:00"
@@ -957,6 +962,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric Clapton",
+        "title": "Everybody Oughta Make a Change",
+        "detected_at_utc": "2026-10-19T15:05:47.446304+00:00"
+      },
       {
         "artist": "The Real Thing",
         "title": "You To Me Are Everything",
