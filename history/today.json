@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:06:32.762131+00:00",
+  "updated_at_utc": "2026-10-19T12:07:35.158739+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lauryn Hill",
+        "title": "Doo Wop (That Thing)",
+        "detected_at_utc": "2026-10-19T12:07:21.524188+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
@@ -552,6 +557,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "Suburbia (The Full Horror)",
+        "detected_at_utc": "2026-10-19T12:07:18.806279+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "Suburbia",
