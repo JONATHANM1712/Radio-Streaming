@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:53:27.472816+00:00",
+  "updated_at_utc": "2026-10-19T15:54:29.969397+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "detected_at_utc": "2026-10-19T15:53:44.264696+00:00"
+      },
       {
         "artist": "Ja Rule",
         "title": "Always On Time (feat. Ashanti)",
