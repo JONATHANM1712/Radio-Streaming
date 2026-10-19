@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:43:27.185787+00:00",
+  "updated_at_utc": "2026-10-19T13:44:31.268919+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Headhunterz",
+        "title": "Still Standin'",
+        "detected_at_utc": "2026-10-19T13:43:35.826218+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Crazy In Love (feat. JAŸ-Z)",
