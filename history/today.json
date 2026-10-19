@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:52:23.024109+00:00",
+  "updated_at_utc": "2026-10-19T10:53:25.594740+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kerispatih",
+        "title": "Tak Lekang Oleh Waktu",
+        "detected_at_utc": "2026-10-19T10:53:22.968116+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "I Gotta Feeling",
