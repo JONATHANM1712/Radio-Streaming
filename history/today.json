@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:51:59.465873+00:00",
+  "updated_at_utc": "2026-10-19T16:53:02.006506+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Labrinth",
+        "title": "Jealous",
+        "detected_at_utc": "2026-10-19T16:52:59.707550+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
@@ -1227,6 +1232,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "C+C Music Factory",
+        "title": "Forever",
+        "detected_at_utc": "2026-10-19T16:52:02.252212+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Thriller",
