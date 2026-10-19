@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-18T17:56:58.447110+00:00",
+  "updated_at_utc": "2026-10-19T05:29:03.406208+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande",
+        "title": "The Way (feat. Mac Miller)",
+        "detected_at_utc": "2026-10-19T05:29:03.314183+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Your Love Is My Drug",
@@ -70,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robin Thicke",
+        "title": "Blurred Lines (feat. T.I. & Pharrell)",
+        "detected_at_utc": "2026-10-19T05:29:03.287797+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
