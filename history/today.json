@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T11:38:31.561507+00:00",
+  "updated_at_utc": "2026-10-19T11:42:45.581307+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-19T11:42:45.485234+00:00"
+      },
       {
         "artist": "Zedd, Maren Morris & Grey",
         "title": "The Middle",
