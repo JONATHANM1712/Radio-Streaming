@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:57:28.327912+00:00",
+  "updated_at_utc": "2026-10-19T10:58:30.843996+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jikustik",
+        "title": "Untuk Dikenang",
+        "detected_at_utc": "2026-10-19T10:58:28.358859+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "My All",
