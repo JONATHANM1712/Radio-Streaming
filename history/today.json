@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:44:31.268919+00:00",
+  "updated_at_utc": "2026-10-19T13:45:35.065102+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "The Only Exception",
+        "detected_at_utc": "2026-10-19T13:44:58.276313+00:00"
+      },
       {
         "artist": "Headhunterz",
         "title": "Still Standin'",
