@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:50:56.948658+00:00",
+  "updated_at_utc": "2026-10-19T16:51:59.465873+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Bleeding Love",
+        "detected_at_utc": "2026-10-19T16:51:44.361468+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Maps",
