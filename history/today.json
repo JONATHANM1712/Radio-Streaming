@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:13:18.432089+00:00",
+  "updated_at_utc": "2026-10-19T13:15:34.444708+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-19T13:15:34.363221+00:00"
+      },
       {
         "artist": "Nico & Vinz",
         "title": "Am I Wrong",
