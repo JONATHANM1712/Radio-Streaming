@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:44:52.513608+00:00",
+  "updated_at_utc": "2026-10-19T06:45:56.133305+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kahitna",
+        "title": "Cinta Sendiri",
+        "detected_at_utc": "2026-10-19T06:45:43.939255+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
@@ -342,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Wild Is the Wind",
+        "detected_at_utc": "2026-10-19T06:45:17.717955+00:00"
+      },
       {
         "artist": "Soundgarden",
         "title": "Black Hole Sun",
