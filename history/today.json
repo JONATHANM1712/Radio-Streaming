@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:52:34.715008+00:00",
+  "updated_at_utc": "2026-10-19T06:57:30.323368+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Unconditionally",
+        "detected_at_utc": "2026-10-19T06:57:30.143825+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
