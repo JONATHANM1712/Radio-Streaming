@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:10:11.481435+00:00",
+  "updated_at_utc": "2026-10-19T16:11:50.080063+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Take That",
+        "title": "Patience",
+        "detected_at_utc": "2026-10-19T16:11:49.996850+00:00"
+      },
       {
         "artist": "Melanie C",
         "title": "Never Be the Same Again",
