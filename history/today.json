@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:01:53.523612+00:00",
+  "updated_at_utc": "2026-10-19T17:02:55.897225+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd",
+        "title": "I Want You To Know (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-19T17:02:10.927898+00:00"
+      },
       {
         "artist": "Abhijeet & Shah Rukh Khan",
         "title": "Main To Hoon Pagal",
