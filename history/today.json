@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:29:00.446757+00:00",
+  "updated_at_utc": "2026-10-19T12:31:16.656403+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-10-19T12:31:16.564760+00:00"
+      },
       {
         "artist": "Cokelat",
         "title": "Karma",
