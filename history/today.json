@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:46:53.858038+00:00",
+  "updated_at_utc": "2026-10-19T16:47:57.120485+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Maps",
+        "detected_at_utc": "2026-10-19T16:47:38.929236+00:00"
+      },
       {
         "artist": "Annie Lennox",
         "title": "No More \"I Love You's\"",
@@ -1212,6 +1217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Thriller",
+        "detected_at_utc": "2026-10-19T16:46:55.752621+00:00"
+      },
       {
         "artist": "Bon Jovi",
         "title": "Wanted Dead Or Alive",
