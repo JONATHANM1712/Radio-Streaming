@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:59:38.739133+00:00",
+  "updated_at_utc": "2026-10-19T15:00:41.729284+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Cayman Islands",
+        "detected_at_utc": "2026-10-19T15:00:16.256584+00:00"
+      },
       {
         "artist": "M2M",
         "title": "The Day You Went Away",
