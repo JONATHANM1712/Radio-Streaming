@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:09:39.921956+00:00",
+  "updated_at_utc": "2026-10-19T12:12:28.927305+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Blunt",
+        "title": "You're Beautiful",
+        "detected_at_utc": "2026-10-19T12:12:28.848844+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Doo Wop (That Thing)",
