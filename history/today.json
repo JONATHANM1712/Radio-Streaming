@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:58:08.345841+00:00",
+  "updated_at_utc": "2026-10-19T18:00:21.758815+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "Please Don't Go",
+        "detected_at_utc": "2026-10-19T18:00:21.674016+00:00"
+      },
       {
         "artist": "Christina Aguilera",
         "title": "Fighter",
