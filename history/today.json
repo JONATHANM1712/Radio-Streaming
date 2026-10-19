@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:44:05.524178+00:00",
+  "updated_at_utc": "2026-10-19T17:45:08.097464+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Suede",
+        "title": "Beautiful Ones",
+        "detected_at_utc": "2026-10-19T17:44:52.231186+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Tak Mampu Mendua",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ava Max",
+        "title": "Million Dollar Baby",
+        "detected_at_utc": "2026-10-19T17:45:03.505316+00:00"
+      },
       {
         "artist": "Portugal. The Man",
         "title": "Feel It Still",
@@ -127,6 +137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "TLC",
+        "title": "Creep",
+        "detected_at_utc": "2026-10-19T17:45:06.582041+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Back & Forth",
