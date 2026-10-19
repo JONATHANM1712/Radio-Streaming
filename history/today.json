@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:22:09.490983+00:00",
+  "updated_at_utc": "2026-10-19T15:23:11.895117+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-10-19T15:22:47.732025+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Menangis Semalam",
