@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:43:10.495001+00:00",
+  "updated_at_utc": "2026-10-19T10:46:12.544338+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "It Ain't Over 'Til It's Over",
+        "detected_at_utc": "2026-10-19T10:46:12.431590+00:00"
+      },
       {
         "artist": "Indah Dewi Pertiwi",
         "title": "Gejolak Cinta (feat. Sandhy Sondoro)",
