@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:13:24.771674+00:00",
+  "updated_at_utc": "2026-10-19T17:14:27.328794+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Perri",
+        "title": "Jar of Hearts",
+        "detected_at_utc": "2026-10-19T17:14:12.471077+00:00"
+      },
       {
         "artist": "Rick Price",
         "title": "Heaven Knows",
@@ -20,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-19T17:14:25.987201+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
