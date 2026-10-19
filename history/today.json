@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:00:02.551932+00:00",
+  "updated_at_utc": "2026-10-19T06:02:01.387095+00:00",
   "stations": {
     "kis": [
       {
@@ -247,6 +247,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paula Abdul",
+        "title": "Opposites Attract",
+        "detected_at_utc": "2026-10-19T06:02:01.250658+00:00"
+      },
       {
         "artist": "Rick Astley",
         "title": "Together Forever",
