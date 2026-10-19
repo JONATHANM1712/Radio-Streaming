@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:11:25.818430+00:00",
+  "updated_at_utc": "2026-10-19T17:13:24.771674+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-19T17:13:24.682494+00:00"
+      },
       {
         "artist": "Missy Elliott",
         "title": "Get Ur Freak On",
