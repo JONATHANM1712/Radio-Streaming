@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:31:20.197263+00:00",
+  "updated_at_utc": "2026-10-19T14:32:23.577542+00:00",
   "stations": {
     "kis": [
       {
@@ -441,6 +441,11 @@
     ],
     "jak": [
       {
+        "artist": "Dewa 19",
+        "title": "Larut",
+        "detected_at_utc": "2026-10-19T14:31:39.828158+00:00"
+      },
+      {
         "artist": "LISA",
         "title": "SaWaDiKa",
         "detected_at_utc": "2026-10-19T14:28:34.564957+00:00"
@@ -877,6 +882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "GTR",
+        "title": "When the Heart Rules the Mind",
+        "detected_at_utc": "2026-10-19T14:31:49.174673+00:00"
+      },
       {
         "artist": "Eddie Murphy",
         "title": "Party All the Time",
