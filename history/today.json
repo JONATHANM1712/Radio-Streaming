@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:21:21.820221+00:00",
+  "updated_at_utc": "2026-10-19T17:22:24.865588+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clay Aiken",
+        "title": "Invisible",
+        "detected_at_utc": "2026-10-19T17:21:34.734063+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
