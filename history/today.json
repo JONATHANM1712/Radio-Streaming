@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:42:36.095364+00:00",
+  "updated_at_utc": "2026-10-19T15:43:38.833090+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-10-19T15:43:31.734153+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
