@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:15:11.409902+00:00",
+  "updated_at_utc": "2026-10-19T14:16:16.488078+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "detected_at_utc": "2026-10-19T14:16:08.896205+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "When You're Gone",
