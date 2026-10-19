@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:23:11.895117+00:00",
+  "updated_at_utc": "2026-10-19T15:24:14.402454+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-19T15:24:07.270985+00:00"
+      },
       {
         "artist": "Mario",
         "title": "How Do I Breathe",
