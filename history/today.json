@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:16:16.488078+00:00",
+  "updated_at_utc": "2026-10-19T14:18:54.006166+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rida Sita Dewi",
+        "title": "Kusadari",
+        "detected_at_utc": "2026-10-19T14:18:53.868427+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Nothing Lasts Forever",
