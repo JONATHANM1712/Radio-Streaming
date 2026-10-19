@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T17:49:09.701108+00:00",
+  "updated_at_utc": "2026-10-19T17:50:12.538384+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Bay",
+        "title": "Let It Go",
+        "detected_at_utc": "2026-10-19T17:49:58.244295+00:00"
+      },
       {
         "artist": "Tina Arena",
         "title": "Chains",
