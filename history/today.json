@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T13:57:46.909270+00:00",
+  "updated_at_utc": "2026-10-19T13:58:50.735912+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Holy Grail (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-10-19T13:58:23.657170+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Party In the U.S.A.",
@@ -802,6 +807,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "DJ Kodi",
+        "title": "Purple Rain",
+        "detected_at_utc": "2026-10-19T13:58:20.611127+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Patience",
