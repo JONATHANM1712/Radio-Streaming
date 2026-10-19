@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:39:04.376849+00:00",
+  "updated_at_utc": "2026-10-19T10:41:05.613559+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Indah Dewi Pertiwi",
+        "title": "Gejolak Cinta (feat. Sandhy Sondoro)",
+        "detected_at_utc": "2026-10-19T10:41:05.506283+00:00"
+      },
       {
         "artist": "Blue",
         "title": "All Rise",
