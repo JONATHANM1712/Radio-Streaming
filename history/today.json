@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:54:28.246496+00:00",
+  "updated_at_utc": "2026-10-19T10:57:28.327912+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "rollerblade",
+        "detected_at_utc": "2026-10-19T10:57:28.226620+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Tak Lekang Oleh Waktu",
