@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:07:11.792731+00:00",
+  "updated_at_utc": "2026-10-19T06:08:14.805540+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-10-19T06:08:13.202879+00:00"
+      },
       {
         "artist": "Nelly Furtado & Timbaland",
         "title": "Promiscuous (feat. Timbaland)",
@@ -125,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-10-19T06:08:11.767716+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
@@ -262,6 +272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Calling All Girls",
+        "detected_at_utc": "2026-10-19T06:08:11.828578+00:00"
+      },
       {
         "artist": "Paula Abdul",
         "title": "Opposites Attract",
