@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:50:40.608671+00:00",
+  "updated_at_utc": "2026-10-19T15:51:47.292785+00:00",
   "stations": {
     "kis": [
       {
@@ -1077,6 +1077,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cranberries",
+        "title": "Electric Blue",
+        "detected_at_utc": "2026-10-19T15:51:47.210758+00:00"
+      },
       {
         "artist": "Peter Cetera",
         "title": "Glory of Love",
