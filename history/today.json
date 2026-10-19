@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T16:11:50.080063+00:00",
+  "updated_at_utc": "2026-10-19T16:12:52.442486+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-10-19T16:12:06.904201+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
