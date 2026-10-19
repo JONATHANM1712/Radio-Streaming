@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T06:58:34.026628+00:00",
+  "updated_at_utc": "2026-10-19T06:59:37.906035+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-10-19T06:59:01.663836+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "We Are Young (feat. Janelle Monáe)",
@@ -372,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Show Me (Hearthrob Mix)",
+        "detected_at_utc": "2026-10-19T06:59:12.526837+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Faith",
