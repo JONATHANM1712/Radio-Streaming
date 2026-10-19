@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T10:48:17.629733+00:00",
+  "updated_at_utc": "2026-10-19T10:50:17.883274+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-10-19T10:50:17.762260+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "It Ain't Over 'Til It's Over",
