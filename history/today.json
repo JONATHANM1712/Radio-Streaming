@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T15:48:44.710555+00:00",
+  "updated_at_utc": "2026-10-19T15:50:40.608671+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ja Rule",
+        "title": "Always On Time (feat. Ashanti)",
+        "detected_at_utc": "2026-10-19T15:50:40.478660+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Try Sleeping With a Broken Heart",
