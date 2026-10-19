@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:46:34.814775+00:00",
+  "updated_at_utc": "2026-10-19T05:47:37.752821+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Owl City",
+        "title": "Vanilla Twilight",
+        "detected_at_utc": "2026-10-19T05:46:35.600029+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue",
+        "title": "By Your Side (feat. RAYE)",
+        "detected_at_utc": "2026-10-19T05:47:37.183456+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
@@ -212,6 +222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fiction Factory",
+        "title": "(Feels Like) Heaven",
+        "detected_at_utc": "2026-10-19T05:47:37.410999+00:00"
+      },
       {
         "artist": "Guruh Soekarno Putra",
         "title": "Melati Suci",
