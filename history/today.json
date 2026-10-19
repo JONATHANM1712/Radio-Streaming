@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T05:47:37.752821+00:00",
+  "updated_at_utc": "2026-10-19T05:50:41.947388+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Everything",
+        "detected_at_utc": "2026-10-19T05:50:41.782464+00:00"
+      },
       {
         "artist": "Jonas Blue",
         "title": "By Your Side (feat. RAYE)",
