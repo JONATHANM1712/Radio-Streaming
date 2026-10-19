@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T14:37:58.852802+00:00",
+  "updated_at_utc": "2026-10-19T14:39:41.472370+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Tega",
+        "detected_at_utc": "2026-10-19T14:39:41.349783+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "We Belong Together",
