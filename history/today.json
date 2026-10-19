@@ -1,8 +1,13 @@
 {
   "date": "2026-10-19",
-  "updated_at_utc": "2026-10-19T12:53:43.803862+00:00",
+  "updated_at_utc": "2026-10-19T12:57:48.547583+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Miss Independent",
+        "detected_at_utc": "2026-10-19T12:57:48.449023+00:00"
+      },
       {
         "artist": "Ecoutez",
         "title": "Simpan Saja",
