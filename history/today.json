@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:58:52.067879+00:00",
+  "updated_at_utc": "2026-10-20T10:01:54.253752+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Teenage Dream",
+        "detected_at_utc": "2026-10-20T10:01:54.073914+00:00"
+      },
       {
         "artist": "A1",
         "title": "Same Old Brand New You",
