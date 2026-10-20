@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:10:30.122099+00:00",
+  "updated_at_utc": "2026-10-20T05:11:33.321473+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Circus",
+        "detected_at_utc": "2026-10-20T05:11:29.596996+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
