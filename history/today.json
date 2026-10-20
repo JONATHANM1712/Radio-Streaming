@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:25:34.456899+00:00",
+  "updated_at_utc": "2026-10-20T17:26:36.974560+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GAC (Gamaliél Audrey Cantika)",
+        "title": "Cinta",
+        "detected_at_utc": "2026-10-20T17:25:36.561032+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Lose My Breath",
