@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:55:01.908434+00:00",
+  "updated_at_utc": "2026-10-20T03:56:07.597511+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shakira & Beyoncé",
+        "title": "Beautiful Liar",
+        "detected_at_utc": "2026-10-20T03:56:07.401103+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
