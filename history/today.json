@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:41:25.629592+00:00",
+  "updated_at_utc": "2026-10-20T08:43:30.048599+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Everything",
+        "detected_at_utc": "2026-10-20T08:43:29.853106+00:00"
+      },
       {
         "artist": "Ruth Sahanaya, Kris Dayanti, Titi Dj",
         "title": "Semua Jadi Satu",
@@ -737,6 +742,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Debbie Gibson",
+        "title": "Foolish Beat",
+        "detected_at_utc": "2026-10-20T08:43:30.015618+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "Last Kiss",
