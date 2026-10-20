@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:04:37.539665+00:00",
+  "updated_at_utc": "2026-10-20T05:05:40.905995+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hailee Steinfeld & Grey",
+        "title": "Starving (feat. Zedd)",
+        "detected_at_utc": "2026-10-20T05:05:18.781100+00:00"
+      },
       {
         "artist": "Enrique Iglesias",
         "title": "Hero",
@@ -402,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tina Turner",
+        "title": "Typical Male",
+        "detected_at_utc": "2026-10-20T05:05:32.720526+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Invisible Touch",
