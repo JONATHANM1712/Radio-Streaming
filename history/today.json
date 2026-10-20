@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:46:34.182047+00:00",
+  "updated_at_utc": "2026-10-20T14:47:37.757988+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamelia",
+        "title": "Superstar",
+        "detected_at_utc": "2026-10-20T14:46:36.020756+00:00"
+      },
       {
         "artist": "Plain White T's",
         "title": "Hey There Delilah",
@@ -686,6 +691,11 @@
     ],
     "jak": [
       {
+        "artist": "TheOvertunes",
+        "title": "Sayap Pelindungmu (Centre of Gravity)",
+        "detected_at_utc": "2026-10-20T14:47:35.344194+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
         "detected_at_utc": "2026-10-20T14:46:34.084750+00:00"
@@ -1362,6 +1372,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "She's In Fashion",
+        "detected_at_utc": "2026-10-20T14:47:20.282359+00:00"
+      },
       {
         "artist": "Björk",
         "title": "Human Behaviour",
