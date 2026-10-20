@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:38:07.417195+00:00",
+  "updated_at_utc": "2026-10-20T17:40:09.683337+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sophie B. Hawkins",
+        "title": "Lose Your Way",
+        "detected_at_utc": "2026-10-20T17:40:09.594183+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Don't Phunk With My Heart",
