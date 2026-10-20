@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:35:28.966438+00:00",
+  "updated_at_utc": "2026-10-20T13:36:31.391128+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Diskoria",
+        "title": "Serenata Jiwa Lara (feat. Dian Sastrowardoyo)",
+        "detected_at_utc": "2026-10-20T13:35:44.920390+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "If You're Gone",
