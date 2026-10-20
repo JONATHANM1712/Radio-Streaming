@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:05:29.795954+00:00",
+  "updated_at_utc": "2026-10-20T06:07:35.602810+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Say My Name",
+        "detected_at_utc": "2026-10-20T06:07:35.526006+00:00"
+      },
       {
         "artist": "The Script",
         "title": "For the First Time",
