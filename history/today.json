@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:57:23.343713+00:00",
+  "updated_at_utc": "2026-10-20T17:58:42.303375+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bebe Rexha & Florida Georgia Line",
+        "title": "Meant to Be",
+        "detected_at_utc": "2026-10-20T17:58:42.223306+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
