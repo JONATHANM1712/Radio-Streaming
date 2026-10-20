@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:28:05.778090+00:00",
+  "updated_at_utc": "2026-10-20T12:30:10.851132+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-10-20T12:30:10.717463+00:00"
+      },
       {
         "artist": "WILLOW",
         "title": "Wait a Minute!",
