@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:29:26.333497+00:00",
+  "updated_at_utc": "2026-10-20T05:32:03.244000+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-20T05:32:03.138387+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Meet Me Halfway",
