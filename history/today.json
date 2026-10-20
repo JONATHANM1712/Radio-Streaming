@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:35:12.138541+00:00",
+  "updated_at_utc": "2026-10-20T08:37:13.931402+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruth Sahanaya, Kris Dayanti, Titi Dj",
+        "title": "Semua Jadi Satu",
+        "detected_at_utc": "2026-10-20T08:37:13.797770+00:00"
+      },
       {
         "artist": "Major Lazer",
         "title": "Cold Water (feat. Justin Bieber & MØ)",
