@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:29:42.299607+00:00",
+  "updated_at_utc": "2026-10-20T14:30:44.804417+00:00",
   "stations": {
     "kis": [
       {
@@ -1332,6 +1332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "KC and the Sunshine Band",
+        "title": "Sound Your Funky Horn",
+        "detected_at_utc": "2026-10-20T14:30:31.782606+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Take a Bow",
