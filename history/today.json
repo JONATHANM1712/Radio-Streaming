@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T18:07:35.904973+00:00",
+  "updated_at_utc": "2026-10-20T18:13:29.942916+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady A",
+        "title": "Just A Kiss",
+        "detected_at_utc": "2026-10-20T18:07:55.428236+00:00"
+      },
       {
         "artist": "Rialto",
         "title": "Untouchable",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imogen Heap",
+        "title": "Goodnight and Go",
+        "detected_at_utc": "2026-10-20T18:07:53.608861+00:00"
+      },
       {
         "artist": "JVKE",
         "title": "golden hour",
