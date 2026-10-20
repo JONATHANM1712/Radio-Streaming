@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:30:43.806574+00:00",
+  "updated_at_utc": "2026-10-20T17:31:47.156234+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "Hurt",
+        "detected_at_utc": "2026-10-20T17:31:45.170969+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Pretty Boy",
