@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:15:23.917043+00:00",
+  "updated_at_utc": "2026-10-20T17:17:23.392219+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nadhif Basalamah",
+        "title": "penjaga hati",
+        "detected_at_utc": "2026-10-20T17:17:23.296267+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Obsesion (No Es Amor) [feat. Baby Bash]",
