@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:11:18.929792+00:00",
+  "updated_at_utc": "2026-10-20T17:13:18.148748+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frankie J",
+        "title": "Obsesion (No Es Amor) [feat. Baby Bash]",
+        "detected_at_utc": "2026-10-20T17:13:18.050302+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
