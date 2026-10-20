@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:22:08.821366+00:00",
+  "updated_at_utc": "2026-10-20T12:23:12.100105+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MAGIC!",
+        "title": "Rude",
+        "detected_at_utc": "2026-10-20T12:22:47.668887+00:00"
+      },
       {
         "artist": "Doechii",
         "title": "What It Is (Block Boy) [feat. Kodak Black]",
