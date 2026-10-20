@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:04:51.720748+00:00",
+  "updated_at_utc": "2026-10-20T14:05:54.628086+00:00",
   "stations": {
     "kis": [
       {
@@ -1272,6 +1272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Hasenchat Music",
+        "title": "Eurasier (Trance Mix)",
+        "detected_at_utc": "2026-10-20T14:05:27.170907+00:00"
+      },
       {
         "artist": "The Brand New Heavies",
         "title": "Dream On Dreamer",
