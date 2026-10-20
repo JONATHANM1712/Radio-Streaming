@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:09:26.920469+00:00",
+  "updated_at_utc": "2026-10-20T06:10:29.405514+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dave & Tems",
+        "title": "Raindance",
+        "detected_at_utc": "2026-10-20T06:10:21.265553+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "That's Not My Name",
