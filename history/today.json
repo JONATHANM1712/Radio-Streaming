@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:22:26.222564+00:00",
+  "updated_at_utc": "2026-10-20T08:25:44.393011+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "detected_at_utc": "2026-10-20T08:25:44.247735+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Sedari Dulu",
