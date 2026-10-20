@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:48:14.289737+00:00",
+  "updated_at_utc": "2026-10-20T13:49:17.240115+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Mad",
+        "detected_at_utc": "2026-10-20T13:49:17.146876+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Wide Awake",
