@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:33:01.341639+00:00",
+  "updated_at_utc": "2026-10-20T04:34:04.433456+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Sempurna",
+        "detected_at_utc": "2026-10-20T04:33:02.679638+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
