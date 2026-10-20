@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:22:50.190581+00:00",
+  "updated_at_utc": "2026-10-20T05:24:12.305227+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-10-20T05:24:12.179991+00:00"
+      },
       {
         "artist": "Clay Aiken",
         "title": "Invisible",
