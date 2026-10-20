@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:23:12.100105+00:00",
+  "updated_at_utc": "2026-10-20T12:25:57.015953+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "TIC Band",
+        "title": "Terbaik Untukmu",
+        "detected_at_utc": "2026-10-20T12:25:56.878469+00:00"
+      },
       {
         "artist": "Natasha Bedingfield",
         "title": "These Words",
