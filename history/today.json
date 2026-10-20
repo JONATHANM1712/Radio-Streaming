@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:09:46.464548+00:00",
+  "updated_at_utc": "2026-10-20T16:11:24.652994+00:00",
   "stations": {
     "kis": [
       {
@@ -1562,6 +1562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lionel Richie",
+        "title": "You Are",
+        "detected_at_utc": "2026-10-20T16:11:24.550642+00:00"
+      },
       {
         "artist": "Seiko Matsuda",
         "title": "The Right Combination",
