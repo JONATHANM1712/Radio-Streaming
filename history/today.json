@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:43:35.517383+00:00",
+  "updated_at_utc": "2026-10-20T12:48:53.166796+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Walau Habis Terang",
+        "detected_at_utc": "2026-10-20T12:48:53.070094+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
