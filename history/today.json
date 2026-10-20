@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:15:46.275673+00:00",
+  "updated_at_utc": "2026-10-20T12:16:51.262312+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doechii",
+        "title": "What It Is (Block Boy) [feat. Kodak Black]",
+        "detected_at_utc": "2026-10-20T12:16:33.869348+00:00"
+      },
       {
         "artist": "Olly Murs",
         "title": "Troublemaker (feat. Flo Rida)",
