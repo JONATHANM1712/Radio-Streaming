@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:50:30.163798+00:00",
+  "updated_at_utc": "2026-10-20T16:51:48.472734+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa",
+        "title": "Jatuh Hati",
+        "detected_at_utc": "2026-10-20T16:51:48.384466+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "Some Nights",
