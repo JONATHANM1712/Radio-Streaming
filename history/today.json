@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:40:19.597175+00:00",
+  "updated_at_utc": "2026-10-20T06:41:22.101647+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Hari Bersamanya",
+        "detected_at_utc": "2026-10-20T06:40:58.969369+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Call Out My Name",
