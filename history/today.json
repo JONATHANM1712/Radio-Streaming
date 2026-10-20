@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:40:36.471187+00:00",
+  "updated_at_utc": "2026-10-20T05:41:39.091887+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-20T05:41:17.490997+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Rock DJ",
