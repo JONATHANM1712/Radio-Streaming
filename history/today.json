@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:39:20.651867+00:00",
+  "updated_at_utc": "2026-10-20T08:41:25.629592+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "This Love",
+        "detected_at_utc": "2026-10-20T08:41:25.491400+00:00"
+      },
       {
         "artist": "Lizzo",
         "title": "About Damn Time",
