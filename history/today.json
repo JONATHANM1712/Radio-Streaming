@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:48:09.582690+00:00",
+  "updated_at_utc": "2026-10-20T11:52:30.460979+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All-4-One",
+        "title": "I Can Love You Like That",
+        "detected_at_utc": "2026-10-20T11:52:30.330803+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Di Balik Awan",
