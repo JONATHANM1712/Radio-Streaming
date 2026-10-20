@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:19:28.753652+00:00",
+  "updated_at_utc": "2026-10-20T17:21:28.738321+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Just the Way You Are",
+        "detected_at_utc": "2026-10-20T17:21:28.638966+00:00"
+      },
       {
         "artist": "Nadhif Basalamah",
         "title": "penjaga hati",
