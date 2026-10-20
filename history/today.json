@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:23:25.703369+00:00",
+  "updated_at_utc": "2026-10-20T14:25:34.836430+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "detected_at_utc": "2026-10-20T14:25:34.750767+00:00"
+      },
       {
         "artist": "Soulvibe",
         "title": "Biarlah (Hapuslah Cinta)",
