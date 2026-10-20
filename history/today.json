@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:43:18.702228+00:00",
+  "updated_at_utc": "2026-10-20T03:44:25.322899+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bayu Risa",
+        "title": "Percaya (feat. Rayi)",
+        "detected_at_utc": "2026-10-20T03:44:25.097838+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
