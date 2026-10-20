@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:23:27.880241+00:00",
+  "updated_at_utc": "2026-10-20T11:25:42.121768+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Code Red",
+        "title": "This Is Our Song",
+        "detected_at_utc": "2026-10-20T11:25:41.931526+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Arti Hadirmu",
