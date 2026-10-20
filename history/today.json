@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:45:44.579797+00:00",
+  "updated_at_utc": "2026-10-20T16:46:47.783094+00:00",
   "stations": {
     "kis": [
       {
@@ -836,6 +836,11 @@
     ],
     "jak": [
       {
+        "artist": "Fun.",
+        "title": "Some Nights",
+        "detected_at_utc": "2026-10-20T16:46:41.291660+00:00"
+      },
+      {
         "artist": "Daniel Bedingfield",
         "title": "If You're Not the One",
         "detected_at_utc": "2026-10-20T16:37:28.350428+00:00"
@@ -1647,6 +1652,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Bangles",
+        "title": "Eternal Flame",
+        "detected_at_utc": "2026-10-20T16:46:21.967550+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "Always Somewhere (Live)",
