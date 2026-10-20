@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:35:18.007400+00:00",
+  "updated_at_utc": "2026-10-20T11:37:27.150827+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-20T11:37:27.028969+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Breathless",
