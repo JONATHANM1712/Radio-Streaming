@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T18:03:50.412009+00:00",
+  "updated_at_utc": "2026-10-20T18:04:53.054011+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JVKE",
+        "title": "golden hour",
+        "detected_at_utc": "2026-10-20T18:04:49.800159+00:00"
+      },
       {
         "artist": "Jonas Blue & William Singe",
         "title": "Mama",
