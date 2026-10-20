@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:23:59.461036+00:00",
+  "updated_at_utc": "2026-10-20T04:26:49.584169+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Maps",
+        "detected_at_utc": "2026-10-20T04:26:49.409328+00:00"
+      },
       {
         "artist": "Duffy",
         "title": "Mercy",
