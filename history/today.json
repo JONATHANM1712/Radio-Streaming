@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:38:38.913831+00:00",
+  "updated_at_utc": "2026-10-20T15:39:41.325737+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ashanti",
+        "title": "Foolish",
+        "detected_at_utc": "2026-10-20T15:39:01.346860+00:00"
+      },
       {
         "artist": "Wet Wet Wet",
         "title": "Julia Says",
