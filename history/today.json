@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:34:26.294763+00:00",
+  "updated_at_utc": "2026-10-20T05:35:29.099844+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robbie Williams",
+        "title": "Rock DJ",
+        "detected_at_utc": "2026-10-20T05:35:07.453598+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
