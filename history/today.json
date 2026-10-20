@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:35:41.003607+00:00",
+  "updated_at_utc": "2026-10-20T09:36:43.812011+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Musiq Soulchild",
+        "title": "Just Friends (Sunny)",
+        "detected_at_utc": "2026-10-20T09:36:37.430344+00:00"
+      },
       {
         "artist": "Geri Halliwell",
         "title": "Look At Me",
