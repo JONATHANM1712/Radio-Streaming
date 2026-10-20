@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:54:46.717110+00:00",
+  "updated_at_utc": "2026-10-20T12:55:49.430319+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gloria Estefan",
+        "title": "Heaven's What I Feel",
+        "detected_at_utc": "2026-10-20T12:55:07.453182+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Just Give Me a Reason (feat. Nate Ruess)",
