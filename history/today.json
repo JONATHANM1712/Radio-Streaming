@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:17:00.902633+00:00",
+  "updated_at_utc": "2026-10-20T13:18:51.930906+00:00",
   "stations": {
     "kis": [
       {
@@ -1177,6 +1177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "Wind of Change",
+        "detected_at_utc": "2026-10-20T13:18:51.843151+00:00"
+      },
       {
         "artist": "Cameo",
         "title": "Candy",
