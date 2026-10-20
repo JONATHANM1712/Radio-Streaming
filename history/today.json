@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:13:07.270020+00:00",
+  "updated_at_utc": "2026-10-20T14:16:10.228037+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Piknik '72",
+        "detected_at_utc": "2026-10-20T14:16:10.141441+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Together Again",
