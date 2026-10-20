@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:33:53.570451+00:00",
+  "updated_at_utc": "2026-10-20T03:36:01.511027+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunglon",
+        "title": "Cerita Lalu",
+        "detected_at_utc": "2026-10-20T03:35:55.634540+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Marvin Gaye (feat. Meghan Trainor)",
