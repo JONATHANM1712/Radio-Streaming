@@ -1,8 +1,18 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:42:04.485377+00:00",
+  "updated_at_utc": "2026-10-20T15:43:07.023239+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SAMSONS",
+        "title": "Akhir Rasa Ini",
+        "detected_at_utc": "2026-10-20T15:43:06.522034+00:00"
+      },
+      {
+        "artist": "Eve",
+        "title": "Gangsta Lovin' (feat. Alicia Keys)",
+        "detected_at_utc": "2026-10-20T15:42:05.157410+00:00"
+      },
       {
         "artist": "Ashanti",
         "title": "Foolish",
@@ -745,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-10-20T15:43:05.851606+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
