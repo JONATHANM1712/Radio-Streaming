@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:27:19.957514+00:00",
+  "updated_at_utc": "2026-10-20T13:28:28.210116+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-20T13:28:28.128712+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "Ain't It Fun",
