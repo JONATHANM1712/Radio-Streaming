@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:03:13.407482+00:00",
+  "updated_at_utc": "2026-10-20T16:04:16.179015+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande",
+        "title": "My Everything",
+        "detected_at_utc": "2026-10-20T16:03:37.439060+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Lonely",
