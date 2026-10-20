@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:20:20.321654+00:00",
+  "updated_at_utc": "2026-10-20T11:22:24.124086+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Sorry Not Sorry",
+        "detected_at_utc": "2026-10-20T11:21:27.899245+00:00"
+      },
       {
         "artist": "Jet",
         "title": "Look What You've Done",
