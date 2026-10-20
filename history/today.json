@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:32:01.350210+00:00",
+  "updated_at_utc": "2026-10-20T08:33:04.671059+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madison Avenue",
+        "title": "Don't Call Me Baby",
+        "detected_at_utc": "2026-10-20T08:32:55.033142+00:00"
+      },
       {
         "artist": "Modjo",
         "title": "Lady (Hear Me Tonight)",
