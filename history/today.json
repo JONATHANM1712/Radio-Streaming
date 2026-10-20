@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:12:27.391287+00:00",
+  "updated_at_utc": "2026-10-20T16:13:52.109097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ALEXA",
+        "title": "JPP (Jangan Pernah Pergi)",
+        "detected_at_utc": "2026-10-20T16:13:51.998776+00:00"
+      },
       {
         "artist": "Pretenders",
         "title": "I'll Stand By You",
