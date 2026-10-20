@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:35:40.788817+00:00",
+  "updated_at_utc": "2026-10-20T06:36:43.536650+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Call Out My Name",
+        "detected_at_utc": "2026-10-20T06:36:38.430906+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
