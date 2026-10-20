@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:06:57.198906+00:00",
+  "updated_at_utc": "2026-10-20T14:07:59.831162+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robbie Williams & Nicole Kidman",
+        "title": "Somethin' Stupid",
+        "detected_at_utc": "2026-10-20T14:07:56.130842+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
@@ -640,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd & Madonna",
+        "title": "Popular (feat. Playboi Carti)",
+        "detected_at_utc": "2026-10-20T14:07:53.478958+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Umbrella (feat. JAŸ-Z) [Mixed]",
