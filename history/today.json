@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:29:59.505629+00:00",
+  "updated_at_utc": "2026-10-20T04:31:20.655182+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Vogue",
+        "detected_at_utc": "2026-10-20T04:31:20.309567+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "Just A Dream (Main)",
