@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:49:42.420049+00:00",
+  "updated_at_utc": "2026-10-20T03:50:45.792242+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Insomnia",
+        "detected_at_utc": "2026-10-20T03:49:46.065306+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "Human",
@@ -105,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-20T03:50:44.797580+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Kiss It Better",
