@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:16:10.228037+00:00",
+  "updated_at_utc": "2026-10-20T14:17:13.385038+00:00",
   "stations": {
     "kis": [
       {
@@ -656,6 +656,11 @@
     ],
     "jak": [
       {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-20T14:16:12.039209+00:00"
+      },
+      {
         "artist": "The Script",
         "title": "Superheroes",
         "detected_at_utc": "2026-10-20T14:12:02.864627+00:00"
@@ -1297,6 +1302,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Blind Man",
+        "detected_at_utc": "2026-10-20T14:16:56.814064+00:00"
+      },
       {
         "artist": "UB40",
         "title": "Kingston Town",
