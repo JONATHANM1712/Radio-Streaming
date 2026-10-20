@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:14:34.838172+00:00",
+  "updated_at_utc": "2026-10-20T06:16:01.586777+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "We Are Never Ever Getting Back Together",
+        "detected_at_utc": "2026-10-20T06:16:01.500241+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Rock DJ",
