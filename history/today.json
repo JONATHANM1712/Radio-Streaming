@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:16:51.262312+00:00",
+  "updated_at_utc": "2026-10-20T12:17:55.603466+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blondie",
+        "title": "Maria",
+        "detected_at_utc": "2026-10-20T12:17:33.687656+00:00"
+      },
       {
         "artist": "Andre Hehanussa",
         "title": "Bidadari",
