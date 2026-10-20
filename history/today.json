@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:16:55.829430+00:00",
+  "updated_at_utc": "2026-10-20T16:17:59.064325+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Luxurious (feat. Slim Thug) [Remix featuring Slim Thug]",
+        "detected_at_utc": "2026-10-20T16:17:58.034950+00:00"
+      },
       {
         "artist": "ALEXA",
         "title": "JPP (Jangan Pernah Pergi)",
