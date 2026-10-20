@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:17:31.835825+00:00",
+  "updated_at_utc": "2026-10-20T15:18:34.877876+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly & The Bakuucakar",
+        "title": "Malaikat Juga Tahu",
+        "detected_at_utc": "2026-10-20T15:18:33.803802+00:00"
+      },
       {
         "artist": "Elliott Yamin",
         "title": "Wait for You",
@@ -1432,6 +1437,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Angie",
+        "detected_at_utc": "2026-10-20T15:18:11.125185+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "You Got It (The Right Stuff)",
