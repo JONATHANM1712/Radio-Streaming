@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:26:36.974560+00:00",
+  "updated_at_utc": "2026-10-20T17:29:39.550973+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-10-20T17:29:39.447957+00:00"
+      },
       {
         "artist": "Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",
         "title": "Stay With Me",
