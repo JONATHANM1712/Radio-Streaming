@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:55:23.776582+00:00",
+  "updated_at_utc": "2026-10-20T15:56:26.417211+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lorde",
+        "title": "Royals",
+        "detected_at_utc": "2026-10-20T15:55:24.609443+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "One Last Cry",
