@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:19:16.446353+00:00",
+  "updated_at_utc": "2026-10-20T14:20:19.344984+00:00",
   "stations": {
     "kis": [
       {
@@ -661,6 +661,11 @@
     ],
     "jak": [
       {
+        "artist": "Soulvibe",
+        "title": "Biarlah (Hapuslah Cinta)",
+        "detected_at_utc": "2026-10-20T14:19:19.083231+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
         "detected_at_utc": "2026-10-20T14:16:12.039209+00:00"
@@ -1307,6 +1312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Christopher Cross",
+        "title": "Arthur's Theme (Best That You Can Do) [Live]",
+        "detected_at_utc": "2026-10-20T14:20:02.121172+00:00"
+      },
       {
         "artist": "Aerosmith",
         "title": "Blind Man",
