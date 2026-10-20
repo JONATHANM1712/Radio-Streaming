@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:00:52.783461+00:00",
+  "updated_at_utc": "2026-10-20T17:01:55.161742+00:00",
   "stations": {
     "kis": [
       {
@@ -9,7 +9,13 @@
         "detected_at_utc": "2026-10-20T17:00:02.364813+00:00"
       }
     ],
-    "jak": [],
+    "jak": [
+      {
+        "artist": "Brian McKnight",
+        "title": "Shoulda, Woulda, Coulda",
+        "detected_at_utc": "2026-10-20T17:01:00.893888+00:00"
+      }
+    ],
     "most": [
       {
         "artist": "Michael Jackson",
