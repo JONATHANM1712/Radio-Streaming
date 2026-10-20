@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:21:41.893915+00:00",
+  "updated_at_utc": "2026-10-20T16:23:06.036975+00:00",
   "stations": {
     "kis": [
       {
@@ -800,6 +800,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "My Love (feat. T.I.)",
+        "detected_at_utc": "2026-10-20T16:23:05.947438+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "F**kin' Perfect",
