@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:10:16.382433+00:00",
+  "updated_at_utc": "2026-10-20T17:11:18.929792+00:00",
   "stations": {
     "kis": [
       {
@@ -42,6 +42,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Prince",
+        "title": "Controversy",
+        "detected_at_utc": "2026-10-20T17:10:56.856245+00:00"
+      },
       {
         "artist": "Barry White",
         "title": "Loves Theme",
