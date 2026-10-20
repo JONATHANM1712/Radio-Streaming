@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:11:00.644788+00:00",
+  "updated_at_utc": "2026-10-20T04:13:10.760299+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-10-20T04:13:10.626792+00:00"
+      },
       {
         "artist": "Afgan",
         "title": "Kacamata",
