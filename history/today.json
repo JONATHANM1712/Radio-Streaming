@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:14:06.439597+00:00",
+  "updated_at_utc": "2026-10-20T08:16:10.436954+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-20T08:16:10.239281+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Kiss You",
