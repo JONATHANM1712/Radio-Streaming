@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:00:22.866295+00:00",
+  "updated_at_utc": "2026-10-20T13:03:27.226706+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "That’s What I Like",
+        "detected_at_utc": "2026-10-20T13:03:27.144413+00:00"
+      },
       {
         "artist": "Kendrick Lamar & SZA",
         "title": "All The Stars",
