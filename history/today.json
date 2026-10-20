@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:49:50.984321+00:00",
+  "updated_at_utc": "2026-10-20T04:50:54.035648+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "David Guetta & Kelly Rowland",
+        "title": "When Love Takes Over (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-10-20T04:50:12.324470+00:00"
+      },
       {
         "artist": "Dewa",
         "title": "Mukadimah + Roman Picisan (Remastered 2023)",
@@ -170,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez & Pitbull",
+        "title": "Dance Again",
+        "detected_at_utc": "2026-10-20T04:50:52.641701+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
