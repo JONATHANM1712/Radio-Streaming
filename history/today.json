@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:11:02.282007+00:00",
+  "updated_at_utc": "2026-10-20T14:12:04.754274+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Superheroes",
+        "detected_at_utc": "2026-10-20T14:12:02.864627+00:00"
+      },
       {
         "artist": "The Weeknd & Madonna",
         "title": "Popular (feat. Playboi Carti)",
