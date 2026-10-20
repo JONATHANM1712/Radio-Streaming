@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:38:08.846484+00:00",
+  "updated_at_utc": "2026-10-20T03:40:07.914983+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-20T03:40:07.768609+00:00"
+      },
       {
         "artist": "Bunglon",
         "title": "Cerita Lalu",
