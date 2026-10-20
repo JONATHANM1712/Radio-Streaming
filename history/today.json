@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:45:11.946960+00:00",
+  "updated_at_utc": "2026-10-20T15:47:11.168913+00:00",
   "stations": {
     "kis": [
       {
@@ -755,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-20T15:47:11.085471+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "I Will Be",
