@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:26:18.028051+00:00",
+  "updated_at_utc": "2026-10-20T05:27:20.952426+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "detected_at_utc": "2026-10-20T05:26:56.048686+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Love Yourself",
@@ -457,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Kylie's Smiley Mix (Extended Version)",
+        "detected_at_utc": "2026-10-20T05:27:09.375611+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "It's No Secret",
