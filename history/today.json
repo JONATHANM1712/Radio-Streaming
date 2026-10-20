@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:25:42.121768+00:00",
+  "updated_at_utc": "2026-10-20T11:27:53.118736+00:00",
   "stations": {
     "kis": [
       {
@@ -947,6 +947,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van McCoy & The Soul City Symphony",
+        "title": "The Hustle",
+        "detected_at_utc": "2026-10-20T11:27:52.994007+00:00"
+      },
       {
         "artist": "Steelheart",
         "title": "She's Gone",
