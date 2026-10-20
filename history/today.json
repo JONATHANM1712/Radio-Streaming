@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:01:55.161742+00:00",
+  "updated_at_utc": "2026-10-20T17:02:57.851726+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "Treat Her Like a Lady",
+        "detected_at_utc": "2026-10-20T17:02:04.916068+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Hello",
