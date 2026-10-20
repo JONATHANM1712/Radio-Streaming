@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:22:41.960071+00:00",
+  "updated_at_utc": "2026-10-20T15:23:44.760280+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Stereophonics",
+        "title": "Maybe Tomorrow",
+        "detected_at_utc": "2026-10-20T15:23:41.036902+00:00"
+      },
       {
         "artist": "Glenn Fredly & The Bakuucakar",
         "title": "Malaikat Juga Tahu",
@@ -1447,6 +1452,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kool & The Gang",
+        "title": "Fresh",
+        "detected_at_utc": "2026-10-20T15:23:18.249864+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Angie",
