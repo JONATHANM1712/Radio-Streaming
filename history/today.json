@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:54:40.402547+00:00",
+  "updated_at_utc": "2026-10-20T11:58:47.927992+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-10-20T11:58:47.849625+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "I Can Love You Like That",
@@ -505,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Teenage Dream",
+        "detected_at_utc": "2026-10-20T11:58:47.777114+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Dekat Di Hati (Live)",
