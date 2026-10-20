@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:25:34.836430+00:00",
+  "updated_at_utc": "2026-10-20T14:26:38.970712+00:00",
   "stations": {
     "kis": [
       {
@@ -1322,6 +1322,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "Take a Bow",
+        "detected_at_utc": "2026-10-20T14:26:18.740436+00:00"
+      },
       {
         "artist": "Christopher Cross",
         "title": "Arthur's Theme (Best That You Can Do) [Live]",
