@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:50:34.647293+00:00",
+  "updated_at_utc": "2026-10-20T12:51:37.133695+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Just Give Me a Reason (feat. Nate Ruess)",
+        "detected_at_utc": "2026-10-20T12:50:57.415021+00:00"
+      },
       {
         "artist": "Halmahera",
         "title": "Khayalanku",
