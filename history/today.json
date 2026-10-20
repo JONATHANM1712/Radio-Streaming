@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:07:51.974599+00:00",
+  "updated_at_utc": "2026-10-20T04:09:57.330508+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Afgan",
+        "title": "Kacamata",
+        "detected_at_utc": "2026-10-20T04:09:57.172042+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
