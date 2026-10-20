@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:33:04.164355+00:00",
+  "updated_at_utc": "2026-10-20T16:34:26.796831+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Pupus",
+        "detected_at_utc": "2026-10-20T16:34:26.361731+00:00"
+      },
       {
         "artist": "Fourplay",
         "title": "Let's Make Love",
