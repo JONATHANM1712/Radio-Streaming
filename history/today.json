@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:22:24.124086+00:00",
+  "updated_at_utc": "2026-10-20T11:23:27.880241+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy",
+        "title": "Arti Hadirmu",
+        "detected_at_utc": "2026-10-20T11:22:30.950070+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "SexyBack (feat. Timbaland)",
