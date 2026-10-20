@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:58:42.303375+00:00",
+  "updated_at_utc": "2026-10-20T17:59:44.687798+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Faith Hill",
+        "title": "There You'll Be",
+        "detected_at_utc": "2026-10-20T17:59:43.828030+00:00"
+      },
       {
         "artist": "Mulan Jameela",
         "title": "Cinta Mati, Pt. 3",
