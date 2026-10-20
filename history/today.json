@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:17:13.385038+00:00",
+  "updated_at_utc": "2026-10-20T14:19:16.446353+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-10-20T14:19:16.248524+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Piknik '72",
