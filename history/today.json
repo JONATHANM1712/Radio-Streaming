@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-19T18:02:13.349160+00:00",
+  "updated_at_utc": "2026-10-20T03:33:53.570451+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-20T03:33:53.058949+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Please Don't Go",
@@ -182,6 +187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tone-Lōc",
+        "title": "Funky Cold Medina",
+        "detected_at_utc": "2026-10-20T03:33:53.008763+00:00"
+      },
       {
         "artist": "Beck",
         "title": "Where It's At",
