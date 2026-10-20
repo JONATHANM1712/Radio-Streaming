@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:47:43.970770+00:00",
+  "updated_at_utc": "2026-10-20T08:07:45.099082+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "A Thousand Years",
+        "detected_at_utc": "2026-10-20T08:07:44.967119+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Hari Bersamanya",
