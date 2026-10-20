@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:30:20.589534+00:00",
+  "updated_at_utc": "2026-10-20T06:31:56.198103+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Derulo",
+        "title": "Want To Want Me",
+        "detected_at_utc": "2026-10-20T06:31:56.108469+00:00"
+      },
       {
         "artist": "Jordan Hill",
         "title": "Remember Me This Way",
