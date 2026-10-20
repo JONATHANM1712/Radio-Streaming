@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:34:04.433456+00:00",
+  "updated_at_utc": "2026-10-20T04:37:19.681581+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GAYLE",
+        "title": "abcdefu",
+        "detected_at_utc": "2026-10-20T04:37:19.520792+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Sempurna",
