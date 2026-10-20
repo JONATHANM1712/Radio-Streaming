@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:13:26.093495+00:00",
+  "updated_at_utc": "2026-10-20T15:14:29.072789+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-10-20T15:13:26.331099+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Butterfly",
@@ -1422,6 +1427,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Kids On the Block",
+        "title": "You Got It (The Right Stuff)",
+        "detected_at_utc": "2026-10-20T15:14:05.526483+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Thank U",
