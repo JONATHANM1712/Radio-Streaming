@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:39:41.325737+00:00",
+  "updated_at_utc": "2026-10-20T15:42:04.485377+00:00",
   "stations": {
     "kis": [
       {
@@ -745,6 +745,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-10-20T15:42:04.399630+00:00"
+      },
       {
         "artist": "USHER",
         "title": "U Remind Me",
