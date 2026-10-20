@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:06:42.213089+00:00",
+  "updated_at_utc": "2026-10-20T16:07:45.769046+00:00",
   "stations": {
     "kis": [
       {
@@ -786,6 +786,11 @@
     ],
     "jak": [
       {
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "detected_at_utc": "2026-10-20T16:07:41.106734+00:00"
+      },
+      {
         "artist": "Post Malone",
         "title": "Better Now",
         "detected_at_utc": "2026-10-20T16:00:30.987551+00:00"
@@ -1552,6 +1557,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Seiko Matsuda",
+        "title": "The Right Combination",
+        "detected_at_utc": "2026-10-20T16:07:18.986746+00:00"
+      },
       {
         "artist": "Eagles",
         "title": "Love Will Keep Us Alive",
