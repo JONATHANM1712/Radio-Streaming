@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:47:37.757988+00:00",
+  "updated_at_utc": "2026-10-20T14:49:43.684251+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Def Leppard",
+        "title": "When Love & Hate Collide (Live)",
+        "detected_at_utc": "2026-10-20T14:49:43.594168+00:00"
+      },
       {
         "artist": "Jamelia",
         "title": "Superstar",
