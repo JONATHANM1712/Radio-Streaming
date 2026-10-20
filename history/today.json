@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T06:31:56.198103+00:00",
+  "updated_at_utc": "2026-10-20T06:32:59.389120+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Empire State Of Mind (feat. Alicia Keys)",
+        "detected_at_utc": "2026-10-20T06:32:27.134205+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
