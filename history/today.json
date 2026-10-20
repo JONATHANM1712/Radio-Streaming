@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:49:16.457146+00:00",
+  "updated_at_utc": "2026-10-20T15:50:19.959860+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "One Last Cry",
+        "detected_at_utc": "2026-10-20T15:50:16.129867+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
