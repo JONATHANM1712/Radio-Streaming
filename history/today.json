@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:28:39.158619+00:00",
+  "updated_at_utc": "2026-10-20T14:29:42.299607+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-20T14:29:42.214331+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
