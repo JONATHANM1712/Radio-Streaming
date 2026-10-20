@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:42:50.142465+00:00",
+  "updated_at_utc": "2026-10-20T09:43:53.173567+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-10-20T09:43:13.223417+00:00"
+      },
       {
         "artist": "Lady Gaga & Bradley Cooper",
         "title": "Shallow",
@@ -877,6 +882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Even Better Than the Real Thing",
+        "detected_at_utc": "2026-10-20T09:42:51.766435+00:00"
+      },
       {
         "artist": "Bon Jovi",
         "title": "Raise Your Hands",
