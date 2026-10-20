@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:29:58.638647+00:00",
+  "updated_at_utc": "2026-10-20T11:31:03.722821+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "detected_at_utc": "2026-10-20T11:31:03.598931+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Sorry Not Sorry",
