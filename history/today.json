@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:05:32.750389+00:00",
+  "updated_at_utc": "2026-10-20T13:06:36.326941+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-20T13:06:36.244239+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "That’s What I Like",
