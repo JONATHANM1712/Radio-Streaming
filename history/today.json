@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:41:39.091887+00:00",
+  "updated_at_utc": "2026-10-20T05:42:51.496317+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Whoops Now",
+        "detected_at_utc": "2026-10-20T05:42:51.383262+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Jangan Cintai Aku Apa Adanya",
