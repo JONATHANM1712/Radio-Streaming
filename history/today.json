@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:27:53.570087+00:00",
+  "updated_at_utc": "2026-10-20T16:29:16.332099+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-20T16:29:16.248118+00:00"
+      },
       {
         "artist": "Kodaline",
         "title": "All I Want",
