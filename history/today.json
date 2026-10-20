@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:19:02.293787+00:00",
+  "updated_at_utc": "2026-10-20T09:20:04.828374+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-20T09:19:06.668570+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
