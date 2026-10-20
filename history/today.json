@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:47:11.168913+00:00",
+  "updated_at_utc": "2026-10-20T15:48:13.889531+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-20T15:48:13.313499+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Akhir Rasa Ini",
