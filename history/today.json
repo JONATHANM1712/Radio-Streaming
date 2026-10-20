@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:52:56.868555+00:00",
+  "updated_at_utc": "2026-10-20T04:54:19.353713+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Arrested Development",
+        "title": "Honeymoon Day",
+        "detected_at_utc": "2026-10-20T04:54:19.189038+00:00"
+      },
       {
         "artist": "David Guetta & Kelly Rowland",
         "title": "When Love Takes Over (feat. Kelly Rowland)",
