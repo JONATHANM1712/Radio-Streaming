@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T14:26:38.970712+00:00",
+  "updated_at_utc": "2026-10-20T14:28:39.158619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zedd & Alessia Cara",
+        "title": "Stay",
+        "detected_at_utc": "2026-10-20T14:28:39.061806+00:00"
+      },
       {
         "artist": "Chynna Phillips",
         "title": "Naked And Sacred",
