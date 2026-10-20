@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:01:30.798608+00:00",
+  "updated_at_utc": "2026-10-20T04:05:48.277266+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Cosmic Girl",
+        "detected_at_utc": "2026-10-20T04:05:48.040111+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Dibalas Dengan Dusta (Remastered)",
@@ -267,6 +272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "a-ha",
+        "title": "I've Been Losing You",
+        "detected_at_utc": "2026-10-20T04:05:48.084544+00:00"
+      },
       {
         "artist": "The Human League",
         "title": "Mirror Man",
