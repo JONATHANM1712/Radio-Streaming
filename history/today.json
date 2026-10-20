@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:48:52.029027+00:00",
+  "updated_at_utc": "2026-10-20T05:49:54.649167+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-20T05:49:33.768954+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
