@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:33:32.994080+00:00",
+  "updated_at_utc": "2026-10-20T15:34:56.040465+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Wet Wet Wet",
+        "title": "Julia Says",
+        "detected_at_utc": "2026-10-20T15:34:55.951634+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Yoü And I",
