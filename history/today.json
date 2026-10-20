@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:04:00.235737+00:00",
+  "updated_at_utc": "2026-10-20T17:05:06.874048+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nick Jonas",
+        "title": "Jealous",
+        "detected_at_utc": "2026-10-20T17:05:06.791176+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "Shoulda, Woulda, Coulda",
