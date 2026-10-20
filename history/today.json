@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:07:29.870507+00:00",
+  "updated_at_utc": "2026-10-20T09:09:30.958707+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-10-20T09:09:30.825819+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
@@ -390,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Slide (feat. Frank Ocean & Migos)",
+        "detected_at_utc": "2026-10-20T09:09:30.866058+00:00"
+      },
       {
         "artist": "Milky",
         "title": "Just The Way You Are",
