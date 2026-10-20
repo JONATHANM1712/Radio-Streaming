@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:41:13.108211+00:00",
+  "updated_at_utc": "2026-10-20T17:42:15.681660+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "NO",
+        "detected_at_utc": "2026-10-20T17:42:12.199463+00:00"
+      },
       {
         "artist": "Silk City & Dua Lipa",
         "title": "Electricity (feat. Diplo & Mark Ronson)",
