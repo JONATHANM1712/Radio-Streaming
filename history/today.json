@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:31:03.722821+00:00",
+  "updated_at_utc": "2026-10-20T11:32:06.966255+00:00",
   "stations": {
     "kis": [
       {
@@ -957,6 +957,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van McCoy",
+        "title": "The Hustle",
+        "detected_at_utc": "2026-10-20T11:31:05.592746+00:00"
+      },
       {
         "artist": "Van McCoy & The Soul City Symphony",
         "title": "The Hustle",
