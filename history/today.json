@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:23:10.699982+00:00",
+  "updated_at_utc": "2026-10-20T09:27:28.069970+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Keane",
+        "title": "Everybody's Changing",
+        "detected_at_utc": "2026-10-20T09:27:27.974138+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
