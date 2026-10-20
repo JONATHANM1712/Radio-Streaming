@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:52:36.178181+00:00",
+  "updated_at_utc": "2026-10-20T17:54:37.253051+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-20T17:54:37.162394+00:00"
+      },
       {
         "artist": "Daniel Powter",
         "title": "Bad Day",
