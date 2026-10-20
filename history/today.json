@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:21:35.209824+00:00",
+  "updated_at_utc": "2026-10-20T04:22:55.879236+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gita Gutawa",
+        "title": "Bukan Permainan",
+        "detected_at_utc": "2026-10-20T04:22:55.583732+00:00"
+      },
       {
         "artist": "Savage Garden",
         "title": "Truly Madly Deeply",
