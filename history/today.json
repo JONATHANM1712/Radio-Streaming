@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:13:52.109097+00:00",
+  "updated_at_utc": "2026-10-20T16:15:52.914426+00:00",
   "stations": {
     "kis": [
       {
@@ -795,6 +795,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-20T16:15:52.782227+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
