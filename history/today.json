@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:30:57.586682+00:00",
+  "updated_at_utc": "2026-10-20T08:32:01.350210+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "detected_at_utc": "2026-10-20T08:31:52.763728+00:00"
+      },
       {
         "artist": "Madison Avenue",
         "title": "Don't Call Me Baby",
@@ -335,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-20T08:30:57.730628+00:00"
+      },
       {
         "artist": "The 1975",
         "title": "About You",
@@ -697,6 +707,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pulp",
+        "title": "Something Changed",
+        "detected_at_utc": "2026-10-20T08:31:59.092874+00:00"
+      },
       {
         "artist": "Ruzer",
         "title": "Alien",
