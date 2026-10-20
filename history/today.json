@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:36:01.511027+00:00",
+  "updated_at_utc": "2026-10-20T03:37:04.980597+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-20T03:36:59.371190+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
