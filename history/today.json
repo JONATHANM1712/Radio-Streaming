@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:38:22.841181+00:00",
+  "updated_at_utc": "2026-10-20T04:39:26.196669+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GAYLE",
+        "title": "abc (nicer)",
+        "detected_at_utc": "2026-10-20T04:39:24.436559+00:00"
+      },
       {
         "artist": "GAYLE",
         "title": "abcdefu",
