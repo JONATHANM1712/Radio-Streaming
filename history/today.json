@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:48:47.633790+00:00",
+  "updated_at_utc": "2026-10-20T04:49:50.984321+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-20T04:49:50.815270+00:00"
+      },
       {
         "artist": "LINKIN PARK",
         "title": "Numb",
