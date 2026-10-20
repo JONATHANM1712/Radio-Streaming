@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T09:37:46.433400+00:00",
+  "updated_at_utc": "2026-10-20T09:42:50.142465+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kanye West",
+        "title": "Gold Digger (feat. Jamie Foxx)",
+        "detected_at_utc": "2026-10-20T09:42:50.050007+00:00"
+      },
       {
         "artist": "Musiq Soulchild",
         "title": "Just Friends (Sunny)",
