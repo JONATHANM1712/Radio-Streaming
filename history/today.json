@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T05:00:15.105193+00:00",
+  "updated_at_utc": "2026-10-20T05:04:37.539665+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Mind Trick",
+        "detected_at_utc": "2026-10-20T05:04:37.370366+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Too Much",
