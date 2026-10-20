@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:53:34.071012+00:00",
+  "updated_at_utc": "2026-10-20T11:54:40.402547+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Dekat Di Hati (Live)",
+        "detected_at_utc": "2026-10-20T11:54:40.247527+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "The Sweet Escape (feat. Akon)",
