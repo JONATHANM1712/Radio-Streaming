@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:37:04.839581+00:00",
+  "updated_at_utc": "2026-10-20T17:38:07.417195+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Silk City & Dua Lipa",
+        "title": "Electricity (feat. Diplo & Mark Ronson)",
+        "detected_at_utc": "2026-10-20T17:38:01.701729+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Big Girls Don't Cry (Personal)",
