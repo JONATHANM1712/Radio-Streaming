@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:51:56.183741+00:00",
+  "updated_at_utc": "2026-10-20T15:55:23.776582+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Timbaland",
+        "title": "Give It To Me (feat. Justin Timberlake & Nelly Furtado)",
+        "detected_at_utc": "2026-10-20T15:55:23.660182+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
