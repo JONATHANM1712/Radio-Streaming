@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:23:44.760280+00:00",
+  "updated_at_utc": "2026-10-20T15:25:43.221906+00:00",
   "stations": {
     "kis": [
       {
@@ -730,6 +730,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "One Thing",
+        "detected_at_utc": "2026-10-20T15:25:43.133004+00:00"
+      },
       {
         "artist": "Zedd & Alessia Cara",
         "title": "Stay",
