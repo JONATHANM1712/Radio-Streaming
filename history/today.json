@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T17:18:26.299004+00:00",
+  "updated_at_utc": "2026-10-20T17:19:28.753652+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "WALK THE MOON",
+        "title": "Shut Up and Dance",
+        "detected_at_utc": "2026-10-20T17:18:26.645709+00:00"
+      },
       {
         "artist": "Richard Marx",
         "title": "Right Here Waiting",
