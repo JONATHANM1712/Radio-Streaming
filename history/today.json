@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:17:14.702561+00:00",
+  "updated_at_utc": "2026-10-20T08:18:18.037576+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Because Of You",
+        "detected_at_utc": "2026-10-20T08:18:11.546209+00:00"
+      },
       {
         "artist": "Tangga",
         "title": "Cinta Begini",
