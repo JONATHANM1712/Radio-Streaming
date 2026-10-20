@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T16:32:01.005387+00:00",
+  "updated_at_utc": "2026-10-20T16:33:04.164355+00:00",
   "stations": {
     "kis": [
       {
@@ -815,6 +815,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Medley: Let Me Talk to You / My Love (feat. T.I.)",
+        "detected_at_utc": "2026-10-20T16:32:20.492797+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
