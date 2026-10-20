@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:23:02.055053+00:00",
+  "updated_at_utc": "2026-10-20T13:24:04.826576+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "detected_at_utc": "2026-10-20T13:23:12.744128+00:00"
+      },
       {
         "artist": "t.A.T.u.",
         "title": "All The Things She Said",
@@ -595,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Ain't It Fun",
+        "detected_at_utc": "2026-10-20T13:23:15.995253+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Risalah Hati",
