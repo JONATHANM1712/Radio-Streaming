@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:46:38.103914+00:00",
+  "updated_at_utc": "2026-10-20T08:47:41.879653+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-20T08:47:40.534781+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
@@ -752,6 +757,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Shai",
+        "title": "If I Ever Fall In Love",
+        "detected_at_utc": "2026-10-20T08:47:41.081232+00:00"
+      },
       {
         "artist": "Debbie Gibson",
         "title": "Foolish Beat",
