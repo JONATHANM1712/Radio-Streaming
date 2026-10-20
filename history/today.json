@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:39:30.012829+00:00",
+  "updated_at_utc": "2026-10-20T12:40:32.521825+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babybird",
+        "title": "You're Gorgeous",
+        "detected_at_utc": "2026-10-20T12:40:26.237817+00:00"
+      },
       {
         "artist": "The Brand New Heavies",
         "title": "You Are the Universe",
