@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:19:00.814986+00:00",
+  "updated_at_utc": "2026-10-20T12:21:05.518932+00:00",
   "stations": {
     "kis": [
       {
@@ -1057,6 +1057,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Order",
+        "title": "Bizarre Love Triangle",
+        "detected_at_utc": "2026-10-20T12:21:05.372724+00:00"
+      },
       {
         "artist": "Foggieraw",
         "title": "Prolly",
