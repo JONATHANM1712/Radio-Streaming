@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T11:46:01.993584+00:00",
+  "updated_at_utc": "2026-10-20T11:48:09.582690+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "The Sweet Escape (feat. Akon)",
+        "detected_at_utc": "2026-10-20T11:48:09.453216+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Light Switch",
