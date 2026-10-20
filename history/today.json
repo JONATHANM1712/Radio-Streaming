@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:08:38.830213+00:00",
+  "updated_at_utc": "2026-10-20T13:09:43.155579+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Closer",
+        "detected_at_utc": "2026-10-20T13:09:43.075747+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
