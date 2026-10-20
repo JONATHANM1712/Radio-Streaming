@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:58:09.794607+00:00",
+  "updated_at_utc": "2026-10-20T08:59:12.877982+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls",
+        "detected_at_utc": "2026-10-20T08:59:08.316366+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Sorry Not Sorry",
