@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T12:11:59.463191+00:00",
+  "updated_at_utc": "2026-10-20T12:13:20.793034+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olly Murs",
+        "title": "Troublemaker (feat. Flo Rida)",
+        "detected_at_utc": "2026-10-20T12:13:20.628376+00:00"
+      },
       {
         "artist": "Ravyn Lenae",
         "title": "Love Me Not",
