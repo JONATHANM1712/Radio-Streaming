@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T04:41:32.789222+00:00",
+  "updated_at_utc": "2026-10-20T04:43:54.885423+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa",
+        "title": "Mukadimah + Roman Picisan (Remastered 2023)",
+        "detected_at_utc": "2026-10-20T04:43:54.714065+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Miss You",
