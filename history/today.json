@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:11:59.794437+00:00",
+  "updated_at_utc": "2026-10-20T08:13:03.490186+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Kiss You",
+        "detected_at_utc": "2026-10-20T08:13:01.081757+00:00"
+      },
       {
         "artist": "Djo",
         "title": "End of Beginning",
@@ -657,6 +662,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric B. & Rakim",
+        "title": "Paid In Full",
+        "detected_at_utc": "2026-10-20T08:13:02.849166+00:00"
+      },
       {
         "artist": "Eternal",
         "title": "Stay",
