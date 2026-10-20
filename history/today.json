@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T15:14:29.072789+00:00",
+  "updated_at_utc": "2026-10-20T15:17:31.835825+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Counting Crows",
+        "title": "Big Yellow Taxi (feat. Vanessa Carlton)",
+        "detected_at_utc": "2026-10-20T15:17:31.750188+00:00"
+      },
       {
         "artist": "ALEXA",
         "title": "Jangan Kau Lepas",
