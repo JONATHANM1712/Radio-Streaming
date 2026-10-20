@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:12:47.275622+00:00",
+  "updated_at_utc": "2026-10-20T13:13:51.447837+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Dean",
+        "title": "So Easy (To Fall In Love)",
+        "detected_at_utc": "2026-10-20T13:13:51.362622+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Closer",
