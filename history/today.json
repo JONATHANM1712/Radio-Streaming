@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T18:01:28.524551+00:00",
+  "updated_at_utc": "2026-10-20T18:02:30.937481+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue & William Singe",
+        "title": "Mama",
+        "detected_at_utc": "2026-10-20T18:01:45.965546+00:00"
+      },
       {
         "artist": "Bebe Rexha & Florida Georgia Line",
         "title": "Meant to Be",
