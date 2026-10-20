@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:24:04.826576+00:00",
+  "updated_at_utc": "2026-10-20T13:27:19.957514+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "detected_at_utc": "2026-10-20T13:27:19.873169+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Attention",
