@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T08:43:30.048599+00:00",
+  "updated_at_utc": "2026-10-20T08:44:33.289373+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-10-20T08:44:31.806695+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "This Love",
