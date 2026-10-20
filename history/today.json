@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T13:45:08.241870+00:00",
+  "updated_at_utc": "2026-10-20T13:47:11.651968+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-20T13:47:11.556608+00:00"
+      },
       {
         "artist": "Diskoria",
         "title": "Serenata Jiwa Lara (feat. Dian Sastrowardoyo)",
