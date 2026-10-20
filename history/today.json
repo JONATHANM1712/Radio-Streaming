@@ -1,8 +1,13 @@
 {
   "date": "2026-10-20",
-  "updated_at_utc": "2026-10-20T03:44:25.322899+00:00",
+  "updated_at_utc": "2026-10-20T03:45:28.848113+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Perri",
+        "title": "Human",
+        "detected_at_utc": "2026-10-20T03:45:24.288606+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "Paint My Love",
