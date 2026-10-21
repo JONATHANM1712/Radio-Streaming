@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:06:32.546113+00:00",
+  "updated_at_utc": "2026-10-21T05:07:35.988245+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Wildest Dreams",
+        "detected_at_utc": "2026-10-21T05:07:30.869658+00:00"
+      },
       {
         "artist": "Boyz II Men & Mariah Carey",
         "title": "One Sweet Day",
@@ -185,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Save Room",
+        "detected_at_utc": "2026-10-21T05:07:34.600833+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Nonsense",
