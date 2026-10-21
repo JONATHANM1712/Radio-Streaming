@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:26:33.051579+00:00",
+  "updated_at_utc": "2026-10-21T16:27:35.626768+00:00",
   "stations": {
     "kis": [
       {
@@ -656,6 +656,11 @@
     ],
     "jak": [
       {
+        "artist": "Hot Chelle Rae",
+        "title": "Tonight Tonight",
+        "detected_at_utc": "2026-10-21T16:26:56.558803+00:00"
+      },
+      {
         "artist": "Nico & Vinz",
         "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
         "detected_at_utc": "2026-10-21T16:23:50.522721+00:00"
@@ -1307,6 +1312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mick Jagger",
+        "title": "Party Doll",
+        "detected_at_utc": "2026-10-21T16:27:14.534244+00:00"
+      },
       {
         "artist": "John Lennon",
         "title": "Woman",
