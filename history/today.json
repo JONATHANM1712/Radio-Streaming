@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:03:35.951379+00:00",
+  "updated_at_utc": "2026-10-21T06:06:39.629117+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-21T06:06:39.534884+00:00"
+      },
       {
         "artist": "Rixton",
         "title": "Me and My Broken Heart",
