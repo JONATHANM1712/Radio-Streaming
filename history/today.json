@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:09:36.584420+00:00",
+  "updated_at_utc": "2026-10-21T13:11:39.980247+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sugar Ray",
+        "title": "When It's Over (David Kahne Main)",
+        "detected_at_utc": "2026-10-21T13:11:39.871705+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Blank Space",
