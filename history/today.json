@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:47:44.325081+00:00",
+  "updated_at_utc": "2026-10-21T06:48:46.807883+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-10-21T06:48:44.851424+00:00"
+      },
       {
         "artist": "Gorillaz",
         "title": "On Melancholy Hill",
