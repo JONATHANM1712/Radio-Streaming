@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:39:34.926839+00:00",
+  "updated_at_utc": "2026-10-21T14:43:11.711937+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz & Colbie Caillat",
+        "title": "Lucky",
+        "detected_at_utc": "2026-10-21T14:43:11.567596+00:00"
+      },
       {
         "artist": "Hindia",
         "title": "Secukupnya",
