@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:11:45.698668+00:00",
+  "updated_at_utc": "2026-10-21T12:13:37.071156+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-21T12:13:36.986972+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
