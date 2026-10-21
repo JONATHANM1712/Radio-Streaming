@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:56:23.072690+00:00",
+  "updated_at_utc": "2026-10-21T05:58:25.908810+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Divine Destiny",
+        "title": "Beautiful in White",
+        "detected_at_utc": "2026-10-21T05:58:25.797595+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Everything Is Everything",
