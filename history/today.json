@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:18:56.939359+00:00",
+  "updated_at_utc": "2026-10-21T06:19:59.530452+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-21T06:19:59.420337+00:00"
+      },
       {
         "artist": "Jennifer Love Hewitt",
         "title": "BareNaked (Video Version)",
