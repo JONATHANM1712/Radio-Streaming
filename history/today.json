@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:38:47.187513+00:00",
+  "updated_at_utc": "2026-10-21T13:39:51.494490+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "If I Lose Myself",
+        "detected_at_utc": "2026-10-21T13:39:51.398228+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
