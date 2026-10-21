@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T11:41:44.139589+00:00",
+  "updated_at_utc": "2026-10-21T11:42:48.069692+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Marcell",
+        "title": "Mendendam",
+        "detected_at_utc": "2026-10-21T11:42:41.744814+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Misread",
