@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:32:27.342381+00:00",
+  "updated_at_utc": "2026-10-21T04:34:26.533824+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Enrique Iglesias",
+        "title": "Hero",
+        "detected_at_utc": "2026-10-21T04:34:26.385224+00:00"
+      },
       {
         "artist": "Steps",
         "title": "One for Sorrow",
