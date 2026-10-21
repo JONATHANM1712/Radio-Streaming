@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:42:37.361244+00:00",
+  "updated_at_utc": "2026-10-21T05:44:39.634258+00:00",
   "stations": {
     "kis": [
       {
@@ -472,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fariz RM",
+        "title": "Barcelona",
+        "detected_at_utc": "2026-10-21T05:44:39.475913+00:00"
+      },
       {
         "artist": "Frente!",
         "title": "Bizarre Love Triangle (2014 Remaster)",
