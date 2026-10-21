@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:42:35.367271+00:00",
+  "updated_at_utc": "2026-10-21T06:44:38.530147+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gorillaz",
+        "title": "On Melancholy Hill",
+        "detected_at_utc": "2026-10-21T06:44:38.443370+00:00"
+      },
       {
         "artist": "Abhijeet & Shah Rukh Khan",
         "title": "Main To Hoon Pagal",
