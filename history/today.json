@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:51:59.535912+00:00",
+  "updated_at_utc": "2026-10-21T04:53:02.542004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-10-21T04:52:59.096071+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Love In a Peaceful World",
