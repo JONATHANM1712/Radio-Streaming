@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:13:07.966143+00:00",
+  "updated_at_utc": "2026-10-21T16:15:34.157910+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston & Justin Bieber",
+        "title": "Eenie Meenie",
+        "detected_at_utc": "2026-10-21T16:15:34.063779+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
