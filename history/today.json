@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:37:28.370318+00:00",
+  "updated_at_utc": "2026-10-21T06:39:29.832973+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Dua Sedjoli",
+        "detected_at_utc": "2026-10-21T06:39:29.744536+00:00"
+      },
       {
         "artist": "Dido",
         "title": "White Flag",
