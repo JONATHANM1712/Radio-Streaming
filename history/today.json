@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:19:59.530452+00:00",
+  "updated_at_utc": "2026-10-21T06:21:02.132574+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daniel Powter",
+        "title": "Bad Day",
+        "detected_at_utc": "2026-10-21T06:21:00.986749+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Cintakan Membawamu Kembali",
@@ -260,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-10-21T06:21:01.133070+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
