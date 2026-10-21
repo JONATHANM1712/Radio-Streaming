@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:10:39.152636+00:00",
+  "updated_at_utc": "2026-10-21T05:11:42.546697+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Nonsense",
+        "detected_at_utc": "2026-10-21T05:11:41.517092+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Save Room",
