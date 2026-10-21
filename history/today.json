@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T11:05:51.240728+00:00",
+  "updated_at_utc": "2026-10-21T11:08:50.700946+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jon Secada",
+        "title": "If You Go",
+        "detected_at_utc": "2026-10-21T11:08:50.537420+00:00"
+      },
       {
         "artist": "Mocca",
         "title": "Once Upon a Time / Secret Admirer",
