@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:27:19.029295+00:00",
+  "updated_at_utc": "2026-10-21T05:28:22.141225+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-21T05:28:14.431396+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors",
