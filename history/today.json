@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:54:41.747864+00:00",
+  "updated_at_utc": "2026-10-21T17:55:44.864424+00:00",
   "stations": {
     "kis": [
       {
@@ -147,6 +147,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Prince",
+        "title": "New Power Generation",
+        "detected_at_utc": "2026-10-21T17:55:13.435830+00:00"
+      },
       {
         "artist": "Martika",
         "title": "Love...Thy Will Be Done",
