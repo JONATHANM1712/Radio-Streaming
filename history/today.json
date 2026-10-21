@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:03:27.324816+00:00",
+  "updated_at_utc": "2026-10-21T16:04:30.288782+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christian Bautista",
+        "title": "Since I Found You",
+        "detected_at_utc": "2026-10-21T16:03:45.769852+00:00"
+      },
       {
         "artist": "INOJ",
         "title": "Time After Time",
