@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:23:42.338773+00:00",
+  "updated_at_utc": "2026-10-21T15:25:00.425097+00:00",
   "stations": {
     "kis": [
       {
@@ -1162,6 +1162,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paul McCartney & Stevie Wonder",
+        "title": "Ebony and Ivory",
+        "detected_at_utc": "2026-10-21T15:25:00.274601+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
