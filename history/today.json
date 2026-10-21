@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:49:00.070258+00:00",
+  "updated_at_utc": "2026-10-21T15:50:02.709655+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "I Turn to You",
+        "detected_at_utc": "2026-10-21T15:49:18.709091+00:00"
+      },
       {
         "artist": "Payung Teduh",
         "title": "Akad",
