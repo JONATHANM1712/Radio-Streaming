@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:26:09.792785+00:00",
+  "updated_at_utc": "2026-10-21T04:29:17.279026+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-21T04:29:17.085023+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Never Knew I Needed",
