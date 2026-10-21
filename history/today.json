@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:04:22.640624+00:00",
+  "updated_at_utc": "2026-10-21T04:05:26.570577+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Finesse (Remix) [feat. Cardi B]",
+        "detected_at_utc": "2026-10-21T04:05:24.135185+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "My Love",
