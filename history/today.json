@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-20T18:13:29.942916+00:00",
+  "updated_at_utc": "2026-10-21T03:48:41.510472+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hedi Yunus",
+        "title": "Suratku",
+        "detected_at_utc": "2026-10-20T18:13:33.772673+00:00"
+      },
       {
         "artist": "Lady A",
         "title": "Just A Kiss",
@@ -101,6 +106,11 @@
     ],
     "jak": [
       {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-20T18:13:33.579384+00:00"
+      },
+      {
         "artist": "Imogen Heap",
         "title": "Goodnight and Go",
         "detected_at_utc": "2026-10-20T18:07:53.608861+00:00"
@@ -197,6 +207,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Christopher Cross",
+        "title": "Sailing",
+        "detected_at_utc": "2026-10-20T18:13:33.517515+00:00"
+      },
       {
         "artist": "Talking Heads",
         "title": "Television Man",
