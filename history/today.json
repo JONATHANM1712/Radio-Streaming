@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:15:34.157910+00:00",
+  "updated_at_utc": "2026-10-21T16:16:38.143575+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vierra",
+        "title": "Perih",
+        "detected_at_utc": "2026-10-21T16:16:13.158586+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
