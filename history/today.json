@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:43:16.676369+00:00",
+  "updated_at_utc": "2026-10-21T12:45:05.385318+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brandy",
+        "title": "Sittin' Up In My Room",
+        "detected_at_utc": "2026-10-21T12:45:05.301370+00:00"
+      },
       {
         "artist": "USHER & Alicia Keys",
         "title": "My Boo",
