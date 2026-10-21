@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:49:28.898539+00:00",
+  "updated_at_utc": "2026-10-21T14:52:32.310947+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "In My Head",
+        "detected_at_utc": "2026-10-21T14:52:32.156641+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
