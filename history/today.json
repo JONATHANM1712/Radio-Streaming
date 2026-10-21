@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:46:53.272793+00:00",
+  "updated_at_utc": "2026-10-21T04:49:56.914073+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-10-21T04:49:56.777118+00:00"
+      },
       {
         "artist": "Iyaz",
         "title": "Solo",
