@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:58:50.819666+00:00",
+  "updated_at_utc": "2026-10-21T17:59:53.471844+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "311",
+        "title": "Love Song",
+        "detected_at_utc": "2026-10-21T17:59:50.756288+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "Don't Break My Heart",
