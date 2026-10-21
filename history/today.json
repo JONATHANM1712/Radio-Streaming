@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:35:48.737139+00:00",
+  "updated_at_utc": "2026-10-21T14:38:31.805434+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso",
+        "title": "Hampa",
+        "detected_at_utc": "2026-10-21T14:38:31.672240+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
