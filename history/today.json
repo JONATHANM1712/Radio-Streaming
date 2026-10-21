@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:44:10.364227+00:00",
+  "updated_at_utc": "2026-10-21T15:45:12.946423+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shade K",
+        "title": "Funk the Police",
+        "detected_at_utc": "2026-10-21T15:44:38.528650+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
