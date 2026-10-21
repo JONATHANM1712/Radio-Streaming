@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:15:42.146265+00:00",
+  "updated_at_utc": "2026-10-21T12:19:48.794183+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Special Kind Of Something",
+        "detected_at_utc": "2026-10-21T12:19:48.687484+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Oh Kasih...",
