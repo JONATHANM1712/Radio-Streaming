@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T11:02:43.928835+00:00",
+  "updated_at_utc": "2026-10-21T11:04:38.247929+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mocca",
+        "title": "Once Upon a Time / Secret Admirer",
+        "detected_at_utc": "2026-10-21T11:04:38.128532+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Heartbreak Warfare",
