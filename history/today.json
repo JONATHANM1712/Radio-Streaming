@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:53:18.885592+00:00",
+  "updated_at_utc": "2026-10-21T05:56:23.072690+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-21T05:56:23.056222+00:00"
+      },
       {
         "artist": "Maudy Ayunda",
         "title": "Tiba-Tiba Cinta Datang",
@@ -477,6 +482,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Cryin'",
+        "detected_at_utc": "2026-10-21T05:56:22.951234+00:00"
+      },
       {
         "artist": "Milli Vanilli",
         "title": "Ma Baker",
