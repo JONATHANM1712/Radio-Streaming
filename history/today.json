@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:35:23.605255+00:00",
+  "updated_at_utc": "2026-10-21T06:36:26.017939+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gery Gany",
+        "title": "Sesaat Kau Hadir",
+        "detected_at_utc": "2026-10-21T06:35:23.829070+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "In My Place",
