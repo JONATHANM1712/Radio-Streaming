@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:08:38.776298+00:00",
+  "updated_at_utc": "2026-10-21T17:09:41.585189+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "How Do You Sleep?",
+        "detected_at_utc": "2026-10-21T17:09:11.779226+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Let Me Love You (Until You Learn To Love Yourself)",
