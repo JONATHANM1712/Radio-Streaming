@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:35:49.031276+00:00",
+  "updated_at_utc": "2026-10-21T15:37:21.970501+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Winans",
+        "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+        "detected_at_utc": "2026-10-21T15:37:21.803503+00:00"
+      },
       {
         "artist": "Dheeraj Jadhav",
         "title": "Close This Distance",
