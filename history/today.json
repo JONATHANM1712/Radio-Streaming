@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:19:25.723377+00:00",
+  "updated_at_utc": "2026-10-21T13:20:30.452587+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-21T13:20:30.331250+00:00"
+      },
       {
         "artist": "Marshmello & Bastille",
         "title": "Happier",
