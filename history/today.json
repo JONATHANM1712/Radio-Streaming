@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:15:58.972036+00:00",
+  "updated_at_utc": "2026-10-21T13:17:11.749333+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marshmello & Bastille",
+        "title": "Happier",
+        "detected_at_utc": "2026-10-21T13:17:11.662603+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Too Little Too Late",
