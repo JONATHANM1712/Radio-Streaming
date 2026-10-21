@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:49:49.227942+00:00",
+  "updated_at_utc": "2026-10-21T06:50:51.759215+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City",
+        "title": "Fireflies",
+        "detected_at_utc": "2026-10-21T06:50:48.032698+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
