@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:56:46.858250+00:00",
+  "updated_at_utc": "2026-10-21T14:57:54.615804+00:00",
   "stations": {
     "kis": [
       {
@@ -1107,6 +1107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nazareth",
+        "title": "Love Hurts",
+        "detected_at_utc": "2026-10-21T14:57:54.484828+00:00"
+      },
       {
         "artist": "311",
         "title": "Love Song",
