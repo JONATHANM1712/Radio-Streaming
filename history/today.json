@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:40:46.898906+00:00",
+  "updated_at_utc": "2026-10-21T17:41:50.358137+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "detected_at_utc": "2026-10-21T17:41:18.996571+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
