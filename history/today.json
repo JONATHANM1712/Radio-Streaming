@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:39:28.888906+00:00",
+  "updated_at_utc": "2026-10-21T05:41:34.410310+00:00",
   "stations": {
     "kis": [
       {
@@ -462,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Frente!",
+        "title": "Bizarre Love Triangle (2014 Remaster)",
+        "detected_at_utc": "2026-10-21T05:41:34.226560+00:00"
+      },
       {
         "artist": "Yes",
         "title": "It Can Happen (Cinema Version)",
