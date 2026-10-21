@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:43:27.473320+00:00",
+  "updated_at_utc": "2026-10-21T13:44:30.783110+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-10-21T13:44:08.378926+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "If I Lose Myself",
