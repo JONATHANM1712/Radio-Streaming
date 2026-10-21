@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:46:53.167452+00:00",
+  "updated_at_utc": "2026-10-21T16:48:35.589393+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-21T16:48:35.506564+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Talking to the Moon",
