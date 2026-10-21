@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:26:06.485499+00:00",
+  "updated_at_utc": "2026-10-21T14:27:28.045948+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Archuleta",
+        "title": "Crush",
+        "detected_at_utc": "2026-10-21T14:27:27.916172+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Dear Future Husband",
