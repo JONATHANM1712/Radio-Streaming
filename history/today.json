@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:19:33.753773+00:00",
+  "updated_at_utc": "2026-10-21T17:20:39.680400+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mamas Gun",
+        "title": "Pots of Gold",
+        "detected_at_utc": "2026-10-21T17:20:39.592028+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
