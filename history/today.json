@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:33:06.230943+00:00",
+  "updated_at_utc": "2026-10-21T17:35:07.959833+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-10-21T17:35:07.866183+00:00"
+      },
       {
         "artist": "Sara Bareilles",
         "title": "Gravity",
