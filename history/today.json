@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:11:30.245764+00:00",
+  "updated_at_utc": "2026-10-21T15:12:34.533409+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Boyz II Men",
+        "title": "The Color of Love",
+        "detected_at_utc": "2026-10-21T15:11:56.629821+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Set Fire to the Rain",
@@ -565,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-21T15:12:15.961269+00:00"
+      },
       {
         "artist": "G-Eazy & Kehlani",
         "title": "Good Life",
