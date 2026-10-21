@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:36:33.329031+00:00",
+  "updated_at_utc": "2026-10-21T04:39:35.323656+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "50 Tahun",
+        "detected_at_utc": "2026-10-21T04:39:35.200473+00:00"
+      },
       {
         "artist": "Enrique Iglesias",
         "title": "Hero",
