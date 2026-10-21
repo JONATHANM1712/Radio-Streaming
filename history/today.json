@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:41:50.358137+00:00",
+  "updated_at_utc": "2026-10-21T17:42:53.421248+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pulp",
+        "title": "Disco 2000",
+        "detected_at_utc": "2026-10-21T17:42:19.178077+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Cintailah Cinta",
