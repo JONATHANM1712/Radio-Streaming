@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:25:06.379283+00:00",
+  "updated_at_utc": "2026-10-21T04:26:09.792785+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJ Snake",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-10-21T04:25:06.487296+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Holler",
@@ -145,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Never Knew I Needed",
+        "detected_at_utc": "2026-10-21T04:25:07.650927+00:00"
+      },
       {
         "artist": "Angela Hill",
         "title": "Glow Up in God challenge",
