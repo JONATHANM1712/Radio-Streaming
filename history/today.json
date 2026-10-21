@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:08:25.890601+00:00",
+  "updated_at_utc": "2026-10-21T15:09:29.801846+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "G-Eazy & Kehlani",
+        "title": "Good Life",
+        "detected_at_utc": "2026-10-21T15:09:10.060590+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Please Please Please",
