@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:29:39.378542+00:00",
+  "updated_at_utc": "2026-10-21T12:30:42.499830+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shakira & Beyoncé",
+        "title": "Beautiful Liar",
+        "detected_at_utc": "2026-10-21T12:30:26.281591+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Thank You",
