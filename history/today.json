@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:36:24.635727+00:00",
+  "updated_at_utc": "2026-10-21T05:39:28.888906+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Manusia Bodoh",
+        "detected_at_utc": "2026-10-21T05:39:28.691955+00:00"
+      },
       {
         "artist": "Jennifer Love Hewitt",
         "title": "BareNaked (Video Version)",
