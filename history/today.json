@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:58:25.908810+00:00",
+  "updated_at_utc": "2026-10-21T06:02:33.445429+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rixton",
+        "title": "Me and My Broken Heart",
+        "detected_at_utc": "2026-10-21T06:02:33.356195+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
