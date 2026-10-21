@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:56:59.063687+00:00",
+  "updated_at_utc": "2026-10-21T10:46:00.605914+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Training Season",
+        "detected_at_utc": "2026-10-21T10:46:00.216471+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "On My Mind",
@@ -632,6 +637,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Helloween",
+        "title": "Windmill",
+        "detected_at_utc": "2026-10-21T10:46:00.299160+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Rhythm Nation",
