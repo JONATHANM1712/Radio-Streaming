@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:58:36.220842+00:00",
+  "updated_at_utc": "2026-10-21T15:59:38.901666+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Walking Away",
+        "detected_at_utc": "2026-10-21T15:59:03.134657+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
