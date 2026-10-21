@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:20:39.680400+00:00",
+  "updated_at_utc": "2026-10-21T17:22:38.843625+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Love on the Brain",
+        "detected_at_utc": "2026-10-21T17:22:38.757489+00:00"
+      },
       {
         "artist": "50 Cent",
         "title": "In Da Club",
