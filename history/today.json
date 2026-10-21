@@ -1,15 +1,26 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:00:44.652983+00:00",
+  "updated_at_utc": "2026-10-21T17:01:47.465964+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Stickwitu",
+        "detected_at_utc": "2026-10-21T17:01:45.549143+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Unbelievable (Radio Edit)",
         "detected_at_utc": "2026-10-21T17:00:43.947319+00:00"
       }
     ],
-    "jak": [],
+    "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Not a Bad Thing",
+        "detected_at_utc": "2026-10-21T17:00:59.090319+00:00"
+      }
+    ],
     "most": [
       {
         "artist": "Europe",
