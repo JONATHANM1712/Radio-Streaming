@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:01:47.465964+00:00",
+  "updated_at_utc": "2026-10-21T17:04:30.475329+00:00",
   "stations": {
     "kis": [
       {
@@ -22,6 +22,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury",
+        "title": "Love Kills",
+        "detected_at_utc": "2026-10-21T17:04:30.380795+00:00"
+      },
       {
         "artist": "Europe",
         "title": "Prisoners In Paradise",
