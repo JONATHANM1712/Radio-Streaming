@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:26:09.877203+00:00",
+  "updated_at_utc": "2026-10-21T06:28:12.122401+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-21T06:28:12.037762+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Insomnia",
