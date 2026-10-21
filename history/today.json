@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:43:05.347833+00:00",
+  "updated_at_utc": "2026-10-21T16:44:28.728590+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon",
+        "detected_at_utc": "2026-10-21T16:44:28.650957+00:00"
+      },
       {
         "artist": "Nadin Amizah",
         "title": "Rayuan Perempuan Gila",
