@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:46:41.838200+00:00",
+  "updated_at_utc": "2026-10-21T15:47:44.391763+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jessie J",
+        "title": "Domino",
+        "detected_at_utc": "2026-10-21T15:47:43.519323+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
