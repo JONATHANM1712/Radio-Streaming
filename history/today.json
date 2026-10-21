@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:55:01.950292+00:00",
+  "updated_at_utc": "2026-10-21T13:56:20.764323+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christian Bautista",
+        "title": "The Way You Look At Me (Acoustic)",
+        "detected_at_utc": "2026-10-21T13:56:20.617053+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
