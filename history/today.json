@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:10:42.914600+00:00",
+  "updated_at_utc": "2026-10-21T12:11:45.698668+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanty",
+        "title": "Oh Kasih...",
+        "detected_at_utc": "2026-10-21T12:11:21.286247+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "What Do You Mean?",
