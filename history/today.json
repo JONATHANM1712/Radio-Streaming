@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:23:56.493825+00:00",
+  "updated_at_utc": "2026-10-21T14:25:02.447444+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Dear Future Husband",
+        "detected_at_utc": "2026-10-21T14:24:20.739585+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Dengan Nafasmu",
