@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:54:34.236312+00:00",
+  "updated_at_utc": "2026-10-21T12:55:55.601847+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In The World)",
+        "detected_at_utc": "2026-10-21T12:55:55.513907+00:00"
+      },
       {
         "artist": "Tiara Andini",
         "title": "Kupu - Kupu",
