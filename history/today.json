@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:29:35.920281+00:00",
+  "updated_at_utc": "2026-10-21T14:30:40.277227+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-21T14:30:33.873029+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
