@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:07:42.687847+00:00",
+  "updated_at_utc": "2026-10-21T06:08:45.630111+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Main Hati",
+        "detected_at_utc": "2026-10-21T06:08:43.119642+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
