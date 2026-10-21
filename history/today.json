@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:19:48.794183+00:00",
+  "updated_at_utc": "2026-10-21T12:23:10.988327+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-10-21T12:23:10.854432+00:00"
+      },
       {
         "artist": "Snoop Dogg",
         "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
