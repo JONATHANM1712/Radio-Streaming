@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:19:03.344816+00:00",
+  "updated_at_utc": "2026-10-21T16:20:06.272699+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Binocular",
+        "title": "Deep",
+        "detected_at_utc": "2026-10-21T16:19:18.598066+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Perih",
