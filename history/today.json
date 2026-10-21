@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:48:25.807752+00:00",
+  "updated_at_utc": "2026-10-21T14:49:28.898539+00:00",
   "stations": {
     "kis": [
       {
@@ -1087,6 +1087,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lee Ritenour",
+        "title": "Waiting in Vain (feat. Maxi Priest)",
+        "detected_at_utc": "2026-10-21T14:48:30.406304+00:00"
+      },
       {
         "artist": "Loïs Lane",
         "title": "It's The First Time (Bonus Track)",
