@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T03:53:58.910638+00:00",
+  "updated_at_utc": "2026-10-21T03:55:02.152146+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Color Me Badd",
+        "title": "I Adore Mi Amor",
+        "detected_at_utc": "2026-10-21T03:55:00.977343+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "You Don't Know My Name",
