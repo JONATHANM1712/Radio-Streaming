@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:04:34.944252+00:00",
+  "updated_at_utc": "2026-10-21T13:08:34.017351+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Blank Space",
+        "detected_at_utc": "2026-10-21T13:08:33.929907+00:00"
+      },
       {
         "artist": "Arkarna",
         "title": "So Little Time",
