@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:23:41.435870+00:00",
+  "updated_at_utc": "2026-10-21T17:24:44.016292+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Get Right",
+        "detected_at_utc": "2026-10-21T17:23:44.882491+00:00"
+      },
       {
         "artist": "Mamas Gun",
         "title": "Pots of Gold",
