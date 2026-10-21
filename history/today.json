@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:23:27.298588+00:00",
+  "updated_at_utc": "2026-10-21T16:24:32.534932+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
+        "detected_at_utc": "2026-10-21T16:23:50.522721+00:00"
+      },
       {
         "artist": "Marcell",
         "title": "Firasat",
