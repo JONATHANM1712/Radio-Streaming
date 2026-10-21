@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:57:06.051679+00:00",
+  "updated_at_utc": "2026-10-21T04:58:09.420175+00:00",
   "stations": {
     "kis": [
       {
@@ -181,6 +181,11 @@
     ],
     "jak": [
       {
+        "artist": "LINKIN PARK",
+        "title": "What I've Done",
+        "detected_at_utc": "2026-10-21T04:57:08.803217+00:00"
+      },
+      {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
         "detected_at_utc": "2026-10-21T04:49:56.777118+00:00"
@@ -357,6 +362,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Stone Roses",
+        "title": "Love Spreads",
+        "detected_at_utc": "2026-10-21T04:57:07.829355+00:00"
+      },
       {
         "artist": "Carpenters",
         "title": "(They Long To Be) Close To You (1991 Remix)",
