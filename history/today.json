@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T11:42:48.069692+00:00",
+  "updated_at_utc": "2026-10-21T11:46:02.552364+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full of Stars",
+        "detected_at_utc": "2026-10-21T11:46:01.878556+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
