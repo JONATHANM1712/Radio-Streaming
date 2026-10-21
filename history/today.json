@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:07:20.611995+00:00",
+  "updated_at_utc": "2026-10-21T15:08:25.890601+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "detected_at_utc": "2026-10-21T15:07:48.566929+00:00"
+      },
       {
         "artist": "Toto",
         "title": "I Will Remember",
