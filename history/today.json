@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:42:13.958045+00:00",
+  "updated_at_utc": "2026-10-21T12:43:16.676369+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Scott Buckley",
+        "title": "Legacy (Special Version)",
+        "detected_at_utc": "2026-10-21T12:43:15.156080+00:00"
+      },
       {
         "artist": "Foster the People",
         "title": "Pumped Up Kicks",
