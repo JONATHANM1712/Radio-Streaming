@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:55:44.864424+00:00",
+  "updated_at_utc": "2026-10-21T17:56:47.570606+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-21T17:55:45.703845+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Love Hurts",
