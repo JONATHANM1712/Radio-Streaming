@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:15:53.249672+00:00",
+  "updated_at_utc": "2026-10-21T06:16:55.792334+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Love Hewitt",
+        "title": "BareNaked (Video Version)",
+        "detected_at_utc": "2026-10-21T06:15:53.433108+00:00"
+      },
       {
         "artist": "Nicky Youre & Dazy",
         "title": "Sunroof",
