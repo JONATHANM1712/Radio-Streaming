@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:29:08.080776+00:00",
+  "updated_at_utc": "2026-10-21T15:30:12.269187+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-10-21T15:29:53.347989+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
