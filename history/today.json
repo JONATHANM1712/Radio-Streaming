@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:52:32.310947+00:00",
+  "updated_at_utc": "2026-10-21T14:53:35.485870+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Animals",
+        "detected_at_utc": "2026-10-21T14:53:15.952343+00:00"
+      },
       {
         "artist": "Incognito",
         "title": "Still A Friend Of Mine",
