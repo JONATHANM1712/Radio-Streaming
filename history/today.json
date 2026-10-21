@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:45:50.019951+00:00",
+  "updated_at_utc": "2026-10-21T04:46:53.272793+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Level 42",
+        "title": "Love In a Peaceful World",
+        "detected_at_utc": "2026-10-21T04:46:48.163272+00:00"
+      },
       {
         "artist": "Warna",
         "title": "50 Tahun",
@@ -165,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Iyaz",
+        "title": "Solo",
+        "detected_at_utc": "2026-10-21T04:46:51.670896+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
@@ -332,6 +342,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "Lonely Nights",
+        "detected_at_utc": "2026-10-21T04:46:50.619526+00:00"
+      },
       {
         "artist": "R.E.M.",
         "title": "Drive",
