@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:11:47.061341+00:00",
+  "updated_at_utc": "2026-10-21T06:12:49.582328+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Just a Feeling",
+        "detected_at_utc": "2026-10-21T06:11:47.136410+00:00"
+      },
       {
         "artist": "Fatima Rainey",
         "title": "Hey",
@@ -250,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicky Youre & Dazy",
+        "title": "Sunroof",
+        "detected_at_utc": "2026-10-21T06:12:48.777423+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Main Hati",
