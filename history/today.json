@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T11:24:31.702406+00:00",
+  "updated_at_utc": "2026-10-21T11:27:49.775213+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "True Love (feat. Lily Allen)",
+        "detected_at_utc": "2026-10-21T11:27:49.621717+00:00"
+      },
       {
         "artist": "Glenn Fredly & Audy",
         "title": "Terpesona",
