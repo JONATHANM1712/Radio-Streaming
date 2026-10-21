@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:33:18.090095+00:00",
+  "updated_at_utc": "2026-10-21T15:34:21.384175+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dheeraj Jadhav",
+        "title": "Close This Distance",
+        "detected_at_utc": "2026-10-21T15:34:02.210166+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
