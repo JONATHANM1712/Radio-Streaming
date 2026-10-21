@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:25:00.425097+00:00",
+  "updated_at_utc": "2026-10-21T15:26:04.415115+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-21T15:25:45.940793+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "The Hills",
