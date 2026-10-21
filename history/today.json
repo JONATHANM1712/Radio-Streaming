@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:30:41.677783+00:00",
+  "updated_at_utc": "2026-10-21T16:31:45.421476+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-21T16:31:04.944794+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
