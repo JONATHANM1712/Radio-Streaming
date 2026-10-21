@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:26:08.752488+00:00",
+  "updated_at_utc": "2026-10-21T05:27:19.029295+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Erase/Rewind",
+        "detected_at_utc": "2026-10-21T05:27:07.696271+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "What Makes You Beautiful",
