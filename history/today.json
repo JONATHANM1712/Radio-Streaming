@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:40:39.282624+00:00",
+  "updated_at_utc": "2026-10-21T04:45:50.019951+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-10-21T04:45:49.902135+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "Hollaback Girl",
