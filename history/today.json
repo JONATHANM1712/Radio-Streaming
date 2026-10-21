@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T12:36:41.497741+00:00",
+  "updated_at_utc": "2026-10-21T12:37:44.359161+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Foster the People",
+        "title": "Pumped Up Kicks",
+        "detected_at_utc": "2026-10-21T12:36:54.322522+00:00"
+      },
       {
         "artist": "Sam Smith & Kim Petras",
         "title": "Unholy",
