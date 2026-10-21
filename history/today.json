@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T04:31:23.950834+00:00",
+  "updated_at_utc": "2026-10-21T04:32:27.342381+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hindia",
+        "title": "Rumah Ke Rumah",
+        "detected_at_utc": "2026-10-21T04:32:22.517557+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
