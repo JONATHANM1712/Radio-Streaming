@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:08:34.017351+00:00",
+  "updated_at_utc": "2026-10-21T13:09:36.584420+00:00",
   "stations": {
     "kis": [
       {
@@ -441,6 +441,11 @@
     ],
     "jak": [
       {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-21T13:08:38.014605+00:00"
+      },
+      {
         "artist": "Gotye",
         "title": "Somebody That I Used to Know (feat. Kimbra)",
         "detected_at_utc": "2026-10-21T13:03:22.413060+00:00"
@@ -867,6 +872,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cranberries",
+        "title": "I'm Still Remembering",
+        "detected_at_utc": "2026-10-21T13:08:52.776752+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "Hangin' Tough",
