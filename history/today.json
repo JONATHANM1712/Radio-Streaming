@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T15:54:28.588639+00:00",
+  "updated_at_utc": "2026-10-21T15:55:31.450770+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-10-21T15:54:55.300013+00:00"
+      },
       {
         "artist": "Jessie J",
         "title": "Domino",
