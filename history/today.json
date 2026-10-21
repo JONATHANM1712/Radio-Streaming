@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:22:37.363909+00:00",
+  "updated_at_utc": "2026-10-21T13:23:40.564998+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Never Gonna Leave This Bed",
+        "detected_at_utc": "2026-10-21T13:23:40.229689+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
