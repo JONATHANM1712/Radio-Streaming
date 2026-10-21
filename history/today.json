@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:26:46.410788+00:00",
+  "updated_at_utc": "2026-10-21T13:27:49.079421+00:00",
   "stations": {
     "kis": [
       {
@@ -466,6 +466,11 @@
     ],
     "jak": [
       {
+        "artist": "Ariana Grande",
+        "title": "7 rings",
+        "detected_at_utc": "2026-10-21T13:27:00.792563+00:00"
+      },
+      {
         "artist": "Maroon 5",
         "title": "Never Gonna Leave This Bed",
         "detected_at_utc": "2026-10-21T13:23:40.229689+00:00"
@@ -917,6 +922,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-21T13:27:02.259939+00:00"
+      },
       {
         "artist": "Grover Washington, Jr.",
         "title": "Just The Two Of Us",
