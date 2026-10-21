@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:23:02.533820+00:00",
+  "updated_at_utc": "2026-10-21T06:25:07.472243+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Insomnia",
+        "detected_at_utc": "2026-10-21T06:25:07.382374+00:00"
+      },
       {
         "artist": "Frank Ocean",
         "title": "Thinkin Bout You",
