@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:51:52.401170+00:00",
+  "updated_at_utc": "2026-10-21T13:52:55.498954+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-21T13:52:11.372553+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Obsessed",
