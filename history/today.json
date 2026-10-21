@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T17:18:31.128675+00:00",
+  "updated_at_utc": "2026-10-21T17:19:33.753773+00:00",
   "stations": {
     "kis": [
       {
@@ -62,6 +62,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Color Me Badd",
+        "title": "I Adore Mi Amor",
+        "detected_at_utc": "2026-10-21T17:19:05.642566+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "You're Crazy",
