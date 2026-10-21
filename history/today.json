@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:14:45.056169+00:00",
+  "updated_at_utc": "2026-10-21T05:15:48.231531+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-21T05:14:49.544210+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Nonsense",
@@ -402,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Waiting On A Friend",
+        "detected_at_utc": "2026-10-21T05:14:47.349238+00:00"
+      },
       {
         "artist": "Edie Brickell & New Bohemians",
         "title": "What I Am",
