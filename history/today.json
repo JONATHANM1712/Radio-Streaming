@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:10:58.040522+00:00",
+  "updated_at_utc": "2026-10-21T14:13:43.355383+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gigi Perez",
+        "title": "Sailor Song",
+        "detected_at_utc": "2026-10-21T14:13:43.179778+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
