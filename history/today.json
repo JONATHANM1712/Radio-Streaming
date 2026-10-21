@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T06:39:29.832973+00:00",
+  "updated_at_utc": "2026-10-21T06:40:32.291058+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-10-21T06:40:31.591728+00:00"
+      },
       {
         "artist": "Gery Gany",
         "title": "Sesaat Kau Hadir",
