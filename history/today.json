@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T13:02:20.108465+00:00",
+  "updated_at_utc": "2026-10-21T13:03:23.247209+00:00",
   "stations": {
     "kis": [
       {
@@ -436,6 +436,11 @@
     ],
     "jak": [
       {
+        "artist": "Gotye",
+        "title": "Somebody That I Used to Know (feat. Kimbra)",
+        "detected_at_utc": "2026-10-21T13:03:22.413060+00:00"
+      },
+      {
         "artist": "Jung Kook & Latto",
         "title": "Seven",
         "detected_at_utc": "2026-10-21T13:02:20.022491+00:00"
@@ -857,6 +862,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Harlem Shuffle",
+        "detected_at_utc": "2026-10-21T13:02:29.280149+00:00"
+      },
       {
         "artist": "Bon Jovi",
         "title": "Let It Rock",
