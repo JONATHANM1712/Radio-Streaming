@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T16:12:05.386262+00:00",
+  "updated_at_utc": "2026-10-21T16:13:07.966143+00:00",
   "stations": {
     "kis": [
       {
@@ -636,6 +636,11 @@
     ],
     "jak": [
       {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-21T16:12:27.885702+00:00"
+      },
+      {
         "artist": "Harry Styles",
         "title": "Sign of the Times",
         "detected_at_utc": "2026-10-21T16:06:15.189821+00:00"
@@ -1267,6 +1272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Patrice Rushen",
+        "title": "Remind Me",
+        "detected_at_utc": "2026-10-21T16:12:48.645514+00:00"
+      },
       {
         "artist": "Tevin Campbell",
         "title": "I'm Ready",
