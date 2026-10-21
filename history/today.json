@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T03:55:02.152146+00:00",
+  "updated_at_utc": "2026-10-21T03:56:05.434229+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "detected_at_utc": "2026-10-21T03:55:03.255052+00:00"
+      },
       {
         "artist": "Zara Larsson",
         "title": "Lush Life",
