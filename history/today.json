@@ -1,8 +1,13 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T14:17:01.785960+00:00",
+  "updated_at_utc": "2026-10-21T14:18:05.118252+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Pertama",
+        "detected_at_utc": "2026-10-21T14:17:34.481922+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Dynamite",
@@ -1017,6 +1022,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Oasis",
+        "title": "Cast No Shadow",
+        "detected_at_utc": "2026-10-21T14:18:04.525002+00:00"
+      },
       {
         "artist": "Marvin Gaye",
         "title": "Mercy Mercy Me (The Ecology)",
