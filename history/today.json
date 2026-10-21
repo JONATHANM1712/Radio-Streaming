@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at_utc": "2026-10-21T05:15:48.231531+00:00",
+  "updated_at_utc": "2026-10-21T05:17:54.875344+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse",
+        "title": "Back To Black",
+        "detected_at_utc": "2026-10-21T05:17:54.717814+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
