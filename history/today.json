@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T12:24:22.151022+00:00",
+  "updated_at_utc": "2026-10-22T12:25:25.472382+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV & Troye Sivan",
+        "title": "I'm So Tired...",
+        "detected_at_utc": "2026-10-22T12:24:28.477520+00:00"
+      },
       {
         "artist": "Martin Garrix & Bebe Rexha",
         "title": "In the Name of Love",
