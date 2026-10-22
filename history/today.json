@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:34:22.832019+00:00",
+  "updated_at_utc": "2026-10-22T07:36:26.496236+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "My Happy Ending",
+        "detected_at_utc": "2026-10-22T07:36:26.406333+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
