@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T12:51:56.187215+00:00",
+  "updated_at_utc": "2026-10-22T12:53:00.867305+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Color Me Badd",
+        "title": "All 4 Love",
+        "detected_at_utc": "2026-10-22T12:52:23.087455+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Holler",
@@ -1132,6 +1137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blondie",
+        "title": "Heart of Glass",
+        "detected_at_utc": "2026-10-22T12:52:29.743029+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Restoe Boemi (Remastered 2022)",
