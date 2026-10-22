@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:14:14.066717+00:00",
+  "updated_at_utc": "2026-10-22T04:15:53.308801+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rida Sita Dewi",
+        "title": "Masih Ada",
+        "detected_at_utc": "2026-10-22T04:15:53.109271+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "The Zephyr Song",
