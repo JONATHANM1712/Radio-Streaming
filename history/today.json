@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:34:15.203006+00:00",
+  "updated_at_utc": "2026-10-22T08:37:21.701189+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "7 Days",
+        "detected_at_utc": "2026-10-22T08:37:21.612354+00:00"
+      },
       {
         "artist": "Stephanie Poetri",
         "title": "I Love You 3000",
