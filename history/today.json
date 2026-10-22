@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:10:38.466236+00:00",
+  "updated_at_utc": "2026-10-22T14:13:09.996441+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure",
+        "title": "Omen (feat. Sam Smith)",
+        "detected_at_utc": "2026-10-22T14:13:09.908997+00:00"
+      },
       {
         "artist": "Chappell Roan",
         "title": "Good Luck, Babe!",
