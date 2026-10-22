@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:56:13.781292+00:00",
+  "updated_at_utc": "2026-10-22T07:57:16.151859+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Sweetheart (feat. Jermaine Dupri)",
+        "detected_at_utc": "2026-10-22T07:56:40.970454+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Seandainya",
@@ -320,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Go On Girl",
+        "detected_at_utc": "2026-10-22T07:57:02.383328+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
