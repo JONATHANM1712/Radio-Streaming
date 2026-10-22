@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:45:27.222771+00:00",
+  "updated_at_utc": "2026-10-22T14:47:58.225473+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "Just A Dream (Main)",
+        "detected_at_utc": "2026-10-22T14:47:58.108288+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Story Of My Life",
