@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:24:01.646891+00:00",
+  "updated_at_utc": "2026-10-22T08:25:34.821359+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fat Joe",
+        "title": "What's Luv? (feat. Ashanti)",
+        "detected_at_utc": "2026-10-22T08:25:34.740454+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Suit & Tie featuring JAŸ-Z (Radio Edit)",
