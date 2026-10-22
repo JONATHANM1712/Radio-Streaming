@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:08:14.435112+00:00",
+  "updated_at_utc": "2026-10-22T17:09:17.991293+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mýa",
+        "title": "Case of the Ex (Whatcha Gonna Do)",
+        "detected_at_utc": "2026-10-22T17:08:30.868516+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Best Song Ever",
