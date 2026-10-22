@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:15:15.546800+00:00",
+  "updated_at_utc": "2026-10-22T14:16:17.951142+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zayn Frost",
+        "title": "Never Comes",
+        "detected_at_utc": "2026-10-22T14:15:42.668325+00:00"
+      },
       {
         "artist": "Cool Colours",
         "title": "Tataplah",
@@ -680,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-22T14:16:14.168513+00:00"
+      },
       {
         "artist": "Disclosure",
         "title": "Omen (feat. Sam Smith)",
