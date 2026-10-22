@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-21T18:04:28.648363+00:00",
+  "updated_at_utc": "2026-10-22T03:19:23.398232+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kehlani",
+        "title": "Folded",
+        "detected_at_utc": "2026-10-22T03:19:22.990584+00:00"
+      },
       {
         "artist": "Joe",
         "title": "I Wanna Know",
@@ -167,6 +172,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Miss You",
+        "detected_at_utc": "2026-10-22T03:19:22.990515+00:00"
+      },
       {
         "artist": "a-ha",
         "title": "Manhattan Skyline",
