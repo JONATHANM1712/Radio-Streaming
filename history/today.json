@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:43:26.228159+00:00",
+  "updated_at_utc": "2026-10-22T04:44:29.860692+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sugar Ray",
+        "title": "When It's Over (David Kahne Main)",
+        "detected_at_utc": "2026-10-22T04:44:28.834045+00:00"
+      },
       {
         "artist": "James Morrison",
         "title": "You Give Me Something (Refreshed)",
