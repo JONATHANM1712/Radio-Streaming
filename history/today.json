@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T11:45:38.305798+00:00",
+  "updated_at_utc": "2026-10-22T11:46:41.523078+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shaggy",
+        "title": "Boombastic",
+        "detected_at_utc": "2026-10-22T11:46:40.385831+00:00"
+      },
       {
         "artist": "Shaggy",
         "title": "It Wasn't Me (feat. Ricardo Ducent)",
@@ -505,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HIVI!",
+        "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi (feat. Andi Rianto)",
+        "detected_at_utc": "2026-10-22T11:45:38.669038+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Cobalah Mengerti",
