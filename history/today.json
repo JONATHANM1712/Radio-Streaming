@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:50:03.729133+00:00",
+  "updated_at_utc": "2026-10-22T13:53:41.481471+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "The Time (Dirty Bit)",
+        "detected_at_utc": "2026-10-22T13:53:41.397509+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
