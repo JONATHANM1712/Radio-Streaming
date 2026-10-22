@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:36:41.788706+00:00",
+  "updated_at_utc": "2026-10-22T13:37:44.251882+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Savage",
+        "detected_at_utc": "2026-10-22T13:37:14.979754+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
