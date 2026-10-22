@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:10:34.954841+00:00",
+  "updated_at_utc": "2026-10-22T17:12:12.857535+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-22T17:12:12.772816+00:00"
+      },
       {
         "artist": "WALK THE MOON",
         "title": "Shut Up and Dance",
