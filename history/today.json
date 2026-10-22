@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:05:44.842463+00:00",
+  "updated_at_utc": "2026-10-22T06:07:39.389187+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "Mystical Magical",
+        "detected_at_utc": "2026-10-22T06:07:39.278150+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Girl On Fire",
