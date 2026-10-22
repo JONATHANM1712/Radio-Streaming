@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:02:59.335581+00:00",
+  "updated_at_utc": "2026-10-22T17:05:03.760141+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-10-22T17:05:03.665881+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Stop And Stare",
