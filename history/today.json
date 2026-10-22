@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:33:58.166794+00:00",
+  "updated_at_utc": "2026-10-22T04:35:02.167368+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Sekali Ini Saja",
+        "detected_at_utc": "2026-10-22T04:35:02.007716+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Jenny from the Block (Track Masters Remix featuring Styles & Jadakiss)",
