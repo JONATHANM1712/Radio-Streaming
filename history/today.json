@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T16:52:11.246641+00:00",
+  "updated_at_utc": "2026-10-22T16:53:14.843986+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Keith Martin",
+        "title": "Because of You",
+        "detected_at_utc": "2026-10-22T16:53:10.916604+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Let Me Blow Ya Mind (feat. Gwen Stefani & Stevie J.)",
@@ -760,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-22T16:52:47.794068+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Best Thing I Never Had",
