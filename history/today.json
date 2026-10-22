@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T10:38:03.517345+00:00",
+  "updated_at_utc": "2026-10-22T11:45:38.305798+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shaggy",
+        "title": "It Wasn't Me (feat. Ricardo Ducent)",
+        "detected_at_utc": "2026-10-22T11:45:38.181048+00:00"
+      },
       {
         "artist": "Binocular",
         "title": "Deep",
