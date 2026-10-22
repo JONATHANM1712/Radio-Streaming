@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:30:13.803734+00:00",
+  "updated_at_utc": "2026-10-22T08:33:11.765765+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stephanie Poetri",
+        "title": "I Love You 3000",
+        "detected_at_utc": "2026-10-22T08:33:11.673592+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Scream",
