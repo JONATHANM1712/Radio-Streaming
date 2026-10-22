@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:31:05.036734+00:00",
+  "updated_at_utc": "2026-10-22T13:32:07.743582+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark Morrison",
+        "title": "Return Of The Mack",
+        "detected_at_utc": "2026-10-22T13:31:28.780039+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Marvin Gaye (feat. Meghan Trainor)",
@@ -1217,6 +1222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rod Stewart",
+        "title": "Young Turks",
+        "detected_at_utc": "2026-10-22T13:31:30.558152+00:00"
+      },
       {
         "artist": "HeyRJ",
         "title": "Return to Innocence",
