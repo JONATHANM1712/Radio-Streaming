@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:52:47.887474+00:00",
+  "updated_at_utc": "2026-10-22T04:53:52.741618+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-10-22T04:53:52.561660+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Hymn for the Weekend",
