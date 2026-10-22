@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:26:28.951178+00:00",
+  "updated_at_utc": "2026-10-22T05:29:40.412881+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ello",
+        "title": "Masih Ada",
+        "detected_at_utc": "2026-10-22T05:29:40.308462+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Clarity (feat. Foxes)",
