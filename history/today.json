@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:06:08.078611+00:00",
+  "updated_at_utc": "2026-10-22T07:26:03.759442+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris & Rihanna",
+        "title": "This Is What You Came For",
+        "detected_at_utc": "2026-10-22T07:26:03.522057+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Marvin Gaye (feat. Meghan Trainor)",
