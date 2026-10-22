@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:38:03.675727+00:00",
+  "updated_at_utc": "2026-10-22T05:39:11.958424+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chrisye",
+        "title": "Cintaku",
+        "detected_at_utc": "2026-10-22T05:39:11.850821+00:00"
+      },
       {
         "artist": "Babyface & Gwyneth Paltrow",
         "title": "Just My Imagination (Running Away With Me)",
