@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:18:15.365330+00:00",
+  "updated_at_utc": "2026-10-22T13:19:46.073299+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Little L",
+        "detected_at_utc": "2026-10-22T13:19:45.992405+00:00"
+      },
       {
         "artist": "Madison Beer",
         "title": "bittersweet",
