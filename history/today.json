@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:37:28.754462+00:00",
+  "updated_at_utc": "2026-10-22T04:39:17.083239+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "Dilemma (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-10-22T04:39:16.913087+00:00"
+      },
       {
         "artist": "Jamie Miller",
         "title": "Here's Your Perfect",
