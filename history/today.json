@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:37:42.008168+00:00",
+  "updated_at_utc": "2026-10-22T03:38:45.609495+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Like That (feat. Gucci Mane)",
+        "detected_at_utc": "2026-10-22T03:38:31.523813+00:00"
+      },
       {
         "artist": "Blue",
         "title": "If You Come Back",
