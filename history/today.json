@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:21:30.293682+00:00",
+  "updated_at_utc": "2026-10-22T03:22:34.552097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Green Day",
+        "title": "Wake Me Up When September Ends",
+        "detected_at_utc": "2026-10-22T03:22:30.671846+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Sejuta Cinta",
