@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:19:45.344997+00:00",
+  "updated_at_utc": "2026-10-22T08:20:47.982089+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Suit & Tie featuring JAŸ-Z (Radio Edit)",
+        "detected_at_utc": "2026-10-22T08:20:26.587733+00:00"
+      },
       {
         "artist": "T.I.",
         "title": "About the Money (feat. Young Thug)",
