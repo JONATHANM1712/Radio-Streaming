@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:29:17.408351+00:00",
+  "updated_at_utc": "2026-10-22T07:33:19.429095+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-22T07:33:19.342540+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Low (feat. T-Pain)",
