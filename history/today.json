@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:56:58.689119+00:00",
+  "updated_at_utc": "2026-10-22T03:58:02.267682+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Monica",
+        "title": "Angel of Mine",
+        "detected_at_utc": "2026-10-22T03:57:47.311220+00:00"
+      },
       {
         "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
         "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
