@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:38:16.805930+00:00",
+  "updated_at_utc": "2026-10-22T09:40:06.246008+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "HIVI!",
+        "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi (feat. Andi Rianto)",
+        "detected_at_utc": "2026-10-22T09:40:06.162149+00:00"
+      },
       {
         "artist": "Uncle Kracker",
         "title": "Follow Me",
