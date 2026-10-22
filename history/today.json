@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:44:58.986280+00:00",
+  "updated_at_utc": "2026-10-22T03:46:02.151760+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Cher",
+        "title": "Strong Enough",
+        "detected_at_utc": "2026-10-22T03:46:01.823916+00:00"
+      },
       {
         "artist": "Hedi Yunus",
         "title": "Suratku",
