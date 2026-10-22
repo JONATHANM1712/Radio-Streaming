@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:27:33.848242+00:00",
+  "updated_at_utc": "2026-10-22T17:31:00.669100+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Finesse (Remix) [feat. Cardi B]",
+        "detected_at_utc": "2026-10-22T17:31:00.577999+00:00"
+      },
       {
         "artist": "Eternal",
         "title": "Stay",
