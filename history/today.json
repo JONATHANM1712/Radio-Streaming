@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:57:05.136086+00:00",
+  "updated_at_utc": "2026-10-22T08:59:02.727276+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Buttons",
+        "detected_at_utc": "2026-10-22T08:59:02.639338+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Moves Like Jagger (feat. Christina Aguilera)",
