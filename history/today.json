@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:49:22.631303+00:00",
+  "updated_at_utc": "2026-10-22T09:52:25.796174+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "Say You Love Me",
+        "detected_at_utc": "2026-10-22T09:52:25.702146+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
