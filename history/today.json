@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T12:16:41.731585+00:00",
+  "updated_at_utc": "2026-10-22T12:18:44.326019+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Secret",
+        "detected_at_utc": "2026-10-22T12:18:44.141092+00:00"
+      },
       {
         "artist": "Blur",
         "title": "Coffee & TV",
