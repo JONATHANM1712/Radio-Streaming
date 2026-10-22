@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:58:48.820035+00:00",
+  "updated_at_utc": "2026-10-22T09:59:52.115054+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tame Impala",
+        "title": "Dracula",
+        "detected_at_utc": "2026-10-22T09:59:50.329032+00:00"
+      },
       {
         "artist": "Tame Impala",
         "title": "Dracula (with JENNIE)",
@@ -932,6 +937,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Commodores",
+        "title": "Goin' to the Bank",
+        "detected_at_utc": "2026-10-22T09:59:51.717658+00:00"
+      },
       {
         "artist": "James Brown",
         "title": "Living In America",
