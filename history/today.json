@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:30:00.645200+00:00",
+  "updated_at_utc": "2026-10-22T09:31:03.280559+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Letters to Cleo",
+        "title": "I Want You to Want Me",
+        "detected_at_utc": "2026-10-22T09:30:50.448467+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Overprotected",
@@ -420,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Surfaces",
+        "title": "Sunday Best",
+        "detected_at_utc": "2026-10-22T09:31:02.030097+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
