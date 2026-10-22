@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:18:42.785977+00:00",
+  "updated_at_utc": "2026-10-22T08:19:45.344997+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "T.I.",
+        "title": "About the Money (feat. Young Thug)",
+        "detected_at_utc": "2026-10-22T08:19:25.248864+00:00"
+      },
       {
         "artist": "CAKE",
         "title": "Never There",
