@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:38:47.768289+00:00",
+  "updated_at_utc": "2026-10-22T14:42:18.316036+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-22T14:42:18.217417+00:00"
+      },
       {
         "artist": "Rossa",
         "title": "Nada-Nada Cinta",
