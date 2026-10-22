@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:37:00.825391+00:00",
+  "updated_at_utc": "2026-10-22T09:38:16.805930+00:00",
   "stations": {
     "kis": [
       {
@@ -887,6 +887,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Heatwave",
+        "title": "Too Hot to Handle",
+        "detected_at_utc": "2026-10-22T09:38:16.708215+00:00"
+      },
       {
         "artist": "Spandau Ballet",
         "title": "Highly Strung",
