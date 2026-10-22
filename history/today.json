@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:15:53.308801+00:00",
+  "updated_at_utc": "2026-10-22T04:16:56.944595+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-22T04:16:55.999948+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Can't Feel My Face",
