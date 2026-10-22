@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:08:33.579294+00:00",
+  "updated_at_utc": "2026-10-22T14:09:36.033297+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Good Luck, Babe!",
+        "detected_at_utc": "2026-10-22T14:09:04.386583+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
