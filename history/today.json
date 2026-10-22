@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:41:16.595602+00:00",
+  "updated_at_utc": "2026-10-22T05:45:38.978335+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Waiting for Tonight",
+        "detected_at_utc": "2026-10-22T05:45:38.886299+00:00"
+      },
       {
         "artist": "Chrisye",
         "title": "Cintaku",
