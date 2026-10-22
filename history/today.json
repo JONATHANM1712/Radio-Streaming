@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T10:31:53.524380+00:00",
+  "updated_at_utc": "2026-10-22T10:34:52.906092+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-22T10:34:52.758573+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Same Old Love",
