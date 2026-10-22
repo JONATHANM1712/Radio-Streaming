@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T15:06:52.418619+00:00",
+  "updated_at_utc": "2026-10-22T16:44:36.943698+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "Best Thing I Never Had",
+        "detected_at_utc": "2026-10-22T16:44:36.722598+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Loyal (feat. Lil Wayne & Tyga)",
