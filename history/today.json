@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T10:02:00.138546+00:00",
+  "updated_at_utc": "2026-10-22T10:05:03.325462+00:00",
   "stations": {
     "kis": [
       {
@@ -947,6 +947,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Los Lobos",
+        "title": "La Bamba (feat. Lalo Guerrero)",
+        "detected_at_utc": "2026-10-22T10:05:03.166256+00:00"
+      },
       {
         "artist": "The Commodores",
         "title": "Goin' to the Bank",
