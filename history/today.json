@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:43:21.483392+00:00",
+  "updated_at_utc": "2026-10-22T14:44:24.631175+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-10-22T14:44:20.869326+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -720,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Story Of My Life",
+        "detected_at_utc": "2026-10-22T14:43:52.341793+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
