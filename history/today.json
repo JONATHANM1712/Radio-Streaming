@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:18:24.152393+00:00",
+  "updated_at_utc": "2026-10-22T14:19:49.560041+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "If I Were a Boy",
+        "detected_at_utc": "2026-10-22T14:19:49.432997+00:00"
+      },
       {
         "artist": "Cool Colours",
         "title": "Tataplah",
