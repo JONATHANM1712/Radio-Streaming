@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:07:39.389187+00:00",
+  "updated_at_utc": "2026-10-22T06:08:42.343636+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MYMP",
+        "title": "Especially For You",
+        "detected_at_utc": "2026-10-22T06:07:51.322757+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "If I Lose Myself",
