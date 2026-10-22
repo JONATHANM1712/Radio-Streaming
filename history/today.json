@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:44:29.860692+00:00",
+  "updated_at_utc": "2026-10-22T04:46:52.968462+00:00",
   "stations": {
     "kis": [
       {
@@ -382,6 +382,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sophia Latjuba",
+        "title": "Lihat Saja Nanti",
+        "detected_at_utc": "2026-10-22T04:46:52.832534+00:00"
+      },
       {
         "artist": "R.E.M.",
         "title": "Daysleeper",
