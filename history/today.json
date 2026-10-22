@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:39:17.083239+00:00",
+  "updated_at_utc": "2026-10-22T04:41:19.768509+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Morrison",
+        "title": "You Give Me Something (Refreshed)",
+        "detected_at_utc": "2026-10-22T04:41:19.568607+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Sekali Ini Saja",
