@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:59:14.218300+00:00",
+  "updated_at_utc": "2026-10-22T15:03:47.618414+00:00",
   "stations": {
     "kis": [
       {
@@ -1447,6 +1447,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daryl Hall & John Oates",
+        "title": "I Can't Go for That (No Can Do)",
+        "detected_at_utc": "2026-10-22T15:03:47.504102+00:00"
+      },
       {
         "artist": "Sananda Maitreya",
         "title": "Wishing Well",
