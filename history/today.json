@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:45:32.921259+00:00",
+  "updated_at_utc": "2026-10-22T13:46:35.618634+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-22T13:46:30.392993+00:00"
+      },
       {
         "artist": "Float",
         "title": "Pulang",
