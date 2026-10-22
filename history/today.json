@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:15:40.113049+00:00",
+  "updated_at_utc": "2026-10-22T05:18:19.326891+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Dia",
+        "detected_at_utc": "2026-10-22T05:18:19.243351+00:00"
+      },
       {
         "artist": "Take That",
         "title": "Pray",
