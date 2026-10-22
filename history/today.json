@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:20:47.982089+00:00",
+  "updated_at_utc": "2026-10-22T08:22:50.332795+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lalahuta",
+        "title": "Tunggu Apa Lagi",
+        "detected_at_utc": "2026-10-22T08:22:50.249776+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Count On Me",
