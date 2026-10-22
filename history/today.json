@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:05:29.052774+00:00",
+  "updated_at_utc": "2026-10-22T08:08:23.987560+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City & Carly Rae Jepsen",
+        "title": "Good Time",
+        "detected_at_utc": "2026-10-22T08:08:23.897390+00:00"
+      },
       {
         "artist": "Camila Cabello",
         "title": "Havana (feat. Young Thug)",
