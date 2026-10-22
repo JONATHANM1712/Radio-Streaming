@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:58:25.230832+00:00",
+  "updated_at_utc": "2026-10-22T06:59:28.632314+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashlee Simpson",
+        "title": "Pieces Of Me",
+        "detected_at_utc": "2026-10-22T06:58:34.336782+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
@@ -597,6 +602,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Village People",
+        "title": "YMCA",
+        "detected_at_utc": "2026-10-22T06:58:40.067138+00:00"
+      },
       {
         "artist": "The Clash",
         "title": "London Calling",
