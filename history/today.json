@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:36:24.435699+00:00",
+  "updated_at_utc": "2026-10-22T04:37:28.754462+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamie Miller",
+        "title": "Here's Your Perfect",
+        "detected_at_utc": "2026-10-22T04:37:10.130781+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Fallin' For You",
