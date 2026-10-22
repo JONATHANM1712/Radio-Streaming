@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:09:17.991293+00:00",
+  "updated_at_utc": "2026-10-22T17:10:34.954841+00:00",
   "stations": {
     "kis": [
       {
@@ -37,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Laura Branigan",
+        "title": "Gloria",
+        "detected_at_utc": "2026-10-22T17:10:34.851387+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Fields Of Gold",
