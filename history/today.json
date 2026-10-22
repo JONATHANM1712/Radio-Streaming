@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:57:16.151859+00:00",
+  "updated_at_utc": "2026-10-22T08:00:21.091069+00:00",
   "stations": {
     "kis": [
       {
@@ -682,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bruce Hornsby & The Range",
+        "title": "The Way It Is",
+        "detected_at_utc": "2026-10-22T08:00:20.983467+00:00"
+      },
       {
         "artist": "Debbie Gibson",
         "title": "Only In My Dreams",
