@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:52:25.796174+00:00",
+  "updated_at_utc": "2026-10-22T09:53:38.581530+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "Carry On",
+        "detected_at_utc": "2026-10-22T09:53:38.493608+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Telephone (feat. Beyoncé)",
