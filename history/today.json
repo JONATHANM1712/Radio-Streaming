@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:37:45.211200+00:00",
+  "updated_at_utc": "2026-10-22T14:38:47.768289+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rossa",
+        "title": "Nada-Nada Cinta",
+        "detected_at_utc": "2026-10-22T14:38:13.019457+00:00"
+      },
       {
         "artist": "The Chainsmokers & Coldplay",
         "title": "Something Just Like This",
