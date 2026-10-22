@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:23:38.620323+00:00",
+  "updated_at_utc": "2026-10-22T05:25:26.116365+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd",
+        "title": "Clarity (feat. Foxes)",
+        "detected_at_utc": "2026-10-22T05:25:26.031458+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Ordinary People",
