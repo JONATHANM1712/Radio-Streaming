@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:32:55.032125+00:00",
+  "updated_at_utc": "2026-10-22T04:33:58.166794+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Fallin' For You",
+        "detected_at_utc": "2026-10-22T04:32:58.272476+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
