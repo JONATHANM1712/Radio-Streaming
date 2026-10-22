@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:04:42.064148+00:00",
+  "updated_at_utc": "2026-10-22T06:05:44.842463+00:00",
   "stations": {
     "kis": [
       {
@@ -572,6 +572,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lake",
+        "title": "Celebrate",
+        "detected_at_utc": "2026-10-22T06:05:24.280936+00:00"
+      },
       {
         "artist": "ABBA",
         "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
