@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:58:17.741344+00:00",
+  "updated_at_utc": "2026-10-22T06:03:39.612408+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "OneRepublic",
+        "title": "If I Lose Myself",
+        "detected_at_utc": "2026-10-22T06:03:39.513447+00:00"
+      },
       {
         "artist": "Seal",
         "title": "Prayer For The Dying (Live)",
