@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:16:13.209466+00:00",
+  "updated_at_utc": "2026-10-22T09:17:15.702279+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-22T09:16:35.586723+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Sorry",
