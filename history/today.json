@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:05:04.438464+00:00",
+  "updated_at_utc": "2026-10-22T07:06:08.078611+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Oasis",
+        "title": "Wonderwall",
+        "detected_at_utc": "2026-10-22T07:05:35.532966+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "The Actor",
