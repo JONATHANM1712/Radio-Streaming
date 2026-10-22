@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:29:11.268280+00:00",
+  "updated_at_utc": "2026-10-22T08:30:13.803734+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ello",
+        "title": "Pergi Untuk Kembali",
+        "detected_at_utc": "2026-10-22T08:29:41.420645+00:00"
+      },
       {
         "artist": "Fat Joe",
         "title": "What's Luv? (feat. Ashanti)",
