@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:56:12.615806+00:00",
+  "updated_at_utc": "2026-10-22T05:57:15.332365+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Seal",
+        "title": "Prayer For The Dying (Live)",
+        "detected_at_utc": "2026-10-22T05:57:11.732027+00:00"
+      },
       {
         "artist": "CeeLo Green",
         "title": "F**k You",
@@ -275,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Dekat Di Hati (Live)",
+        "detected_at_utc": "2026-10-22T05:57:14.694981+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
