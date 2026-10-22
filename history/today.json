@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:42:58.768642+00:00",
+  "updated_at_utc": "2026-10-22T03:44:58.986280+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shade K",
+        "title": "Funk the Police",
+        "detected_at_utc": "2026-10-22T03:44:58.794216+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Like That (feat. Gucci Mane)",
