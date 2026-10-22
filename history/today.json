@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:54:05.758138+00:00",
+  "updated_at_utc": "2026-10-22T05:56:12.615806+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-22T05:56:12.487815+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Just Dance (feat. Colby O'Donis)",
