@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:56:11.840133+00:00",
+  "updated_at_utc": "2026-10-22T14:58:11.295541+00:00",
   "stations": {
     "kis": [
       {
@@ -740,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christian Bautista",
+        "title": "Since I Found You",
+        "detected_at_utc": "2026-10-22T14:58:11.188046+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
