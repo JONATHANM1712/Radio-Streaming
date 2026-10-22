@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:28:34.071975+00:00",
+  "updated_at_utc": "2026-10-22T14:30:34.649441+00:00",
   "stations": {
     "kis": [
       {
@@ -705,6 +705,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-22T14:30:34.555041+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
