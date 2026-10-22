@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:51:06.412948+00:00",
+  "updated_at_utc": "2026-10-22T04:52:47.887474+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-10-22T04:52:47.719277+00:00"
+      },
       {
         "artist": "Roxette",
         "title": "Wish I Could Fly",
