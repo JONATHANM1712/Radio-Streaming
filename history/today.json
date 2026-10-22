@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:09:35.179248+00:00",
+  "updated_at_utc": "2026-10-22T08:10:37.856360+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Cinta Kita",
+        "detected_at_utc": "2026-10-22T08:10:04.045470+00:00"
+      },
       {
         "artist": "Pulp",
         "title": "Disco 2000",
