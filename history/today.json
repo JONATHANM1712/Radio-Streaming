@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:25:41.643355+00:00",
+  "updated_at_utc": "2026-10-22T09:30:00.645200+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-10-22T09:30:00.557573+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Get the Party Started",
