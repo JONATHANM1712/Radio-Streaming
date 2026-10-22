@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:28:13.913384+00:00",
+  "updated_at_utc": "2026-10-22T07:29:17.408351+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Annie Lennox",
+        "title": "No More \"I Love You's\"",
+        "detected_at_utc": "2026-10-22T07:28:50.952475+00:00"
+      },
       {
         "artist": "Radiohead",
         "title": "Creep (Acoustic)",
@@ -305,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Flo Rida",
+        "title": "Low (feat. T-Pain)",
+        "detected_at_utc": "2026-10-22T07:29:10.802497+00:00"
+      },
       {
         "artist": "Calvin Harris & Rihanna",
         "title": "This Is What You Came For",
