@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:03:39.612408+00:00",
+  "updated_at_utc": "2026-10-22T06:04:42.064148+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Girl On Fire",
+        "detected_at_utc": "2026-10-22T06:04:33.197364+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Dekat Di Hati (Live)",
