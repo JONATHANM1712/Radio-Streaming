@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:46:41.057111+00:00",
+  "updated_at_utc": "2026-10-22T08:49:19.157091+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-10-22T08:49:19.071472+00:00"
+      },
       {
         "artist": "Blue",
         "title": "One Love",
