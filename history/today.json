@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T10:14:18.288606+00:00",
+  "updated_at_utc": "2026-10-22T10:16:20.743289+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
+        "detected_at_utc": "2026-10-22T10:16:20.595129+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Solo (feat. Demi Lovato)",
