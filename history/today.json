@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:56:59.514432+00:00",
+  "updated_at_utc": "2026-10-22T04:58:02.876917+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-22T04:57:00.831157+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
