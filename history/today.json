@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:09:10.415703+00:00",
+  "updated_at_utc": "2026-10-22T05:11:14.594566+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Love Story",
+        "detected_at_utc": "2026-10-22T05:11:14.505270+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "One More Time",
