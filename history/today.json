@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:25:55.674449+00:00",
+  "updated_at_utc": "2026-10-22T13:26:58.349750+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Marvin Gaye (feat. Meghan Trainor)",
+        "detected_at_utc": "2026-10-22T13:26:17.384481+00:00"
+      },
       {
         "artist": "Sioen",
         "title": "Cruisin'",
@@ -1207,6 +1212,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Enigma",
+        "title": "Return To Innocence",
+        "detected_at_utc": "2026-10-22T13:26:23.265675+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Something About You",
