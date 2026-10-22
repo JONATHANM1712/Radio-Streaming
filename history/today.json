@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:21:47.325285+00:00",
+  "updated_at_utc": "2026-10-22T09:23:50.770185+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Get the Party Started",
+        "detected_at_utc": "2026-10-22T09:23:50.657421+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
