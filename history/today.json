@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:07:10.640722+00:00",
+  "updated_at_utc": "2026-10-22T17:08:14.435112+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "WALK THE MOON",
+        "title": "Shut Up and Dance",
+        "detected_at_utc": "2026-10-22T17:08:07.497086+00:00"
+      },
       {
         "artist": "Junior Senior",
         "title": "Move Your Feet",
