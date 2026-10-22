@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:03:08.187913+00:00",
+  "updated_at_utc": "2026-10-22T04:06:18.054667+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "We Are Young (feat. Janelle Monáe)",
+        "detected_at_utc": "2026-10-22T04:06:17.878122+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Miss Independent",
