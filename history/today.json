@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:29:40.412881+00:00",
+  "updated_at_utc": "2026-10-22T05:30:43.284795+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "6, 8, 12",
+        "detected_at_utc": "2026-10-22T05:30:21.547754+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Lego House",
