@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T13:06:50.226477+00:00",
+  "updated_at_utc": "2026-10-22T13:08:28.918840+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-22T13:08:28.798624+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Animals",
