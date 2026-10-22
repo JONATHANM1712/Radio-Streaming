@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:46:52.968462+00:00",
+  "updated_at_utc": "2026-10-22T04:47:56.217555+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shade K",
+        "title": "Funk the Police",
+        "detected_at_utc": "2026-10-22T04:47:38.501205+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "Dilemma (feat. Kelly Rowland)",
