@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:08:19.315725+00:00",
+  "updated_at_utc": "2026-10-22T09:10:21.693454+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Sorry",
+        "detected_at_utc": "2026-10-22T09:10:21.604478+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I'm a Slave 4 U",
