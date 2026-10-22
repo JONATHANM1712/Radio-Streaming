@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:24:23.758244+00:00",
+  "updated_at_utc": "2026-10-22T04:25:30.271642+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Dangerous Woman",
+        "detected_at_utc": "2026-10-22T04:25:30.055223+00:00"
+      },
       {
         "artist": "Mario",
         "title": "How Do I Breathe",
