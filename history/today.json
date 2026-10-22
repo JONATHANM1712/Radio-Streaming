@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:31:37.245668+00:00",
+  "updated_at_utc": "2026-10-22T14:33:38.813367+00:00",
   "stations": {
     "kis": [
       {
@@ -705,6 +705,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "detected_at_utc": "2026-10-22T14:33:38.717434+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
