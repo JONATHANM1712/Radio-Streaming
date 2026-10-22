@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:24:57.045038+00:00",
+  "updated_at_utc": "2026-10-22T17:26:31.371431+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Guetta & Kelly Rowland",
+        "title": "When Love Takes Over (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-10-22T17:26:31.293401+00:00"
+      },
       {
         "artist": "Lola Young",
         "title": "Messy",
