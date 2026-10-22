@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:55:08.674659+00:00",
+  "updated_at_utc": "2026-10-22T14:56:11.840133+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-10-22T14:55:35.321571+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Can't Take My Eyes Off of You (I Love You Baby)",
