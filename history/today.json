@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T10:25:40.981106+00:00",
+  "updated_at_utc": "2026-10-22T10:26:44.090541+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Pump It",
+        "detected_at_utc": "2026-10-22T10:26:28.853396+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "I Want You Back",
@@ -485,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "Same Old Love",
+        "detected_at_utc": "2026-10-22T10:26:38.580920+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "American Girls",
