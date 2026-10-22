@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:33:25.403307+00:00",
+  "updated_at_utc": "2026-10-22T03:35:22.226478+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "If You Come Back",
+        "detected_at_utc": "2026-10-22T03:35:22.013558+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
