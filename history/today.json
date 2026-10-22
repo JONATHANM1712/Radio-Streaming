@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T11:51:59.634011+00:00",
+  "updated_at_utc": "2026-10-22T11:53:03.116181+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Supermassive Black Hole",
+        "detected_at_utc": "2026-10-22T11:52:02.116440+00:00"
+      },
       {
         "artist": "Henry Moodie",
         "title": "drunk text",
