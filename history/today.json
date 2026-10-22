@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:51:21.283364+00:00",
+  "updated_at_utc": "2026-10-22T03:52:24.877485+00:00",
   "stations": {
     "kis": [
       {
@@ -262,6 +262,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Faith No More",
+        "title": "A Small Victory",
+        "detected_at_utc": "2026-10-22T03:51:35.521222+00:00"
+      },
       {
         "artist": "Pulp",
         "title": "Babies",
