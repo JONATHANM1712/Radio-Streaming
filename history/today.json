@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:33:11.765765+00:00",
+  "updated_at_utc": "2026-10-22T08:34:15.203006+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Corrs",
+        "title": "So Young",
+        "detected_at_utc": "2026-10-22T08:33:49.776376+00:00"
+      },
       {
         "artist": "Ello",
         "title": "Pergi Untuk Kembali",
@@ -762,6 +767,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Arkarna",
+        "title": "So Little Time",
+        "detected_at_utc": "2026-10-22T08:33:22.697905+00:00"
+      },
       {
         "artist": "The Alan Parsons Project",
         "title": "Games People Play",
