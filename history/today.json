@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T14:16:17.951142+00:00",
+  "updated_at_utc": "2026-10-22T14:17:21.209357+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Cool Colours",
+        "title": "Tataplah",
+        "detected_at_utc": "2026-10-22T14:16:44.105745+00:00"
+      },
       {
         "artist": "Zayn Frost",
         "title": "Never Comes",
