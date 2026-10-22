@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:05:45.746754+00:00",
+  "updated_at_utc": "2026-10-22T05:07:57.573443+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-10-22T05:07:56.069592+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
