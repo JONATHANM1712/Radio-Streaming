@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T09:56:33.421242+00:00",
+  "updated_at_utc": "2026-10-22T09:58:48.820035+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tame Impala",
+        "title": "Dracula (with JENNIE)",
+        "detected_at_utc": "2026-10-22T09:58:48.661486+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "Carry On",
