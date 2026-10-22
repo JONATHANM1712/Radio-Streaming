@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T11:54:06.832276+00:00",
+  "updated_at_utc": "2026-10-22T11:55:21.138600+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "UNGU & Andien",
+        "title": "Saat Bahagia",
+        "detected_at_utc": "2026-10-22T11:55:21.006988+00:00"
+      },
       {
         "artist": "Everything But the Girl & Todd Terry",
         "title": "Missing (Todd Terry Club Mix)",
