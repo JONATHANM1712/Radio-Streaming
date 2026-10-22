@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:43:43.292756+00:00",
+  "updated_at_utc": "2026-10-22T07:47:45.926891+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-22T07:47:45.844877+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "no song without you",
