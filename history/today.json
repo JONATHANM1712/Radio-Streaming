@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T03:58:02.267682+00:00",
+  "updated_at_utc": "2026-10-22T03:59:05.603229+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Miss Independent",
+        "detected_at_utc": "2026-10-22T03:58:45.367145+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
