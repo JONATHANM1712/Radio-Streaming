@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-22T17:21:48.191888+00:00",
+  "updated_at_utc": "2026-10-22T17:22:50.846509+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lola Young",
+        "title": "Messy",
+        "detected_at_utc": "2026-10-22T17:22:25.977798+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Trouble",
