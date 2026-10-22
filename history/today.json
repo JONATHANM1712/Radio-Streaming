@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:07:57.573443+00:00",
+  "updated_at_utc": "2026-10-22T05:09:10.415703+00:00",
   "stations": {
     "kis": [
       {
@@ -437,6 +437,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wham!",
+        "title": "Club Tropicana",
+        "detected_at_utc": "2026-10-22T05:09:10.310391+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Nothing But Love",
