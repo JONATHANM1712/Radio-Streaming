@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:14:36.239116+00:00",
+  "updated_at_utc": "2026-10-22T05:15:40.113049+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Moony",
+        "title": "I Don't Know Why (Viale, Dj Ross New Radio Mix)",
+        "detected_at_utc": "2026-10-22T05:14:38.425339+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
