@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:45:38.083137+00:00",
+  "updated_at_utc": "2026-10-22T08:46:41.057111+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blue",
+        "title": "One Love",
+        "detected_at_utc": "2026-10-22T08:46:13.555278+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "So Young",
@@ -365,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Everglow",
+        "detected_at_utc": "2026-10-22T08:46:39.426745+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
