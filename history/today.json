@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:25:34.821359+00:00",
+  "updated_at_utc": "2026-10-22T08:26:37.371803+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-22T08:25:54.571088+00:00"
+      },
       {
         "artist": "Lalahuta",
         "title": "Tunggu Apa Lagi",
