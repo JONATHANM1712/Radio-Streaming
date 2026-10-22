@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T07:47:45.926891+00:00",
+  "updated_at_utc": "2026-10-22T07:48:48.788185+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vierra",
+        "title": "Seandainya",
+        "detected_at_utc": "2026-10-22T07:48:26.611748+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Head Over Feet",
@@ -315,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Heaven",
+        "detected_at_utc": "2026-10-22T07:48:47.785643+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
@@ -657,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Phil Collins",
+        "title": "Do You Know, Do You Care?",
+        "detected_at_utc": "2026-10-22T07:47:51.504924+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Hollywood",
