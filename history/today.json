@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T04:47:56.217555+00:00",
+  "updated_at_utc": "2026-10-22T04:48:59.837405+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Roxette",
+        "title": "Wish I Could Fly",
+        "detected_at_utc": "2026-10-22T04:48:38.849377+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "When It's Over (David Kahne Main)",
