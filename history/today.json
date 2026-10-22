@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T08:01:23.645773+00:00",
+  "updated_at_utc": "2026-10-22T08:02:51.609162+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pulp",
+        "title": "Disco 2000",
+        "detected_at_utc": "2026-10-22T08:02:51.514208+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Sweetheart (feat. Jermaine Dupri)",
