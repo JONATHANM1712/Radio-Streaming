@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T05:50:55.601966+00:00",
+  "updated_at_utc": "2026-10-22T05:51:58.499204+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Just Dance (feat. Colby O'Donis)",
+        "detected_at_utc": "2026-10-22T05:51:58.407425+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
