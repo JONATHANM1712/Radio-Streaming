@@ -1,8 +1,13 @@
 {
   "date": "2026-10-22",
-  "updated_at_utc": "2026-10-22T06:55:31.072805+00:00",
+  "updated_at_utc": "2026-10-22T06:58:25.230832+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "The Actor",
+        "detected_at_utc": "2026-10-22T06:58:25.013911+00:00"
+      },
       {
         "artist": "MYMP",
         "title": "Especially For You",
