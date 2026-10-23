@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:05:58.575630+00:00",
+  "updated_at_utc": "2026-10-23T17:07:01.545641+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Diskoria, Laleilmanino & Eva Celia",
+        "title": "C.H.R.I.S.Y.E.",
+        "detected_at_utc": "2026-10-23T17:06:43.819063+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Earned It (Fifty Shades of Grey)",
