@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T12:25:59.652305+00:00",
+  "updated_at_utc": "2026-10-23T12:28:32.182232+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Can't Get You Out of My Head",
+        "detected_at_utc": "2026-10-23T12:28:32.032579+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Tak Bisa Memiliki",
