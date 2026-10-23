@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:32:54.963975+00:00",
+  "updated_at_utc": "2026-10-23T16:33:57.574998+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-23T16:33:40.886912+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Tak Ada Yang Bisa",
