@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:21:52.997398+00:00",
+  "updated_at_utc": "2026-10-23T15:22:56.627107+00:00",
   "stations": {
     "kis": [
       {
@@ -216,6 +216,11 @@
     ],
     "jak": [
       {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-10-23T15:22:52.848734+00:00"
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
         "detected_at_utc": "2026-10-23T15:18:42.767157+00:00"
@@ -417,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bread",
+        "title": "Aubrey",
+        "detected_at_utc": "2026-10-23T15:22:04.604272+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Don't Go Away",
