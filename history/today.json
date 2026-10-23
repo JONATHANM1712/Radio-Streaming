@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:26:01.967999+00:00",
+  "updated_at_utc": "2026-10-23T15:27:11.379229+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-23T15:27:10.945153+00:00"
+      },
       {
         "artist": "Adele",
         "title": "All I Ask",
