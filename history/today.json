@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:20:11.196583+00:00",
+  "updated_at_utc": "2026-10-23T17:21:13.780952+00:00",
   "stations": {
     "kis": [
       {
@@ -36,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Taio Cruz",
+        "title": "Higher (feat. Kylie Minogue & Travie McCoy)",
+        "detected_at_utc": "2026-10-23T17:21:11.471952+00:00"
+      },
+      {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
         "detected_at_utc": "2026-10-23T17:17:03.880485+00:00"
@@ -62,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Electric Barbarella",
+        "detected_at_utc": "2026-10-23T17:20:26.126082+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "One Last Cry",
