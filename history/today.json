@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:13:09.039349+00:00",
+  "updated_at_utc": "2026-10-23T14:15:14.513306+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "Truth or Dare",
+        "detected_at_utc": "2026-10-23T14:15:14.366842+00:00"
+      },
       {
         "artist": "The Click Five",
         "title": "Jenny",
