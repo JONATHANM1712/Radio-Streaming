@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:53:06.924983+00:00",
+  "updated_at_utc": "2026-10-23T15:55:10.332017+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fun Factory",
+        "title": "I Love You",
+        "detected_at_utc": "2026-10-23T15:55:10.250834+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I Won't Give Up",
