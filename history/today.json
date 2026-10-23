@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:43:58.158625+00:00",
+  "updated_at_utc": "2026-10-23T14:46:21.145885+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-23T14:46:21.042577+00:00"
+      },
       {
         "artist": "Halsey",
         "title": "Without Me",
