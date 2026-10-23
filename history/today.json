@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:46:04.915853+00:00",
+  "updated_at_utc": "2026-10-23T16:47:07.515335+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me (Acoustic Version)",
+        "detected_at_utc": "2026-10-23T16:47:06.889992+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -305,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-23T16:47:06.110526+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -617,6 +627,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "As Tears Go By",
+        "detected_at_utc": "2026-10-23T16:46:20.898151+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Earth Song",
