@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:33:56.864394+00:00",
+  "updated_at_utc": "2026-10-23T14:36:00.442966+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Beautiful Soul",
+        "detected_at_utc": "2026-10-23T14:36:00.328844+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
