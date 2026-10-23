@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:17:11.142419+00:00",
+  "updated_at_utc": "2026-10-23T16:19:08.759250+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Your Body Is a Wonderland",
+        "detected_at_utc": "2026-10-23T16:19:08.680196+00:00"
+      },
       {
         "artist": "Leon Thomas & Freddie Gibbs",
         "title": "MUTT (REMIX)",
