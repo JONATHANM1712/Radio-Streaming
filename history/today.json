@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:13:29.951289+00:00",
+  "updated_at_utc": "2026-10-23T15:15:36.217856+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Talking Body",
+        "detected_at_utc": "2026-10-23T15:15:36.008388+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
