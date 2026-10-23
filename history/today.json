@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:38:46.747132+00:00",
+  "updated_at_utc": "2026-10-23T14:40:08.490325+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "detected_at_utc": "2026-10-23T14:40:08.393257+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Beautiful Soul",
