@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:37:39.626608+00:00",
+  "updated_at_utc": "2026-10-23T15:39:39.942745+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila Majid",
+        "title": "Begitulah Cinta",
+        "detected_at_utc": "2026-10-23T15:39:39.809254+00:00"
+      },
       {
         "artist": "Blue",
         "title": "Best In Me (2004)",
