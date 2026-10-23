@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:29:51.465183+00:00",
+  "updated_at_utc": "2026-10-23T14:32:54.221232+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-23T14:32:54.125819+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Forever (Main Version)",
