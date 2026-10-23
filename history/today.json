@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:27:30.735473+00:00",
+  "updated_at_utc": "2026-10-23T16:28:33.334365+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Tak Ada Yang Bisa",
+        "detected_at_utc": "2026-10-23T16:28:29.684983+00:00"
+      },
       {
         "artist": "Zedd, Maren Morris & Grey",
         "title": "The Middle",
