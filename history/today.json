@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:32:54.221232+00:00",
+  "updated_at_utc": "2026-10-23T14:33:56.864394+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jewel",
+        "title": "You Were Meant For Me",
+        "detected_at_utc": "2026-10-23T14:32:54.336482+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Stay With Me",
@@ -307,6 +312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Miki Matsubara",
+        "title": "Mayonaka No Door~stay with Me Classic",
+        "detected_at_utc": "2026-10-23T14:33:35.297264+00:00"
+      },
       {
         "artist": "P.M. Dawn",
         "title": "Looking Through Patient Eyes",
