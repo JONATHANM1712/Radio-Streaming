@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:25:43.759048+00:00",
+  "updated_at_utc": "2026-10-23T14:28:46.543665+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-10-23T14:28:46.371960+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Perfect",
