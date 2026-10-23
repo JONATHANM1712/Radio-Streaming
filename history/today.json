@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:46:21.145885+00:00",
+  "updated_at_utc": "2026-10-23T14:47:23.742135+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "I Turn to You",
+        "detected_at_utc": "2026-10-23T14:47:22.821092+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
