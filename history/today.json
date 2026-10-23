@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:16:47.117340+00:00",
+  "updated_at_utc": "2026-10-23T15:18:42.944247+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-23T15:18:42.767157+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Talking Body",
