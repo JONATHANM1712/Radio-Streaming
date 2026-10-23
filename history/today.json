@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T11:41:18.791986+00:00",
+  "updated_at_utc": "2026-10-23T11:42:21.854318+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "detected_at_utc": "2026-10-23T11:41:20.598974+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Ku Takkan Bisa",
