@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:57:46.902379+00:00",
+  "updated_at_utc": "2026-10-23T14:58:50.235081+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "I Gotta Feeling",
+        "detected_at_utc": "2026-10-23T14:58:50.115829+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
