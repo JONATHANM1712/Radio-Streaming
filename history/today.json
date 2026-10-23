@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T11:46:29.534717+00:00",
+  "updated_at_utc": "2026-10-23T11:47:37.337037+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "3 Composers",
+        "title": "Salah Benar",
+        "detected_at_utc": "2026-10-23T11:47:37.213652+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "Want To Want Me",
