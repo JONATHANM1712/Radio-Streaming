@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:23:37.061750+00:00",
+  "updated_at_utc": "2026-10-23T14:24:40.470356+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "detected_at_utc": "2026-10-23T14:24:37.751522+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Hanya Memuji",
