@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:41:57.848605+00:00",
+  "updated_at_utc": "2026-10-23T16:45:02.306438+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-23T16:45:02.221522+00:00"
+      },
       {
         "artist": "Ava Max",
         "title": "Sweet but Psycho",
