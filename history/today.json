@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T11:59:11.360276+00:00",
+  "updated_at_utc": "2026-10-23T12:00:15.435501+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robbie Williams & Nicole Kidman",
+        "title": "Somethin' Stupid",
+        "detected_at_utc": "2026-10-23T12:00:13.363829+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "One Last Cry",
