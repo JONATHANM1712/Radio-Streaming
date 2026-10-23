@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:52:04.259304+00:00",
+  "updated_at_utc": "2026-10-23T15:53:06.924983+00:00",
   "stations": {
     "kis": [
       {
@@ -492,6 +492,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "Strange Currencies",
+        "detected_at_utc": "2026-10-23T15:52:12.964892+00:00"
+      },
       {
         "artist": "Carole King",
         "title": "You've Got a Friend",
