@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:04:40.945881+00:00",
+  "updated_at_utc": "2026-10-23T17:05:58.575630+00:00",
   "stations": {
     "kis": [
       {
@@ -27,6 +27,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Depeche Mode",
+        "title": "Stripped",
+        "detected_at_utc": "2026-10-23T17:05:58.491094+00:00"
+      },
       {
         "artist": "Freddie Mercury",
         "title": "The Great Pretender",
