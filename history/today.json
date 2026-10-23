@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:10:06.371539+00:00",
+  "updated_at_utc": "2026-10-23T17:11:53.827957+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Creed",
+        "title": "With Arms Wide Open",
+        "detected_at_utc": "2026-10-23T17:11:53.735284+00:00"
+      },
       {
         "artist": "Diskoria, Laleilmanino & Eva Celia",
         "title": "C.H.R.I.S.Y.E.",
