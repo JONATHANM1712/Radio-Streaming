@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:30:28.079540+00:00",
+  "updated_at_utc": "2026-10-23T15:31:33.042138+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Aerosmith",
+        "title": "I Don't Want To Miss A Thing (From \"Armageddon\" Soundtrack)",
+        "detected_at_utc": "2026-10-23T15:31:22.824939+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Someone Like You",
@@ -220,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Party In the U.S.A.",
+        "detected_at_utc": "2026-10-23T15:31:22.347105+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
