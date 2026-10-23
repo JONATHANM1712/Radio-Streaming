@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:07:01.545641+00:00",
+  "updated_at_utc": "2026-10-23T17:08:04.300106+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Wet Wet Wet",
+        "title": "Love Is All Around",
+        "detected_at_utc": "2026-10-23T17:07:46.566568+00:00"
+      },
       {
         "artist": "Sheryl Crow",
         "title": "The First Cut Is The Deepest",
