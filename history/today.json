@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:18:50.167196+00:00",
+  "updated_at_utc": "2026-10-23T14:22:33.620975+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-10-23T14:22:33.443246+00:00"
+      },
       {
         "artist": "Sherina Munaf",
         "title": "Cinta Pertama Dan Terakhir",
