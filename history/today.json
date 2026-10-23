@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T12:06:46.690012+00:00",
+  "updated_at_utc": "2026-10-23T12:08:50.991923+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-10-23T12:08:50.868354+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "One Last Cry",
