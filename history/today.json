@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T11:55:57.374268+00:00",
+  "updated_at_utc": "2026-10-23T11:59:11.360276+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "One Last Cry",
+        "detected_at_utc": "2026-10-23T11:59:11.236470+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "When I Was Your Man",
