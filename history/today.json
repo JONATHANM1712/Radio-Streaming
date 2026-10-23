@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:03:17.224012+00:00",
+  "updated_at_utc": "2026-10-23T14:04:20.383100+00:00",
   "stations": {
     "kis": [
       {
@@ -131,6 +131,11 @@
     ],
     "jak": [
       {
+        "artist": "Sun Rai",
+        "title": "San Francisco Street",
+        "detected_at_utc": "2026-10-23T14:03:19.104196+00:00"
+      },
+      {
         "artist": "Mariah Carey",
         "title": "We Belong Together",
         "detected_at_utc": "2026-10-23T13:59:07.436110+00:00"
@@ -237,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "Sparkle",
+        "detected_at_utc": "2026-10-23T14:03:20.671889+00:00"
+      },
       {
         "artist": "The Doobie Brothers",
         "title": "What a Fool Believes",
