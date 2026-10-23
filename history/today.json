@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:01:53.498714+00:00",
+  "updated_at_utc": "2026-10-23T17:02:56.134148+00:00",
   "stations": {
     "kis": [
       {
@@ -11,12 +11,22 @@
     ],
     "jak": [
       {
+        "artist": "The Weeknd",
+        "title": "Earned It (Fifty Shades of Grey)",
+        "detected_at_utc": "2026-10-23T17:02:35.637164+00:00"
+      },
+      {
         "artist": "Kanye West",
         "title": "Heartless",
         "detected_at_utc": "2026-10-23T17:00:31.670568+00:00"
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury",
+        "title": "The Great Pretender",
+        "detected_at_utc": "2026-10-23T17:02:52.855879+00:00"
+      },
       {
         "artist": "Good News",
         "title": "Breaking News",
