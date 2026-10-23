@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:12:26.698111+00:00",
+  "updated_at_utc": "2026-10-23T15:13:29.951289+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-23T15:13:23.088174+00:00"
+      },
       {
         "artist": "K-Ci & JoJo",
         "title": "Tell Me It's Real",
