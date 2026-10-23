@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:58:29.796925+00:00",
+  "updated_at_utc": "2026-10-23T15:59:32.616008+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-23T15:59:21.902366+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Your Body Is a Wonderland",
