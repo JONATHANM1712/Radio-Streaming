@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T12:13:07.868313+00:00",
+  "updated_at_utc": "2026-10-23T12:16:40.183007+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-10-23T12:16:40.056082+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "You Are My Everything (feat. Red)",
