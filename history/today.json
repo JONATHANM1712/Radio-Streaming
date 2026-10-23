@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:16:22.401362+00:00",
+  "updated_at_utc": "2026-10-23T14:18:50.167196+00:00",
   "stations": {
     "kis": [
       {
@@ -146,6 +146,11 @@
     ],
     "jak": [
       {
+        "artist": "Shanty",
+        "title": "Hanya Memuji",
+        "detected_at_utc": "2026-10-23T14:18:50.151351+00:00"
+      },
+      {
         "artist": "Tyla",
         "title": "Truth or Dare",
         "detected_at_utc": "2026-10-23T14:15:14.366842+00:00"
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Portishead",
+        "title": "Glory Box",
+        "detected_at_utc": "2026-10-23T14:18:49.994038+00:00"
+      },
       {
         "artist": "Eagles",
         "title": "Hotel California",
