@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:47:07.515335+00:00",
+  "updated_at_utc": "2026-10-23T16:48:12.127009+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "The One That Got Away",
+        "detected_at_utc": "2026-10-23T16:48:08.067395+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
