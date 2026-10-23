@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:17:25.475513+00:00",
+  "updated_at_utc": "2026-10-23T17:20:11.196583+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Atomic Kitten",
+        "title": "Whole Again",
+        "detected_at_utc": "2026-10-23T17:20:11.107609+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
