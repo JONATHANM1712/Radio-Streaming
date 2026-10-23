@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T15:47:56.536150+00:00",
+  "updated_at_utc": "2026-10-23T15:52:04.259304+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Mraz",
+        "title": "I Won't Give Up",
+        "detected_at_utc": "2026-10-23T15:52:04.195739+00:00"
+      },
       {
         "artist": "Joey McIntyre",
         "title": "Stay the Same",
@@ -240,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Coba Katakan",
+        "detected_at_utc": "2026-10-23T15:52:04.171938+00:00"
+      },
       {
         "artist": "Calum Scott",
         "title": "Dancing On My Own",
