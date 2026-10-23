@@ -1,8 +1,13 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T16:04:42.556552+00:00",
+  "updated_at_utc": "2026-10-23T16:05:45.647478+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "detected_at_utc": "2026-10-23T16:05:34.700402+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Fragile",
