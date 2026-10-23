@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at_utc": "2026-10-23T14:47:23.742135+00:00",
+  "updated_at_utc": "2026-10-23T14:48:26.410517+00:00",
   "stations": {
     "kis": [
       {
@@ -181,6 +181,11 @@
     ],
     "jak": [
       {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-10-23T14:48:24.952745+00:00"
+      },
+      {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
         "detected_at_utc": "2026-10-23T14:46:21.042577+00:00"
@@ -342,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Natalie Imbruglia",
+        "title": "Leave Me Alone",
+        "detected_at_utc": "2026-10-23T14:48:06.694898+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Careless Whisper",
