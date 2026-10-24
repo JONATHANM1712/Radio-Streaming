@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:34:25.720337+00:00",
+  "updated_at_utc": "2026-10-24T13:36:33.801699+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kotak",
+        "title": "Masih Cinta",
+        "detected_at_utc": "2026-10-24T13:36:33.648184+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Yellow",
