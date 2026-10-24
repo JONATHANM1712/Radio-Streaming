@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:23:28.844258+00:00",
+  "updated_at_utc": "2026-10-24T12:24:32.317722+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lenka",
+        "title": "Trouble Is a Friend",
+        "detected_at_utc": "2026-10-24T12:24:31.108079+00:00"
+      },
       {
         "artist": "Portugal. The Man",
         "title": "Feel It Still",
@@ -212,6 +217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nirvana",
+        "title": "Something In The Way (Live At The BBC)",
+        "detected_at_utc": "2026-10-24T12:23:29.033742+00:00"
+      },
       {
         "artist": "The Black Crowes",
         "title": "Twice As Hard",
