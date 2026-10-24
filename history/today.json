@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:50:58.232036+00:00",
+  "updated_at_utc": "2026-10-24T15:52:00.828163+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Spice Girls",
+        "title": "Stop",
+        "detected_at_utc": "2026-10-24T15:51:58.089656+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Wake Up Call",
@@ -240,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-24T15:51:59.782370+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
