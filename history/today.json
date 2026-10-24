@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:37:37.494039+00:00",
+  "updated_at_utc": "2026-10-24T15:17:33.523500+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "One Thing",
+        "detected_at_utc": "2026-10-24T15:17:33.203335+00:00"
+      },
       {
         "artist": "Dido",
         "title": "Thank You",
@@ -407,6 +412,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Iron Maiden",
+        "title": "Phantom of the Opera",
+        "detected_at_utc": "2026-10-24T15:17:33.266653+00:00"
+      },
       {
         "artist": "Marilyn Manson",
         "title": "Lunchbox",
