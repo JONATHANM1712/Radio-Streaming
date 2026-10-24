@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:43:51.199525+00:00",
+  "updated_at_utc": "2026-10-24T16:44:53.915925+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "F**kin' Perfect",
+        "detected_at_utc": "2026-10-24T16:44:51.244592+00:00"
+      },
       {
         "artist": "Raisa & Andi Rianto",
         "title": "Bahasa Kalbu",
