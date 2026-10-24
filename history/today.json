@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:49:12.196826+00:00",
+  "updated_at_utc": "2026-10-24T11:51:10.499343+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-24T11:51:10.284592+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Dynamite",
