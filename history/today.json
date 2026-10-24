@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:31:07.712003+00:00",
+  "updated_at_utc": "2026-10-24T15:32:11.123153+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Hati-Hati di Jalan",
+        "detected_at_utc": "2026-10-24T15:32:10.263343+00:00"
+      },
+      {
+        "artist": "Leona Lewis",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-10-24T15:31:08.109153+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I Will Be",
