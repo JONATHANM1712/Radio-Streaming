@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:24:06.861132+00:00",
+  "updated_at_utc": "2026-10-24T16:26:10.375789+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ivy Huerter",
+        "title": "Airplanes",
+        "detected_at_utc": "2026-10-24T16:26:10.264389+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "XO",
