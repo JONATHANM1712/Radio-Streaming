@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:09:23.631792+00:00",
+  "updated_at_utc": "2026-10-24T13:10:31.006243+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Temper Trap",
+        "title": "Sweet Disposition",
+        "detected_at_utc": "2026-10-24T13:10:20.420765+00:00"
+      },
       {
         "artist": "Spiller & Sophie Ellis-Bextor",
         "title": "Groovejet (If This Ain't Love)",
