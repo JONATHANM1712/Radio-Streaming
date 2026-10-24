@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:44:41.197187+00:00",
+  "updated_at_utc": "2026-10-24T15:46:47.614144+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "detected_at_utc": "2026-10-24T15:46:47.506416+00:00"
+      },
       {
         "artist": "Wiz Khalifa",
         "title": "See You Again (feat. Charlie Puth)",
