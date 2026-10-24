@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:26:37.799556+00:00",
+  "updated_at_utc": "2026-10-24T12:27:41.840295+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Swirl 360",
+        "title": "Hey Now Now",
+        "detected_at_utc": "2026-10-24T12:27:40.605760+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-10-24T12:27:39.017123+00:00"
+      },
       {
         "artist": "Lenka",
         "title": "Trouble Is a Friend",
