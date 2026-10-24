@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:00:30.482266+00:00",
+  "updated_at_utc": "2026-10-24T12:01:33.970299+00:00",
   "stations": {
     "kis": [
       {
@@ -76,6 +76,16 @@
     ],
     "jak": [
       {
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "title": "I Like It",
+        "detected_at_utc": "2026-10-24T12:01:33.883026+00:00"
+      },
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-24T12:00:31.669328+00:00"
+      },
+      {
         "artist": "Justin Timberlake",
         "title": "Like I Love You",
         "detected_at_utc": "2026-10-24T11:56:21.913123+00:00"
@@ -147,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pearl Jam",
+        "title": "Leash",
+        "detected_at_utc": "2026-10-24T12:01:32.450479+00:00"
+      },
       {
         "artist": "Faith No More",
         "title": "Midlife Crisis",
