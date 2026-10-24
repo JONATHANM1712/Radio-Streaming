@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:19:19.596926+00:00",
+  "updated_at_utc": "2026-10-24T12:21:23.529652+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Portugal. The Man",
+        "title": "Feel It Still",
+        "detected_at_utc": "2026-10-24T12:21:23.283824+00:00"
+      },
       {
         "artist": "Ryan Cabrera",
         "title": "True",
