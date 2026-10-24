@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:49:35.349695+00:00",
+  "updated_at_utc": "2026-10-24T12:50:39.100692+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sting",
+        "title": "Desert Rose (feat. Cheb Mami)",
+        "detected_at_utc": "2026-10-24T12:50:35.719078+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "Luxurious (feat. Slim Thug) [Remix featuring Slim Thug]",
