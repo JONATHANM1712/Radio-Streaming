@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:07:34.350186+00:00",
+  "updated_at_utc": "2026-10-24T16:10:39.832061+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "Some Nights",
+        "detected_at_utc": "2026-10-24T16:10:39.824921+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
@@ -547,6 +552,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sonic Spark",
+        "title": "Alright Come On",
+        "detected_at_utc": "2026-10-24T16:10:39.716093+00:00"
+      },
       {
         "artist": "Sex Pistols",
         "title": "Submission",
