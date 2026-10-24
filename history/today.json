@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:10:31.006243+00:00",
+  "updated_at_utc": "2026-10-24T13:11:34.462922+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "detected_at_utc": "2026-10-24T13:11:21.385984+00:00"
+      },
       {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
