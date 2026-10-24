@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:30:22.156126+00:00",
+  "updated_at_utc": "2026-10-24T16:33:27.619901+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clay Aiken",
+        "title": "Invisible",
+        "detected_at_utc": "2026-10-24T16:33:27.458106+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
