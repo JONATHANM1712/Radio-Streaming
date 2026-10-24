@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:47:59.108661+00:00",
+  "updated_at_utc": "2026-10-24T16:49:01.984499+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-24T16:49:01.346285+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "F**kin' Perfect",
