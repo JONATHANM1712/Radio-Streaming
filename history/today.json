@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-23T17:24:21.810813+00:00",
+  "updated_at_utc": "2026-10-24T11:33:13.962852+00:00",
   "stations": {
     "kis": [
       {
@@ -77,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Céline Dion",
+        "title": "Treat Her Like a Lady",
+        "detected_at_utc": "2026-10-23T17:24:33.975434+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Electric Barbarella",
