@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:38:06.792447+00:00",
+  "updated_at_utc": "2026-10-24T12:40:10.988018+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "detected_at_utc": "2026-10-24T12:40:10.816297+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "positions",
