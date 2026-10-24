@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:39:28.631394+00:00",
+  "updated_at_utc": "2026-10-24T15:40:32.133003+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Wiz Khalifa",
+        "title": "See You Again (feat. Charlie Puth)",
+        "detected_at_utc": "2026-10-24T15:40:32.025058+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Because of You",
