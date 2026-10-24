@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:26:10.375789+00:00",
+  "updated_at_utc": "2026-10-24T16:27:13.561404+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Barbra Streisand",
+        "title": "I Finally Found Someone",
+        "detected_at_utc": "2026-10-24T16:27:13.080483+00:00"
+      },
       {
         "artist": "Sarah McLachlan",
         "title": "When She Loved Me",
@@ -285,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Airplanes (feat. Hayley Williams of Paramore)",
+        "detected_at_utc": "2026-10-24T16:27:12.105144+00:00"
+      },
       {
         "artist": "Ivy Huerter",
         "title": "Airplanes",
@@ -602,6 +612,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Police",
+        "title": "Invisible Sun",
+        "detected_at_utc": "2026-10-24T16:27:12.980903+00:00"
+      },
       {
         "artist": "Deep Purple",
         "title": "Lazy (Live)",
