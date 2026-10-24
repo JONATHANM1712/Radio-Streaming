@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:51:10.499343+00:00",
+  "updated_at_utc": "2026-10-24T11:52:14.094147+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Just a Feeling",
+        "detected_at_utc": "2026-10-24T11:52:11.406317+00:00"
+      },
       {
         "artist": "Gym Class Heroes",
         "title": "Stereo Hearts (feat. Adam Levine)",
