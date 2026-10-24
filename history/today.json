@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:20:22.761751+00:00",
+  "updated_at_utc": "2026-10-24T16:23:04.330099+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "XO",
+        "detected_at_utc": "2026-10-24T16:23:04.225251+00:00"
+      },
       {
         "artist": "Missy Elliott",
         "title": "Get Ur Freak On",
