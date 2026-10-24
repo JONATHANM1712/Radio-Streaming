@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:36:33.801699+00:00",
+  "updated_at_utc": "2026-10-24T13:37:37.494039+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dido",
+        "title": "Thank You",
+        "detected_at_utc": "2026-10-24T13:37:36.228620+00:00"
+      },
       {
         "artist": "NewJeans",
         "title": "Ditto",
