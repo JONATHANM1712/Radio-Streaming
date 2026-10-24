@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:04:10.080174+00:00",
+  "updated_at_utc": "2026-10-24T13:05:13.346240+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "London Bridge",
+        "detected_at_utc": "2026-10-24T13:05:08.312456+00:00"
+      },
       {
         "artist": "Jennifer Lopez & Pitbull",
         "title": "Dance Again",
