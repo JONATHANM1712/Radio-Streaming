@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:36:33.477016+00:00",
+  "updated_at_utc": "2026-10-24T11:37:47.337008+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunglon",
+        "title": "Denganmu (feat. Neri Per Caso)",
+        "detected_at_utc": "2026-10-24T11:37:25.924060+00:00"
+      },
       {
         "artist": "Joe",
         "title": "I Wanna Know",
