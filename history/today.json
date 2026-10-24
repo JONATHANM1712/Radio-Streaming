@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:34:13.929822+00:00",
+  "updated_at_utc": "2026-10-24T15:37:24.785701+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "detected_at_utc": "2026-10-24T15:37:24.664748+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Hati-Hati di Jalan",
@@ -467,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rainbow",
+        "title": "The Temple of the King",
+        "detected_at_utc": "2026-10-24T15:37:24.711535+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Firth of Fifth (New Stereo Mix)",
