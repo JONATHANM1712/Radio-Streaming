@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:54:04.835191+00:00",
+  "updated_at_utc": "2026-10-24T15:55:07.594734+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Howie Day",
+        "title": "Collide",
+        "detected_at_utc": "2026-10-24T15:55:04.615349+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Stop",
