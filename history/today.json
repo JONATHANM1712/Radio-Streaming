@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:18:47.492182+00:00",
+  "updated_at_utc": "2026-10-24T15:19:50.313761+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lifehouse",
+        "title": "You and Me",
+        "detected_at_utc": "2026-10-24T15:19:35.103710+00:00"
+      },
       {
         "artist": "Audy & Nindy Olay",
         "title": "Untuk Sahabat",
