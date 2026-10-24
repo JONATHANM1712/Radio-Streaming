@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:17:33.523500+00:00",
+  "updated_at_utc": "2026-10-24T15:18:47.492182+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy & Nindy Olay",
+        "title": "Untuk Sahabat",
+        "detected_at_utc": "2026-10-24T15:18:32.725258+00:00"
+      },
       {
         "artist": "Kotak",
         "title": "Masih Cinta",
