@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:24:53.660517+00:00",
+  "updated_at_utc": "2026-10-24T15:27:28.530688+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jewel",
+        "title": "You Were Meant For Me",
+        "detected_at_utc": "2026-10-24T15:26:55.199951+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
