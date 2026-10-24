@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:27:13.561404+00:00",
+  "updated_at_utc": "2026-10-24T16:28:16.183417+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "Ain't It Fun",
+        "detected_at_utc": "2026-10-24T16:28:15.580978+00:00"
+      },
       {
         "artist": "Barbra Streisand",
         "title": "I Finally Found Someone",
