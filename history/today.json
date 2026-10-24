@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:40:10.988018+00:00",
+  "updated_at_utc": "2026-10-24T12:41:16.229726+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Sedih Tak Berujung",
+        "detected_at_utc": "2026-10-24T12:41:13.863992+00:00"
+      },
       {
         "artist": "Relish",
         "title": "You I'm Thinking Of",
@@ -252,6 +257,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Rocket Queen",
+        "detected_at_utc": "2026-10-24T12:41:13.856627+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Demolition Man",
