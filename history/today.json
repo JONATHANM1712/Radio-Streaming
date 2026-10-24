@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:59:17.269133+00:00",
+  "updated_at_utc": "2026-10-24T13:00:24.755040+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez & Pitbull",
+        "title": "Dance Again",
+        "detected_at_utc": "2026-10-24T12:59:56.070172+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
