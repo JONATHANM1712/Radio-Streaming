@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:48:04.816753+00:00",
+  "updated_at_utc": "2026-10-24T11:49:12.196826+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "detected_at_utc": "2026-10-24T11:49:04.211222+00:00"
+      },
       {
         "artist": "Lina Santiago",
         "title": "Everywhere I Go",
