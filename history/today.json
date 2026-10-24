@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:06:31.830152+00:00",
+  "updated_at_utc": "2026-10-24T16:07:34.350186+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-24T16:07:33.969868+00:00"
+      },
       {
         "artist": "Passion Pit",
         "title": "Where the Sky Hangs",
