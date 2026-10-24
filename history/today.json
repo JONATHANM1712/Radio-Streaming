@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:56:20.677831+00:00",
+  "updated_at_utc": "2026-10-24T11:57:23.823031+00:00",
   "stations": {
     "kis": [
       {
@@ -71,6 +71,11 @@
     ],
     "jak": [
       {
+        "artist": "Justin Timberlake",
+        "title": "Like I Love You",
+        "detected_at_utc": "2026-10-24T11:56:21.913123+00:00"
+      },
+      {
         "artist": "Barasuara",
         "title": "Sementara",
         "detected_at_utc": "2026-10-24T11:51:10.284592+00:00"
@@ -137,6 +142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Faith No More",
+        "title": "Midlife Crisis",
+        "detected_at_utc": "2026-10-24T11:57:22.569057+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Monkey Wrench",
