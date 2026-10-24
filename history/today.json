@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:24:58.992829+00:00",
+  "updated_at_utc": "2026-10-24T13:28:02.078025+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Walking After You",
+        "detected_at_utc": "2026-10-24T13:28:01.897557+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Style",
