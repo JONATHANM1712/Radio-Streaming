@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:16:55.919222+00:00",
+  "updated_at_utc": "2026-10-24T16:17:58.598399+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Danny Brown",
+        "title": "Lift You Up",
+        "detected_at_utc": "2026-10-24T16:17:54.338661+00:00"
+      },
       {
         "artist": "no na",
         "title": "work",
