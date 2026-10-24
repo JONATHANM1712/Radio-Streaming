@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:33:57.628176+00:00",
+  "updated_at_utc": "2026-10-24T12:37:03.223491+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "detected_at_utc": "2026-10-24T12:37:03.048526+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "She Will Be Loved",
