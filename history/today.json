@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:19:47.819341+00:00",
+  "updated_at_utc": "2026-10-24T13:22:50.474791+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MKTO",
+        "title": "Classic",
+        "detected_at_utc": "2026-10-24T13:22:50.333735+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
