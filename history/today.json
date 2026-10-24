@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-24T17:17:06.280128+00:00",
+  "updated_at_utc": "2026-10-24T17:18:10.878196+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Gravity",
+        "detected_at_utc": "2026-10-24T17:17:06.668547+00:00"
+      },
       {
         "artist": "TOFU",
         "title": "Hidup Cuma Sekali",
@@ -30,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Unintended",
+        "detected_at_utc": "2026-10-24T17:18:08.188973+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
