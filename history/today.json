@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:18:15.944298+00:00",
+  "updated_at_utc": "2026-10-24T12:19:19.596926+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "peterpan",
+        "title": "Ada Apa Denganmu",
+        "detected_at_utc": "2026-10-24T12:18:16.538450+00:00"
+      },
       {
         "artist": "Alison Limerick",
         "title": "Make It On My Own",
@@ -197,6 +202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Black Crowes",
+        "title": "Twice As Hard",
+        "detected_at_utc": "2026-10-24T12:19:18.916507+00:00"
+      },
       {
         "artist": "Blind Melon",
         "title": "Galaxie",
