@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-24T17:11:53.141192+00:00",
+  "updated_at_utc": "2026-10-24T17:12:56.859136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "TOFU",
+        "title": "Hidup Cuma Sekali",
+        "detected_at_utc": "2026-10-24T17:12:56.765926+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "Good Riddance (Time of Your Life) [Live]",
