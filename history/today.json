@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:47:28.910934+00:00",
+  "updated_at_utc": "2026-10-24T12:48:32.204434+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Luxurious (feat. Slim Thug) [Remix featuring Slim Thug]",
+        "detected_at_utc": "2026-10-24T12:48:30.965765+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "Luxurious",
@@ -130,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "TiK ToK",
+        "detected_at_utc": "2026-10-24T12:48:29.727489+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
