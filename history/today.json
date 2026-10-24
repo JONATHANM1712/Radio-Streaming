@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:14:48.740478+00:00",
+  "updated_at_utc": "2026-10-24T16:15:51.385422+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Drive",
+        "title": "Bersama Bintang",
+        "detected_at_utc": "2026-10-24T16:14:48.822987+00:00"
+      },
       {
         "artist": "George Lamond",
         "title": "Baby, I Believe In You",
@@ -270,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-24T16:15:50.450934+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "Some Nights",
