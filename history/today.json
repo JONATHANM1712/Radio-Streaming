@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-24T17:09:50.237578+00:00",
+  "updated_at_utc": "2026-10-24T17:11:53.141192+00:00",
   "stations": {
     "kis": [
       {
@@ -47,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sinéad O'Connor",
+        "title": "The Emperor's New Clothes",
+        "detected_at_utc": "2026-10-24T17:11:53.061946+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "(Everything I Do) I Do It for You",
