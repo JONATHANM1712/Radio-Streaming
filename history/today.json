@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:08:52.919708+00:00",
+  "updated_at_utc": "2026-10-24T12:12:01.527755+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-24T12:12:01.380715+00:00"
+      },
       {
         "artist": "Duffy",
         "title": "Mercy",
