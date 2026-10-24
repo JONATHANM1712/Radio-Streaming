@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:23:04.330099+00:00",
+  "updated_at_utc": "2026-10-24T16:24:06.861132+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sarah McLachlan",
+        "title": "When She Loved Me",
+        "detected_at_utc": "2026-10-24T16:23:04.691602+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Stronger (What Doesn't Kill You)",
