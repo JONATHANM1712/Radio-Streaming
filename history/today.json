@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:52:14.094147+00:00",
+  "updated_at_utc": "2026-10-24T11:53:18.136441+00:00",
   "stations": {
     "kis": [
       {
@@ -132,6 +132,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Monkey Wrench",
+        "detected_at_utc": "2026-10-24T11:53:13.747095+00:00"
+      },
       {
         "artist": "Suicidal Tendencies",
         "title": "Go'n Breakdown",
