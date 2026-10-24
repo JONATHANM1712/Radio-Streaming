@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:33:13.962852+00:00",
+  "updated_at_utc": "2026-10-24T11:34:51.544791+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joe",
+        "title": "I Wanna Know",
+        "detected_at_utc": "2026-10-24T11:34:18.498129+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "The Time (Dirty Bit)",
@@ -41,6 +46,16 @@
     ],
     "jak": [
       {
+        "artist": "Jaz",
+        "title": "Teman Bahagia",
+        "detected_at_utc": "2026-10-24T11:34:28.611782+00:00"
+      },
+      {
+        "artist": "Avril Lavigne",
+        "title": "What the Hell",
+        "detected_at_utc": "2026-10-24T11:33:26.489676+00:00"
+      },
+      {
         "artist": "Britney Spears",
         "title": "Toxic",
         "detected_at_utc": "2026-10-23T17:24:19.301634+00:00"
@@ -77,6 +92,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "The Lamb Lies Down On Broadway",
+        "detected_at_utc": "2026-10-24T11:33:26.453240+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "Treat Her Like a Lady",
