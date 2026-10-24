@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:27:28.530688+00:00",
+  "updated_at_utc": "2026-10-24T15:28:31.479325+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-10-24T15:27:59.531757+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
@@ -442,6 +447,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Firth of Fifth (New Stereo Mix)",
+        "detected_at_utc": "2026-10-24T15:27:59.531675+00:00"
+      },
       {
         "artist": "A Flock of Seagulls",
         "title": "The More You Live, the More You Love",
