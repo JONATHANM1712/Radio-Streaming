@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:51:09.824463+00:00",
+  "updated_at_utc": "2026-10-24T16:52:22.907207+00:00",
   "stations": {
     "kis": [
       {
@@ -672,6 +672,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mad Season",
+        "title": "I Don't Know Anything",
+        "detected_at_utc": "2026-10-24T16:52:12.631854+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "Love Walks In",
