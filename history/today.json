@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-24T17:07:44.971515+00:00",
+  "updated_at_utc": "2026-10-24T17:08:47.483580+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Corrs",
+        "title": "Summer Sunshine",
+        "detected_at_utc": "2026-10-24T17:07:45.937957+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Symphony (feat. Zara Larsson)",
