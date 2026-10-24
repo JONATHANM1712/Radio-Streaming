@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:28:16.183417+00:00",
+  "updated_at_utc": "2026-10-24T16:29:18.951971+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-24T16:29:16.913957+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
