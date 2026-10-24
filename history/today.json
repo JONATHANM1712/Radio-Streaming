@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:57:24.183018+00:00",
+  "updated_at_utc": "2026-10-24T16:58:26.732284+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Daylight",
+        "detected_at_utc": "2026-10-24T16:58:24.256743+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Bad Romance",
