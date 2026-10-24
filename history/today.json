@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:59:12.835177+00:00",
+  "updated_at_utc": "2026-10-24T16:00:15.275043+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Madonna",
+        "title": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+        "detected_at_utc": "2026-10-24T15:59:14.069974+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "Bye Bye Bye",
