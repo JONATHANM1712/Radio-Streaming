@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:12:01.527755+00:00",
+  "updated_at_utc": "2026-10-24T12:13:05.146119+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Wijaya 80",
+        "title": "Terakhir Kali",
+        "detected_at_utc": "2026-10-24T12:13:03.851309+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -182,6 +187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Public Image Ltd.",
+        "title": "This Is Not a Love Song",
+        "detected_at_utc": "2026-10-24T12:12:01.759547+00:00"
+      },
       {
         "artist": "Morrissey",
         "title": "Suedehead",
