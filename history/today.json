@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T13:23:55.705893+00:00",
+  "updated_at_utc": "2026-10-24T13:24:58.992829+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-24T13:24:54.918944+00:00"
+      },
       {
         "artist": "MKTO",
         "title": "Classic",
