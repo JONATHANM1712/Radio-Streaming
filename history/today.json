@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:17:58.598399+00:00",
+  "updated_at_utc": "2026-10-24T16:19:01.014740+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Stronger (What Doesn't Kill You)",
+        "detected_at_utc": "2026-10-24T16:18:56.605570+00:00"
+      },
       {
         "artist": "Drive",
         "title": "Bersama Bintang",
@@ -275,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Missy Elliott",
+        "title": "Get Ur Freak On",
+        "detected_at_utc": "2026-10-24T16:18:56.205572+00:00"
+      },
       {
         "artist": "Danny Brown",
         "title": "Lift You Up",
