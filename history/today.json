@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T12:32:54.130634+00:00",
+  "updated_at_utc": "2026-10-24T12:33:57.628176+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-10-24T12:33:56.492861+00:00"
+      },
       {
         "artist": "Swirl 360",
         "title": "Hey Now Now",
