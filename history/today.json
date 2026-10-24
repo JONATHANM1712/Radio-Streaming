@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T11:47:00.904082+00:00",
+  "updated_at_utc": "2026-10-24T11:48:04.816753+00:00",
   "stations": {
     "kis": [
       {
@@ -117,6 +117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suicidal Tendencies",
+        "title": "Go'n Breakdown",
+        "detected_at_utc": "2026-10-24T11:48:01.504641+00:00"
+      },
       {
         "artist": "Iron Maiden",
         "title": "Run to the Hills (1998 Remaster)",
