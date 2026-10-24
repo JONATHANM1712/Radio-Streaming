@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T16:37:36.911564+00:00",
+  "updated_at_utc": "2026-10-24T16:38:40.091646+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunga Citra Lestari",
+        "title": "Kecewa",
+        "detected_at_utc": "2026-10-24T16:38:39.554440+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Eternity",
@@ -300,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa & Andi Rianto",
+        "title": "Bahasa Kalbu",
+        "detected_at_utc": "2026-10-24T16:38:39.115956+00:00"
+      },
       {
         "artist": "Clay Aiken",
         "title": "Invisible",
