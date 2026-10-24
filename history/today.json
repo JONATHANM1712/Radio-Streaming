@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:37:24.785701+00:00",
+  "updated_at_utc": "2026-10-24T15:39:28.631394+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peabo Bryson",
+        "title": "Can You Stop the Rain",
+        "detected_at_utc": "2026-10-24T15:39:28.514436+00:00"
+      },
       {
         "artist": "Dewi Dewi",
         "title": "Begitu Salah Begitu Benar",
