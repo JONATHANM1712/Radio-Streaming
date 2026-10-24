@@ -1,8 +1,13 @@
 {
   "date": "2026-10-24",
-  "updated_at_utc": "2026-10-24T15:42:38.968916+00:00",
+  "updated_at_utc": "2026-10-24T15:44:41.197187+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Derulo",
+        "title": "Want To Want Me",
+        "detected_at_utc": "2026-10-24T15:44:41.105350+00:00"
+      },
       {
         "artist": "Peabo Bryson",
         "title": "Can You Stop the Rain",
