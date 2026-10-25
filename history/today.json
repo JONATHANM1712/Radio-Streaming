@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:40:50.086245+00:00",
+  "updated_at_utc": "2026-10-25T07:41:52.576858+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "OneRepublic",
+        "title": "Say (All I Need)",
+        "detected_at_utc": "2026-10-25T07:41:41.795685+00:00"
+      },
       {
         "artist": "The Groove",
         "title": "Satu Mimpiku",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Fame",
+        "detected_at_utc": "2026-10-25T07:40:51.675166+00:00"
+      },
       {
         "artist": "Paula Abdul",
         "title": "Knocked Out",
