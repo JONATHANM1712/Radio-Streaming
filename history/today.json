@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:19:16.878246+00:00",
+  "updated_at_utc": "2026-10-25T07:21:09.561421+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Ting Tings",
+        "title": "That's Not My Name",
+        "detected_at_utc": "2026-10-25T07:21:09.471071+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Cintakan Membawamu Kembali",
