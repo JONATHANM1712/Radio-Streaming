@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:16:57.273115+00:00",
+  "updated_at_utc": "2026-10-25T08:17:59.828753+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blaque",
+        "title": "As If",
+        "detected_at_utc": "2026-10-25T08:17:56.596251+00:00"
+      },
       {
         "artist": "Anji",
         "title": "Ternyata Cinta",
