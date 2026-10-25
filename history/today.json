@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:04:46.454004+00:00",
+  "updated_at_utc": "2026-10-25T07:05:49.118238+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nelly",
+        "title": "Hot In Herre",
+        "detected_at_utc": "2026-10-25T07:05:45.615078+00:00"
+      },
       {
         "artist": "Wiz Khalifa",
         "title": "See You Again (feat. Charlie Puth)",
@@ -182,6 +187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madness",
+        "title": "House Of Fun",
+        "detected_at_utc": "2026-10-25T07:04:54.015481+00:00"
+      },
       {
         "artist": "Madness",
         "title": "Seven Year Scratch (Edited Version)",
