@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:50:12.114389+00:00",
+  "updated_at_utc": "2026-10-25T07:51:14.494066+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-25T07:50:52.064735+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "That Should Be Me",
@@ -287,6 +292,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Enigma",
+        "title": "Sadeness",
+        "detected_at_utc": "2026-10-25T07:50:54.625430+00:00"
+      },
       {
         "artist": "Elton John",
         "title": "Sacrifice",
