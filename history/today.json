@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:11:57.054660+00:00",
+  "updated_at_utc": "2026-10-25T07:14:08.214240+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-25T07:14:08.123877+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Only Girl (In The World)",
