@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:39:12.604093+00:00",
+  "updated_at_utc": "2026-10-25T06:43:07.401670+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sinéad O'Connor",
+        "title": "Nothing Compares 2 U",
+        "detected_at_utc": "2026-10-25T06:43:07.311165+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Cemburu",
