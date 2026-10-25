@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:57:29.423945+00:00",
+  "updated_at_utc": "2026-10-25T07:59:05.862428+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Counting Crows",
+        "title": "Big Yellow Taxi (feat. Vanessa Carlton)",
+        "detected_at_utc": "2026-10-25T07:59:05.773885+00:00"
+      },
       {
         "artist": "LINKIN PARK",
         "title": "Heavy (feat. Kiiara)",
