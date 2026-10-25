@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:43:07.401670+00:00",
+  "updated_at_utc": "2026-10-25T06:44:09.797041+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "Big Girls Don't Cry (Personal)",
+        "detected_at_utc": "2026-10-25T06:43:17.364611+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "All In My Head (Flex) [feat. Fetty Wap]",
