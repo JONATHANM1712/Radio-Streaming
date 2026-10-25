@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-24T17:18:10.878196+00:00",
+  "updated_at_utc": "2026-10-25T06:18:36.060930+00:00",
   "stations": {
     "kis": [
       {
@@ -36,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Akon",
+        "title": "Don't Matter",
+        "detected_at_utc": "2026-10-25T06:18:35.906143+00:00"
+      },
+      {
         "artist": "Muse",
         "title": "Unintended",
         "detected_at_utc": "2026-10-24T17:18:08.188973+00:00"
@@ -67,6 +72,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Depeche Mode",
+        "title": "People Are People",
+        "detected_at_utc": "2026-10-25T06:18:35.879836+00:00"
+      },
       {
         "artist": "N.W.A",
         "title": "Straight Outta Compton",
