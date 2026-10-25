@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:03:43.967596+00:00",
+  "updated_at_utc": "2026-10-25T07:04:46.454004+00:00",
   "stations": {
     "kis": [
       {
@@ -182,6 +182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madness",
+        "title": "Seven Year Scratch (Edited Version)",
+        "detected_at_utc": "2026-10-25T07:03:52.483679+00:00"
+      },
       {
         "artist": "Nik Kershaw",
         "title": "The Riddle",
