@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:57:31.406070+00:00",
+  "updated_at_utc": "2026-10-25T06:58:34.135630+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ja Rule",
+        "title": "Always On Time (feat. Ashanti)",
+        "detected_at_utc": "2026-10-25T06:58:32.900510+00:00"
+      },
       {
         "artist": "Robin S.",
         "title": "Show Me Love",
@@ -80,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-10-25T06:57:41.178789+00:00"
+      },
       {
         "artist": "Jet",
         "title": "Look What You've Done",
