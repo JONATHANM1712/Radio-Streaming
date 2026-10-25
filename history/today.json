@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:48:28.291795+00:00",
+  "updated_at_utc": "2026-10-25T06:51:20.903878+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Closer",
+        "detected_at_utc": "2026-10-25T06:51:20.808491+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Kiss You",
