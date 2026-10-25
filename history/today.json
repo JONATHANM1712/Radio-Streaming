@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:10:27.714182+00:00",
+  "updated_at_utc": "2026-10-25T08:13:49.928996+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anji",
+        "title": "Ternyata Cinta",
+        "detected_at_utc": "2026-10-25T08:13:49.844656+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
