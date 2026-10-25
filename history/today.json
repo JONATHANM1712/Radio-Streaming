@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:55:24.440393+00:00",
+  "updated_at_utc": "2026-10-25T07:56:26.881622+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "Heavy (feat. Kiiara)",
+        "detected_at_utc": "2026-10-25T07:56:01.058735+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
@@ -307,6 +312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Waiting On A Friend",
+        "detected_at_utc": "2026-10-25T07:56:02.614012+00:00"
+      },
       {
         "artist": "Devi Sri Prasad",
         "title": "Final Battle",
