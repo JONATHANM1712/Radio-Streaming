@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:53:19.568077+00:00",
+  "updated_at_utc": "2026-10-25T07:54:21.991502+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "L O V E",
+        "detected_at_utc": "2026-10-25T07:54:18.976065+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "All I Have to Give",
