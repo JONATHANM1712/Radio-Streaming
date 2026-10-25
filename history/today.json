@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:31:36.277389+00:00",
+  "updated_at_utc": "2026-10-25T07:32:38.681598+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "7 Days",
+        "detected_at_utc": "2026-10-25T07:32:27.613687+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "Lights",
