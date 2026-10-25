@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:15:54.799212+00:00",
+  "updated_at_utc": "2026-10-25T08:16:57.273115+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-25T08:16:34.039728+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
