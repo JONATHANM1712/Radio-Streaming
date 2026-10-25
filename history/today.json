@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:59:46.170833+00:00",
+  "updated_at_utc": "2026-10-25T07:02:41.069362+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Wiz Khalifa",
+        "title": "See You Again (feat. Charlie Puth)",
+        "detected_at_utc": "2026-10-25T07:02:40.973264+00:00"
+      },
       {
         "artist": "Ja Rule",
         "title": "Always On Time (feat. Ashanti)",
