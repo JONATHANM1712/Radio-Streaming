@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:41:52.576858+00:00",
+  "updated_at_utc": "2026-10-25T07:43:55.322025+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "That Should Be Me",
+        "detected_at_utc": "2026-10-25T07:43:55.232827+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Never Gonna Not Dance Again",
