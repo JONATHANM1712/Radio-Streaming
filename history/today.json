@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:00:10.508159+00:00",
+  "updated_at_utc": "2026-10-25T08:01:12.933896+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bernard Oattes",
+        "title": "Throw Your Fears To The Wind",
+        "detected_at_utc": "2026-10-25T08:00:28.300222+00:00"
+      },
       {
         "artist": "Calvin Harris & Rihanna",
         "title": "This Is What You Came For",
