@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:35:42.832650+00:00",
+  "updated_at_utc": "2026-10-25T07:36:45.265263+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Groove",
+        "title": "Satu Mimpiku",
+        "detected_at_utc": "2026-10-25T07:36:33.973685+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "7 Days",
