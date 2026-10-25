@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:15:10.724706+00:00",
+  "updated_at_utc": "2026-10-25T07:18:14.425418+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Matchbox Twenty",
+        "title": "If You're Gone",
+        "detected_at_utc": "2026-10-25T07:18:14.339200+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Satu Bulan",
