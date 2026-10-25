@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:29:45.186548+00:00",
+  "updated_at_utc": "2026-10-25T06:30:47.588170+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "Lose",
+        "detected_at_utc": "2026-10-25T06:29:55.294785+00:00"
+      },
       {
         "artist": "Foster the People",
         "title": "Pumped Up Kicks",
