@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:28:32.076764+00:00",
+  "updated_at_utc": "2026-10-25T07:30:33.663172+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-25T07:30:33.569156+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
