@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:23:22.674824+00:00",
+  "updated_at_utc": "2026-10-25T07:24:25.095631+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robyn",
+        "title": "Do You Really Want Me (Show Respect)",
+        "detected_at_utc": "2026-10-25T07:24:14.497712+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "That's Not My Name",
@@ -232,6 +237,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Cyndi Lauper",
+        "title": "Time After Time",
+        "detected_at_utc": "2026-10-25T07:23:23.151839+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "When It's Love",
