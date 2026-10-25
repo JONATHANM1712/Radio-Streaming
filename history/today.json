@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:54:39.918958+00:00",
+  "updated_at_utc": "2026-10-25T06:57:31.406070+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robin S.",
+        "title": "Show Me Love",
+        "detected_at_utc": "2026-10-25T06:57:31.310939+00:00"
+      },
       {
         "artist": "Paul Johnson",
         "title": "Get Get Down",
