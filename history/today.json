@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:34:55.148608+00:00",
+  "updated_at_utc": "2026-10-25T06:35:57.687974+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Milky",
+        "title": "Just The Way You Are",
+        "detected_at_utc": "2026-10-25T06:35:04.555575+00:00"
+      },
       {
         "artist": "NIKI",
         "title": "Lose",
