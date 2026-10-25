@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:52:34.860477+00:00",
+  "updated_at_utc": "2026-10-25T06:53:37.356641+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jet",
+        "title": "Look What You've Done",
+        "detected_at_utc": "2026-10-25T06:53:34.553435+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
