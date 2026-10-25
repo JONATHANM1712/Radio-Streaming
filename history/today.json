@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:14:08.214240+00:00",
+  "updated_at_utc": "2026-10-25T07:15:10.724706+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Cintakan Membawamu Kembali",
+        "detected_at_utc": "2026-10-25T07:14:59.714381+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Satu Bulan",
+        "detected_at_utc": "2026-10-25T07:15:09.612766+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -207,6 +217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Got To Be There",
+        "detected_at_utc": "2026-10-25T07:15:10.298249+00:00"
+      },
       {
         "artist": "Take That",
         "title": "Back for Good (Radio Mix)",
