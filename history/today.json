@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:14:52.377776+00:00",
+  "updated_at_utc": "2026-10-25T08:15:54.799212+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-25T08:15:32.308618+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Suit & Tie featuring JAŸ-Z (Radio Edit)",
