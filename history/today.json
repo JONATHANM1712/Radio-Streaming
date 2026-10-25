@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:30:47.588170+00:00",
+  "updated_at_utc": "2026-10-25T06:33:52.576994+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chanté Moore & Kenny Lattimore",
+        "title": "Loveable (From Your Head to Your Toes)",
+        "detected_at_utc": "2026-10-25T06:33:52.457351+00:00"
+      },
       {
         "artist": "Blackstreet",
         "title": "In a Rush",
