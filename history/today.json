@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:07:54.536825+00:00",
+  "updated_at_utc": "2026-10-25T07:09:51.991015+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
+        "detected_at_utc": "2026-10-25T07:09:51.900420+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "Hot In Herre",
