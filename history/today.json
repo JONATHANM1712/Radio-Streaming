@@ -1,8 +1,13 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T08:09:25.276316+00:00",
+  "updated_at_utc": "2026-10-25T08:10:27.714182+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Travis",
+        "title": "Closer",
+        "detected_at_utc": "2026-10-25T08:09:42.912415+00:00"
+      },
       {
         "artist": "Bernard Oattes",
         "title": "Throw Your Fears To The Wind",
@@ -155,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Suit & Tie featuring JAŸ-Z (Radio Edit)",
+        "detected_at_utc": "2026-10-25T08:10:24.305527+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
