@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T06:18:36.060930+00:00",
+  "updated_at_utc": "2026-10-25T06:19:39.783677+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "Too Good at Goodbyes",
+        "detected_at_utc": "2026-10-25T06:19:38.337105+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
@@ -72,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Pointer Sisters",
+        "title": "Fire",
+        "detected_at_utc": "2026-10-25T06:19:38.315625+00:00"
+      },
       {
         "artist": "Depeche Mode",
         "title": "People Are People",
