@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at_utc": "2026-10-25T07:24:25.095631+00:00",
+  "updated_at_utc": "2026-10-25T07:27:29.020635+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-10-25T07:27:28.880351+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Magic",
