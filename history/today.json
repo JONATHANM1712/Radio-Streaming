@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:52:48.017249+00:00",
+  "updated_at_utc": "2026-10-26T05:55:54.272118+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "One Step At a Time",
+        "detected_at_utc": "2026-10-26T05:55:54.239919+00:00"
+      },
       {
         "artist": "Will Smith",
         "title": "Men In Black",
@@ -130,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paris Hilton",
+        "title": "Stars Are Blind",
+        "detected_at_utc": "2026-10-26T05:55:53.927570+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "It's a Beautiful Day",
