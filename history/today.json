@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:46:04.376207+00:00",
+  "updated_at_utc": "2026-10-26T16:47:09.857608+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-26T16:47:09.753021+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Tak Pernah Setengah Hati",
