@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:54:21.776965+00:00",
+  "updated_at_utc": "2026-10-26T16:55:24.532207+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Gravity",
+        "detected_at_utc": "2026-10-26T16:54:23.869158+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
