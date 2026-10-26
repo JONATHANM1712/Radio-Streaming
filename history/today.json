@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:15:47.995298+00:00",
+  "updated_at_utc": "2026-10-26T08:17:51.363885+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-26T08:17:51.277641+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Man I Need",
