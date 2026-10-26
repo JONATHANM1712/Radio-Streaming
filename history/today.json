@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:33:33.402870+00:00",
+  "updated_at_utc": "2026-10-26T15:35:35.341877+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Element",
+        "title": "Rahasia Hati",
+        "detected_at_utc": "2026-10-26T15:35:35.216920+00:00"
+      },
       {
         "artist": "Santana",
         "title": "The Game of Love (feat. Michelle Branch) [Main/Radio Mix]",
