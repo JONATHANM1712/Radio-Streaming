@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:09:01.360517+00:00",
+  "updated_at_utc": "2026-10-26T04:10:14.687627+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Scream",
+        "detected_at_utc": "2026-10-26T04:10:14.533992+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
