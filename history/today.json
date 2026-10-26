@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:10:38.885311+00:00",
+  "updated_at_utc": "2026-10-26T08:11:41.578932+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sweetbox",
+        "title": "Everything's Gonna Be Alright",
+        "detected_at_utc": "2026-10-26T08:11:40.427318+00:00"
+      },
       {
         "artist": "Blue",
         "title": "All Rise",
