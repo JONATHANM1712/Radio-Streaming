@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:33:39.261268+00:00",
+  "updated_at_utc": "2026-10-26T16:34:42.342395+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Like That (feat. Gucci Mane)",
+        "detected_at_utc": "2026-10-26T16:33:39.589240+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
