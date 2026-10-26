@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:15:36.265105+00:00",
+  "updated_at_utc": "2026-10-26T12:18:45.212834+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "I Know What You Did Last Summer",
+        "detected_at_utc": "2026-10-26T12:18:45.087071+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Let Me Love You",
