@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:18:59.341813+00:00",
+  "updated_at_utc": "2026-10-26T11:21:06.168656+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "PILLOWTALK",
+        "detected_at_utc": "2026-10-26T11:21:06.050663+00:00"
+      },
       {
         "artist": "Ravyn Lenae",
         "title": "Love Me Not",
