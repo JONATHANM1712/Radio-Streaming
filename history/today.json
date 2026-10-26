@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:25:49.958627+00:00",
+  "updated_at_utc": "2026-10-26T06:29:54.065228+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Drag Me Down",
+        "detected_at_utc": "2026-10-26T06:29:53.949379+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Heartless",
