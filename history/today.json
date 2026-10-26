@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:36:21.817311+00:00",
+  "updated_at_utc": "2026-10-26T17:40:32.464791+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "benny blanco, BTS & Snoop Dogg",
+        "title": "Bad Decisions",
+        "detected_at_utc": "2026-10-26T17:40:32.373838+00:00"
+      },
       {
         "artist": "Thalía",
         "title": "I Want You",
