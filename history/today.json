@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:42:37.481118+00:00",
+  "updated_at_utc": "2026-10-26T13:43:40.056074+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "American Authors",
+        "title": "Best Day of My Life",
+        "detected_at_utc": "2026-10-26T13:43:39.938362+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
