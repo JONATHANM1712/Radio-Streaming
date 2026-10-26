@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:31:20.322461+00:00",
+  "updated_at_utc": "2026-10-26T17:32:23.358364+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Hidden Agenda",
+        "detected_at_utc": "2026-10-26T17:32:11.479953+00:00"
+      },
       {
         "artist": "Blondie",
         "title": "Maria",
@@ -92,6 +97,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "C.E.B.",
+        "title": "Get the Point",
+        "detected_at_utc": "2026-10-26T17:32:13.929351+00:00"
+      },
       {
         "artist": "Rod Stewart",
         "title": "All for Love",
