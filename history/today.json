@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:39:35.954985+00:00",
+  "updated_at_utc": "2026-10-26T13:40:38.429761+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "detected_at_utc": "2026-10-26T13:40:36.124932+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Pada Satu Cinta",
