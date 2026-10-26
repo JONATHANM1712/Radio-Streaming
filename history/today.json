@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:49:36.530510+00:00",
+  "updated_at_utc": "2026-10-26T17:51:48.781706+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicole Scherzinger",
+        "title": "Baby Love (feat. will.i.am)",
+        "detected_at_utc": "2026-10-26T17:51:48.653487+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Best Part of Me (feat. YEBBA)",
