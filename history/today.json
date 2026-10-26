@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:48:04.561513+00:00",
+  "updated_at_utc": "2026-10-26T14:50:04.988082+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "detected_at_utc": "2026-10-26T14:50:04.862943+00:00"
+      },
       {
         "artist": "Santana",
         "title": "Smooth (feat. Rob Thomas)",
