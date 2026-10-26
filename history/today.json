@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:23:17.311756+00:00",
+  "updated_at_utc": "2026-10-26T14:24:21.322271+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-10-26T14:24:17.812568+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Know How (feat. Feist)",
@@ -515,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "detected_at_utc": "2026-10-26T14:24:19.022432+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life",
