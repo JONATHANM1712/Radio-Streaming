@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:48:22.844305+00:00",
+  "updated_at_utc": "2026-10-26T05:50:23.860206+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "It's a Beautiful Day",
+        "detected_at_utc": "2026-10-26T05:50:23.700225+00:00"
+      },
       {
         "artist": "Vanessa Carlton",
         "title": "A Thousand Miles",
