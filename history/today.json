@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:42:20.579618+00:00",
+  "updated_at_utc": "2026-10-26T04:44:10.595436+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Space",
+        "title": "Me & You Vs. The World",
+        "detected_at_utc": "2026-10-26T04:44:10.355142+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Setengah Hati",
@@ -45,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua",
+        "title": "Kau",
+        "detected_at_utc": "2026-10-26T04:44:10.411348+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
