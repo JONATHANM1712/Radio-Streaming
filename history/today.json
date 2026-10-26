@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:14:45.509008+00:00",
+  "updated_at_utc": "2026-10-26T08:15:47.995298+00:00",
   "stations": {
     "kis": [
       {
@@ -236,6 +236,11 @@
     ],
     "jak": [
       {
+        "artist": "Olivia Dean",
+        "title": "Man I Need",
+        "detected_at_utc": "2026-10-26T08:14:45.699131+00:00"
+      },
+      {
         "artist": "Sheila On 7",
         "title": "Yang Terlewatkan",
         "detected_at_utc": "2026-10-26T08:10:38.788356+00:00"
@@ -452,6 +457,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "Under the Same Sun",
+        "detected_at_utc": "2026-10-26T08:15:47.860116+00:00"
+      },
       {
         "artist": "Bob Marley & The Wailers",
         "title": "Get Up, Stand Up",
