@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:33:12.997449+00:00",
+  "updated_at_utc": "2026-10-26T05:36:56.648711+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rizky Febian",
+        "title": "Seperti Kisah",
+        "detected_at_utc": "2026-10-26T05:36:56.498553+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
