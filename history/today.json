@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:05:18.640342+00:00",
+  "updated_at_utc": "2026-10-26T05:06:58.011471+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bruno Mars",
+        "title": "Die With A Smile",
+        "detected_at_utc": "2026-10-26T05:06:57.839618+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Rehab",
