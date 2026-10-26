@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:22:15.721924+00:00",
+  "updated_at_utc": "2026-10-26T16:23:18.175407+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Birdy",
+        "title": "Skinny Love",
+        "detected_at_utc": "2026-10-26T16:23:17.407521+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Cinta Mati (feat. Ahmad Dhani)",
