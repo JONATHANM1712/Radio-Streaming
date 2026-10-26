@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:12:22.690383+00:00",
+  "updated_at_utc": "2026-10-26T06:13:25.460324+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "No Air",
+        "detected_at_utc": "2026-10-26T06:12:24.144794+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
