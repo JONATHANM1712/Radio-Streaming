@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:33:24.406506+00:00",
+  "updated_at_utc": "2026-10-26T11:34:27.065211+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "detected_at_utc": "2026-10-26T11:34:21.753990+00:00"
+      },
       {
         "artist": "Nelly Furtado & Timbaland",
         "title": "Promiscuous (feat. Timbaland)",
