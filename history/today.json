@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:21:41.068620+00:00",
+  "updated_at_utc": "2026-10-26T06:23:44.359950+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "You Da One",
+        "detected_at_utc": "2026-10-26T06:23:44.262434+00:00"
+      },
       {
         "artist": "Arkarna",
         "title": "Life Is Free",
