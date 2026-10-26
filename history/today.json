@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:23:52.769876+00:00",
+  "updated_at_utc": "2026-10-26T12:24:55.756541+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Blank Space",
+        "detected_at_utc": "2026-10-26T12:23:56.722945+00:00"
+      },
       {
         "artist": "Anggun",
         "title": "Snow On the Sahara",
