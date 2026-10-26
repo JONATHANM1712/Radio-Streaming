@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:20:57.933619+00:00",
+  "updated_at_utc": "2026-10-26T08:24:00.800825+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Baby Boy (feat. Sean Paul)",
+        "detected_at_utc": "2026-10-26T08:24:00.676414+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Satu",
