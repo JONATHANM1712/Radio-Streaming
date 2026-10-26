@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:31:59.885365+00:00",
+  "updated_at_utc": "2026-10-26T06:33:02.793386+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-26T06:32:58.967854+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Drag Me Down",
