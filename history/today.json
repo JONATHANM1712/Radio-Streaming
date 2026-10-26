@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:32:06.426259+00:00",
+  "updated_at_utc": "2026-10-26T05:33:12.997449+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sting",
+        "title": "Desert Rose (feat. Cheb Mami)",
+        "detected_at_utc": "2026-10-26T05:32:51.134206+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Criminal",
@@ -105,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-10-26T05:32:48.280666+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
