@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:26:08.978158+00:00",
+  "updated_at_utc": "2026-10-26T13:29:10.604447+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-26T13:29:10.516907+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Solo (feat. Demi Lovato)",
