@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:04:18.100644+00:00",
+  "updated_at_utc": "2026-10-26T13:06:19.451023+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DEV",
+        "title": "In the Dark",
+        "detected_at_utc": "2026-10-26T13:06:19.366689+00:00"
+      },
       {
         "artist": "Sean Kingston & Justin Bieber",
         "title": "Eenie Meenie",
