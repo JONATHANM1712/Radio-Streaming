@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:05:39.526786+00:00",
+  "updated_at_utc": "2026-10-26T17:06:43.298364+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vince Gill",
+        "title": "I Still Believe In You",
+        "detected_at_utc": "2026-10-26T17:06:37.850841+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "Something About Us",
@@ -15,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Diskoria",
+        "title": "Balada Insan Muda",
+        "detected_at_utc": "2026-10-26T17:05:44.514089+00:00"
+      },
       {
         "artist": "Drake",
         "title": "Hotline Bling",
