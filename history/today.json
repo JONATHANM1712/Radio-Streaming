@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:20:37.850701+00:00",
+  "updated_at_utc": "2026-10-26T06:21:41.068620+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Arkarna",
+        "title": "Life Is Free",
+        "detected_at_utc": "2026-10-26T06:20:39.395287+00:00"
+      },
       {
         "artist": "The Groove",
         "title": "Satu Mimpiku",
