@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:46:41.376075+00:00",
+  "updated_at_utc": "2026-10-26T17:48:33.572625+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "detected_at_utc": "2026-10-26T17:48:33.493318+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "It's All Coming Back to Me Now",
