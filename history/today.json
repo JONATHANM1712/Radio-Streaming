@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:05:49.259205+00:00",
+  "updated_at_utc": "2026-10-26T16:06:51.994139+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "The Scientist",
+        "detected_at_utc": "2026-10-26T16:05:51.179973+00:00"
+      },
       {
         "artist": "Guys Next Door",
         "title": "I've Been Waiting for You",
