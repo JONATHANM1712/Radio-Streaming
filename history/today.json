@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:19:53.620307+00:00",
+  "updated_at_utc": "2026-10-26T13:20:56.230671+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Travie McCoy",
+        "title": "Billionaire (feat. Bruno Mars)",
+        "detected_at_utc": "2026-10-26T13:20:49.010648+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
