@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:56:45.810735+00:00",
+  "updated_at_utc": "2026-10-26T17:58:58.623742+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-26T17:58:58.540701+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
