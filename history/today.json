@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:58:44.115355+00:00",
+  "updated_at_utc": "2026-10-26T07:00:50.228590+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "I Feel It Coming (feat. Daft Punk)",
+        "detected_at_utc": "2026-10-26T07:00:50.123270+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
