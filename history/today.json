@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:26:08.422734+00:00",
+  "updated_at_utc": "2026-10-26T08:27:11.156352+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Great DJ",
+        "detected_at_utc": "2026-10-26T08:27:07.766066+00:00"
+      },
       {
         "artist": "Jeremy Zucker",
         "title": "comethru",
