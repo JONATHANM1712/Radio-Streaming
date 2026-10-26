@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:29:00.512642+00:00",
+  "updated_at_utc": "2026-10-26T05:30:04.271270+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Criminal",
+        "detected_at_utc": "2026-10-26T05:29:45.852150+00:00"
+      },
       {
         "artist": "Kenny G",
         "title": "How Could an Angel Break My Heart (feat. Toni Braxton)",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-26T05:29:42.719139+00:00"
+      },
       {
         "artist": "The 1975",
         "title": "Robbers",
