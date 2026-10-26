@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:27:24.643350+00:00",
+  "updated_at_utc": "2026-10-26T14:29:26.293843+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Morrissey",
+        "title": "The More You Ignore Me, The Closer I Get (Remastered)",
+        "detected_at_utc": "2026-10-26T14:29:26.154373+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
