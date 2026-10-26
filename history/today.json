@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:18:54.515705+00:00",
+  "updated_at_utc": "2026-10-26T17:19:57.715101+00:00",
   "stations": {
     "kis": [
       {
@@ -36,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "detected_at_utc": "2026-10-26T17:19:02.429898+00:00"
+      },
+      {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
         "detected_at_utc": "2026-10-26T17:14:57.523405+00:00"
@@ -62,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Olivia Newton-John",
+        "title": "Magic (Remastered 2022)",
+        "detected_at_utc": "2026-10-26T17:19:57.517717+00:00"
+      },
       {
         "artist": "Boyz II Men & Mariah Carey",
         "title": "One Sweet Day",
