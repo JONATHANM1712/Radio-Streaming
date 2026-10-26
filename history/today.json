@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T18:03:03.808298+00:00",
+  "updated_at_utc": "2026-10-26T18:04:06.374229+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-10-26T18:03:53.612222+00:00"
+      },
       {
         "artist": "Stacie Orrico",
         "title": "Stuck",
@@ -85,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Plain White T's",
+        "title": "Hey There Delilah",
+        "detected_at_utc": "2026-10-26T18:04:05.033709+00:00"
+      },
       {
         "artist": "Abhijeet & Shah Rukh Khan",
         "title": "Main To Hoon Pagal",
@@ -177,6 +187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "a-ha",
+        "title": "Scoundrel Days",
+        "detected_at_utc": "2026-10-26T18:03:56.156284+00:00"
+      },
       {
         "artist": "Gary Barlow",
         "title": "Hang On In There Baby",
