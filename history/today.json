@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:36:30.324931+00:00",
+  "updated_at_utc": "2026-10-26T13:39:35.954985+00:00",
   "stations": {
     "kis": [
       {
@@ -897,6 +897,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "It's Gonna Get Better",
+        "detected_at_utc": "2026-10-26T13:39:35.830708+00:00"
+      },
       {
         "artist": "Alice Cooper",
         "title": "Poison",
