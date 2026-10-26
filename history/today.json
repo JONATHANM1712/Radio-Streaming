@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:52:07.611098+00:00",
+  "updated_at_utc": "2026-10-26T13:53:11.812604+00:00",
   "stations": {
     "kis": [
       {
@@ -481,6 +481,11 @@
     ],
     "jak": [
       {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-26T13:53:08.308390+00:00"
+      },
+      {
         "artist": "Lady Gaga",
         "title": "Paparazzi",
         "detected_at_utc": "2026-10-26T13:46:46.039245+00:00"
@@ -932,6 +937,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Alan Parsons Project",
+        "title": "Eye in the Sky",
+        "detected_at_utc": "2026-10-26T13:53:08.272949+00:00"
+      },
       {
         "artist": "Faith No More",
         "title": "Easy",
