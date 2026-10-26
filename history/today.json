@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T10:53:07.331144+00:00",
+  "updated_at_utc": "2026-10-26T10:54:10.245100+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robin Thicke",
+        "title": "The Sweetest Love",
+        "detected_at_utc": "2026-10-26T10:54:09.792684+00:00"
+      },
       {
         "artist": "Jonsa Gorawat, Mahendra Marwadi & Mumal Dancer",
         "title": "Sharabi Dost",
