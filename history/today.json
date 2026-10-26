@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:55:24.532207+00:00",
+  "updated_at_utc": "2026-10-26T16:57:30.502676+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "thank u, next",
+        "detected_at_utc": "2026-10-26T16:57:30.408374+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Gravity",
