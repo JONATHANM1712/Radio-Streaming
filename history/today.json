@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:34:41.402017+00:00",
+  "updated_at_utc": "2026-10-26T14:37:44.669731+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Tunjukkan Cintamu",
+        "detected_at_utc": "2026-10-26T14:37:44.546021+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Complicated",
