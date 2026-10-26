@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:16:00.935629+00:00",
+  "updated_at_utc": "2026-10-26T14:17:04.576004+00:00",
   "stations": {
     "kis": [
       {
@@ -511,6 +511,11 @@
     ],
     "jak": [
       {
+        "artist": "Kendrick Lamar",
+        "title": "luther",
+        "detected_at_utc": "2026-10-26T14:16:03.735453+00:00"
+      },
+      {
         "artist": "D’MASIV",
         "title": "Semakin",
         "detected_at_utc": "2026-10-26T14:12:56.549272+00:00"
@@ -987,6 +992,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "LIVE",
+        "title": "Lightning Crashes",
+        "detected_at_utc": "2026-10-26T14:17:03.107632+00:00"
+      },
       {
         "artist": "Lisa Stansfield",
         "title": "Never, Never Gonna Give You Up",
