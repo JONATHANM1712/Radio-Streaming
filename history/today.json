@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:58:18.856713+00:00",
+  "updated_at_utc": "2026-10-26T14:59:21.859158+00:00",
   "stations": {
     "kis": [
       {
@@ -556,6 +556,11 @@
     ],
     "jak": [
       {
+        "artist": "Khalid",
+        "title": "Better",
+        "detected_at_utc": "2026-10-26T14:58:24.252801+00:00"
+      },
+      {
         "artist": "The Ting Tings",
         "title": "That's Not My Name",
         "detected_at_utc": "2026-10-26T14:52:13.615912+00:00"
@@ -1097,6 +1102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alanis Morissette",
+        "title": "Hand In My Pocket",
+        "detected_at_utc": "2026-10-26T14:58:22.616919+00:00"
+      },
       {
         "artist": "Alphaville",
         "title": "Big In Japan",
