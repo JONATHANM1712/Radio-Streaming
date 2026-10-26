@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:10:04.670298+00:00",
+  "updated_at_utc": "2026-10-26T05:11:08.617206+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Location Unknown ◐ (feat. Georgia)",
+        "detected_at_utc": "2026-10-26T05:11:06.263200+00:00"
+      },
       {
         "artist": "Lady Gaga & Bruno Mars",
         "title": "Die With A Smile",
