@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:13:50.730326+00:00",
+  "updated_at_utc": "2026-10-26T15:15:53.659346+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Groove",
+        "title": "Sepi",
+        "detected_at_utc": "2026-10-26T15:15:53.452901+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "Smile Like Mona Lisa",
