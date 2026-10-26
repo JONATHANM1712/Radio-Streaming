@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:30:29.545535+00:00",
+  "updated_at_utc": "2026-10-26T14:31:32.281397+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-10-26T14:30:29.755734+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life (Remix) [feat. B.O.B.]",
