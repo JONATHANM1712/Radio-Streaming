@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:35:19.065218+00:00",
+  "updated_at_utc": "2026-10-26T17:36:21.817311+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Permaisuriku",
+        "detected_at_utc": "2026-10-26T17:36:16.761293+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Hidden Agenda",
@@ -51,6 +56,11 @@
     ],
     "jak": [
       {
+        "artist": "Thalía",
+        "title": "I Want You",
+        "detected_at_utc": "2026-10-26T17:35:25.376425+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "Marry You",
         "detected_at_utc": "2026-10-26T17:31:20.241404+00:00"
@@ -97,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Escapade",
+        "detected_at_utc": "2026-10-26T17:36:19.168755+00:00"
+      },
       {
         "artist": "C.E.B.",
         "title": "Get the Point",
