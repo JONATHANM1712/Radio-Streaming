@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:45:37.041421+00:00",
+  "updated_at_utc": "2026-10-26T12:46:40.110401+00:00",
   "stations": {
     "kis": [
       {
@@ -401,6 +401,11 @@
     ],
     "jak": [
       {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-26T12:46:37.084908+00:00"
+      },
+      {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
         "detected_at_utc": "2026-10-26T12:44:33.424617+00:00"
@@ -772,6 +777,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Java Jive",
+        "title": "Permataku",
+        "detected_at_utc": "2026-10-26T12:45:42.861428+00:00"
+      },
       {
         "artist": "Martin Landstrom",
         "title": "Midside Notes",
