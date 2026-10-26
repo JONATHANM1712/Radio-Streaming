@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:45:22.612748+00:00",
+  "updated_at_utc": "2026-10-26T06:47:26.533878+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-26T06:47:26.450976+00:00"
+      },
       {
         "artist": "Larissa Lambert",
         "title": "Weak",
