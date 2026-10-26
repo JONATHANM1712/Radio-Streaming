@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:08:40.281930+00:00",
+  "updated_at_utc": "2026-10-26T14:09:43.710662+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-26T14:09:43.561713+00:00"
+      },
       {
         "artist": "The Chainsmokers & Coldplay",
         "title": "Something Just Like This",
