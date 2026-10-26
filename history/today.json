@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:04:08.520822+00:00",
+  "updated_at_utc": "2026-10-26T06:05:12.131296+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Get Right",
+        "detected_at_utc": "2026-10-26T06:05:10.037524+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I Won't Give Up",
@@ -140,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "detected_at_utc": "2026-10-26T06:04:09.549680+00:00"
+      },
       {
         "artist": "Paris Hilton",
         "title": "Stars Are Blind",
