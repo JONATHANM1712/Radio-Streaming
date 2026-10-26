@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:21:06.168656+00:00",
+  "updated_at_utc": "2026-10-26T11:23:04.134430+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "detected_at_utc": "2026-10-26T11:23:04.035157+00:00"
+      },
       {
         "artist": "Joeniar Arief",
         "title": "Rapuh",
