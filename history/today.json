@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:31:15.760843+00:00",
+  "updated_at_utc": "2026-10-26T08:34:20.119173+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Morrissey",
+        "title": "Alma Matters",
+        "detected_at_utc": "2026-10-26T08:34:20.029711+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "That’s What I Like",
@@ -250,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "Dilemma (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-10-26T08:34:20.095703+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
