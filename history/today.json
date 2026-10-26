@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:57:35.036953+00:00",
+  "updated_at_utc": "2026-10-26T15:58:39.408908+00:00",
   "stations": {
     "kis": [
       {
@@ -626,6 +626,11 @@
     ],
     "jak": [
       {
+        "artist": "Damien Rice",
+        "title": "The Blower's Daughter",
+        "detected_at_utc": "2026-10-26T15:57:35.980288+00:00"
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
         "detected_at_utc": "2026-10-26T15:53:25.006891+00:00"
@@ -1242,6 +1247,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Barry Manilow",
+        "title": "Can't Smile Without You",
+        "detected_at_utc": "2026-10-26T15:58:36.260950+00:00"
+      },
       {
         "artist": "Nirvana",
         "title": "Dumb",
