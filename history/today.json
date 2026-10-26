@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:24:03.776593+00:00",
+  "updated_at_utc": "2026-10-26T13:25:06.380516+00:00",
   "stations": {
     "kis": [
       {
@@ -446,6 +446,11 @@
     ],
     "jak": [
       {
+        "artist": "Colbie Caillat",
+        "title": "Bubbly",
+        "detected_at_utc": "2026-10-26T13:25:00.131143+00:00"
+      },
+      {
         "artist": "Travie McCoy",
         "title": "Billionaire (feat. Bruno Mars)",
         "detected_at_utc": "2026-10-26T13:20:49.010648+00:00"
@@ -857,6 +862,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Björk",
+        "title": "Isobel",
+        "detected_at_utc": "2026-10-26T13:25:04.044081+00:00"
+      },
       {
         "artist": "Tempo",
         "title": "Siento Que Me Siguen",
