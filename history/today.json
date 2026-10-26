@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:12:44.024230+00:00",
+  "updated_at_utc": "2026-10-26T08:14:45.509008+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "The Sweet Escape (feat. Akon)",
+        "detected_at_utc": "2026-10-26T08:14:45.412118+00:00"
+      },
       {
         "artist": "Sweetbox",
         "title": "Everything's Gonna Be Alright",
