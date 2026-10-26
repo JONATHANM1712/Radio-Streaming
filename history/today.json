@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:55:40.205407+00:00",
+  "updated_at_utc": "2026-10-26T06:56:42.698765+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babyface, Mariah Carey, Kenny G & Sheila E.",
+        "title": "Every Time I Close My Eyes",
+        "detected_at_utc": "2026-10-26T06:56:40.622405+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "P.D.A. (We Just Don't Care)",
