@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:59:21.859158+00:00",
+  "updated_at_utc": "2026-10-26T15:03:26.969093+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-10-26T15:03:26.828574+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Like You'll Never See Me Again (Live)",
