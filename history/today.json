@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:15:51.679339+00:00",
+  "updated_at_utc": "2026-10-26T17:18:54.515705+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joss Stone",
+        "title": "Don't Cha Wanna Ride",
+        "detected_at_utc": "2026-10-26T17:18:54.334810+00:00"
+      },
       {
         "artist": "Ello, Barry, Ipank & Lala Karmela",
         "title": "Buka Semangat Baru",
