@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:42:34.407920+00:00",
+  "updated_at_utc": "2026-10-26T08:45:41.605555+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Foggieraw",
+        "title": "Prolly",
+        "detected_at_utc": "2026-10-26T08:45:41.516740+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "Bad Liar",
