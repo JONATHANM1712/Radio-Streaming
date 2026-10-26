@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:29:54.065228+00:00",
+  "updated_at_utc": "2026-10-26T06:30:57.082660+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-26T06:29:54.905732+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "You Da One",
@@ -332,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Cyndi Lauper",
+        "title": "Girls Just Want to Have Fun",
+        "detected_at_utc": "2026-10-26T06:30:52.816929+00:00"
+      },
       {
         "artist": "Boston",
         "title": "More Than a Feeling",
