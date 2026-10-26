@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:42:58.540385+00:00",
+  "updated_at_utc": "2026-10-26T16:44:01.178820+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "EXTREME",
+        "title": "More Than Words",
+        "detected_at_utc": "2026-10-26T16:43:00.334496+00:00"
+      },
       {
         "artist": "Mandy Moore & Jonathan Foreman",
         "title": "Someday We'll Know",
@@ -670,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Tak Pernah Setengah Hati",
+        "detected_at_utc": "2026-10-26T16:43:02.008041+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
