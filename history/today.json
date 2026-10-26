@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:47:26.533878+00:00",
+  "updated_at_utc": "2026-10-26T06:48:28.945042+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "detected_at_utc": "2026-10-26T06:48:26.908983+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "Swear It Again (Radio Edit)",
@@ -196,6 +201,11 @@
     ],
     "jak": [
       {
+        "artist": "Katy Perry",
+        "title": "California Gurls (feat. Snoop Dogg)",
+        "detected_at_utc": "2026-10-26T06:48:27.885542+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "Risk It All",
         "detected_at_utc": "2026-10-26T06:47:26.450976+00:00"
@@ -377,6 +387,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stryper",
+        "title": "I Believe In You",
+        "detected_at_utc": "2026-10-26T06:48:27.025686+00:00"
+      },
       {
         "artist": "Martika",
         "title": "Toy Soldiers",
