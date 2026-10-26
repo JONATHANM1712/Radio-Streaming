@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:09:43.710662+00:00",
+  "updated_at_utc": "2026-10-26T14:11:49.334247+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Temper Trap",
+        "title": "Sweet Disposition",
+        "detected_at_utc": "2026-10-26T14:11:49.186230+00:00"
+      },
       {
         "artist": "U2",
         "title": "Sweetest Thing (The Single Mix)",
@@ -972,6 +977,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lisa Stansfield",
+        "title": "Never, Never Gonna Give You Up",
+        "detected_at_utc": "2026-10-26T14:11:49.218359+00:00"
+      },
       {
         "artist": "Santana",
         "title": "Maria Maria (Radio Mix) [feat. The Product G&B]",
