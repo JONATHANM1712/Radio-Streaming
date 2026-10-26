@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:41:36.228683+00:00",
+  "updated_at_utc": "2026-10-26T11:42:39.671563+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Major Lazer, MØ & DJ Snake",
+        "title": "Lean On",
+        "detected_at_utc": "2026-10-26T11:42:39.074116+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
