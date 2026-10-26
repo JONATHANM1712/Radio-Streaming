@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:35:27.821533+00:00",
+  "updated_at_utc": "2026-10-26T13:36:30.324931+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "How Do You Sleep?",
+        "detected_at_utc": "2026-10-26T13:36:24.652529+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Bubbly",
