@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:09:43.552577+00:00",
+  "updated_at_utc": "2026-10-26T15:10:47.471833+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All-4-One",
+        "title": "Smile Like Mona Lisa",
+        "detected_at_utc": "2026-10-26T15:10:39.691132+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "No Such Thing",
@@ -565,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rema & Selena Gomez",
+        "title": "Calm Down",
+        "detected_at_utc": "2026-10-26T15:10:44.760626+00:00"
+      },
       {
         "artist": "Rema",
         "title": "Calm Down",
