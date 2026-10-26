@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:52:13.762023+00:00",
+  "updated_at_utc": "2026-10-26T14:54:11.688332+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "LFO",
+        "title": "Girl On TV",
+        "detected_at_utc": "2026-10-26T14:54:11.559365+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Shake It Off",
