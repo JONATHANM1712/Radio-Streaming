@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:36:04.786954+00:00",
+  "updated_at_utc": "2026-10-26T06:37:07.523636+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Kau Dan Aku",
+        "detected_at_utc": "2026-10-26T06:36:05.363863+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
