@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:10:46.455255+00:00",
+  "updated_at_utc": "2026-10-26T11:11:49.819581+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Won't Go Home Without You",
+        "detected_at_utc": "2026-10-26T11:10:50.368506+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "The Fate of Ophelia",
