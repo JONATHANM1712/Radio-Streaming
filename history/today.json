@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:06:58.011471+00:00",
+  "updated_at_utc": "2026-10-26T05:09:00.752476+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Hung Up",
+        "detected_at_utc": "2026-10-26T05:09:00.564586+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Just Give Me a Reason (feat. Nate Ruess)",
