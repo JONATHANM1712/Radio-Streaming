@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:29:20.218786+00:00",
+  "updated_at_utc": "2026-10-26T11:33:24.406506+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-10-26T11:33:24.234404+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Clocks",
