@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:28:02.589654+00:00",
+  "updated_at_utc": "2026-10-26T12:29:05.840710+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Spice Girls",
+        "title": "Let Love Lead the Way",
+        "detected_at_utc": "2026-10-26T12:29:05.291251+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Blank Space",
@@ -386,6 +391,11 @@
     ],
     "jak": [
       {
+        "artist": "Dee Lestari",
+        "title": "Malaikat Juga Tahu",
+        "detected_at_utc": "2026-10-26T12:29:03.852958+00:00"
+      },
+      {
         "artist": "Dominic Fike",
         "title": "Babydoll",
         "detected_at_utc": "2026-10-26T12:28:02.353076+00:00"
@@ -742,6 +752,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Technotronic",
+        "title": "Get Up (Before the Night Is Over)",
+        "detected_at_utc": "2026-10-26T12:29:01.898630+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "What Have I Done to Deserve This? (feat. Dusty Springfield)",
