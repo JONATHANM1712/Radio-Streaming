@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:16:03.041002+00:00",
+  "updated_at_utc": "2026-10-26T16:17:08.210744+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila Majid",
+        "title": "Cinta Jangan Kau Pergi",
+        "detected_at_utc": "2026-10-26T16:17:08.064209+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
