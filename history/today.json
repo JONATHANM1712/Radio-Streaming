@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:08:38.032374+00:00",
+  "updated_at_utc": "2026-10-26T08:10:38.885311+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Yang Terlewatkan",
+        "detected_at_utc": "2026-10-26T08:10:38.788356+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
