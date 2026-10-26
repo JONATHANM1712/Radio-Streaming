@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:53:25.111355+00:00",
+  "updated_at_utc": "2026-10-26T15:54:28.485505+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Break Your Heart (feat. Ludacris)",
+        "detected_at_utc": "2026-10-26T15:53:25.688110+00:00"
+      },
       {
         "artist": "Savage Garden",
         "title": "Truly Madly Deeply",
