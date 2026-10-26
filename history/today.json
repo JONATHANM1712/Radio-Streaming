@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:39:03.623633+00:00",
+  "updated_at_utc": "2026-10-26T05:41:04.621873+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vanessa Carlton",
+        "title": "A Thousand Miles",
+        "detected_at_utc": "2026-10-26T05:41:04.447726+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Seperti Kisah",
