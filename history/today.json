@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:14:33.084847+00:00",
+  "updated_at_utc": "2026-10-26T12:15:36.265105+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario",
+        "title": "Let Me Love You",
+        "detected_at_utc": "2026-10-26T12:14:36.548363+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
