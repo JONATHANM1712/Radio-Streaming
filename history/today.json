@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:49:49.496708+00:00",
+  "updated_at_utc": "2026-10-26T12:50:52.594954+00:00",
   "stations": {
     "kis": [
       {
@@ -406,6 +406,11 @@
     ],
     "jak": [
       {
+        "artist": "Sean Kingston & Justin Bieber",
+        "title": "Eenie Meenie",
+        "detected_at_utc": "2026-10-26T12:50:47.436576+00:00"
+      },
+      {
         "artist": "Lizzo",
         "title": "About Damn Time",
         "detected_at_utc": "2026-10-26T12:47:42.045940+00:00"
@@ -787,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Java Jive",
+        "title": "Permataku",
+        "detected_at_utc": "2026-10-26T12:49:50.695937+00:00"
+      },
       {
         "artist": "Jacob Agendia",
         "title": "He Fights for Me",
