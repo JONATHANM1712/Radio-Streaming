@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:23:04.134430+00:00",
+  "updated_at_utc": "2026-10-26T11:24:10.298498+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yura Yunita",
+        "title": "Dunia Tipu-Tipu",
+        "detected_at_utc": "2026-10-26T11:24:10.203135+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "PILLOWTALK",
