@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:11:49.819581+00:00",
+  "updated_at_utc": "2026-10-26T11:12:54.238208+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ravyn Lenae",
+        "title": "Love Me Not",
+        "detected_at_utc": "2026-10-26T11:12:54.149598+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Won't Go Home Without You",
