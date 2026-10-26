@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:59:07.628971+00:00",
+  "updated_at_utc": "2026-10-26T12:00:11.319987+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-10-26T12:00:11.229833+00:00"
+      },
       {
         "artist": "M2M",
         "title": "The Day You Went Away",
