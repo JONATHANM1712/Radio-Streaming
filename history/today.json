@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T10:49:02.677244+00:00",
+  "updated_at_utc": "2026-10-26T10:51:04.225781+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-10-26T10:51:04.100709+00:00"
+      },
       {
         "artist": "Amy Winehouse & Mark Ronson",
         "title": "Valerie (Version Revisited)",
