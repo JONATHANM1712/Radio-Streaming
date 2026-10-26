@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T07:03:57.504668+00:00",
+  "updated_at_utc": "2026-10-26T08:01:25.125722+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "detected_at_utc": "2026-10-26T08:01:24.889861+00:00"
+      },
       {
         "artist": "Owl City & Carly Rae Jepsen",
         "title": "Good Time",
@@ -417,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Man Parrish",
+        "title": "Boogie Down (Bronx)",
+        "detected_at_utc": "2026-10-26T08:01:24.771426+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Monkey",
