@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:22:11.442780+00:00",
+  "updated_at_utc": "2026-10-26T15:23:15.308572+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-26T15:23:13.074347+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teman Hidup",
