@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:27:25.463749+00:00",
+  "updated_at_utc": "2026-10-26T16:30:31.330590+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Special Kind Of Something",
+        "detected_at_utc": "2026-10-26T16:30:31.315582+00:00"
+      },
       {
         "artist": "Rihanna & Kanye West",
         "title": "FourFiveSeconds",
@@ -660,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-26T16:30:31.204691+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Breakeven",
