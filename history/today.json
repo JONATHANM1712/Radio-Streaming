@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:10:14.687627+00:00",
+  "updated_at_utc": "2026-10-26T04:12:05.185610+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-10-26T04:12:04.945018+00:00"
+      },
       {
         "artist": "Lisa Stansfield",
         "title": "The Real Thing",
