@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:15:30.674813+00:00",
+  "updated_at_utc": "2026-10-26T06:16:33.593334+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Billie Eilish",
+        "title": "BIRDS OF A FEATHER",
+        "detected_at_utc": "2026-10-26T06:16:30.012158+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "No Air",
