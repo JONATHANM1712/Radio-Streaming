@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:38:47.767047+00:00",
+  "updated_at_utc": "2026-10-26T14:41:54.919043+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-10-26T14:41:54.786179+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Sedih Tak Berujung",
