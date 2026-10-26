@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:27:04.758488+00:00",
+  "updated_at_utc": "2026-10-26T04:29:10.612715+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Sundays",
+        "title": "When I'm Thinking About You",
+        "detected_at_utc": "2026-10-26T04:29:10.406134+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "be my forever (feat. Ed Sheeran)",
