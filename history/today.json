@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:11:51.349616+00:00",
+  "updated_at_utc": "2026-10-26T15:13:50.730326+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "detected_at_utc": "2026-10-26T15:13:50.599912+00:00"
+      },
       {
         "artist": "Rema & Selena Gomez",
         "title": "Calm Down",
