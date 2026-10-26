@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:28:24.770763+00:00",
+  "updated_at_utc": "2026-10-26T15:30:28.048082+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I'm with You",
+        "detected_at_utc": "2026-10-26T15:30:27.920903+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "It Girl",
