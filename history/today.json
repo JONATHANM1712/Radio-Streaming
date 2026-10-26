@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:08:14.884297+00:00",
+  "updated_at_utc": "2026-10-26T06:09:17.631805+00:00",
   "stations": {
     "kis": [
       {
@@ -151,6 +151,11 @@
     ],
     "jak": [
       {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-26T06:08:16.827127+00:00"
+      },
+      {
         "artist": "Echosmith",
         "title": "Cool Kids",
         "detected_at_utc": "2026-10-26T06:04:09.549680+00:00"
@@ -282,6 +287,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lisa Stansfield",
+        "title": "Affection",
+        "detected_at_utc": "2026-10-26T06:08:16.308326+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Girls On Film",
