@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T10:57:14.739052+00:00",
+  "updated_at_utc": "2026-10-26T10:58:17.663819+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "detected_at_utc": "2026-10-26T10:58:15.901066+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
@@ -587,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fariz RM",
+        "title": "Selangkah Ke Seberang",
+        "detected_at_utc": "2026-10-26T10:58:14.720752+00:00"
+      },
       {
         "artist": "Fourplay",
         "title": "The Closer I Get to You",
