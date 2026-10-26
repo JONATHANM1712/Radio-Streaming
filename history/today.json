@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:24:00.800825+00:00",
+  "updated_at_utc": "2026-10-26T08:25:04.405554+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jeremy Zucker",
+        "title": "comethru",
+        "detected_at_utc": "2026-10-26T08:24:01.204189+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Señorita",
