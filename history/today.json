@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:24:21.322271+00:00",
+  "updated_at_utc": "2026-10-26T14:27:24.643350+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-10-26T14:27:24.497911+00:00"
+      },
       {
         "artist": "Zara Larsson",
         "title": "Lush Life",
