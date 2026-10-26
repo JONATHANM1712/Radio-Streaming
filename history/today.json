@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:33:02.793386+00:00",
+  "updated_at_utc": "2026-10-26T06:35:01.052055+00:00",
   "stations": {
     "kis": [
       {
@@ -347,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Poison",
+        "title": "Nothin' But a Good Time",
+        "detected_at_utc": "2026-10-26T06:35:00.947089+00:00"
+      },
       {
         "artist": "Cyndi Lauper",
         "title": "Girls Just Want to Have Fun",
