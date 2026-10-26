@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:07:38.861830+00:00",
+  "updated_at_utc": "2026-10-26T15:09:43.552577+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rema",
+        "title": "Calm Down",
+        "detected_at_utc": "2026-10-26T15:09:43.126406+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Gimme More",
