@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:14:26.939711+00:00",
+  "updated_at_utc": "2026-10-26T04:15:30.308109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy",
+        "title": "Janji Di Atas Ingkar (Mendua)",
+        "detected_at_utc": "2026-10-26T04:15:18.379513+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Treasure",
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Von Groove",
+        "title": "Once In A Lifetime",
+        "detected_at_utc": "2026-10-26T04:14:58.642436+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Mama",
