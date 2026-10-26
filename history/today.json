@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:14:35.330489+00:00",
+  "updated_at_utc": "2026-10-26T13:15:37.871007+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dee Lestari",
+        "title": "Malaikat Juga Tahu",
+        "detected_at_utc": "2026-10-26T13:14:40.825143+00:00"
+      },
       {
         "artist": "Blind Melon",
         "title": "No Rain",
