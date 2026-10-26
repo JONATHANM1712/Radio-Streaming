@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:57:30.502676+00:00",
+  "updated_at_utc": "2026-10-26T16:58:32.974968+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maria Montell",
+        "title": "And So the Story Goes (DiDaDi)",
+        "detected_at_utc": "2026-10-26T16:58:26.374904+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
