@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T15:36:38.366407+00:00",
+  "updated_at_utc": "2026-10-26T15:40:58.017128+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-26T15:40:57.891769+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "As It Was",
