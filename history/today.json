@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:29:26.293843+00:00",
+  "updated_at_utc": "2026-10-26T14:30:29.545535+00:00",
   "stations": {
     "kis": [
       {
@@ -527,6 +527,11 @@
     "jak": [
       {
         "artist": "OneRepublic",
+        "title": "Good Life (Remix) [feat. B.O.B.]",
+        "detected_at_utc": "2026-10-26T14:29:28.280409+00:00"
+      },
+      {
+        "artist": "OneRepublic",
         "title": "Good Life",
         "detected_at_utc": "2026-10-26T14:27:24.497911+00:00"
       },
@@ -1027,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "Saturday Night",
+        "detected_at_utc": "2026-10-26T14:29:29.110895+00:00"
+      },
       {
         "artist": "Gazebo",
         "title": "I Like Chopin",
