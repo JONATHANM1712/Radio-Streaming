@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:04:15.128342+00:00",
+  "updated_at_utc": "2026-10-26T05:05:18.640342+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Just Give Me a Reason (feat. Nate Ruess)",
+        "detected_at_utc": "2026-10-26T05:04:52.466538+00:00"
+      },
       {
         "artist": "Tata Young",
         "title": "Sexy Naughty Bitchy",
