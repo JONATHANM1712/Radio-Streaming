@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:40:12.825672+00:00",
+  "updated_at_utc": "2026-10-26T06:41:15.318209+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "VIDI",
+        "title": "Datang Dan Kembali",
+        "detected_at_utc": "2026-10-26T06:40:12.829820+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "Shape of My Heart",
@@ -185,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Larissa Lambert",
+        "title": "Weak",
+        "detected_at_utc": "2026-10-26T06:40:13.375939+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Kau Dan Aku",
