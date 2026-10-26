@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:47:47.858440+00:00",
+  "updated_at_utc": "2026-10-26T10:34:22.328154+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dr.Trap",
+        "title": "Velvet Dusk",
+        "detected_at_utc": "2026-10-26T10:33:28.151872+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Break Your Heart (feat. Ludacris)",
