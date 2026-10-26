@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:17:51.363885+00:00",
+  "updated_at_utc": "2026-10-26T08:18:54.145244+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Satu",
+        "detected_at_utc": "2026-10-26T08:18:52.177068+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "The Sweet Escape (feat. Akon)",
