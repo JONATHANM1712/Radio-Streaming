@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T08:01:25.125722+00:00",
+  "updated_at_utc": "2026-10-26T08:03:28.886353+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Gone, Gone, Gone",
+        "detected_at_utc": "2026-10-26T08:03:27.715260+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
