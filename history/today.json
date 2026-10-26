@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T18:00:01.314554+00:00",
+  "updated_at_utc": "2026-10-26T18:03:03.808298+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-10-26T18:03:03.717739+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Don't Let Me Get Me (Radio Edit)",
