@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:14:15.395784+00:00",
+  "updated_at_utc": "2026-10-26T05:16:18.139077+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-26T05:16:17.965063+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Location Unknown ◐ (feat. Georgia)",
