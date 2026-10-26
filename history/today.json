@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:16:18.139077+00:00",
+  "updated_at_utc": "2026-10-26T05:18:24.601221+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rossa",
+        "title": "Atas Nama Cinta",
+        "detected_at_utc": "2026-10-26T05:18:24.398063+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "Every Morning",
