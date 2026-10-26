@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:24:47.276807+00:00",
+  "updated_at_utc": "2026-10-26T06:25:49.958627+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-10-26T06:25:45.968851+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Your Body Is a Wonderland",
