@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:54:11.688332+00:00",
+  "updated_at_utc": "2026-10-26T14:55:15.114293+00:00",
   "stations": {
     "kis": [
       {
@@ -1092,6 +1092,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alphaville",
+        "title": "Big In Japan",
+        "detected_at_utc": "2026-10-26T14:54:14.811540+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Lady Jane",
