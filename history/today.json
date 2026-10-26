@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:23:46.133012+00:00",
+  "updated_at_utc": "2026-10-26T04:24:50.098504+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daya",
+        "title": "Sit Still, Look Pretty",
+        "detected_at_utc": "2026-10-26T04:23:56.729725+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Berlayar",
