@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:31:34.518055+00:00",
+  "updated_at_utc": "2026-10-26T16:33:39.261268+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore & Jonathan Foreman",
+        "title": "Someday We'll Know",
+        "detected_at_utc": "2026-10-26T16:33:39.132769+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Special Kind Of Something",
