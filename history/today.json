@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:07:36.723030+00:00",
+  "updated_at_utc": "2026-10-26T14:08:40.281930+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "U2",
+        "title": "Sweetest Thing (The Single Mix)",
+        "detected_at_utc": "2026-10-26T14:08:38.731599+00:00"
+      },
       {
         "artist": "Duncan James & Keedie",
         "title": "I Believe My Heart",
