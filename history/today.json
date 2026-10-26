@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T12:24:55.756541+00:00",
+  "updated_at_utc": "2026-10-26T12:28:02.589654+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-10-26T12:28:02.353076+00:00"
+      },
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "I Know What You Did Last Summer",
