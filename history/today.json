@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:40:38.429761+00:00",
+  "updated_at_utc": "2026-10-26T13:42:37.481118+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-26T13:42:37.400239+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "How Do You Sleep?",
