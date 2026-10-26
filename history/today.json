@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:17:34.693587+00:00",
+  "updated_at_utc": "2026-10-26T04:19:31.262496+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "3 Doors Down",
+        "title": "Here Without You",
+        "detected_at_utc": "2026-10-26T04:19:31.131978+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Janji Di Atas Ingkar (Mendua)",
