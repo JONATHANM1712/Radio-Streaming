@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:03:43.899576+00:00",
+  "updated_at_utc": "2026-10-26T16:05:49.259205+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "Amnesia",
+        "detected_at_utc": "2026-10-26T16:05:49.172817+00:00"
+      },
       {
         "artist": "Damien Rice",
         "title": "The Blower's Daughter",
