@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T05:38:00.273218+00:00",
+  "updated_at_utc": "2026-10-26T05:39:03.623633+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "Dalam Hati Saja",
+        "detected_at_utc": "2026-10-26T05:38:01.265683+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Desert Rose (feat. Cheb Mami)",
