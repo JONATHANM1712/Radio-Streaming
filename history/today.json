@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T16:17:08.210744+00:00",
+  "updated_at_utc": "2026-10-26T16:18:11.551484+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Cinta Mati (feat. Ahmad Dhani)",
+        "detected_at_utc": "2026-10-26T16:17:08.819270+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Meet Me Halfway",
