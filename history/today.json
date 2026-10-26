@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:12:05.185610+00:00",
+  "updated_at_utc": "2026-10-26T04:14:26.939711+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "detected_at_utc": "2026-10-26T04:14:26.786776+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Scream",
