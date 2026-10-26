@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:36:06.404931+00:00",
+  "updated_at_utc": "2026-10-26T04:37:09.519240+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Setengah Hati",
+        "detected_at_utc": "2026-10-26T04:36:41.914842+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "It's Like That",
