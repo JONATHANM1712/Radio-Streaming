@@ -1,9 +1,27 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T04:07:57.868835+00:00",
+  "updated_at_utc": "2026-10-26T04:09:01.360517+00:00",
   "stations": {
-    "kis": [],
-    "jak": [],
-    "most": []
+    "kis": [
+      {
+        "artist": "Lisa Stansfield",
+        "title": "The Real Thing",
+        "detected_at_utc": "2026-10-26T04:08:07.705243+00:00"
+      }
+    ],
+    "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-10-26T04:08:38.371243+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Genesis",
+        "title": "Mama",
+        "detected_at_utc": "2026-10-26T04:07:59.530546+00:00"
+      }
+    ]
   }
 }
