@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:17:56.176301+00:00",
+  "updated_at_utc": "2026-10-26T11:18:59.341813+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joeniar Arief",
+        "title": "Rapuh",
+        "detected_at_utc": "2026-10-26T11:18:58.507292+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "We Don't Talk Anymore (feat. Selena Gomez)",
