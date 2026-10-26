@@ -1,8 +1,13 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T13:17:43.248495+00:00",
+  "updated_at_utc": "2026-10-26T13:18:48.238993+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-10-26T13:18:48.143655+00:00"
+      },
       {
         "artist": "Dee Lestari",
         "title": "Malaikat Juga Tahu",
