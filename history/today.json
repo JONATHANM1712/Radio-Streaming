@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:58:58.623742+00:00",
+  "updated_at_utc": "2026-10-26T18:00:01.314554+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Stacie Orrico",
+        "title": "Stuck",
+        "detected_at_utc": "2026-10-26T17:59:48.042098+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "It Ain't Over 'Til It's Over",
@@ -80,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Don't Let Me Get Me (Radio Edit)",
+        "detected_at_utc": "2026-10-26T17:59:59.816112+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -162,6 +172,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Gary Barlow",
+        "title": "Hang On In There Baby",
+        "detected_at_utc": "2026-10-26T17:59:50.568158+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "This One's for the Children",
