@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T11:54:00.503982+00:00",
+  "updated_at_utc": "2026-10-26T11:55:05.240403+00:00",
   "stations": {
     "kis": [
       {
@@ -351,6 +351,11 @@
     ],
     "jak": [
       {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-26T11:54:59.831349+00:00"
+      },
+      {
         "artist": "Major Lazer, MØ & DJ Snake",
         "title": "Lean On",
         "detected_at_utc": "2026-10-26T11:42:39.074116+00:00"
@@ -687,6 +692,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "A Kind Of Magic",
+        "detected_at_utc": "2026-10-26T11:55:01.665615+00:00"
+      },
       {
         "artist": "MC Hammer",
         "title": "U Can't Touch This",
