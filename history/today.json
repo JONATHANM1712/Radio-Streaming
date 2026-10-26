@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:41:35.032219+00:00",
+  "updated_at_utc": "2026-10-26T17:42:37.819249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "It's All Coming Back to Me Now",
+        "detected_at_utc": "2026-10-26T17:42:24.848774+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "I Lay My Love On You (Remix)",
@@ -60,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Paul",
+        "title": "No Lie (feat. Dua Lipa)",
+        "detected_at_utc": "2026-10-26T17:42:35.268143+00:00"
+      },
       {
         "artist": "benny blanco, BTS & Snoop Dogg",
         "title": "Bad Decisions",
