@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T14:33:38.388896+00:00",
+  "updated_at_utc": "2026-10-26T14:34:41.402017+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Sedih Tak Berujung",
+        "detected_at_utc": "2026-10-26T14:34:38.682329+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
