@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at_utc": "2026-10-26T06:19:34.903807+00:00",
+  "updated_at_utc": "2026-10-26T06:20:37.850701+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Your Body Is a Wonderland",
+        "detected_at_utc": "2026-10-26T06:19:35.719998+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "BIRDS OF A FEATHER",
