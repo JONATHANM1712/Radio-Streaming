@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T17:55:42.898236+00:00",
+  "updated_at_utc": "2026-10-26T17:56:45.810735+00:00",
   "stations": {
     "kis": [
       {
@@ -81,6 +81,11 @@
     ],
     "jak": [
       {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-10-26T17:55:54.725453+00:00"
+      },
+      {
         "artist": "Nicole Scherzinger",
         "title": "Baby Love (feat. will.i.am)",
         "detected_at_utc": "2026-10-26T17:51:48.653487+00:00"
@@ -152,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Kids On the Block",
+        "title": "This One's for the Children",
+        "detected_at_utc": "2026-10-26T17:55:45.171490+00:00"
+      },
       {
         "artist": "Jack Wagner",
         "title": "All I Need",
