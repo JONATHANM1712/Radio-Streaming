@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:48:03.061852+00:00",
+  "updated_at_utc": "2026-10-27T12:51:12.706040+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rudimental",
+        "title": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "detected_at_utc": "2026-10-27T12:51:12.589202+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
