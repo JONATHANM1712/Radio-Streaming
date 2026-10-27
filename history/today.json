@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:13:05.343878+00:00",
+  "updated_at_utc": "2026-10-27T07:14:17.886491+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bakar",
+        "title": "Hell N Back",
+        "detected_at_utc": "2026-10-27T07:14:17.802207+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Dengarkan Curhatku",
