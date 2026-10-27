@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:52:07.110112+00:00",
+  "updated_at_utc": "2026-10-27T16:53:25.805191+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Just a Feeling",
+        "detected_at_utc": "2026-10-27T16:53:25.702268+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Wrecking Ball",
