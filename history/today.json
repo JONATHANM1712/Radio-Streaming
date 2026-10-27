@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:41:27.868770+00:00",
+  "updated_at_utc": "2026-10-27T08:42:30.689315+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Demons",
+        "detected_at_utc": "2026-10-27T08:41:50.848286+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
