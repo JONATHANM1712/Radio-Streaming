@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T03:22:14.970211+00:00",
+  "updated_at_utc": "2026-10-27T03:23:19.385355+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jikustik",
+        "title": "Untuk Dikenang",
+        "detected_at_utc": "2026-10-27T03:23:16.444313+00:00"
+      },
       {
         "artist": "Madison Beer",
         "title": "bittersweet",
