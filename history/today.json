@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T04:24:00.978138+00:00",
+  "updated_at_utc": "2026-10-27T04:25:18.347945+00:00",
   "stations": {
     "kis": [
       {
@@ -352,6 +352,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sophie B. Hawkins",
+        "title": "Damn I Wish I Was Your Lover",
+        "detected_at_utc": "2026-10-27T04:25:18.192449+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "Against All Odds (Take a Look at Me Now)",
