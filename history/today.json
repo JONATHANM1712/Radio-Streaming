@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:11:42.205051+00:00",
+  "updated_at_utc": "2026-10-27T12:12:46.200941+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Tears",
+        "detected_at_utc": "2026-10-27T12:11:48.208961+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Yeah 3X",
@@ -927,6 +932,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madness Ba",
+        "title": "Anywhere",
+        "detected_at_utc": "2026-10-27T12:12:02.841793+00:00"
+      },
       {
         "artist": "Felsmann + Tiley",
         "title": "Gabriel (Can You See Everything?)",
