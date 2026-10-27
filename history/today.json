@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:17:06.182564+00:00",
+  "updated_at_utc": "2026-10-27T09:18:09.676746+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-10-27T09:18:07.363577+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Sugar",
