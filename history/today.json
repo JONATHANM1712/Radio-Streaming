@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:01:39.609413+00:00",
+  "updated_at_utc": "2026-10-27T16:05:07.416615+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "detected_at_utc": "2026-10-27T16:05:07.323506+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Stressed Out",
