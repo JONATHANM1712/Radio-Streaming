@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:21:22.611169+00:00",
+  "updated_at_utc": "2026-10-27T14:23:08.190118+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jon B.",
+        "title": "Someone to Love",
+        "detected_at_utc": "2026-10-27T14:23:07.859451+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "My Life Would Suck Without You",
