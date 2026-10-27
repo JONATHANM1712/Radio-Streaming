@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T10:18:16.972770+00:00",
+  "updated_at_utc": "2026-10-27T10:20:32.791572+00:00",
   "stations": {
     "kis": [
       {
@@ -847,6 +847,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Dr. Feelgood",
+        "detected_at_utc": "2026-10-27T10:20:32.620555+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "Rock You Like a Hurricane (Re-Recorded)",
