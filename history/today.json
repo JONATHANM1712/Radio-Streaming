@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:03:48.275098+00:00",
+  "updated_at_utc": "2026-10-27T07:04:50.858575+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "detected_at_utc": "2026-10-27T07:03:58.903304+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
