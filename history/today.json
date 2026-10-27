@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:31:19.178802+00:00",
+  "updated_at_utc": "2026-10-27T14:32:22.577196+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "detected_at_utc": "2026-10-27T14:31:42.747713+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Shut Up and Drive",
