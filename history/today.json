@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T04:16:38.829434+00:00",
+  "updated_at_utc": "2026-10-27T04:18:45.314400+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Don't Matter",
+        "detected_at_utc": "2026-10-27T04:18:45.145556+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
