@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:55:12.162380+00:00",
+  "updated_at_utc": "2026-10-27T08:56:15.234109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Girlfriend",
+        "detected_at_utc": "2026-10-27T08:55:48.236802+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "I Want It That Way",
@@ -325,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Creed",
+        "title": "One Last Breath",
+        "detected_at_utc": "2026-10-27T08:56:12.395091+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
