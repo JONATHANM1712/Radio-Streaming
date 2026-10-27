@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:59:37.255742+00:00",
+  "updated_at_utc": "2026-10-27T18:00:40.692081+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-10-27T18:00:22.965685+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Talking to the Moon",
