@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:09:06.191712+00:00",
+  "updated_at_utc": "2026-10-27T07:10:59.761029+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Keep Holding On",
+        "detected_at_utc": "2026-10-27T07:10:59.667180+00:00"
+      },
       {
         "artist": "Flabby",
         "title": "Wake Up",
