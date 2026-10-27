@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:15:14.018173+00:00",
+  "updated_at_utc": "2026-10-27T13:16:18.043935+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Manusia Bodoh",
+        "detected_at_utc": "2026-10-27T13:16:11.552278+00:00"
+      },
       {
         "artist": "Tame Impala",
         "title": "Dracula (with JENNIE)",
