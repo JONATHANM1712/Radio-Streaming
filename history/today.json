@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:58:15.117110+00:00",
+  "updated_at_utc": "2026-10-27T13:59:40.624970+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "detected_at_utc": "2026-10-27T13:59:40.455199+00:00"
+      },
       {
         "artist": "Far East Movement, The Cataracs & DEV",
         "title": "Like a G6",
