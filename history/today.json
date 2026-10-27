@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:31:31.811483+00:00",
+  "updated_at_utc": "2026-10-27T16:32:34.670004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande",
+        "title": "The Way (feat. Mac Miller)",
+        "detected_at_utc": "2026-10-27T16:32:19.709609+00:00"
+      },
       {
         "artist": "DJ Juanito",
         "title": "Just Because",
