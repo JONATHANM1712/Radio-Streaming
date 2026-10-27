@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:41:00.148806+00:00",
+  "updated_at_utc": "2026-10-27T07:44:33.623562+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "detected_at_utc": "2026-10-27T07:44:33.488989+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "New Light",
