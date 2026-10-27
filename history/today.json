@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T11:46:08.029705+00:00",
+  "updated_at_utc": "2026-10-27T11:49:18.244231+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lizzo",
+        "title": "Good As Hell",
+        "detected_at_utc": "2026-10-27T11:49:18.092706+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
