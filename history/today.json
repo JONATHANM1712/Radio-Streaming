@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:38:43.128568+00:00",
+  "updated_at_utc": "2026-10-27T12:41:35.130645+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-10-27T12:41:35.039031+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"TROLLS\")",
