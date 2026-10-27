@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T04:36:28.335953+00:00",
+  "updated_at_utc": "2026-10-27T04:38:31.201114+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Cokelat",
+        "title": "Segitiga",
+        "detected_at_utc": "2026-10-27T04:38:31.007456+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Running",
