@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-26T18:09:04.074744+00:00",
+  "updated_at_utc": "2026-10-27T03:18:54.079260+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Andai Dia Tahu",
+        "detected_at_utc": "2026-10-27T03:18:53.906144+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Stop Crying Your Heart Out",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-10-27T03:18:53.906100+00:00"
+      },
       {
         "artist": "Stereophonics",
         "title": "Maybe Tomorrow",
@@ -197,6 +207,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Time For Change",
+        "detected_at_utc": "2026-10-27T03:18:54.014506+00:00"
+      },
       {
         "artist": "Kenny Loggins",
         "title": "This Is It",
