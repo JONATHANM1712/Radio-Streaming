@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:11:42.105594+00:00",
+  "updated_at_utc": "2026-10-27T14:12:45.694185+00:00",
   "stations": {
     "kis": [
       {
@@ -1182,6 +1182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Coolio & L.V.",
+        "title": "Gangsta's Paradise",
+        "detected_at_utc": "2026-10-27T14:12:40.918868+00:00"
+      },
       {
         "artist": "Peter Allen",
         "title": "Not The Boy Next Door",
