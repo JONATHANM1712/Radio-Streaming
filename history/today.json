@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:00:59.896610+00:00",
+  "updated_at_utc": "2026-10-27T09:04:10.094264+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJDANNJ",
+        "title": "DJ DAN 2025 MIX",
+        "detected_at_utc": "2026-10-27T09:04:09.964309+00:00"
+      },
       {
         "artist": "Sheppard",
         "title": "Geronimo",
