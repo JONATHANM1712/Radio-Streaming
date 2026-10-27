@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:42:43.843194+00:00",
+  "updated_at_utc": "2026-10-27T13:43:47.108595+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Headhunterz",
+        "title": "Still Standin'",
+        "detected_at_utc": "2026-10-27T13:43:05.453104+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "imagine",
