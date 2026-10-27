@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:32:06.234167+00:00",
+  "updated_at_utc": "2026-10-27T12:34:13.300328+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"TROLLS\")",
+        "detected_at_utc": "2026-10-27T12:34:13.207044+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Location Unknown (feat. BEKA) [Brooklyn Session]",
