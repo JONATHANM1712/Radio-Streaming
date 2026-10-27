@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:32:22.577196+00:00",
+  "updated_at_utc": "2026-10-27T14:33:26.476403+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-10-27T14:32:25.885029+00:00"
+      },
       {
         "artist": "Train",
         "title": "Drive By",
