@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:33:26.476403+00:00",
+  "updated_at_utc": "2026-10-27T15:57:56.339767+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "twenty one pilots",
+        "title": "Stressed Out",
+        "detected_at_utc": "2026-10-27T15:57:56.194778+00:00"
+      },
       {
         "artist": "Sam Smith & Normani",
         "title": "Dancing With A Stranger",
