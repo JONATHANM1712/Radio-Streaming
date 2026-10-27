@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T10:02:58.221791+00:00",
+  "updated_at_utc": "2026-10-27T10:07:57.757734+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Saigon Kick",
+        "title": "I Love You",
+        "detected_at_utc": "2026-10-27T10:07:57.628587+00:00"
+      },
       {
         "artist": "Lisa \"Left Eye\" Lopes",
         "title": "The Block Party",
