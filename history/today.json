@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:06:32.625760+00:00",
+  "updated_at_utc": "2026-10-27T14:07:55.049822+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feel So Close (Radio Edit)",
+        "detected_at_utc": "2026-10-27T14:07:54.849835+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Roar",
