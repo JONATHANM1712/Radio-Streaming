@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:06:55.160597+00:00",
+  "updated_at_utc": "2026-10-27T16:09:17.323327+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Paint The Town Red",
+        "detected_at_utc": "2026-10-27T16:09:17.225696+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Count On Me",
