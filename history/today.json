@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:08:25.993636+00:00",
+  "updated_at_utc": "2026-10-27T13:09:30.313723+00:00",
   "stations": {
     "kis": [
       {
@@ -1017,6 +1017,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "Bang and Blame",
+        "detected_at_utc": "2026-10-27T13:09:29.609989+00:00"
+      },
       {
         "artist": "Holly Johnson",
         "title": "Americanos",
