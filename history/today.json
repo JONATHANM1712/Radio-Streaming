@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T11:34:17.918694+00:00",
+  "updated_at_utc": "2026-10-27T11:37:27.892197+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-27T11:37:27.765758+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Just Give Me a Reason (feat. Nate Ruess)",
