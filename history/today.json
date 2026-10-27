@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:31:34.883196+00:00",
+  "updated_at_utc": "2026-10-27T08:33:11.316624+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Someone Like You",
+        "detected_at_utc": "2026-10-27T08:33:11.225288+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "Jumper (1998 Edit Version)",
