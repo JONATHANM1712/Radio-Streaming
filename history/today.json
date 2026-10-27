@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:23:25.574357+00:00",
+  "updated_at_utc": "2026-10-27T07:24:28.461584+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "Jar of Hearts",
+        "detected_at_utc": "2026-10-27T07:23:46.625153+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
