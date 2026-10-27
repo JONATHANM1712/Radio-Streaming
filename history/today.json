@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:01:12.305678+00:00",
+  "updated_at_utc": "2026-10-27T13:03:45.605827+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Years & Years",
+        "title": "King",
+        "detected_at_utc": "2026-10-27T13:03:45.430684+00:00"
+      },
       {
         "artist": "Rudimental",
         "title": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
