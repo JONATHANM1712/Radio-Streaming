@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:06:43.798185+00:00",
+  "updated_at_utc": "2026-10-27T08:07:46.695885+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "BMF",
+        "detected_at_utc": "2026-10-27T08:07:45.553922+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "As Long As You Love Me (feat. Big Sean)",
