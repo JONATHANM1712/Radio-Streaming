@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:39:59.199269+00:00",
+  "updated_at_utc": "2026-10-27T09:41:52.760457+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dua",
+        "title": "Kau",
+        "detected_at_utc": "2026-10-27T09:41:52.629562+00:00"
+      },
       {
         "artist": "Jennifer Hudson",
         "title": "Spotlight",
