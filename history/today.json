@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:36:54.160889+00:00",
+  "updated_at_utc": "2026-10-27T17:39:28.872304+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Everything",
+        "detected_at_utc": "2026-10-27T17:39:28.781267+00:00"
+      },
       {
         "artist": "Niall Horan",
         "title": "This Town",
