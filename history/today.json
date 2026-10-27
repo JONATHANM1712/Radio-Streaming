@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:18:49.015579+00:00",
+  "updated_at_utc": "2026-10-27T13:21:20.904019+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Misery",
+        "detected_at_utc": "2026-10-27T13:21:20.732542+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Manusia Bodoh",
