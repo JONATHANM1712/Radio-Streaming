@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:18:58.602803+00:00",
+  "updated_at_utc": "2026-10-27T16:20:01.709438+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Jangan Lupakan",
+        "detected_at_utc": "2026-10-27T16:19:33.064352+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
