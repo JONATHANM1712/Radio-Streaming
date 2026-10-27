@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:56:12.145252+00:00",
+  "updated_at_utc": "2026-10-27T13:58:15.117110+00:00",
   "stations": {
     "kis": [
       {
@@ -1152,6 +1152,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Father Figure",
+        "detected_at_utc": "2026-10-27T13:58:14.953074+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Soul to Squeeze",
