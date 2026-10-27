@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:07:42.479947+00:00",
+  "updated_at_utc": "2026-10-27T09:08:48.226112+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-10-27T09:08:48.109199+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Di Balik Awan",
