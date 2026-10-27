@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T06:53:43.944159+00:00",
+  "updated_at_utc": "2026-10-27T06:55:44.377996+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-27T06:55:44.245598+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Ride",
