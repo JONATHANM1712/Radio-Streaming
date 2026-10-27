@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:30:42.834081+00:00",
+  "updated_at_utc": "2026-10-27T07:31:45.264112+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-27T07:30:57.301760+00:00"
+      },
       {
         "artist": "Avicii & Sandro Cavazza",
         "title": "Without You",
@@ -497,6 +502,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van Halen",
+        "title": "Can't Stop Lovin' You",
+        "detected_at_utc": "2026-10-27T07:30:59.363828+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Canary in a Coalmine",
