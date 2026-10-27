@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:56:30.116187+00:00",
+  "updated_at_utc": "2026-10-27T07:57:32.775405+00:00",
   "stations": {
     "kis": [
       {
@@ -552,6 +552,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith & Beavis and Butt-Head",
+        "title": "Deuces Are Wild",
+        "detected_at_utc": "2026-10-27T07:57:27.594101+00:00"
+      },
       {
         "artist": "Bananarama",
         "title": "Love In The First Degree (Live in London)",
