@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:47:59.863985+00:00",
+  "updated_at_utc": "2026-10-27T08:49:02.473124+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ja Rule",
+        "title": "I'm Real (feat. Jennifer Lopez) [Murder Remix]",
+        "detected_at_utc": "2026-10-27T08:48:36.864349+00:00"
+      },
       {
         "artist": "Sania",
         "title": "Santai",
@@ -677,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Sweetest Thing (The Single Mix)",
+        "detected_at_utc": "2026-10-27T08:49:01.276050+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Thank U",
