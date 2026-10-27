@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:17:27.237219+00:00",
+  "updated_at_utc": "2026-10-27T07:18:30.095131+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Corrs",
+        "title": "Summer Sunshine",
+        "detected_at_utc": "2026-10-27T07:18:12.033492+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Kasih Putih",
@@ -215,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "blink-182",
+        "title": "I Miss You",
+        "detected_at_utc": "2026-10-27T07:17:30.917807+00:00"
+      },
       {
         "artist": "Bakar",
         "title": "Hell N Back",
