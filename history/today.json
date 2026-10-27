@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:34:13.300328+00:00",
+  "updated_at_utc": "2026-10-27T12:35:16.188803+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Seperti Kekasihku",
+        "detected_at_utc": "2026-10-27T12:34:16.069876+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "I Never Loved You Anyway",
