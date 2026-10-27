@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:11:29.356536+00:00",
+  "updated_at_utc": "2026-10-27T17:13:30.875268+00:00",
   "stations": {
     "kis": [
       {
@@ -47,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Kissed You In The Rain",
+        "detected_at_utc": "2026-10-27T17:13:30.790168+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Bis wir uns wiederseh'n",
