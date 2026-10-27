@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:23:52.460698+00:00",
+  "updated_at_utc": "2026-10-27T12:25:40.511776+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Location Unknown (feat. BEKA) [Brooklyn Session]",
+        "detected_at_utc": "2026-10-27T12:25:40.421854+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Something I Need",
