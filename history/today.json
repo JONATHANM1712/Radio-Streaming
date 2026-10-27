@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:49:17.187297+00:00",
+  "updated_at_utc": "2026-10-27T13:52:02.834582+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-10-27T13:52:02.646151+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "Worth It (feat. Kid Ink)",
