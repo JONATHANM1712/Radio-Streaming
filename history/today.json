@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:08:03.292860+00:00",
+  "updated_at_utc": "2026-10-27T07:09:06.191712+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-27T07:08:05.965751+00:00"
+      },
       {
         "artist": "Ella Mai",
         "title": "Boo'd Up",
