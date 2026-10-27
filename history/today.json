@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:07:33.590267+00:00",
+  "updated_at_utc": "2026-10-27T12:08:36.398656+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Yeah 3X",
+        "detected_at_utc": "2026-10-27T12:07:35.957024+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "You Found Me",
