@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:48:50.739606+00:00",
+  "updated_at_utc": "2026-10-27T07:53:19.920307+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "F**kin' Perfect",
+        "detected_at_utc": "2026-10-27T07:49:38.847789+00:00"
+      },
       {
         "artist": "Texas",
         "title": "Say What You Want",
@@ -532,6 +537,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bananarama",
+        "title": "Love In The First Degree (Live in London)",
+        "detected_at_utc": "2026-10-27T07:53:19.444154+00:00"
+      },
       {
         "artist": "Player",
         "title": "Baby Come Back",
