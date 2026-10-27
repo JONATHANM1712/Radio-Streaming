@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:50:44.319073+00:00",
+  "updated_at_utc": "2026-10-27T17:51:47.445586+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Annie Lennox",
+        "title": "Waiting In Vain",
+        "detected_at_utc": "2026-10-27T17:51:10.603628+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "The Color of Love",
