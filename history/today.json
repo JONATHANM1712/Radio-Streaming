@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:35:50.636639+00:00",
+  "updated_at_utc": "2026-10-27T13:36:53.911312+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Weezer",
+        "title": "Island In the Sun",
+        "detected_at_utc": "2026-10-27T13:36:28.413814+00:00"
+      },
       {
         "artist": "Joy Enriquez & George Fenton",
         "title": "How Can I Not Love You",
