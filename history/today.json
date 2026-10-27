@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:33:25.940746+00:00",
+  "updated_at_utc": "2026-10-27T13:35:50.636639+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "imagine",
+        "detected_at_utc": "2026-10-27T13:35:50.425694+00:00"
+      },
       {
         "artist": "Gareth Gates",
         "title": "Anyone of Us (Stupid Mistake)",
