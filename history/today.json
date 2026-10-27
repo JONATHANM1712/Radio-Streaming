@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:51:47.445586+00:00",
+  "updated_at_utc": "2026-10-27T17:52:49.882588+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Beautiful (feat. Pharrell Williams & Uncle Charlie Wilson)",
+        "detected_at_utc": "2026-10-27T17:52:46.893652+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
