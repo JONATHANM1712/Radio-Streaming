@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:43:47.108595+00:00",
+  "updated_at_utc": "2026-10-27T13:44:50.629885+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Martina McBride",
+        "title": "I Love You",
+        "detected_at_utc": "2026-10-27T13:44:47.493487+00:00"
+      },
       {
         "artist": "Rossa",
         "title": "Kini",
