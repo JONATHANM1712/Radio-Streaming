@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:52:02.834582+00:00",
+  "updated_at_utc": "2026-10-27T13:53:06.792488+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "detected_at_utc": "2026-10-27T13:52:22.918131+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
@@ -1137,6 +1142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Soul to Squeeze",
+        "detected_at_utc": "2026-10-27T13:53:03.341579+00:00"
+      },
       {
         "artist": "Youssou N'Dour",
         "title": "7 Seconds (feat. Neneh Cherry)",
