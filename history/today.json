@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T10:26:36.645208+00:00",
+  "updated_at_utc": "2026-10-27T10:27:41.054797+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-10-27T10:26:46.431958+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Stronger",
