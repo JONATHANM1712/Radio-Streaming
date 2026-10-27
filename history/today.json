@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:36:10.034231+00:00",
+  "updated_at_utc": "2026-10-27T07:41:00.148806+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pitbull",
+        "title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+        "detected_at_utc": "2026-10-27T07:41:00.034042+00:00"
+      },
       {
         "artist": "Keyshia Cole",
         "title": "Love",
