@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:12:02.598136+00:00",
+  "updated_at_utc": "2026-10-27T16:13:05.242849+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "Want To Want Me",
+        "detected_at_utc": "2026-10-27T16:12:22.571715+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Paint The Town Red",
