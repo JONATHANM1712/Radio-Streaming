@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:03:39.869370+00:00",
+  "updated_at_utc": "2026-10-27T08:05:22.380283+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sia",
+        "title": "Cheap Thrills",
+        "detected_at_utc": "2026-10-27T08:05:22.293865+00:00"
+      },
       {
         "artist": "Marcell",
         "title": "Takkan Terganti",
