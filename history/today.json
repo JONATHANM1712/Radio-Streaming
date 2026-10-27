@@ -1,8 +1,14 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:00:36.371901+00:00",
+  "updated_at_utc": "2026-10-27T17:01:38.847559+00:00",
   "stations": {
-    "kis": [],
+    "kis": [
+      {
+        "artist": "One Direction",
+        "title": "Night Changes",
+        "detected_at_utc": "2026-10-27T17:01:01.181914+00:00"
+      }
+    ],
     "jak": [
       {
         "artist": "Rex Orange County",
@@ -10,6 +16,12 @@
         "detected_at_utc": "2026-10-27T17:00:35.047687+00:00"
       }
     ],
-    "most": []
+    "most": [
+      {
+        "artist": "The Police",
+        "title": "Tea In the Sahara",
+        "detected_at_utc": "2026-10-27T17:01:14.584850+00:00"
+      }
+    ]
   }
 }
