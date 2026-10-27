@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:21:22.483871+00:00",
+  "updated_at_utc": "2026-10-27T12:22:25.723650+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Something I Need",
+        "detected_at_utc": "2026-10-27T12:21:26.901132+00:00"
+      },
       {
         "artist": "Anthony Gonzalez & Ana Ofelia Murguía",
         "title": "Remember Me (Reunion)",
