@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T03:58:18.760439+00:00",
+  "updated_at_utc": "2026-10-27T03:59:22.137741+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Bleeding Love",
+        "detected_at_utc": "2026-10-27T03:58:19.626330+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
