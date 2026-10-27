@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:23:28.110552+00:00",
+  "updated_at_utc": "2026-10-27T13:25:29.918529+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Misery",
+        "detected_at_utc": "2026-10-27T13:25:29.747162+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Symphony (feat. Zara Larsson)",
