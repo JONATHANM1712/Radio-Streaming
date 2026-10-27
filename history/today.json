@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:48:04.049895+00:00",
+  "updated_at_utc": "2026-10-27T13:49:17.187297+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-27T13:49:17.041411+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Manusia Biasa (CLB)",
