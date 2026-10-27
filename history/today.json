@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T03:41:27.033024+00:00",
+  "updated_at_utc": "2026-10-27T03:45:43.693983+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Whitney Houston",
+        "title": "It's Not Right But It's Okay",
+        "detected_at_utc": "2026-10-27T03:45:43.458233+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Sepanjang Usia",
