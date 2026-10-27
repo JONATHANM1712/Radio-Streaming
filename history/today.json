@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:45:14.793850+00:00",
+  "updated_at_utc": "2026-10-27T17:46:17.470157+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Boyz II Men",
+        "title": "The Color of Love",
+        "detected_at_utc": "2026-10-27T17:46:04.243466+00:00"
+      },
       {
         "artist": "Secondhand Serenade",
         "title": "Fall For You",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-10-27T17:45:36.987672+00:00"
+      },
       {
         "artist": "Coldiac",
         "title": "Beautiful Day",
