@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:27:29.262057+00:00",
+  "updated_at_utc": "2026-10-27T16:28:48.097191+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-27T16:28:47.946341+00:00"
+      },
       {
         "artist": "Tyler, The Creator",
         "title": "See You Again (feat. Kali Uchis)",
