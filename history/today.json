@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:10:26.979429+00:00",
+  "updated_at_utc": "2026-10-27T17:11:29.356536+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gloria Estefan",
+        "title": "Reach (NBC Olympic Version)",
+        "detected_at_utc": "2026-10-27T17:11:14.222210+00:00"
+      },
       {
         "artist": "BBMAK",
         "title": "Back Here",
@@ -21,6 +26,11 @@
     ],
     "jak": [
       {
+        "artist": "Fifth Harmony",
+        "title": "Worth It (feat. Kid Ink)",
+        "detected_at_utc": "2026-10-27T17:10:49.030145+00:00"
+      },
+      {
         "artist": "Stereophonics",
         "title": "Have a Nice Day (Decade In The Sun Version)",
         "detected_at_utc": "2026-10-27T17:07:44.684812+00:00"
@@ -37,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Bis wir uns wiederseh'n",
+        "detected_at_utc": "2026-10-27T17:11:28.198033+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Kissed You In The Rain",
