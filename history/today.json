@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T11:53:41.566181+00:00",
+  "updated_at_utc": "2026-10-27T11:55:41.281514+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "Stars",
+        "detected_at_utc": "2026-10-27T11:55:41.179245+00:00"
+      },
       {
         "artist": "Paula Cole",
         "title": "I Don't Want To Wait (DEMO)",
