@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:39:30.255559+00:00",
+  "updated_at_utc": "2026-10-27T16:40:33.117508+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dewa 19",
+        "title": "Lagu Cinta",
+        "detected_at_utc": "2026-10-27T16:40:05.920088+00:00"
+      },
       {
         "artist": "Ellie Goulding, Diplo & Swae Lee",
         "title": "Close To Me",
