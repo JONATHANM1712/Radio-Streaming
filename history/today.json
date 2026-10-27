@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:14:33.850696+00:00",
+  "updated_at_utc": "2026-10-27T17:15:36.214484+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anang & Kris Dayanti",
+        "title": "Cinta",
+        "detected_at_utc": "2026-10-27T17:15:19.782341+00:00"
+      },
       {
         "artist": "Gloria Estefan",
         "title": "Reach (NBC Olympic Version)",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-10-27T17:14:54.611189+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "Worth It (feat. Kid Ink)",
