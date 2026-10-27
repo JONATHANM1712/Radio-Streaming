@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:47:00.348019+00:00",
+  "updated_at_utc": "2026-10-27T13:48:04.049895+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fifth Harmony",
+        "title": "Worth It (feat. Kid Ink)",
+        "detected_at_utc": "2026-10-27T13:47:54.917385+00:00"
+      },
       {
         "artist": "Martina McBride",
         "title": "I Love You",
@@ -1122,6 +1127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Youssou N'Dour",
+        "title": "7 Seconds (feat. Neneh Cherry)",
+        "detected_at_utc": "2026-10-27T13:47:52.352399+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Wrapped Around Your Finger",
