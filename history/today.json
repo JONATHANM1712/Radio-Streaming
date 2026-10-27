@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:37:43.019065+00:00",
+  "updated_at_utc": "2026-10-27T16:39:30.255559+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Raisa",
+        "title": "Kali Kedua",
+        "detected_at_utc": "2026-10-27T16:39:30.163085+00:00"
+      },
       {
         "artist": "James Blunt",
         "title": "You're Beautiful",
