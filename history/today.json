@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:30:32.227262+00:00",
+  "updated_at_utc": "2026-10-27T08:31:34.883196+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-10-27T08:31:34.766917+00:00"
+      },
       {
         "artist": "Stephen Sanchez & Em Beihold",
         "title": "Until I Found You (Em Beihold Version)",
