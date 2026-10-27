@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:40:25.105437+00:00",
+  "updated_at_utc": "2026-10-27T08:41:27.868770+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sania",
+        "title": "Santai",
+        "detected_at_utc": "2026-10-27T08:41:25.155423+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Don't Love You No More (I'm Sorry)",
@@ -310,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-27T08:40:49.370543+00:00"
+      },
       {
         "artist": "Headhunterz",
         "title": "Still Standin'",
