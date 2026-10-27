@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:13:49.419226+00:00",
+  "updated_at_utc": "2026-10-27T12:14:52.477754+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Anthony Gonzalez & Ana Ofelia Murguía",
+        "title": "Remember Me (Reunion)",
+        "detected_at_utc": "2026-10-27T12:13:57.854918+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Tears",
