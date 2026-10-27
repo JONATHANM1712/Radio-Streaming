@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:00:36.846340+00:00",
+  "updated_at_utc": "2026-10-27T16:01:39.609413+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ashlee Simpson",
+        "title": "Pieces Of Me",
+        "detected_at_utc": "2026-10-27T16:00:40.098634+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Kiss of Life",
