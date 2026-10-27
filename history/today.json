@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:23:08.190118+00:00",
+  "updated_at_utc": "2026-10-27T14:25:31.753048+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-10-27T14:25:31.425441+00:00"
+      },
       {
         "artist": "Ella Mai",
         "title": "Trip",
