@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:20:57.865903+00:00",
+  "updated_at_utc": "2026-10-27T09:22:01.966479+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "D’MASIV",
+        "title": "Natural",
+        "detected_at_utc": "2026-10-27T09:21:13.239545+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
