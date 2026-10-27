@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T12:03:37.816415+00:00",
+  "updated_at_utc": "2026-10-27T12:07:33.590267+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Newman",
+        "title": "Love Me Again",
+        "detected_at_utc": "2026-10-27T12:07:33.503588+00:00"
+      },
       {
         "artist": "Simply Red",
         "title": "Stars",
