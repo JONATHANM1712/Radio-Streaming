@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:25:22.652759+00:00",
+  "updated_at_utc": "2026-10-27T16:26:25.968417+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyler, The Creator",
+        "title": "See You Again (feat. Kali Uchis)",
+        "detected_at_utc": "2026-10-27T16:25:43.324415+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Jangan Lupakan",
