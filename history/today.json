@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:58:37.036654+00:00",
+  "updated_at_utc": "2026-10-27T08:00:11.911435+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Marcell",
+        "title": "Takkan Terganti",
+        "detected_at_utc": "2026-10-27T08:00:11.786037+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Fallin'",
