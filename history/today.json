@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T04:14:29.646240+00:00",
+  "updated_at_utc": "2026-10-27T04:15:33.666323+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rita Effendy",
+        "title": "Selamat Jalan Kekasih",
+        "detected_at_utc": "2026-10-27T04:15:19.958186+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Say You'll Be There",
@@ -332,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Spargo",
+        "title": "Just for You",
+        "detected_at_utc": "2026-10-27T04:14:29.744612+00:00"
+      },
       {
         "artist": "Bon Jovi",
         "title": "Blood On Blood",
