@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T09:33:48.837408+00:00",
+  "updated_at_utc": "2026-10-27T09:34:53.196294+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-10-27T09:34:48.910447+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Drive",
