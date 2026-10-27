@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T13:03:45.605827+00:00",
+  "updated_at_utc": "2026-10-27T13:06:15.855490+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "detected_at_utc": "2026-10-27T13:06:15.710109+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "Key To My Life (Radio Edit)",
