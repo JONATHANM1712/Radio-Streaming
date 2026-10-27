@@ -1,8 +1,13 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T07:04:50.858575+00:00",
+  "updated_at_utc": "2026-10-27T07:05:53.616454+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flabby",
+        "title": "Wake Up",
+        "detected_at_utc": "2026-10-27T07:05:51.264439+00:00"
+      },
       {
         "artist": "Shakira",
         "title": "Whenever, Wherever",
