@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T18:01:43.251561+00:00",
+  "updated_at_utc": "2026-10-27T18:03:00.194988+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "detected_at_utc": "2026-10-27T18:03:00.107892+00:00"
+      },
       {
         "artist": "The All-American Rejects",
         "title": "Gives You Hell",
