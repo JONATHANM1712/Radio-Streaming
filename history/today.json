@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T08:27:29.746138+00:00",
+  "updated_at_utc": "2026-10-27T08:28:32.561522+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stephen Sanchez & Em Beihold",
+        "title": "Until I Found You (Em Beihold Version)",
+        "detected_at_utc": "2026-10-27T08:28:30.100550+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
