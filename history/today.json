@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T03:33:56.358003+00:00",
+  "updated_at_utc": "2026-10-27T03:36:06.874385+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-27T03:36:06.750970+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Never Say Never (feat. Jaden)",
