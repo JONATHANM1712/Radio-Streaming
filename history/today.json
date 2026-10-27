@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:58:34.876072+00:00",
+  "updated_at_utc": "2026-10-27T17:59:37.255742+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The All-American Rejects",
+        "title": "Gives You Hell",
+        "detected_at_utc": "2026-10-27T17:58:54.976949+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
