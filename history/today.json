@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T16:47:56.045977+00:00",
+  "updated_at_utc": "2026-10-27T16:48:58.637895+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-27T16:48:17.951976+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Lagu Cinta",
