@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T17:07:08.904372+00:00",
+  "updated_at_utc": "2026-10-27T17:08:11.392886+00:00",
   "stations": {
     "kis": [
       {
@@ -21,6 +21,11 @@
     ],
     "jak": [
       {
+        "artist": "Stereophonics",
+        "title": "Have a Nice Day (Decade In The Sun Version)",
+        "detected_at_utc": "2026-10-27T17:07:44.684812+00:00"
+      },
+      {
         "artist": "Snow Patrol",
         "title": "Chasing Cars",
         "detected_at_utc": "2026-10-27T17:02:37.673141+00:00"
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Run-DMC",
+        "title": "It's Tricky",
+        "detected_at_utc": "2026-10-27T17:07:22.805832+00:00"
+      },
       {
         "artist": "Stevie Wonder",
         "title": "Signed, Sealed, Delivered (I'm Yours)",
