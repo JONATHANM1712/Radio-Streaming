@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at_utc": "2026-10-27T14:20:03.549059+00:00",
+  "updated_at_utc": "2026-10-27T14:21:22.611169+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Trip",
+        "detected_at_utc": "2026-10-27T14:21:22.280358+00:00"
+      },
       {
         "artist": "Secondhand Serenade",
         "title": "Fall For You",
