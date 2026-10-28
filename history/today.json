@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:03:20.327084+00:00",
+  "updated_at_utc": "2026-10-28T06:04:24.078744+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Louchie Lou & Michie One & Michie One",
+        "title": "10 Out Of 10",
+        "detected_at_utc": "2026-10-28T06:03:25.472363+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
@@ -195,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bastille",
+        "title": "Pompeii",
+        "detected_at_utc": "2026-10-28T06:04:22.813054+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
