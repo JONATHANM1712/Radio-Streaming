@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:02:24.189996+00:00",
+  "updated_at_utc": "2026-10-28T15:03:27.761631+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Chocolate High (feat. Musiq Soulchild)",
+        "detected_at_utc": "2026-10-28T15:02:38.667020+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "The Way (feat. Mac Miller)",
