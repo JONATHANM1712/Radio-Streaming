@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:17:40.873978+00:00",
+  "updated_at_utc": "2026-10-28T06:18:55.409699+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Up&Up",
+        "detected_at_utc": "2026-10-28T06:18:55.284316+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Satu Bulan",
