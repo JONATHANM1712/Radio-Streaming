@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:13:05.063141+00:00",
+  "updated_at_utc": "2026-10-28T11:14:08.270898+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gorillaz",
+        "title": "On Melancholy Hill",
+        "detected_at_utc": "2026-10-28T11:13:24.427715+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Photograph",
@@ -617,6 +622,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Since I Don't Have You",
+        "detected_at_utc": "2026-10-28T11:13:22.350143+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Live to Tell",
