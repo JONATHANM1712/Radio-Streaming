@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:20:41.048889+00:00",
+  "updated_at_utc": "2026-10-28T13:22:20.628136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "1979",
+        "detected_at_utc": "2026-10-28T13:22:20.535966+00:00"
+      },
       {
         "artist": "Amy Winehouse & Mark Ronson",
         "title": "Valerie (Version Revisited)",
