@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:23:31.294300+00:00",
+  "updated_at_utc": "2026-10-28T15:24:34.432269+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-10-28T15:24:26.350782+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Sampai Kapan",
@@ -1097,6 +1102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daniel Sahuleka",
+        "title": "Don't Sleep Away the Night",
+        "detected_at_utc": "2026-10-28T15:24:21.822271+00:00"
+      },
       {
         "artist": "U2",
         "title": "All I Want Is You",
