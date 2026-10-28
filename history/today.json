@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:16:33.743973+00:00",
+  "updated_at_utc": "2026-10-28T11:19:42.063675+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "detected_at_utc": "2026-10-28T11:19:41.965661+00:00"
+      },
       {
         "artist": "Tyla",
         "title": "Water",
