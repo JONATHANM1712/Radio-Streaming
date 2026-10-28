@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:17:47.424632+00:00",
+  "updated_at_utc": "2026-10-28T04:19:53.510415+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MKTO",
+        "title": "Classic",
+        "detected_at_utc": "2026-10-28T04:19:53.394629+00:00"
+      },
       {
         "artist": "Santana",
         "title": "The Game of Love (feat. Michelle Branch) [Main/Radio Mix]",
@@ -187,6 +192,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Johnny Hates Jazz",
+        "title": "Shattered Dreams",
+        "detected_at_utc": "2026-10-28T04:19:53.362220+00:00"
+      },
       {
         "artist": "Kid Rock",
         "title": "Only God Knows Why",
