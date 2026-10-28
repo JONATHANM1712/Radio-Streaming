@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:53:21.891928+00:00",
+  "updated_at_utc": "2026-10-28T13:54:24.754920+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-28T13:53:42.337674+00:00"
+      },
       {
         "artist": "Selena Gomez & The Scene",
         "title": "Love You Like A Love Song",
