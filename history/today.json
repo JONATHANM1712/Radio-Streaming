@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:07:41.255086+00:00",
+  "updated_at_utc": "2026-10-28T13:08:44.447217+00:00",
   "stations": {
     "kis": [
       {
@@ -787,6 +787,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Can't Stop This Thing We Started",
+        "detected_at_utc": "2026-10-28T13:08:39.743103+00:00"
+      },
       {
         "artist": "Sergio Mendes & Brasil '66",
         "title": "Mas Que Nada",
