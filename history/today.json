@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:00:52.096055+00:00",
+  "updated_at_utc": "2026-10-28T17:01:54.673127+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-10-28T17:01:36.281180+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
