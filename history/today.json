@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:37:00.184053+00:00",
+  "updated_at_utc": "2026-10-28T15:38:03.316507+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Darren Hayes",
+        "title": "Insatiable",
+        "detected_at_utc": "2026-10-28T15:37:53.675004+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Stay (feat. Mikky Ekko)",
@@ -566,6 +571,11 @@
     ],
     "jak": [
       {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-10-28T15:38:01.778094+00:00"
+      },
+      {
         "artist": "Foggieraw",
         "title": "Prolly",
         "detected_at_utc": "2026-10-28T15:37:00.032943+00:00"
@@ -1127,6 +1137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Liberian Girl",
+        "detected_at_utc": "2026-10-28T15:37:47.851468+00:00"
+      },
       {
         "artist": "Morcheeba",
         "title": "Let Me See",
