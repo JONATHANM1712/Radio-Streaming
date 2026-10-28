@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:18:07.446695+00:00",
+  "updated_at_utc": "2026-10-28T13:19:38.545750+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-28T13:19:38.450687+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Jenuh",
