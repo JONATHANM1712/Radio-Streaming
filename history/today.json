@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:42:52.075944+00:00",
+  "updated_at_utc": "2026-10-28T04:43:55.538375+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
+        "detected_at_utc": "2026-10-28T04:43:53.514142+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
@@ -247,6 +252,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sybil",
+        "title": "Walk On By",
+        "detected_at_utc": "2026-10-28T04:43:53.161969+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Ordinary World",
