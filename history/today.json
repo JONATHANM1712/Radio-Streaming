@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:45:55.640807+00:00",
+  "updated_at_utc": "2026-10-28T10:52:07.525082+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-10-28T10:52:07.353400+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Don't Stop The Music",
