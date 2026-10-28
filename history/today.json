@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:36:30.574178+00:00",
+  "updated_at_utc": "2026-10-28T05:37:34.046573+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Style",
+        "detected_at_utc": "2026-10-28T05:36:36.879436+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "Can't Stop Loving You",
@@ -165,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "311",
+        "title": "Love Song",
+        "detected_at_utc": "2026-10-28T05:37:32.476184+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "deja vu",
