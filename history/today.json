@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:54:17.880824+00:00",
+  "updated_at_utc": "2026-10-28T16:55:51.610131+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-10-28T16:55:51.519343+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "One Call Away",
