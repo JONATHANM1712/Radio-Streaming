@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:32:45.975323+00:00",
+  "updated_at_utc": "2026-10-28T12:34:51.423711+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Tak Ada Yang Bisa",
+        "detected_at_utc": "2026-10-28T12:34:51.335224+00:00"
+      },
       {
         "artist": "Code Red",
         "title": "This Is Our Song",
