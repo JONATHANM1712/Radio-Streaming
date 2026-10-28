@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:09:46.933051+00:00",
+  "updated_at_utc": "2026-10-28T13:10:49.753789+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-28T13:10:13.864049+00:00"
+      },
       {
         "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
         "title": "Golden",
