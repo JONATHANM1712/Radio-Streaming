@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:39:22.380584+00:00",
+  "updated_at_utc": "2026-10-28T17:40:25.283838+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Deorro & Chris Brown",
+        "title": "Five More Hours",
+        "detected_at_utc": "2026-10-28T17:40:01.870429+00:00"
+      },
       {
         "artist": "sombr",
         "title": "Homewrecker",
@@ -117,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Whitney Houston",
+        "title": "I'm Every Woman",
+        "detected_at_utc": "2026-10-28T17:39:24.432372+00:00"
+      },
       {
         "artist": "Robert Palmer",
         "title": "Mercy Mercy Me/I Want You (Medley)",
