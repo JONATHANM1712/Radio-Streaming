@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:19:38.545750+00:00",
+  "updated_at_utc": "2026-10-28T13:20:41.048889+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
+        "detected_at_utc": "2026-10-28T13:20:40.673946+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
@@ -822,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Berlin",
+        "title": "Take My Breath Away (Love Theme from \"Top Gun\")",
+        "detected_at_utc": "2026-10-28T13:20:15.734646+00:00"
+      },
       {
         "artist": "Meat Loaf",
         "title": "I'd Do Anything For Love (But I Won't Do That)",
