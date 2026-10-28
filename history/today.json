@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:30:09.532010+00:00",
+  "updated_at_utc": "2026-10-28T17:31:44.823757+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sugar Ray",
+        "title": "When It's Over (David Kahne Main)",
+        "detected_at_utc": "2026-10-28T17:31:44.727786+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Bad Romance",
