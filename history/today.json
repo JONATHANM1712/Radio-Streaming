@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:00:41.663934+00:00",
+  "updated_at_utc": "2026-10-28T16:03:26.265235+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-10-28T16:03:26.138057+00:00"
+      },
       {
         "artist": "Mandy Moore",
         "title": "Only Hope",
