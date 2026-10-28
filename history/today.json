@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:24:34.432269+00:00",
+  "updated_at_utc": "2026-10-28T15:27:34.251209+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-10-28T15:27:34.109718+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "Tattoo (Main Version)",
