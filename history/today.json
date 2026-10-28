@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:19:42.063675+00:00",
+  "updated_at_utc": "2026-10-28T11:22:29.816150+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Kita (Acoustic)",
+        "detected_at_utc": "2026-10-28T11:22:29.720220+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Only When I Sleep",
