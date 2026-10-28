@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:08:54.779069+00:00",
+  "updated_at_utc": "2026-10-28T17:09:57.766058+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Thank God I Found You (feat. Joe & 98°)",
+        "detected_at_utc": "2026-10-28T17:09:21.149332+00:00"
+      },
       {
         "artist": "Five for Fighting",
         "title": "Superman (It's Not Easy)",
@@ -37,6 +42,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jocelyn Brown",
+        "title": "Ain't No Mountain High Enough",
+        "detected_at_utc": "2026-10-28T17:09:23.936279+00:00"
+      },
       {
         "artist": "Errol Brown",
         "title": "This Time It's Forever (Single Version)",
