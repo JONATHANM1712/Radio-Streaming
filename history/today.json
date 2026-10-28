@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:14:08.270898+00:00",
+  "updated_at_utc": "2026-10-28T11:16:33.743973+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "Water",
+        "detected_at_utc": "2026-10-28T11:16:33.644927+00:00"
+      },
       {
         "artist": "Gorillaz",
         "title": "On Melancholy Hill",
