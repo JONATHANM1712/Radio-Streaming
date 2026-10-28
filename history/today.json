@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:06:39.575843+00:00",
+  "updated_at_utc": "2026-10-28T15:07:43.163796+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pamungkas",
+        "title": "Berapa Kali Kita Akan Saling Memaafkan",
+        "detected_at_utc": "2026-10-28T15:06:48.150102+00:00"
+      },
       {
         "artist": "India.Arie",
         "title": "Chocolate High (feat. Musiq Soulchild)",
