@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:34:59.171688+00:00",
+  "updated_at_utc": "2026-10-28T11:41:45.611535+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calum Scott",
+        "title": "You Are The Reason",
+        "detected_at_utc": "2026-10-28T11:41:45.523150+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Gantung",
