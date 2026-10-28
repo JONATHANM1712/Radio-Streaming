@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:05:33.285600+00:00",
+  "updated_at_utc": "2026-10-28T13:06:38.545582+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Us3",
+        "title": "Cantaloop (Flip Fantasia)",
+        "detected_at_utc": "2026-10-28T13:06:38.462653+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "One Last Time",
