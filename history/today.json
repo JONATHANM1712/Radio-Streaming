@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:31:16.723063+00:00",
+  "updated_at_utc": "2026-10-28T04:33:19.779741+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "title": "After Last Night (with Thundercat & Bootsy Collins)",
+        "detected_at_utc": "2026-10-28T04:33:19.629060+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Janji Di Atas Ingkar (Mendua)",
