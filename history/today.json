@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:53:14.697947+00:00",
+  "updated_at_utc": "2026-10-28T16:54:17.880824+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "detected_at_utc": "2026-10-28T16:54:17.048795+00:00"
+      },
       {
         "artist": "Mamas Gun",
         "title": "Pots of Gold",
