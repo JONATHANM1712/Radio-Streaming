@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:05:02.870076+00:00",
+  "updated_at_utc": "2026-10-28T14:06:08.617792+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-10-28T14:05:22.189604+00:00"
+      },
       {
         "artist": "Imogen Heap",
         "title": "Goodnight and Go",
