@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:35:30.092181+00:00",
+  "updated_at_utc": "2026-10-28T14:37:22.891215+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kerispatih",
+        "title": "Tak Lekang Oleh Waktu",
+        "detected_at_utc": "2026-10-28T14:37:22.760224+00:00"
+      },
       {
         "artist": "Busta Rhymes & Mariah Carey",
         "title": "I Know What You Want (feat. Flipmode Squad)",
