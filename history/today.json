@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:06:16.694083+00:00",
+  "updated_at_utc": "2026-10-28T17:08:54.779069+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Home",
+        "detected_at_utc": "2026-10-28T17:08:54.677104+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "Lonely (feat. Anne-Marie)",
