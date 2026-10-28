@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:48:34.946722+00:00",
+  "updated_at_utc": "2026-10-28T16:51:08.556436+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mamas Gun",
+        "title": "Pots of Gold",
+        "detected_at_utc": "2026-10-28T16:51:08.466059+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
