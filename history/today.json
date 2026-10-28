@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:10:05.609372+00:00",
+  "updated_at_utc": "2026-10-28T12:11:10.420212+00:00",
   "stations": {
     "kis": [
       {
@@ -697,6 +697,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Prince & The New Power Generation",
+        "title": "Sexy M.F.",
+        "detected_at_utc": "2026-10-28T12:11:01.278808+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "My Favorite Girl",
