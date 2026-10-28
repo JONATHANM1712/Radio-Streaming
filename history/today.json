@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:04:31.068645+00:00",
+  "updated_at_utc": "2026-10-28T16:05:58.333386+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore",
+        "title": "Cry",
+        "detected_at_utc": "2026-10-28T16:05:58.198048+00:00"
+      },
       {
         "artist": "Janet Jackson & Nelly",
         "title": "Call On Me",
