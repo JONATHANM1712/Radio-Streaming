@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:31:42.647157+00:00",
+  "updated_at_utc": "2026-10-28T12:32:45.975323+00:00",
   "stations": {
     "kis": [
       {
@@ -727,6 +727,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Naughty By Nature",
+        "title": "Hip Hop Hooray",
+        "detected_at_utc": "2026-10-28T12:32:41.985787+00:00"
+      },
       {
         "artist": "Wham!",
         "title": "Young Guns (Go for It!)",
