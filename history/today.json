@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:37:34.046573+00:00",
+  "updated_at_utc": "2026-10-28T05:39:43.093553+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chrisye",
+        "title": "Andai Aku Bisa",
+        "detected_at_utc": "2026-10-28T05:39:42.964280+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Style",
