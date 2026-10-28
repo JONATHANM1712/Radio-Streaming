@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:50:59.287004+00:00",
+  "updated_at_utc": "2026-10-28T05:52:02.810504+00:00",
   "stations": {
     "kis": [
       {
@@ -402,6 +402,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paula Abdul",
+        "title": "Straight Up",
+        "detected_at_utc": "2026-10-28T05:51:58.802272+00:00"
+      },
       {
         "artist": "Queen",
         "title": "Is This The World We Created...?",
