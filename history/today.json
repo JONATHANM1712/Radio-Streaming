@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:52:14.715378+00:00",
+  "updated_at_utc": "2026-10-28T04:53:18.040945+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-10-28T04:53:10.471100+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
@@ -267,6 +272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kiss",
+        "title": "I Was Made For Lovin' You",
+        "detected_at_utc": "2026-10-28T04:53:09.610429+00:00"
+      },
       {
         "artist": "U2",
         "title": "Stay (Faraway, So Close!)",
