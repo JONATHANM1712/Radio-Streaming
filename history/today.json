@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:28:38.770976+00:00",
+  "updated_at_utc": "2026-10-28T14:29:42.623151+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-28T14:28:57.502308+00:00"
+      },
       {
         "artist": "Aditya",
         "title": "Be Mine",
