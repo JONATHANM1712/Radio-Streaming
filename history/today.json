@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:02:31.028443+00:00",
+  "updated_at_utc": "2026-10-28T13:04:01.420179+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-10-28T13:04:01.333776+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Kill Bill",
