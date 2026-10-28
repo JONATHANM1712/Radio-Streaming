@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:49:09.932687+00:00",
+  "updated_at_utc": "2026-10-28T15:50:13.034651+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-28T15:49:22.952327+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
