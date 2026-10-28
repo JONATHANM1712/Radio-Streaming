@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:18:55.409699+00:00",
+  "updated_at_utc": "2026-10-28T06:22:50.205580+00:00",
   "stations": {
     "kis": [
       {
@@ -462,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Hard Day",
+        "detected_at_utc": "2026-10-28T06:22:50.099542+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Man In the Mirror",
