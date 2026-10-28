@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:56:33.796030+00:00",
+  "updated_at_utc": "2026-10-28T10:58:42.858638+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-10-28T10:58:42.671362+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Seandainya",
