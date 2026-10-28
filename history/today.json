@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:53:11.122541+00:00",
+  "updated_at_utc": "2026-10-28T10:54:27.491566+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vierra",
+        "title": "Seandainya",
+        "detected_at_utc": "2026-10-28T10:54:27.353933+00:00"
+      },
       {
         "artist": "Peach Tree Rascals",
         "title": "Mariposa",
