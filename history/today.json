@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:40:25.283838+00:00",
+  "updated_at_utc": "2026-10-28T17:43:30.133042+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jikustik",
+        "title": "Setia",
+        "detected_at_utc": "2026-10-28T17:43:30.040515+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "Pass You By",
