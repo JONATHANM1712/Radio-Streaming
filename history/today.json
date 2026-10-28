@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:10:49.753789+00:00",
+  "updated_at_utc": "2026-10-28T13:12:49.891808+00:00",
   "stations": {
     "kis": [
       {
@@ -797,6 +797,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Good Old-Fashioned Lover Boy",
+        "detected_at_utc": "2026-10-28T13:12:49.807303+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Can't Stop This Thing We Started",
