@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:21:48.660590+00:00",
+  "updated_at_utc": "2026-10-28T16:23:46.529815+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "detected_at_utc": "2026-10-28T16:23:46.435717+00:00"
+      },
       {
         "artist": "Protonema",
         "title": "Rinduku Adinda",
