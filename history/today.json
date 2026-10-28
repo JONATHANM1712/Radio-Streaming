@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:22:20.628136+00:00",
+  "updated_at_utc": "2026-10-28T13:23:48.912682+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-28T13:23:48.811296+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Stitches",
