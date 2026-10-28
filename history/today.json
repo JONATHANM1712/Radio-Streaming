@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:43:30.133042+00:00",
+  "updated_at_utc": "2026-10-28T17:44:32.759530+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charli xcx & Sam Smith",
+        "title": "In The City",
+        "detected_at_utc": "2026-10-28T17:44:08.101513+00:00"
+      },
       {
         "artist": "Deorro & Chris Brown",
         "title": "Five More Hours",
