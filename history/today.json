@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:16:44.075367+00:00",
+  "updated_at_utc": "2026-10-28T04:17:47.424632+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Harvey Malaihollo",
+        "title": "Katakan Saja",
+        "detected_at_utc": "2026-10-28T04:17:41.369260+00:00"
+      },
       {
         "artist": "Shaggy",
         "title": "Angel (feat. Rayvon)",
