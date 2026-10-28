@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:12:48.743804+00:00",
+  "updated_at_utc": "2026-10-28T05:13:52.037412+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-28T05:13:49.563656+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
