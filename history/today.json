@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:54:27.491566+00:00",
+  "updated_at_utc": "2026-10-28T10:55:30.611248+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "George Ellinas",
+        "title": "Rainmaker (Extended Club Mix)",
+        "detected_at_utc": "2026-10-28T10:55:29.962400+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Seandainya",
