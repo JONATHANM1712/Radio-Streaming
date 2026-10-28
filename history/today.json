@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:25:24.466602+00:00",
+  "updated_at_utc": "2026-10-28T13:26:54.391451+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-10-28T13:26:54.310548+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
