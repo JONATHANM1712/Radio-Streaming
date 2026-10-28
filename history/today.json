@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:45:07.620841+00:00",
+  "updated_at_utc": "2026-10-28T13:47:33.138597+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & The Scene",
+        "title": "Love You Like A Love Song",
+        "detected_at_utc": "2026-10-28T13:47:33.047071+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Rahasia Hati",
