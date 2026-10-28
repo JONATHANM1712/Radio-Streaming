@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:39:46.177344+00:00",
+  "updated_at_utc": "2026-10-28T04:42:52.075944+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-10-28T04:42:51.910483+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland Song (Ha Ha Ha) The 2nd Leg",
