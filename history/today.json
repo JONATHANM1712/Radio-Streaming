@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:30:46.596429+00:00",
+  "updated_at_utc": "2026-10-28T14:31:50.434545+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bow Wow",
+        "title": "Like You (feat. Ciara)",
+        "detected_at_utc": "2026-10-28T14:31:13.086581+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
