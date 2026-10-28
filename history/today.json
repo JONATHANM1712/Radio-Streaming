@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:51:19.933900+00:00",
+  "updated_at_utc": "2026-10-28T12:54:02.828865+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "detected_at_utc": "2026-10-28T12:54:02.734911+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life",
