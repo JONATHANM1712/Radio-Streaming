@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:37:51.987044+00:00",
+  "updated_at_utc": "2026-10-28T13:42:22.694135+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Rahasia Hati",
+        "detected_at_utc": "2026-10-28T13:42:22.611854+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Where Is The Love?",
