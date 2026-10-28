@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:15:32.873750+00:00",
+  "updated_at_utc": "2026-10-28T16:18:37.031551+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Protonema",
+        "title": "Rinduku Adinda",
+        "detected_at_utc": "2026-10-28T16:18:36.822689+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
