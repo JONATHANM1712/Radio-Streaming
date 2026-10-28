@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:49:55.583271+00:00",
+  "updated_at_utc": "2026-10-28T05:50:59.287004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Artful Dodger",
+        "title": "Please Don’t Turn Me On (feat. Lifford) [Radio Edit]",
+        "detected_at_utc": "2026-10-28T05:50:00.395298+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Shut Up and Let Me Go",
@@ -180,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CeeLo Green",
+        "title": "F**k You",
+        "detected_at_utc": "2026-10-28T05:50:57.013685+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "Human",
