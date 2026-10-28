@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:09:57.499067+00:00",
+  "updated_at_utc": "2026-10-28T06:11:00.226017+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Californication",
+        "detected_at_utc": "2026-10-28T06:10:10.987331+00:00"
+      },
       {
         "artist": "Louchie Lou & Michie One & Michie One",
         "title": "10 Out Of 10",
