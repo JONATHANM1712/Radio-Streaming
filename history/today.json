@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:28:02.316486+00:00",
+  "updated_at_utc": "2026-10-28T10:29:06.160242+00:00",
   "stations": {
     "kis": [
       {
@@ -542,6 +542,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rush",
+        "title": "Red Barchetta",
+        "detected_at_utc": "2026-10-28T10:28:05.634126+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "Something Happened On the Way to Heaven",
