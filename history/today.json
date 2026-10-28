@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:17:56.387573+00:00",
+  "updated_at_utc": "2026-10-28T05:19:00.447734+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunga Citra Lestari",
+        "title": "Tetaplah Dihatiku (feat. Christian Bautista)",
+        "detected_at_utc": "2026-10-28T05:18:04.509354+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Walking After You",
@@ -327,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Meshell Ndegeocello",
+        "title": "I'm Diggin' You (Like an Old Soul Record)",
+        "detected_at_utc": "2026-10-28T05:17:57.290213+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "When the Smoke Is Going Down (Live)",
