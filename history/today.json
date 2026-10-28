@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:23:32.443604+00:00",
+  "updated_at_utc": "2026-10-28T11:24:35.198457+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "detected_at_utc": "2026-10-28T11:23:49.321013+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
@@ -637,6 +642,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Yazoo",
+        "title": "Situation (2008 Remaster)",
+        "detected_at_utc": "2026-10-28T11:23:46.426459+00:00"
+      },
       {
         "artist": "Yazoo",
         "title": "Situation (12\" Remix)",
