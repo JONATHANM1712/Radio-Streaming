@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:09:49.111875+00:00",
+  "updated_at_utc": "2026-10-28T05:10:52.645968+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-10-28T05:10:44.515493+00:00"
+      },
       {
         "artist": "BTS",
         "title": "SWIM",
