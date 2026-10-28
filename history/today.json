@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:09:45.355138+00:00",
+  "updated_at_utc": "2026-10-28T16:10:48.103052+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Pink Pony Club",
+        "detected_at_utc": "2026-10-28T16:10:46.618716+00:00"
+      },
       {
         "artist": "Benson Boone",
         "title": "The Time Of My Life",
