@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:23:06.155069+00:00",
+  "updated_at_utc": "2026-10-28T12:24:09.651615+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blu Cantrell",
+        "title": "Hit 'Em Up Style (Oops!)",
+        "detected_at_utc": "2026-10-28T12:24:09.565565+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Kulakukan Semua Untukmu",
