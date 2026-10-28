@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:11:32.233761+00:00",
+  "updated_at_utc": "2026-10-28T14:12:35.711877+00:00",
   "stations": {
     "kis": [
       {
@@ -471,6 +471,11 @@
     ],
     "jak": [
       {
+        "artist": "Lady A",
+        "title": "Need You Now",
+        "detected_at_utc": "2026-10-28T14:11:50.919379+00:00"
+      },
+      {
         "artist": "Tulus",
         "title": "Teh Hijau",
         "detected_at_utc": "2026-10-28T14:08:35.732577+00:00"
@@ -937,6 +942,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rod Stewart",
+        "title": "I Don't Want To Talk About It",
+        "detected_at_utc": "2026-10-28T14:12:31.876200+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Head Over Feet",
