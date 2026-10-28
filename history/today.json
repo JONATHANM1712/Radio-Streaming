@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:48:42.450733+00:00",
+  "updated_at_utc": "2026-10-28T12:50:17.086619+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "If I Lose Myself",
+        "detected_at_utc": "2026-10-28T12:50:17.001535+00:00"
+      },
       {
         "artist": "Normani",
         "title": "Motivation",
