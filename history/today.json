@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:38:03.316507+00:00",
+  "updated_at_utc": "2026-10-28T15:39:06.598584+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sia",
+        "title": "Cheap Thrills",
+        "detected_at_utc": "2026-10-28T15:39:03.523299+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
