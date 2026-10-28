@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:43:46.162381+00:00",
+  "updated_at_utc": "2026-10-28T06:46:50.802839+00:00",
   "stations": {
     "kis": [
       {
@@ -507,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eruption",
+        "title": "One Way Ticket",
+        "detected_at_utc": "2026-10-28T06:46:50.712078+00:00"
+      },
       {
         "artist": "Faith No More",
         "title": "A Small Victory",
