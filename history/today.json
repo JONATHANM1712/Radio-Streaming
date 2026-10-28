@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:08:16.979194+00:00",
+  "updated_at_utc": "2026-10-28T14:09:21.003346+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-10-28T14:08:35.732577+00:00"
+      },
       {
         "artist": "Daya",
         "title": "Hide Away",
