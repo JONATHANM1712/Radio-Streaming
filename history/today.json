@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:30:39.577931+00:00",
+  "updated_at_utc": "2026-10-28T12:31:42.647157+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Code Red",
+        "title": "This Is Our Song",
+        "detected_at_utc": "2026-10-28T12:31:40.826080+00:00"
+      },
       {
         "artist": "Blu Cantrell",
         "title": "Hit 'Em Up Style (Oops!)",
