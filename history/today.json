@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:45:47.650781+00:00",
+  "updated_at_utc": "2026-10-28T05:46:50.891079+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "Human",
+        "detected_at_utc": "2026-10-28T05:46:49.836742+00:00"
+      },
       {
         "artist": "311",
         "title": "Love Song",
