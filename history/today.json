@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:43:22.852377+00:00",
+  "updated_at_utc": "2026-10-28T12:44:26.720818+00:00",
   "stations": {
     "kis": [
       {
@@ -737,6 +737,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Purnama Sultan",
+        "title": "Khayal",
+        "detected_at_utc": "2026-10-28T12:44:26.626730+00:00"
+      },
       {
         "artist": "The Doors",
         "title": "Peace Frog / Blue Sunday",
