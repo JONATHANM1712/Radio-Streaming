@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:58:20.657251+00:00",
+  "updated_at_utc": "2026-10-28T12:59:23.960185+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Kill Bill",
+        "detected_at_utc": "2026-10-28T12:58:45.791471+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "If I Lose Myself",
@@ -762,6 +767,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Al Jarreau",
+        "title": "Boogie Down",
+        "detected_at_utc": "2026-10-28T12:59:16.717630+00:00"
+      },
       {
         "artist": "AC/DC",
         "title": "Big Gun",
