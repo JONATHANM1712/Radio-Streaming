@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:46:50.802839+00:00",
+  "updated_at_utc": "2026-10-28T06:47:53.713327+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Hari Bersamanya",
+        "detected_at_utc": "2026-10-28T06:47:29.451431+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
@@ -230,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-10-28T06:47:20.743074+00:00"
+      },
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
