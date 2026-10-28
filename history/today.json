@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T12:44:26.720818+00:00",
+  "updated_at_utc": "2026-10-28T12:45:31.852416+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sweetbox",
+        "title": "Everything's Gonna Be Alright",
+        "detected_at_utc": "2026-10-28T12:45:31.730338+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Tak Ada Yang Bisa",
