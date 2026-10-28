@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:32:30.059333+00:00",
+  "updated_at_utc": "2026-10-28T05:34:27.404598+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "deja vu",
+        "detected_at_utc": "2026-10-28T05:34:27.224713+00:00"
+      },
       {
         "artist": "Lionel Richie",
         "title": "I Call It Love",
