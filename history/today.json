@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:13:52.037412+00:00",
+  "updated_at_utc": "2026-10-28T05:14:55.539909+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Walking After You",
+        "detected_at_utc": "2026-10-28T05:13:55.863853+00:00"
+      },
       {
         "artist": "Jewel",
         "title": "Intuition",
