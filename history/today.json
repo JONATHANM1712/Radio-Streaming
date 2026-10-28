@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-27T18:03:00.194988+00:00",
+  "updated_at_utc": "2026-10-28T04:15:32.353909+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shaggy",
+        "title": "Angel (feat. Rayvon)",
+        "detected_at_utc": "2026-10-27T18:03:27.998736+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Send My Love (To Your New Lover)",
