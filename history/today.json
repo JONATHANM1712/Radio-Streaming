@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:37:19.935162+00:00",
+  "updated_at_utc": "2026-10-28T16:40:49.532572+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Archuleta",
+        "title": "Crush",
+        "detected_at_utc": "2026-10-28T16:40:49.437507+00:00"
+      },
       {
         "artist": "GIGI",
         "title": "Cinta Terakhir",
