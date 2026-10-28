@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:35:19.737675+00:00",
+  "updated_at_utc": "2026-10-28T17:36:52.640523+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "detected_at_utc": "2026-10-28T17:36:52.544600+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "When It's Over (David Kahne Main)",
