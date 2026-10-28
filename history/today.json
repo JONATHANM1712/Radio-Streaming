@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:53:23.402749+00:00",
+  "updated_at_utc": "2026-10-28T15:55:47.672177+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mandy Moore",
+        "title": "Only Hope",
+        "detected_at_utc": "2026-10-28T15:55:47.525214+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
