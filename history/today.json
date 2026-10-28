@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:06:38.545582+00:00",
+  "updated_at_utc": "2026-10-28T13:07:41.255086+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+        "title": "Golden",
+        "detected_at_utc": "2026-10-28T13:07:07.712610+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Treasure",
