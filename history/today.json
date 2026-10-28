@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:03:27.761631+00:00",
+  "updated_at_utc": "2026-10-28T15:05:33.032153+00:00",
   "stations": {
     "kis": [
       {
@@ -1052,6 +1052,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rick Astley",
+        "title": "It Would Take a Strong Strong Man",
+        "detected_at_utc": "2026-10-28T15:05:32.899825+00:00"
+      },
       {
         "artist": "John Travolta & Olivia Newton-John",
         "title": "Summer Nights (From “Grease”)",
