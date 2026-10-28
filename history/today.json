@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:43:42.802241+00:00",
+  "updated_at_utc": "2026-10-28T14:44:46.993110+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hanson",
+        "title": "Mmmbop",
+        "detected_at_utc": "2026-10-28T14:44:46.486623+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Tak Lekang Oleh Waktu",
@@ -505,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Adams",
+        "title": "Hanya Kau",
+        "detected_at_utc": "2026-10-28T14:43:54.192204+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Cheating on You",
