@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:03:32.087064+00:00",
+  "updated_at_utc": "2026-10-28T05:04:35.478338+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "London Bridge",
+        "detected_at_utc": "2026-10-28T05:04:33.898209+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "London Bridge (Oh Snap WO/Siren)",
@@ -287,6 +292,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "Tracie",
+        "detected_at_utc": "2026-10-28T05:04:33.891710+00:00"
+      },
       {
         "artist": "Tina Turner",
         "title": "Typical Male",
