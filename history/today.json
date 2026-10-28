@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:13:33.554703+00:00",
+  "updated_at_utc": "2026-10-28T17:14:36.496604+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-10-28T17:14:31.037897+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Thank God I Found You (feat. Joe & 98°)",
@@ -20,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-10-28T17:14:05.020912+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
