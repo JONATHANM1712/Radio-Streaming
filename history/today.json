@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:15:57.629098+00:00",
+  "updated_at_utc": "2026-10-28T13:18:07.446695+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Amy Winehouse & Mark Ronson",
+        "title": "Valerie (Version Revisited)",
+        "detected_at_utc": "2026-10-28T13:18:07.357370+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Terserah",
