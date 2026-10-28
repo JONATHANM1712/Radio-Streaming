@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:22:50.205580+00:00",
+  "updated_at_utc": "2026-10-28T06:24:29.678782+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "detected_at_utc": "2026-10-28T06:24:29.586528+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Up&Up",
