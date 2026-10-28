@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:34:17.138343+00:00",
+  "updated_at_utc": "2026-10-28T17:35:19.737675+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Whitney Houston",
+        "title": "My Love Is Your Love",
+        "detected_at_utc": "2026-10-28T17:35:14.171832+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Risalah Hati",
