@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:36:29.206440+00:00",
+  "updated_at_utc": "2026-10-28T06:38:00.388272+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "detected_at_utc": "2026-10-28T06:38:00.307494+00:00"
+      },
       {
         "artist": "Ello",
         "title": "Gadisku",
