@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:20:57.088902+00:00",
+  "updated_at_utc": "2026-10-28T04:22:59.487084+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-28T04:22:59.337253+00:00"
+      },
       {
         "artist": "MKTO",
         "title": "Classic",
