@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:24:35.198457+00:00",
+  "updated_at_utc": "2026-10-28T11:25:52.981877+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Melly Goeslaw",
+        "title": "Gantung",
+        "detected_at_utc": "2026-10-28T11:25:52.882884+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
