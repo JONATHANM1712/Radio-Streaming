@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:14:36.496604+00:00",
+  "updated_at_utc": "2026-10-28T17:16:10.243096+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Too Little Too Late",
+        "detected_at_utc": "2026-10-28T17:16:10.122142+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
