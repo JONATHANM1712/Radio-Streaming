@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:57:29.067996+00:00",
+  "updated_at_utc": "2026-10-28T13:58:31.641409+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Just a Feeling",
+        "detected_at_utc": "2026-10-28T13:58:30.805473+00:00"
+      },
       {
         "artist": "Alison Limerick",
         "title": "Make It on My Own (Spagotone Mix)",
@@ -450,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imogen Heap",
+        "title": "Goodnight and Go",
+        "detected_at_utc": "2026-10-28T13:57:49.417518+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
