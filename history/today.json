@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:14:54.917477+00:00",
+  "updated_at_utc": "2026-10-28T13:15:57.629098+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Terserah",
+        "detected_at_utc": "2026-10-28T13:14:57.246615+00:00"
+      },
       {
         "artist": "Digital Department",
         "title": "Disconnection (Chillout Mix)",
