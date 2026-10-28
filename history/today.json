@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:09:57.766058+00:00",
+  "updated_at_utc": "2026-10-28T17:12:30.603375+00:00",
   "stations": {
     "kis": [
       {
@@ -42,6 +42,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Chris Isaak",
+        "title": "Wicked Game",
+        "detected_at_utc": "2026-10-28T17:12:30.520391+00:00"
+      },
       {
         "artist": "Jocelyn Brown",
         "title": "Ain't No Mountain High Enough",
