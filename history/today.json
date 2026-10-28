@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:32:44.733607+00:00",
+  "updated_at_utc": "2026-10-28T06:34:46.737306+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ello",
+        "title": "Gadisku",
+        "detected_at_utc": "2026-10-28T06:34:46.650712+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
