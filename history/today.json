@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:23:39.966795+00:00",
+  "updated_at_utc": "2026-10-28T10:28:02.316486+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-10-28T10:28:02.149606+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Cantik",
