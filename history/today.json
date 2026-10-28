@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:46:50.891079+00:00",
+  "updated_at_utc": "2026-10-28T05:47:56.961943+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Shut Up and Let Me Go",
+        "detected_at_utc": "2026-10-28T05:47:56.777558+00:00"
+      },
       {
         "artist": "Chrisye",
         "title": "Andai Aku Bisa",
