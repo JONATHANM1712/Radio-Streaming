@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:28:38.104435+00:00",
+  "updated_at_utc": "2026-10-28T15:30:48.240357+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Yellow",
+        "detected_at_utc": "2026-10-28T15:30:48.092038+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Memories",
