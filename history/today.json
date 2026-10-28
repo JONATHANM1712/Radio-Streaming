@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T13:33:44.537581+00:00",
+  "updated_at_utc": "2026-10-28T13:34:47.146251+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Where Is The Love?",
+        "detected_at_utc": "2026-10-28T13:34:06.738568+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Outta My Head (with John Mayer)",
