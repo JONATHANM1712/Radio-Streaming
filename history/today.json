@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:37:22.891215+00:00",
+  "updated_at_utc": "2026-10-28T14:38:26.670941+00:00",
   "stations": {
     "kis": [
       {
@@ -1007,6 +1007,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Culture Club",
+        "title": "Do You Really Want To Hurt Me",
+        "detected_at_utc": "2026-10-28T14:38:26.528542+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Jumpin' Jack Flash",
