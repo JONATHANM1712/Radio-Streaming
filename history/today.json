@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:34:10.315628+00:00",
+  "updated_at_utc": "2026-10-28T14:35:30.092181+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Cheating on You",
+        "detected_at_utc": "2026-10-28T14:35:29.963387+00:00"
+      },
       {
         "artist": "Bow Wow",
         "title": "Like You (feat. Ciara)",
