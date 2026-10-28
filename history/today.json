@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T10:34:27.775705+00:00",
+  "updated_at_utc": "2026-10-28T10:36:26.302937+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bening",
+        "title": "Ada Cinta",
+        "detected_at_utc": "2026-10-28T10:36:26.171185+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "Still Into You",
