@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T11:41:45.611535+00:00",
+  "updated_at_utc": "2026-10-28T11:42:48.576444+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out of Heaven",
+        "detected_at_utc": "2026-10-28T11:42:38.613337+00:00"
+      },
       {
         "artist": "Jon B.",
         "title": "Someone to Love",
@@ -662,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Culture Club",
+        "title": "Gusto Blusto",
+        "detected_at_utc": "2026-10-28T11:42:41.566847+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "Domino Dancing",
