@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:54:08.879876+00:00",
+  "updated_at_utc": "2026-10-28T14:55:25.811034+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "The Way (feat. Mac Miller)",
+        "detected_at_utc": "2026-10-28T14:55:25.677080+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
