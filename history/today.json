@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T06:27:47.056889+00:00",
+  "updated_at_utc": "2026-10-28T06:28:49.606701+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MIKA",
+        "title": "Grace Kelly",
+        "detected_at_utc": "2026-10-28T06:28:35.735860+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Leave (Get Out)",
@@ -472,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "Who's That Girl",
+        "detected_at_utc": "2026-10-28T06:28:13.838151+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Hard Day",
