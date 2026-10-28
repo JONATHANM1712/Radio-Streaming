@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:31:07.121815+00:00",
+  "updated_at_utc": "2026-10-28T16:32:10.122042+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joy Enriquez & George Fenton",
+        "title": "How Can I Not Love You",
+        "detected_at_utc": "2026-10-28T16:32:03.982050+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Up&Up",
