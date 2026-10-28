@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:55:22.055834+00:00",
+  "updated_at_utc": "2026-10-28T04:58:21.293730+00:00",
   "stations": {
     "kis": [
       {
@@ -277,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tina Turner",
+        "title": "Typical Male",
+        "detected_at_utc": "2026-10-28T04:58:21.124768+00:00"
+      },
       {
         "artist": "Kiss",
         "title": "I Was Made For Lovin' You",
