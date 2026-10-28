@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T15:14:00.693678+00:00",
+  "updated_at_utc": "2026-10-28T15:15:11.977986+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "I'm Yours",
+        "detected_at_utc": "2026-10-28T15:15:11.837190+00:00"
+      },
       {
         "artist": "Omi",
         "title": "Cheerleader (Felix Jaehn Remix Radio Edit)",
