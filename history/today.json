@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:23:18.706451+00:00",
+  "updated_at_utc": "2026-10-28T14:24:41.743713+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Aditya",
+        "title": "Be Mine",
+        "detected_at_utc": "2026-10-28T14:24:41.605599+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "So Sick",
