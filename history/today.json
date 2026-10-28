@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:20:45.828250+00:00",
+  "updated_at_utc": "2026-10-28T16:21:48.660590+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "detected_at_utc": "2026-10-28T16:21:10.608369+00:00"
+      },
       {
         "artist": "Olly Murs",
         "title": "Troublemaker (feat. Flo Rida)",
