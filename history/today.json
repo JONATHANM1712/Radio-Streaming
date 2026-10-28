@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:01:54.673127+00:00",
+  "updated_at_utc": "2026-10-28T17:05:13.847963+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Five for Fighting",
+        "title": "Superman (It's Not Easy)",
+        "detected_at_utc": "2026-10-28T17:05:13.762224+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Please Forgive Me",
