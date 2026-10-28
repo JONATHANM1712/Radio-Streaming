@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:29:42.623151+00:00",
+  "updated_at_utc": "2026-10-28T14:30:46.596429+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Morrissey",
+        "title": "The More You Ignore Me, The Closer I Get (Remastered)",
+        "detected_at_utc": "2026-10-28T14:29:47.593261+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Risalah Hati",
@@ -982,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Hot Chocolate",
+        "title": "You Sexy Thing",
+        "detected_at_utc": "2026-10-28T14:29:45.440237+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Linger",
