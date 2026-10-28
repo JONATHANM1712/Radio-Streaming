@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T04:59:29.678617+00:00",
+  "updated_at_utc": "2026-10-28T05:03:32.087064+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "London Bridge (Oh Snap WO/Siren)",
+        "detected_at_utc": "2026-10-28T05:03:31.943036+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
