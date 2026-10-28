@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:26:54.804587+00:00",
+  "updated_at_utc": "2026-10-28T17:27:57.699609+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "detected_at_utc": "2026-10-28T17:27:32.883224+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "Radioactive",
