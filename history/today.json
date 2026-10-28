@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:18:40.518027+00:00",
+  "updated_at_utc": "2026-10-28T17:20:21.847904+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "Guilty",
+        "detected_at_utc": "2026-10-28T17:20:21.754029+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Too Little Too Late",
