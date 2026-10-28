@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T14:15:47.612106+00:00",
+  "updated_at_utc": "2026-10-28T14:16:51.198166+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Dean",
+        "title": "Man I Need",
+        "detected_at_utc": "2026-10-28T14:16:08.974466+00:00"
+      },
       {
         "artist": "Lady A",
         "title": "Need You Now",
