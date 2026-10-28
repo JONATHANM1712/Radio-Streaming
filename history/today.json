@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:23:08.999048+00:00",
+  "updated_at_utc": "2026-10-28T05:25:16.995116+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vitamin C",
+        "title": "Graduation (Friends Forever)",
+        "detected_at_utc": "2026-10-28T05:25:16.783226+00:00"
+      },
       {
         "artist": "Mamas Gun",
         "title": "Pots of Gold",
