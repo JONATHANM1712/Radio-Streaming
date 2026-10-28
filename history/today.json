@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:10:52.645968+00:00",
+  "updated_at_utc": "2026-10-28T05:12:48.743804+00:00",
   "stations": {
     "kis": [
       {
@@ -312,6 +312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "When the Smoke Is Going Down (Live)",
+        "detected_at_utc": "2026-10-28T05:12:48.604192+00:00"
+      },
       {
         "artist": "Tone-Lōc",
         "title": "Funky Cold Medina",
