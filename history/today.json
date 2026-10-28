@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T05:05:38.762302+00:00",
+  "updated_at_utc": "2026-10-28T05:07:39.774937+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "detected_at_utc": "2026-10-28T05:07:39.610454+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "London Bridge",
