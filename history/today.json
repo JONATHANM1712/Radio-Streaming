@@ -1,8 +1,13 @@
 {
   "date": "2026-10-28",
-  "updated_at_utc": "2026-10-28T16:40:49.532572+00:00",
+  "updated_at_utc": "2026-10-28T16:41:52.017052+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ecoutez",
+        "title": "Percayalah",
+        "detected_at_utc": "2026-10-28T16:41:23.457971+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "Lost Without U",
@@ -1267,6 +1272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Simply Red",
+        "title": "Never Never Love",
+        "detected_at_utc": "2026-10-28T16:41:27.068581+00:00"
+      },
       {
         "artist": "Paula Cole",
         "title": "I Don't Want To Wait (DEMO)",
