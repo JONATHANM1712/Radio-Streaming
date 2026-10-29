@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:47:16.473082+00:00",
+  "updated_at_utc": "2026-10-29T08:48:19.473708+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Paige",
+        "title": "Crush",
+        "detected_at_utc": "2026-10-29T08:48:17.917513+00:00"
+      },
       {
         "artist": "American Authors",
         "title": "Best Day of My Life",
