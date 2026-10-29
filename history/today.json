@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:28:28.485233+00:00",
+  "updated_at_utc": "2026-10-29T08:31:35.032926+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Timbaland & OneRepublic",
+        "title": "Apologize",
+        "detected_at_utc": "2026-10-29T08:31:35.018859+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Together Again",
@@ -405,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yovie Widianto, Tulus & Glenn Fredly",
+        "title": "Adu Rayu",
+        "detected_at_utc": "2026-10-29T08:31:34.921329+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
