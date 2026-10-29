@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T11:42:49.990349+00:00",
+  "updated_at_utc": "2026-10-29T11:43:55.416537+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marcell",
+        "title": "Takkan Terganti",
+        "detected_at_utc": "2026-10-29T11:43:55.291528+00:00"
+      },
       {
         "artist": "Megan Thee Stallion & Dua Lipa",
         "title": "Sweetest Pie",
