@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T12:02:12.486742+00:00",
+  "updated_at_utc": "2026-10-29T12:06:50.117876+00:00",
   "stations": {
     "kis": [
       {
@@ -1032,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Arcadia",
+        "title": "Election Day",
+        "detected_at_utc": "2026-10-29T12:06:49.716176+00:00"
+      },
       {
         "artist": "Alphaville",
         "title": "The Jet Set",
