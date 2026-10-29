@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:11:20.463460+00:00",
+  "updated_at_utc": "2026-10-29T04:12:23.103225+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frente",
+        "title": "Open Up Your Heart and Let the Sun Shine In",
+        "detected_at_utc": "2026-10-29T04:12:00.002446+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Desert Rose (feat. Cheb Mami)",
