@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:40:51.252739+00:00",
+  "updated_at_utc": "2026-10-29T07:43:57.047262+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Maafkan",
+        "detected_at_utc": "2026-10-29T07:43:56.958741+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Everything You Do",
