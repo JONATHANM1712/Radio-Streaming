@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:04:29.945713+00:00",
+  "updated_at_utc": "2026-10-29T05:05:32.561794+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Hung Up",
+        "detected_at_utc": "2026-10-29T05:04:50.033623+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Wish You Were Here",
