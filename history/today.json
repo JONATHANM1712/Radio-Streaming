@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:33:00.567899+00:00",
+  "updated_at_utc": "2026-10-29T03:34:05.937214+00:00",
   "stations": {
     "kis": [
       {
@@ -267,6 +267,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Sugar",
+        "detected_at_utc": "2026-10-29T03:33:02.645819+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Walking After You",
