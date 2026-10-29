@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:03:27.674924+00:00",
+  "updated_at_utc": "2026-10-29T04:04:30.452452+00:00",
   "stations": {
     "kis": [
       {
@@ -171,6 +171,11 @@
     ],
     "jak": [
       {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-10-29T04:04:09.129702+00:00"
+      },
+      {
         "artist": "Robin Thicke",
         "title": "The Sweetest Love",
         "detected_at_utc": "2026-10-29T03:57:36.250272+00:00"
@@ -327,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "David Storrs & Chris \"The Glove\" Taylor",
+        "title": "Reckless (feat. Ice-T) [Mixed]",
+        "detected_at_utc": "2026-10-29T04:03:52.877954+00:00"
+      },
       {
         "artist": "Queensrÿche",
         "title": "Silent Lucidity",
