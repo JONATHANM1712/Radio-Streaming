@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T11:49:30.261929+00:00",
+  "updated_at_utc": "2026-10-29T11:50:35.108630+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "U2",
+        "title": "Stay (Faraway, So Close!)",
+        "detected_at_utc": "2026-10-29T11:49:52.052803+00:00"
+      },
       {
         "artist": "Keala Settle & The Greatest Showman Ensemble",
         "title": "This Is Me",
