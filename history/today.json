@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:08:56.679791+00:00",
+  "updated_at_utc": "2026-10-29T05:10:01.531209+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flabby",
+        "title": "Wake Up",
+        "detected_at_utc": "2026-10-29T05:10:01.441537+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Hung Up",
