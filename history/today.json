@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:08:00.775786+00:00",
+  "updated_at_utc": "2026-10-29T03:09:06.042855+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brandy",
+        "title": "Sittin' Up In My Room",
+        "detected_at_utc": "2026-10-29T03:09:05.986650+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "This Love",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Sorry Not Sorry",
+        "detected_at_utc": "2026-10-29T03:09:05.918323+00:00"
+      },
       {
         "artist": "Michelle Branch",
         "title": "All You Wanted",
