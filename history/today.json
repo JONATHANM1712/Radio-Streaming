@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:48:19.473708+00:00",
+  "updated_at_utc": "2026-10-29T08:49:22.325692+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Don't Let Me Down (feat. Daya)",
+        "detected_at_utc": "2026-10-29T08:48:20.800600+00:00"
+      },
       {
         "artist": "Far East Movement, The Cataracs & DEV",
         "title": "Like a G6",
