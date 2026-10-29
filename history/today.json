@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:10:01.531209+00:00",
+  "updated_at_utc": "2026-10-29T05:11:04.678703+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-10-29T05:10:45.071312+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
