@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:26:22.717187+00:00",
+  "updated_at_utc": "2026-10-29T05:28:29.471376+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-10-29T05:28:29.386313+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Relax, Take It Easy",
