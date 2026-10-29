@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:57:27.249836+00:00",
+  "updated_at_utc": "2026-10-29T04:59:15.629250+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-10-29T04:59:15.544334+00:00"
+      },
       {
         "artist": "Mike + The Mechanics",
         "title": "Over My Shoulder",
