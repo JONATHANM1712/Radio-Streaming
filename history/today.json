@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:28:09.119907+00:00",
+  "updated_at_utc": "2026-10-29T09:34:20.081861+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Solveig Sandnes",
+        "title": "Marie",
+        "detected_at_utc": "2026-10-29T09:34:19.988492+00:00"
+      },
       {
         "artist": "Natalie Imbruglia",
         "title": "Torn",
