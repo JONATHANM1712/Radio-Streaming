@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:49:22.325692+00:00",
+  "updated_at_utc": "2026-10-29T08:52:32.858889+00:00",
   "stations": {
     "kis": [
       {
@@ -857,6 +857,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Europe",
+        "title": "Prisoners In Paradise",
+        "detected_at_utc": "2026-10-29T08:52:32.766553+00:00"
+      },
       {
         "artist": "Loïs Lane",
         "title": "It's The First Time (Bonus Track)",
