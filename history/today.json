@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T11:21:58.625706+00:00",
+  "updated_at_utc": "2026-10-29T11:28:48.844982+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Megan Thee Stallion & Dua Lipa",
+        "title": "Sweetest Pie",
+        "detected_at_utc": "2026-10-29T11:28:48.703426+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
