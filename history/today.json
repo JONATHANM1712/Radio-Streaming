@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:12:51.208827+00:00",
+  "updated_at_utc": "2026-10-29T08:14:49.105344+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Travis",
+        "title": "Closer",
+        "detected_at_utc": "2026-10-29T08:14:49.013987+00:00"
+      },
       {
         "artist": "Adele",
         "title": "All I Ask",
