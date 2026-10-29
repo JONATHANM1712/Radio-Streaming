@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:24:10.788392+00:00",
+  "updated_at_utc": "2026-10-29T03:25:13.784126+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Weeknd",
+        "title": "Can't Feel My Face",
+        "detected_at_utc": "2026-10-29T03:25:13.509765+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
