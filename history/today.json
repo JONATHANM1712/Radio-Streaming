@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:37:27.675811+00:00",
+  "updated_at_utc": "2026-10-29T09:38:30.257136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Sewindu",
+        "detected_at_utc": "2026-10-29T09:38:26.329541+00:00"
+      },
       {
         "artist": "Solveig Sandnes",
         "title": "Marie",
