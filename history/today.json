@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:10:17.930055+00:00",
+  "updated_at_utc": "2026-10-29T04:11:20.463460+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Black Magic",
+        "detected_at_utc": "2026-10-29T04:10:36.055303+00:00"
+      },
       {
         "artist": "Jung Kook & Latto",
         "title": "Seven",
