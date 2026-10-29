@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:30:09.893594+00:00",
+  "updated_at_utc": "2026-10-29T04:31:12.904784+00:00",
   "stations": {
     "kis": [
       {
@@ -201,6 +201,11 @@
     ],
     "jak": [
       {
+        "artist": "The Fray",
+        "title": "How To Save A Life",
+        "detected_at_utc": "2026-10-29T04:30:52.548940+00:00"
+      },
+      {
         "artist": "LISA",
         "title": "SaWaDiKa",
         "detected_at_utc": "2026-10-29T04:27:34.472956+00:00"
@@ -392,6 +397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Calling All Girls",
+        "detected_at_utc": "2026-10-29T04:30:36.110142+00:00"
+      },
       {
         "artist": "Patrice Rushen",
         "title": "Remind Me",
