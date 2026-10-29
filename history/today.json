@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:18:21.295198+00:00",
+  "updated_at_utc": "2026-10-29T05:19:33.044833+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hoobastank",
+        "title": "The Reason",
+        "detected_at_utc": "2026-10-29T05:19:06.396985+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "WILDFLOWER",
