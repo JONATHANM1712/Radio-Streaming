@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:40:12.882232+00:00",
+  "updated_at_utc": "2026-10-29T04:41:15.575699+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-10-29T04:40:33.446117+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Manja",
