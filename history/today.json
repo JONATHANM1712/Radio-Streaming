@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:23:05.341977+00:00",
+  "updated_at_utc": "2026-10-29T03:24:10.788392+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Selalu Denganmu",
+        "detected_at_utc": "2026-10-29T03:24:10.667881+00:00"
+      },
       {
         "artist": "Ravyn Lenae",
         "title": "Love Me Not",
