@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:56:55.926510+00:00",
+  "updated_at_utc": "2026-10-29T05:58:17.914771+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "detected_at_utc": "2026-10-29T05:56:56.802828+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
