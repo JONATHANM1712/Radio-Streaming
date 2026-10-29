@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:34:54.111190+00:00",
+  "updated_at_utc": "2026-10-29T04:35:56.689441+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Manja",
+        "detected_at_utc": "2026-10-29T04:35:21.169733+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "How To Save A Life",
