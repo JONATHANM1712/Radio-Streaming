@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T02:34:58.972495+00:00",
+  "updated_at_utc": "2026-10-29T02:38:30.896904+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "International Love (feat. Chris Brown)",
+        "detected_at_utc": "2026-10-29T02:38:30.719310+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
