@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:43:43.339236+00:00",
+  "updated_at_utc": "2026-10-29T03:44:47.580287+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "Lonely (feat. Anne-Marie)",
+        "detected_at_utc": "2026-10-29T03:43:44.810216+00:00"
+      },
       {
         "artist": "Lifehouse",
         "title": "You and Me",
