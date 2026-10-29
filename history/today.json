@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:13:25.633676+00:00",
+  "updated_at_utc": "2026-10-29T04:14:53.703511+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "The Time Of My Life",
+        "detected_at_utc": "2026-10-29T04:14:53.615500+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Black Magic",
