@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:16:32.902257+00:00",
+  "updated_at_utc": "2026-10-29T03:17:38.049977+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Halmahera",
+        "title": "Khayalanku",
+        "detected_at_utc": "2026-10-29T03:17:37.929698+00:00"
+      },
       {
         "artist": "James Morrison",
         "title": "You Give Me Something (Refreshed)",
