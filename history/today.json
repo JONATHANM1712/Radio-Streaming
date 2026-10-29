@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:43:40.054033+00:00",
+  "updated_at_utc": "2026-10-29T04:44:42.608637+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Here's to Never Growing Up",
+        "detected_at_utc": "2026-10-29T04:43:46.871750+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
