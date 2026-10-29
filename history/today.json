@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:38:51.331822+00:00",
+  "updated_at_utc": "2026-10-29T08:39:54.000355+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-10-29T08:39:53.019574+00:00"
+      },
       {
         "artist": "Timbaland & OneRepublic",
         "title": "Apologize",
