@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T10:12:20.193828+00:00",
+  "updated_at_utc": "2026-10-29T10:13:22.885364+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Raisa",
+        "title": "Could It Be",
+        "detected_at_utc": "2026-10-29T10:13:21.217432+00:00"
+      },
       {
         "artist": "Digital Kid",
         "title": "Old Radio",
@@ -485,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "Run the World (Girls)",
+        "detected_at_utc": "2026-10-29T10:12:20.975358+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Setapak Sriwedari",
