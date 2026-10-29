@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:46:40.263860+00:00",
+  "updated_at_utc": "2026-10-29T09:47:43.059819+00:00",
   "stations": {
     "kis": [
       {
@@ -937,6 +937,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "INXS",
+        "title": "Suicide Blonde",
+        "detected_at_utc": "2026-10-29T09:46:42.397114+00:00"
+      },
       {
         "artist": "The Knack",
         "title": "My Sharona",
