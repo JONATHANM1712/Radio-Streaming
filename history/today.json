@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T10:00:03.180726+00:00",
+  "updated_at_utc": "2026-10-29T10:05:09.682476+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ultra",
+        "title": "Say It Once (Single Edit)",
+        "detected_at_utc": "2026-10-29T10:05:09.582841+00:00"
+      },
       {
         "artist": "KLa Project",
         "title": "Tak Bisa Ke Lain Hati",
