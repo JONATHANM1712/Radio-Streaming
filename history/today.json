@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:47:58.291707+00:00",
+  "updated_at_utc": "2026-10-29T03:50:13.085811+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Sementara",
+        "detected_at_utc": "2026-10-29T03:50:12.933502+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "Lonely (feat. Anne-Marie)",
