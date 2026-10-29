@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:54:11.948800+00:00",
+  "updated_at_utc": "2026-10-29T07:55:14.793054+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Photograph",
+        "detected_at_utc": "2026-10-29T07:54:18.279695+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
