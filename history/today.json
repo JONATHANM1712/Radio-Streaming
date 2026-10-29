@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:25:13.784126+00:00",
+  "updated_at_utc": "2026-10-29T03:28:31.425795+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris & Rihanna",
+        "title": "This Is What You Came For",
+        "detected_at_utc": "2026-10-29T03:28:31.111815+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Selalu Denganmu",
