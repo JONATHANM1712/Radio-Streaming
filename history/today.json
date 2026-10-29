@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T12:52:00.947764+00:00",
+  "updated_at_utc": "2026-10-29T12:55:09.062930+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Novie",
+        "title": "Jangan Pernah (feat. T-Five)",
+        "detected_at_utc": "2026-10-29T12:55:08.978626+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "I'll Make Love To You",
