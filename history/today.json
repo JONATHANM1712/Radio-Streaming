@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:30:57.495660+00:00",
+  "updated_at_utc": "2026-10-29T05:32:00.269948+00:00",
   "stations": {
     "kis": [
       {
@@ -276,6 +276,11 @@
     ],
     "jak": [
       {
+        "artist": "Five for Fighting",
+        "title": "100 Years",
+        "detected_at_utc": "2026-10-29T05:31:35.955282+00:00"
+      },
+      {
         "artist": "ROSÉ",
         "title": "new trick",
         "detected_at_utc": "2026-10-29T05:28:29.386313+00:00"
@@ -532,6 +537,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "AC/DC",
+        "title": "You Shook Me All Night Long",
+        "detected_at_utc": "2026-10-29T05:31:01.682764+00:00"
+      },
       {
         "artist": "The Police",
         "title": "De Do Do Do, De Da Da Da",
