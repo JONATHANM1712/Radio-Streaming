@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T06:15:09.750567+00:00",
+  "updated_at_utc": "2026-10-29T06:16:12.926931+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "It Girl",
+        "detected_at_utc": "2026-10-29T06:16:09.874154+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
