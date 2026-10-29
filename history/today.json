@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:51:17.684423+00:00",
+  "updated_at_utc": "2026-10-29T05:52:20.995770+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "detected_at_utc": "2026-10-29T05:51:39.814538+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Marry You",
