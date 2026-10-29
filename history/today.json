@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:49:04.654845+00:00",
+  "updated_at_utc": "2026-10-29T05:51:17.684423+00:00",
   "stations": {
     "kis": [
       {
@@ -577,6 +577,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joan Jett & The Blackhearts",
+        "title": "I Hate Myself for Loving You",
+        "detected_at_utc": "2026-10-29T05:51:17.562680+00:00"
+      },
       {
         "artist": "Chicago",
         "title": "Hard to Say I'm Sorry",
