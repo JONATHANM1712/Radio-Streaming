@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T12:10:28.177604+00:00",
+  "updated_at_utc": "2026-10-29T12:11:33.704761+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Color Me Badd",
+        "title": "Close to Heaven",
+        "detected_at_utc": "2026-10-29T12:11:22.801222+00:00"
+      },
       {
         "artist": "Arkarna",
         "title": "So Little Time",
@@ -1037,6 +1042,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "Shiny Happy People",
+        "detected_at_utc": "2026-10-29T12:11:22.300480+00:00"
+      },
       {
         "artist": "Arcadia",
         "title": "Election Day",
