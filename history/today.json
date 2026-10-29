@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:50:03.341473+00:00",
+  "updated_at_utc": "2026-10-29T07:51:12.541376+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanice",
+        "title": "I Love Your Smile",
+        "detected_at_utc": "2026-10-29T07:51:12.454932+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Maafkan",
