@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:56:21.868107+00:00",
+  "updated_at_utc": "2026-10-29T07:57:24.542010+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "The Sweet Escape (feat. Akon)",
+        "detected_at_utc": "2026-10-29T07:57:18.972106+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "Indecision (feat. Daniel Caesar)",
