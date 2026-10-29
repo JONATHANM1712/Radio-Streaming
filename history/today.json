@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:39:25.647187+00:00",
+  "updated_at_utc": "2026-10-29T03:42:40.046012+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-29T03:42:39.913718+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Ratu Lebah (Live)",
