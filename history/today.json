@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:24:09.232730+00:00",
+  "updated_at_utc": "2026-10-29T07:25:11.937251+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "We Can't Stop",
+        "detected_at_utc": "2026-10-29T07:24:09.884544+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Aku Wanita",
