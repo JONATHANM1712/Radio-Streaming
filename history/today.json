@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:13:45.874425+00:00",
+  "updated_at_utc": "2026-10-29T07:15:51.131108+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Mraz & Colbie Caillat",
+        "title": "Lucky",
+        "detected_at_utc": "2026-10-29T07:15:51.009369+00:00"
+      },
       {
         "artist": "TLC",
         "title": "Creep",
