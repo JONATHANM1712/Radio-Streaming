@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:46:53.421731+00:00",
+  "updated_at_utc": "2026-10-29T05:47:57.086058+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Marry You",
+        "detected_at_utc": "2026-10-29T05:47:16.674098+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
