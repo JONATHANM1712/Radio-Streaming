@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:07:38.599391+00:00",
+  "updated_at_utc": "2026-10-29T04:08:41.744782+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jung Kook & Latto",
+        "title": "Seven",
+        "detected_at_utc": "2026-10-29T04:08:25.867097+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
