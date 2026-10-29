@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:58:44.475816+00:00",
+  "updated_at_utc": "2026-10-29T08:59:55.806288+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-10-29T08:59:55.720374+00:00"
+      },
       {
         "artist": "Snoop Dogg",
         "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
