@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:37:19.433981+00:00",
+  "updated_at_utc": "2026-10-29T03:39:25.647187+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lifehouse",
+        "title": "You and Me",
+        "detected_at_utc": "2026-10-29T03:39:25.508904+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
