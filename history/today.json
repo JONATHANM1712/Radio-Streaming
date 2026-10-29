@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:24:56.949598+00:00",
+  "updated_at_utc": "2026-10-29T04:27:34.563994+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-10-29T04:27:34.472956+00:00"
+      },
       {
         "artist": "DJ Snake",
         "title": "Let Me Love You (feat. Justin Bieber)",
