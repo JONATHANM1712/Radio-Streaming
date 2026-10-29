@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:04:31.345075+00:00",
+  "updated_at_utc": "2026-10-29T08:07:37.291382+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tommy Richman",
+        "title": "MILLION DOLLAR BABY",
+        "detected_at_utc": "2026-10-29T08:07:37.204999+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Raise Your Glass",
