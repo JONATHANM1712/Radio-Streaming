@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:41:32.809497+00:00",
+  "updated_at_utc": "2026-10-29T05:42:36.610019+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "rollerblade",
+        "detected_at_utc": "2026-10-29T05:41:59.707770+00:00"
+      },
       {
         "artist": "Pamungkas",
         "title": "To the Bone",
