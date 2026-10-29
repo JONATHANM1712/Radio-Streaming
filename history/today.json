@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:56:24.682989+00:00",
+  "updated_at_utc": "2026-10-29T04:57:27.249836+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Powter",
+        "title": "Bad Day",
+        "detected_at_utc": "2026-10-29T04:56:58.088821+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
