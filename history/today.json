@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:50:13.085811+00:00",
+  "updated_at_utc": "2026-10-29T03:51:16.724092+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Marvin Gaye (feat. Meghan Trainor)",
+        "detected_at_utc": "2026-10-29T03:50:14.655704+00:00"
+      },
       {
         "artist": "3T",
         "title": "Didn't Mean to Hurt You",
@@ -302,6 +307,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Saigon Kick",
+        "title": "I Love You",
+        "detected_at_utc": "2026-10-29T03:51:14.060053+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Kiss of Life",
