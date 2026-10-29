@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:08:41.744782+00:00",
+  "updated_at_utc": "2026-10-29T04:10:17.930055+00:00",
   "stations": {
     "kis": [
       {
@@ -342,6 +342,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Bangles",
+        "title": "Manic Monday",
+        "detected_at_utc": "2026-10-29T04:10:17.846603+00:00"
+      },
       {
         "artist": "B-Tight",
         "title": "Sie will mich (Tai Jason Remix)",
