@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:12:39.973067+00:00",
+  "updated_at_utc": "2026-10-29T07:13:45.874425+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "You'll Be In My Heart",
+        "detected_at_utc": "2026-10-29T07:13:45.758303+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Never Knew I Needed",
