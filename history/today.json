@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T10:06:12.576450+00:00",
+  "updated_at_utc": "2026-10-29T10:09:15.196023+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Digital Kid",
+        "title": "Old Radio",
+        "detected_at_utc": "2026-10-29T10:09:15.117611+00:00"
+      },
       {
         "artist": "Ultra",
         "title": "Say It Once (Single Edit)",
