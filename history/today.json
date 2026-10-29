@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T11:43:55.416537+00:00",
+  "updated_at_utc": "2026-10-29T11:44:58.540570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Keala Settle & The Greatest Showman Ensemble",
+        "title": "This Is Me",
+        "detected_at_utc": "2026-10-29T11:44:26.712036+00:00"
+      },
       {
         "artist": "O-Town",
         "title": "All or Nothing",
