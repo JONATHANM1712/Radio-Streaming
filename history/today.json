@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:44:42.608637+00:00",
+  "updated_at_utc": "2026-10-29T04:45:45.320205+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "detected_at_utc": "2026-10-29T04:45:26.898438+00:00"
+      },
       {
         "artist": "Kris Dayanti",
         "title": "Mencintaimu",
