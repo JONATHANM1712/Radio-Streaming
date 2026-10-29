@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:10:01.519803+00:00",
+  "updated_at_utc": "2026-10-29T09:11:34.893277+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Buttons",
+        "detected_at_utc": "2026-10-29T09:11:34.769326+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
