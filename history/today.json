@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:26:22.854056+00:00",
+  "updated_at_utc": "2026-10-29T08:27:25.749530+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-10-29T08:27:24.415824+00:00"
+      },
       {
         "artist": "R. City",
         "title": "Locked Away (feat. Adam Levine)",
