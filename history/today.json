@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:37:48.795212+00:00",
+  "updated_at_utc": "2026-10-29T08:38:51.331822+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement, The Cataracs & DEV",
+        "title": "Like a G6",
+        "detected_at_utc": "2026-10-29T08:38:49.741650+00:00"
+      },
       {
         "artist": "Vanessa Carlton",
         "title": "A Thousand Miles",
