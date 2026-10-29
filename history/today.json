@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:53:50.767769+00:00",
+  "updated_at_utc": "2026-10-29T08:56:50.347217+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
+        "detected_at_utc": "2026-10-29T08:56:50.249182+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Hari Bersamanya",
