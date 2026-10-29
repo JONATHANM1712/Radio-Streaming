@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T02:38:30.896904+00:00",
+  "updated_at_utc": "2026-10-29T02:40:34.491025+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "What's My Name? (feat. Drake)",
+        "detected_at_utc": "2026-10-29T02:40:34.366191+00:00"
+      },
       {
         "artist": "Swirl 360",
         "title": "Hey Now Now",
