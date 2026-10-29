@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:05:32.561794+00:00",
+  "updated_at_utc": "2026-10-29T05:07:36.369700+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-10-29T05:07:36.231223+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Superheroes",
