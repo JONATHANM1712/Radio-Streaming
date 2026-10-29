@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T11:59:05.437330+00:00",
+  "updated_at_utc": "2026-10-29T12:02:12.486742+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Arkarna",
+        "title": "So Little Time",
+        "detected_at_utc": "2026-10-29T12:02:12.179863+00:00"
+      },
       {
         "artist": "Everything But the Girl & Todd Terry",
         "title": "Missing (Todd Terry Club Mix)",
