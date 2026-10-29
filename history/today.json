@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:47:43.059819+00:00",
+  "updated_at_utc": "2026-10-29T09:51:50.216316+00:00",
   "stations": {
     "kis": [
       {
@@ -937,6 +937,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cardigans",
+        "title": "Rise & Shine",
+        "detected_at_utc": "2026-10-29T09:51:50.135515+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Suicide Blonde",
