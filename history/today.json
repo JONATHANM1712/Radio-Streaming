@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T02:58:00.444639+00:00",
+  "updated_at_utc": "2026-10-29T03:00:18.469626+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore & Jonathan Foreman",
+        "title": "Someday We'll Know",
+        "detected_at_utc": "2026-10-29T03:00:18.322771+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "SexyBack (feat. Timbaland)",
