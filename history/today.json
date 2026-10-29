@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:34:41.474722+00:00",
+  "updated_at_utc": "2026-10-29T08:37:48.795212+00:00",
   "stations": {
     "kis": [
       {
@@ -832,6 +832,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Poison",
+        "title": "Bad to Be Good",
+        "detected_at_utc": "2026-10-29T08:37:48.710084+00:00"
+      },
       {
         "artist": "SHAKATAK",
         "title": "Down On The Street",
