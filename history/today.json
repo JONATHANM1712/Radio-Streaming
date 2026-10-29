@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:51:12.541376+00:00",
+  "updated_at_utc": "2026-10-29T07:54:11.948800+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "Indecision (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-10-29T07:54:11.854815+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Part Of Me",
