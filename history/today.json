@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:14:53.703511+00:00",
+  "updated_at_utc": "2026-10-29T04:15:56.354512+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kerispatih",
+        "title": "Mengenangmu",
+        "detected_at_utc": "2026-10-29T04:15:14.981234+00:00"
+      },
       {
         "artist": "Frente",
         "title": "Open Up Your Heart and Let the Sun Shine In",
