@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T08:23:18.263978+00:00",
+  "updated_at_utc": "2026-10-29T08:24:20.921598+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-10-29T08:23:18.495579+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
