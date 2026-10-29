@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T06:02:58.348323+00:00",
+  "updated_at_utc": "2026-10-29T06:04:01.767333+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zedd",
+        "title": "Clarity (feat. Foxes)",
+        "detected_at_utc": "2026-10-29T06:03:19.848270+00:00"
+      },
       {
         "artist": "Catatonia",
         "title": "Dead from the Waist Down",
