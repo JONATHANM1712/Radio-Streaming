@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:36:08.854956+00:00",
+  "updated_at_utc": "2026-10-29T05:38:21.553915+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewi Sandra",
+        "title": "Buktikan",
+        "detected_at_utc": "2026-10-29T05:38:21.432932+00:00"
+      },
       {
         "artist": "Christian Bautista",
         "title": "The Way You Look At Me (Acoustic)",
