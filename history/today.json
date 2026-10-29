@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-28T17:45:35.531108+00:00",
+  "updated_at_utc": "2026-10-29T02:23:22.857778+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Rich Girl (feat. Eve)",
+        "detected_at_utc": "2026-10-29T02:23:22.713648+00:00"
+      },
       {
         "artist": "Jikustik",
         "title": "Setia",
