@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T12:11:33.704761+00:00",
+  "updated_at_utc": "2026-10-29T12:47:49.767562+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Special Kind Of Something",
+        "detected_at_utc": "2026-10-29T12:47:49.738634+00:00"
+      },
       {
         "artist": "Color Me Badd",
         "title": "Close to Heaven",
@@ -526,6 +531,11 @@
     ],
     "jak": [
       {
+        "artist": "Snoop Dogg & Wiz Khalifa",
+        "title": "Young, Wild & Free (feat. Bruno Mars)",
+        "detected_at_utc": "2026-10-29T12:47:49.628594+00:00"
+      },
+      {
         "artist": "Kanye West",
         "title": "Heartless",
         "detected_at_utc": "2026-10-29T12:10:27.810459+00:00"
@@ -1042,6 +1052,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "January Christy",
+        "title": "Melayang",
+        "detected_at_utc": "2026-10-29T12:47:49.696202+00:00"
+      },
       {
         "artist": "R.E.M.",
         "title": "Shiny Happy People",
