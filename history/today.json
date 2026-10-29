@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T09:27:05.791437+00:00",
+  "updated_at_utc": "2026-10-29T09:28:09.119907+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "U Remind Me",
+        "detected_at_utc": "2026-10-29T09:28:00.321447+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
