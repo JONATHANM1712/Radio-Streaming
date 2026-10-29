@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T06:05:04.946319+00:00",
+  "updated_at_utc": "2026-10-29T06:06:30.772099+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Training Season",
+        "detected_at_utc": "2026-10-29T06:06:30.643929+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "Just A Dream (Main)",
