@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T07:37:37.029205+00:00",
+  "updated_at_utc": "2026-10-29T07:38:39.617522+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-10-29T07:37:41.587479+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "My All",
@@ -355,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "detected_at_utc": "2026-10-29T07:38:38.722010+00:00"
+      },
       {
         "artist": "Felpa",
         "title": "I'm Just a Kid",
