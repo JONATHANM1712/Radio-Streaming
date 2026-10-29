@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:28:31.425795+00:00",
+  "updated_at_utc": "2026-10-29T03:29:36.080146+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Special Kind Of Something",
+        "detected_at_utc": "2026-10-29T03:29:35.958695+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Can't Feel My Face",
