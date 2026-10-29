@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T06:06:30.772099+00:00",
+  "updated_at_utc": "2026-10-29T06:07:33.951379+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blue",
+        "title": "All Rise",
+        "detected_at_utc": "2026-10-29T06:07:33.195338+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Clarity (feat. Foxes)",
