@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T05:47:57.086058+00:00",
+  "updated_at_utc": "2026-10-29T05:49:04.654845+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Great DJ",
+        "detected_at_utc": "2026-10-29T05:49:04.521478+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "You'll Be In My Heart",
