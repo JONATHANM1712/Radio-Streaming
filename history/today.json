@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T04:23:54.013857+00:00",
+  "updated_at_utc": "2026-10-29T04:24:56.949598+00:00",
   "stations": {
     "kis": [
       {
@@ -196,6 +196,11 @@
     ],
     "jak": [
       {
+        "artist": "DJ Snake",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-10-29T04:24:23.382843+00:00"
+      },
+      {
         "artist": "Sammy Simorangkir",
         "title": "Dia",
         "detected_at_utc": "2026-10-29T04:18:08.692510+00:00"
@@ -377,6 +382,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Patrice Rushen",
+        "title": "Remind Me",
+        "detected_at_utc": "2026-10-29T04:24:17.872103+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Not Enough Time",
