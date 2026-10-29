@@ -1,8 +1,13 @@
 {
   "date": "2026-10-29",
-  "updated_at_utc": "2026-10-29T03:19:54.683648+00:00",
+  "updated_at_utc": "2026-10-29T03:22:01.924203+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-10-29T03:22:01.738324+00:00"
+      },
       {
         "artist": "Halmahera",
         "title": "Khayalanku",
