@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:51:34.250888+00:00",
+  "updated_at_utc": "2026-11-07T11:52:36.711961+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-07T11:51:39.301421+00:00"
+      },
       {
         "artist": "Kings of Leon",
         "title": "Use Somebody",
@@ -152,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Deep Purple",
+        "title": "Black Night (2002 Remaster)",
+        "detected_at_utc": "2026-11-07T11:52:27.149496+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "When I Come Around",
