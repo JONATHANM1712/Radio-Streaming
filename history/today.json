@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:25:44.832009+00:00",
+  "updated_at_utc": "2026-11-07T15:26:55.307706+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "What I've Done",
+        "detected_at_utc": "2026-11-07T15:26:55.223771+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
