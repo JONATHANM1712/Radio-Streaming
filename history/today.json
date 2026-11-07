@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:20:58.465290+00:00",
+  "updated_at_utc": "2026-11-07T16:22:01.386177+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lukas Graham",
+        "title": "7 Years",
+        "detected_at_utc": "2026-11-07T16:21:10.212555+00:00"
+      },
       {
         "artist": "Alter Bridge",
         "title": "Open Your Eyes",
@@ -872,6 +877,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Public Image Ltd.",
+        "title": "Public Image",
+        "detected_at_utc": "2026-11-07T16:20:59.547028+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Around the World",
