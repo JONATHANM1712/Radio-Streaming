@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:49:59.764573+00:00",
+  "updated_at_utc": "2026-11-07T13:51:02.955922+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Duffy",
+        "title": "Mercy",
+        "detected_at_utc": "2026-11-07T13:50:46.879437+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
