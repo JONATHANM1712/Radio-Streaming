@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:28:53.873896+00:00",
+  "updated_at_utc": "2026-11-07T12:31:02.263359+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-07T12:31:02.171168+00:00"
+      },
       {
         "artist": "Mêlée",
         "title": "Built to Last",
