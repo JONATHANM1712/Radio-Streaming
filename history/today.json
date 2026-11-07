@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:57:28.844818+00:00",
+  "updated_at_utc": "2026-11-07T15:58:37.954357+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Me Too",
+        "detected_at_utc": "2026-11-07T15:58:37.825571+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Gravity",
