@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:12:51.220303+00:00",
+  "updated_at_utc": "2026-11-07T14:13:53.695030+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Farrel Hilal",
+        "title": "Keliling",
+        "detected_at_utc": "2026-11-07T14:12:56.787636+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
