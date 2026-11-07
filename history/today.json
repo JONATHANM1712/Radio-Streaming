@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:04:45.473682+00:00",
+  "updated_at_utc": "2026-11-07T11:07:31.634452+00:00",
   "stations": {
     "kis": [
       {
@@ -37,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Oasis",
+        "title": "Champagne Supernova",
+        "detected_at_utc": "2026-11-07T11:07:31.343256+00:00"
+      },
       {
         "artist": "Electric Light Orchestra",
         "title": "Telephone Line",
