@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T10:58:19.627784+00:00",
+  "updated_at_utc": "2026-11-07T10:59:23.034947+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SAMSONS",
+        "title": "Kisah Tak Sempurna",
+        "detected_at_utc": "2026-11-07T10:58:34.741000+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Stickwitu",
