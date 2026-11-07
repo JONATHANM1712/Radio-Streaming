@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:04:34.890859+00:00",
+  "updated_at_utc": "2026-11-07T16:05:38.210609+00:00",
   "stations": {
     "kis": [
       {
@@ -827,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Girls, Girls, Girls",
+        "detected_at_utc": "2026-11-07T16:05:37.056360+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "State of Love and Trust",
