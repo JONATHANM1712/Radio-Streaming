@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:26:11.752828+00:00",
+  "updated_at_utc": "2026-11-07T14:27:14.292931+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-07T14:26:21.682316+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Last Friday Night (T.G.I.F.)",
