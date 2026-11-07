@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:17:51.883006+00:00",
+  "updated_at_utc": "2026-11-07T13:19:32.728386+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Cintailah Cinta",
+        "detected_at_utc": "2026-11-07T13:19:32.588299+00:00"
+      },
       {
         "artist": "The Temper Trap",
         "title": "Sweet Disposition",
