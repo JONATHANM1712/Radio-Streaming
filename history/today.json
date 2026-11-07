@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:53:42.213428+00:00",
+  "updated_at_utc": "2026-11-07T12:54:44.635531+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Airplanes (feat. Hayley Williams of Paramore)",
+        "detected_at_utc": "2026-11-07T12:53:51.915534+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
@@ -312,6 +317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Nirvana",
+        "title": "On A Plain",
+        "detected_at_utc": "2026-11-07T12:54:34.031498+00:00"
+      },
       {
         "artist": "Blind Melon",
         "title": "Tones of Home",
