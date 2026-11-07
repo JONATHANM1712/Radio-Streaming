@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:37:18.741949+00:00",
+  "updated_at_utc": "2026-11-07T13:38:22.088351+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kotak",
+        "title": "Masih Cinta",
+        "detected_at_utc": "2026-11-07T13:38:04.592520+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Yellow",
@@ -205,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Trouble",
+        "detected_at_utc": "2026-11-07T13:37:22.576189+00:00"
+      },
       {
         "artist": "TheOvertunes",
         "title": "Bicara (feat. Monita Tahalea)",
