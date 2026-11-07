@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:14:56.122473+00:00",
+  "updated_at_utc": "2026-11-07T14:15:58.538684+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "If You Come Back",
+        "detected_at_utc": "2026-11-07T14:15:01.598137+00:00"
+      },
       {
         "artist": "Farrel Hilal",
         "title": "Keliling",
