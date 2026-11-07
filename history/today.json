@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:29:44.833851+00:00",
+  "updated_at_utc": "2026-11-07T17:30:49.005340+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Softest Touch",
+        "detected_at_utc": "2026-11-07T17:29:53.343590+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Umbrella (feat. JAŸ-Z) [Mixed]",
