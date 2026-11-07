@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:57:11.610169+00:00",
+  "updated_at_utc": "2026-11-07T13:58:16.285027+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bon Jovi",
+        "title": "It's My Life",
+        "detected_at_utc": "2026-11-07T13:58:00.190190+00:00"
+      },
       {
         "artist": "Kavana",
         "title": "Special Kind Of Something",
@@ -230,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-07T13:57:14.684916+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Cry Me a River",
