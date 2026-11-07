@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:27:51.477092+00:00",
+  "updated_at_utc": "2026-11-07T12:28:53.873896+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mêlée",
+        "title": "Built to Last",
+        "detected_at_utc": "2026-11-07T12:27:57.715343+00:00"
+      },
       {
         "artist": "Echosmith",
         "title": "Cool Kids",
