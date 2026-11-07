@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:06:31.615052+00:00",
+  "updated_at_utc": "2026-11-07T14:08:33.835897+00:00",
   "stations": {
     "kis": [
       {
@@ -512,6 +512,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Misfits",
+        "title": "Last Caress",
+        "detected_at_utc": "2026-11-07T14:08:33.703136+00:00"
+      },
       {
         "artist": "Beastie Boys",
         "title": "Fight for Your Right",
