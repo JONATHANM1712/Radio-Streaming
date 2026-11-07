@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:55:57.968811+00:00",
+  "updated_at_utc": "2026-11-07T14:57:00.413363+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-11-07T14:56:08.233161+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
