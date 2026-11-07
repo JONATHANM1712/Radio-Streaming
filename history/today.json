@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:17:23.502532+00:00",
+  "updated_at_utc": "2026-11-07T17:18:26.761935+00:00",
   "stations": {
     "kis": [
       {
@@ -36,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Eve",
+        "title": "Let Me Blow Ya Mind (feat. Gwen Stefani & Stevie J.)",
+        "detected_at_utc": "2026-11-07T17:17:33.075998+00:00"
+      },
+      {
         "artist": "Tulus",
         "title": "Teh Hijau",
         "detected_at_utc": "2026-11-07T17:13:27.191600+00:00"
@@ -62,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Kissed You In The Rain",
+        "detected_at_utc": "2026-11-07T17:18:26.131620+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Bis wir uns wiederseh'n",
