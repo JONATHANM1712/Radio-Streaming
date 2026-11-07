@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:23:39.978982+00:00",
+  "updated_at_utc": "2026-11-07T15:24:42.452677+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-07T15:23:51.052147+00:00"
+      },
       {
         "artist": "Jonas Blue",
         "title": "By Your Side (feat. RAYE)",
