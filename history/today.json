@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:45:17.774376+00:00",
+  "updated_at_utc": "2026-11-07T11:47:32.006644+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings of Leon",
+        "title": "Use Somebody",
+        "detected_at_utc": "2026-11-07T11:47:31.923137+00:00"
+      },
       {
         "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
         "title": "Get Lucky",
