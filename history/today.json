@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:11:47.728250+00:00",
+  "updated_at_utc": "2026-11-07T16:12:50.755657+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-07T16:11:56.969968+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Just the Way You Are",
