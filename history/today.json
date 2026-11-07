@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:02:24.017831+00:00",
+  "updated_at_utc": "2026-11-07T11:03:42.275447+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Temper Trap",
+        "title": "Sweet Disposition",
+        "detected_at_utc": "2026-11-07T11:03:42.092272+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Kisah Tak Sempurna",
