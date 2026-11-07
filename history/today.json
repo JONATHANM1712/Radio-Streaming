@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:41:06.699893+00:00",
+  "updated_at_utc": "2026-11-07T12:43:34.762790+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Next To You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-07T12:43:34.681551+00:00"
+      },
       {
         "artist": "Reza Chandika, Rendha Rais & Laleilmanino",
         "title": "Sampai Kapan",
