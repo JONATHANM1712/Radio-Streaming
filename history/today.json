@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:53:19.239179+00:00",
+  "updated_at_utc": "2026-11-07T15:54:21.585247+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-07T15:53:31.453148+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Don't Wanna Try",
@@ -792,6 +797,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Led Zeppelin",
+        "title": "Rock and Roll",
+        "detected_at_utc": "2026-11-07T15:53:19.984838+00:00"
+      },
       {
         "artist": "Black Sabbath",
         "title": "Paranoid",
