@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:32:15.988876+00:00",
+  "updated_at_utc": "2026-11-07T16:33:27.957006+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Keane",
+        "title": "Everybody's Changing",
+        "detected_at_utc": "2026-11-07T16:33:27.833338+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
