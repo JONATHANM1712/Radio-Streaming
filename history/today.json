@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:26:14.784923+00:00",
+  "updated_at_utc": "2026-11-07T13:29:56.532169+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-11-07T13:29:56.356612+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
@@ -402,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Cinderella",
+        "title": "One For Rock & Roll",
+        "detected_at_utc": "2026-11-07T13:29:56.489770+00:00"
+      },
       {
         "artist": "Sublime",
         "title": "Doin' Time",
