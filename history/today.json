@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:01:30.335184+00:00",
+  "updated_at_utc": "2026-11-07T16:02:33.395380+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "PILLOWTALK",
+        "detected_at_utc": "2026-11-07T16:01:42.147203+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Me Too",
@@ -817,6 +822,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pearl Jam",
+        "title": "State of Love and Trust",
+        "detected_at_utc": "2026-11-07T16:02:32.359071+00:00"
+      },
       {
         "artist": "Living Colour",
         "title": "Cult Of Personality",
