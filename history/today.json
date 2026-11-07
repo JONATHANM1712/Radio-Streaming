@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:45:40.250736+00:00",
+  "updated_at_utc": "2026-11-07T14:46:56.090596+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Secrets",
+        "detected_at_utc": "2026-11-07T14:46:56.011654+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
