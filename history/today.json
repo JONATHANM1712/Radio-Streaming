@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:20:49.107357+00:00",
+  "updated_at_utc": "2026-11-07T14:22:15.359274+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "detected_at_utc": "2026-11-07T14:22:15.276217+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Black Magic",
