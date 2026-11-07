@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:34:14.580677+00:00",
+  "updated_at_utc": "2026-11-07T13:37:18.741949+00:00",
   "stations": {
     "kis": [
       {
@@ -422,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Paradise City",
+        "detected_at_utc": "2026-11-07T13:37:18.495186+00:00"
+      },
       {
         "artist": "Death Angel",
         "title": "Stagnant",
