@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:38:22.088351+00:00",
+  "updated_at_utc": "2026-11-07T13:41:39.131101+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris & Disciples",
+        "title": "How Deep Is Your Love",
+        "detected_at_utc": "2026-11-07T13:41:39.004092+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Trouble",
