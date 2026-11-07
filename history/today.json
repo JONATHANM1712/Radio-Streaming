@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:19:32.728386+00:00",
+  "updated_at_utc": "2026-11-07T13:20:38.637040+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "IDGAF (Radio Edit)",
+        "detected_at_utc": "2026-11-07T13:20:00.937998+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Stronger (What Doesn't Kill You)",
