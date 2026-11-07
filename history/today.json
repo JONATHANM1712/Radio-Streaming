@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:06:10.331158+00:00",
+  "updated_at_utc": "2026-11-07T12:08:04.256949+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eminem",
+        "title": "The Real Slim Shady",
+        "detected_at_utc": "2026-11-07T12:08:04.151444+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Sorry",
