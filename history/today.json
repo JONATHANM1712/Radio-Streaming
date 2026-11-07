@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:43:12.857772+00:00",
+  "updated_at_utc": "2026-11-07T11:44:15.296889+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "title": "Get Lucky",
+        "detected_at_utc": "2026-11-07T11:43:26.392630+00:00"
+      },
       {
         "artist": "Jamie Cullum",
         "title": "Everlasting Love",
