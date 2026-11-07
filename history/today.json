@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:08:35.341842+00:00",
+  "updated_at_utc": "2026-11-07T11:09:38.697295+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SWV",
+        "title": "Weak",
+        "detected_at_utc": "2026-11-07T11:08:40.373543+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
