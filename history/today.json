@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:18:30.604752+00:00",
+  "updated_at_utc": "2026-11-07T12:19:33.560998+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "peterpan",
+        "title": "Ada Apa Denganmu",
+        "detected_at_utc": "2026-11-07T12:18:32.207854+00:00"
+      },
       {
         "artist": "Alison Limerick",
         "title": "Make It On My Own",
@@ -110,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Howie Day",
+        "title": "Collide",
+        "detected_at_utc": "2026-11-07T12:18:43.556972+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
