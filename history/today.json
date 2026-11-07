@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:30:49.005340+00:00",
+  "updated_at_utc": "2026-11-07T17:31:51.926619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Somebody to Love (Remix) [feat. USHER]",
+        "detected_at_utc": "2026-11-07T17:31:46.274285+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "Feel This Moment (feat. Christina Aguilera)",
