@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:59:59.096808+00:00",
+  "updated_at_utc": "2026-11-07T12:01:02.128473+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Rasmus",
+        "title": "In the Shadows",
+        "detected_at_utc": "2026-11-07T12:00:52.840300+00:00"
+      },
       {
         "artist": "Eric Gadd",
         "title": "Why Don't You, Why Don't I",
@@ -172,6 +177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Soundgarden",
+        "title": "Black Hole Sun",
+        "detected_at_utc": "2026-11-07T12:00:43.049269+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "Under the Same Sun",
