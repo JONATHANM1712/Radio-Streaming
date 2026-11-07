@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:41:31.167608+00:00",
+  "updated_at_utc": "2026-11-07T16:42:34.380888+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Never Say Never (feat. Jaden)",
+        "detected_at_utc": "2026-11-07T16:41:41.590956+00:00"
+      },
       {
         "artist": "NewJeans",
         "title": "Ditto",
