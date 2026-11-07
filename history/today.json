@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:36:19.862630+00:00",
+  "updated_at_utc": "2026-11-07T15:38:11.394475+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "I Really Like You",
+        "detected_at_utc": "2026-11-07T15:38:11.298276+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "In Your Eyes",
