@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:51:01.606829+00:00",
+  "updated_at_utc": "2026-11-07T14:52:53.596478+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
+        "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
+        "detected_at_utc": "2026-11-07T14:52:53.516548+00:00"
+      },
       {
         "artist": "Dave Matthews Band",
         "title": "Ants Marching",
