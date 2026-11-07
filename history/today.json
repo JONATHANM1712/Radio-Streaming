@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:06:06.788635+00:00",
+  "updated_at_utc": "2026-11-07T13:08:21.243234+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-07T13:08:21.158366+00:00"
+      },
       {
         "artist": "OKAAY",
         "title": "Peneman Malam Sepi",
