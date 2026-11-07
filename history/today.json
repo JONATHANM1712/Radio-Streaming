@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:05:05.332085+00:00",
+  "updated_at_utc": "2026-11-07T17:06:08.309888+00:00",
   "stations": {
     "kis": [
       {
@@ -21,6 +21,11 @@
     ],
     "jak": [
       {
+        "artist": "Matchbox Twenty",
+        "title": "Bent",
+        "detected_at_utc": "2026-11-07T17:05:15.723443+00:00"
+      },
+      {
         "artist": "Swedish House Mafia",
         "title": "Don't You Worry Child (feat. John Martin)",
         "detected_at_utc": "2026-11-07T17:02:11.455594+00:00"
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Heal the World",
+        "detected_at_utc": "2026-11-07T17:05:06.462823+00:00"
+      },
       {
         "artist": "Kurtis Blow",
         "title": "The Breaks (Re-Recorded)",
