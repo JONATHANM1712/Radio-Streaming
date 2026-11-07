@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:09:38.697295+00:00",
+  "updated_at_utc": "2026-11-07T11:12:46.667090+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "BRKNRBTZ",
+        "title": "Marry Your Daughter",
+        "detected_at_utc": "2026-11-07T11:12:46.494882+00:00"
+      },
       {
         "artist": "SWV",
         "title": "Weak",
