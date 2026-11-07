@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:43:53.145125+00:00",
+  "updated_at_utc": "2026-11-07T13:44:56.814754+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "I Won't Give Up",
+        "detected_at_utc": "2026-11-07T13:44:48.770049+00:00"
+      },
       {
         "artist": "Calvin Harris & Disciples",
         "title": "How Deep Is Your Love",
