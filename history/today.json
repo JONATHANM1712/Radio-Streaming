@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:32:04.755265+00:00",
+  "updated_at_utc": "2026-11-07T12:34:12.261586+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jack Johnson",
+        "title": "Upside Down",
+        "detected_at_utc": "2026-11-07T12:34:12.144510+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
