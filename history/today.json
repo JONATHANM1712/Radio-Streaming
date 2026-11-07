@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:03:12.269197+00:00",
+  "updated_at_utc": "2026-11-07T17:05:05.332085+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Can't Get You Out of My Head",
+        "detected_at_utc": "2026-11-07T17:05:05.218227+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Sugar",
