@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:11:48.795537+00:00",
+  "updated_at_utc": "2026-11-07T14:12:51.220303+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-07T14:11:54.838838+00:00"
+      },
       {
         "artist": "Iyaz",
         "title": "Solo",
