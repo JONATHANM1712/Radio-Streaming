@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:40:04.170319+00:00",
+  "updated_at_utc": "2026-11-07T12:41:06.699893+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Sedih Tak Berujung",
+        "detected_at_utc": "2026-11-07T12:40:15.893605+00:00"
+      },
       {
         "artist": "Relish",
         "title": "You I'm Thinking Of",
@@ -135,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Reza Chandika, Rendha Rais & Laleilmanino",
+        "title": "Sampai Kapan",
+        "detected_at_utc": "2026-11-07T12:40:22.598384+00:00"
+      },
       {
         "artist": "Jack Johnson",
         "title": "Upside Down",
