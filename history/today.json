@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:58:00.929665+00:00",
+  "updated_at_utc": "2026-11-07T13:00:53.917035+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "detected_at_utc": "2026-11-07T13:00:53.827117+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Circus",
