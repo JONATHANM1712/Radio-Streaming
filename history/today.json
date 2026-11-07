@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:27:08.755691+00:00",
+  "updated_at_utc": "2026-11-07T16:29:10.602239+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "Ain't It Fun",
+        "detected_at_utc": "2026-11-07T16:29:10.476010+00:00"
+      },
       {
         "artist": "Sarah McLachlan",
         "title": "When She Loved Me",
