@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:21:30.667140+00:00",
+  "updated_at_utc": "2026-11-07T17:22:35.679001+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Laufey",
+        "title": "Madwoman",
+        "detected_at_utc": "2026-11-07T17:21:40.050592+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Let Me Blow Ya Mind (feat. Gwen Stefani & Stevie J.)",
