@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:27:14.292931+00:00",
+  "updated_at_utc": "2026-11-07T14:29:16.987437+00:00",
   "stations": {
     "kis": [
       {
@@ -572,6 +572,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Marilyn Manson",
+        "title": "Sweet Dreams (Are Made of This)",
+        "detected_at_utc": "2026-11-07T14:29:16.892210+00:00"
+      },
       {
         "artist": "Alice In Chains",
         "title": "Nutshell (Unplugged)",
