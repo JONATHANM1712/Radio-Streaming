@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:12:46.667090+00:00",
+  "updated_at_utc": "2026-11-07T11:13:49.611323+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Thinking Out Loud",
+        "detected_at_utc": "2026-11-07T11:12:58.645331+00:00"
+      },
       {
         "artist": "Raisa",
         "title": "Awal Kisah Selamanya (feat. Barsena Bestandhi)",
