@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:05:28.226757+00:00",
+  "updated_at_utc": "2026-11-07T14:06:31.615052+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Cry Me a River",
+        "detected_at_utc": "2026-11-07T14:06:17.900609+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Good Feeling",
@@ -240,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-07T14:05:38.783976+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Sorry Not Sorry",
