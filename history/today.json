@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:36:59.592408+00:00",
+  "updated_at_utc": "2026-11-07T12:40:04.170319+00:00",
   "stations": {
     "kis": [
       {
@@ -277,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dokken",
+        "title": "Dream Warriors",
+        "detected_at_utc": "2026-11-07T12:40:04.060014+00:00"
+      },
       {
         "artist": "Temple of the Dog",
         "title": "Hunger Strike",
