@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:45:43.803446+00:00",
+  "updated_at_utc": "2026-11-07T16:46:46.709825+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-07T16:45:47.381207+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Never Say Never (feat. Jaden)",
