@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:22:01.386177+00:00",
+  "updated_at_utc": "2026-11-07T16:23:04.375955+00:00",
   "stations": {
     "kis": [
       {
@@ -877,6 +877,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Twisted Sister",
+        "title": "The Price",
+        "detected_at_utc": "2026-11-07T16:23:02.672057+00:00"
+      },
       {
         "artist": "Public Image Ltd.",
         "title": "Public Image",
