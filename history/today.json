@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:56:53.724564+00:00",
+  "updated_at_utc": "2026-11-07T16:57:57.234617+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-11-07T16:57:04.240339+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Location Unknown ◐ (feat. Georgia)",
@@ -962,6 +967,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mad Season",
+        "title": "River Of Deceit",
+        "detected_at_utc": "2026-11-07T16:57:55.952917+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Time Table (2007 Stereo Mix)",
