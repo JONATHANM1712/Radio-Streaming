@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:07:15.546799+00:00",
+  "updated_at_utc": "2026-11-07T15:08:27.719773+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Happier",
+        "detected_at_utc": "2026-11-07T15:08:27.635423+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Stronger",
