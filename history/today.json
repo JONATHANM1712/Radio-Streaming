@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:18:26.761935+00:00",
+  "updated_at_utc": "2026-11-07T17:19:31.087184+00:00",
   "stations": {
     "kis": [
       {
@@ -67,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Newcleus",
+        "title": "Jam On Revenge (The Wikki Wikki Song)",
+        "detected_at_utc": "2026-11-07T17:19:28.083646+00:00"
+      },
       {
         "artist": "Münchener Freiheit",
         "title": "Kissed You In The Rain",
