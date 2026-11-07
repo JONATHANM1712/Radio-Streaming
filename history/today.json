@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:07:31.634452+00:00",
+  "updated_at_utc": "2026-11-07T11:08:35.341842+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa",
+        "title": "Awal Kisah Selamanya (feat. Barsena Bestandhi)",
+        "detected_at_utc": "2026-11-07T11:07:49.482446+00:00"
+      },
       {
         "artist": "The Temper Trap",
         "title": "Sweet Disposition",
