@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:32:51.759628+00:00",
+  "updated_at_utc": "2026-11-07T15:35:07.371815+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "In Your Eyes",
+        "detected_at_utc": "2026-11-07T15:35:07.252264+00:00"
+      },
       {
         "artist": "Calvin Harris, Charlie Puth & Shenseea",
         "title": "Obsessed",
