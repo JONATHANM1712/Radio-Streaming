@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:48:40.710288+00:00",
+  "updated_at_utc": "2026-11-07T16:49:43.759191+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ten2Five",
+        "title": "You",
+        "detected_at_utc": "2026-11-07T16:48:51.794765+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
@@ -942,6 +947,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cure",
+        "title": "Lovesong (Acoustic Version)",
+        "detected_at_utc": "2026-11-07T16:49:43.212122+00:00"
+      },
       {
         "artist": "Procol Harum",
         "title": "A Whiter Shade of Pale (Original Single Version)",
