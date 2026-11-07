@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:01:06.333172+00:00",
+  "updated_at_utc": "2026-11-07T17:02:09.285471+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Sugar",
+        "detected_at_utc": "2026-11-07T17:02:00.898712+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Don't Stop The Music",
