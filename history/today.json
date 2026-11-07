@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:00:53.917035+00:00",
+  "updated_at_utc": "2026-11-07T13:01:56.595740+00:00",
   "stations": {
     "kis": [
       {
@@ -332,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "Trippin' On A Hole In A Paper Heart (2021 Remaster)",
+        "detected_at_utc": "2026-11-07T13:01:47.147282+00:00"
+      },
       {
         "artist": "Ramones",
         "title": "Pet Sematary",
