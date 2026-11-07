@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:41:39.131101+00:00",
+  "updated_at_utc": "2026-11-07T13:42:49.924953+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "After 7",
+        "title": "'Til You Do Me Right",
+        "detected_at_utc": "2026-11-07T13:42:29.969000+00:00"
+      },
       {
         "artist": "Kotak",
         "title": "Masih Cinta",
