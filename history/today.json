@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:25:09.222907+00:00",
+  "updated_at_utc": "2026-11-07T14:26:11.752828+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zedd",
+        "title": "Stay the Night (feat. Hayley Williams)",
+        "detected_at_utc": "2026-11-07T14:25:56.432761+00:00"
+      },
       {
         "artist": "Peter Andre",
         "title": "Mysterious Girl",
