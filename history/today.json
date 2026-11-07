@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:54:55.572427+00:00",
+  "updated_at_utc": "2026-11-07T14:55:57.968811+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Lopez & Pitbull",
+        "title": "Dance Again",
+        "detected_at_utc": "2026-11-07T14:55:57.660106+00:00"
+      },
       {
         "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
         "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
@@ -300,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-07T14:55:06.948322+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go",
