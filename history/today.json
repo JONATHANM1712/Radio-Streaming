@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:14:18.836154+00:00",
+  "updated_at_utc": "2026-11-07T12:15:21.923911+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-07T12:14:29.678315+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
