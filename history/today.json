@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:41:05.697502+00:00",
+  "updated_at_utc": "2026-11-07T15:42:08.376689+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me",
+        "detected_at_utc": "2026-11-07T15:41:15.420866+00:00"
+      },
       {
         "artist": "Carly Rae Jepsen",
         "title": "I Really Like You",
