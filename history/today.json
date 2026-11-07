@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:25:38.054542+00:00",
+  "updated_at_utc": "2026-11-07T17:26:41.236437+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Umbrella (feat. JAŸ-Z) [Mixed]",
+        "detected_at_utc": "2026-11-07T17:25:46.257087+00:00"
+      },
       {
         "artist": "Laufey",
         "title": "Madwoman",
