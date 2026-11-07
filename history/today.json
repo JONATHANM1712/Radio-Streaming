@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:09:11.788644+00:00",
+  "updated_at_utc": "2026-11-07T17:10:14.772166+00:00",
   "stations": {
     "kis": [
       {
@@ -26,6 +26,11 @@
     ],
     "jak": [
       {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "detected_at_utc": "2026-11-07T17:09:21.518169+00:00"
+      },
+      {
         "artist": "Matchbox Twenty",
         "title": "Bent",
         "detected_at_utc": "2026-11-07T17:05:15.723443+00:00"
@@ -42,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stevie Wonder",
+        "title": "Signed, Sealed, Delivered (I'm Yours)",
+        "detected_at_utc": "2026-11-07T17:09:12.411481+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Heal the World",
