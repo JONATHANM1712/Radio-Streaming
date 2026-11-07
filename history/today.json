@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T10:59:23.034947+00:00",
+  "updated_at_utc": "2026-11-07T11:00:27.084070+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-11-07T11:00:26.947013+00:00"
+      },
       {
         "artist": "98°",
         "title": "Invisible Man",
