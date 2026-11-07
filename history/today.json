@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:38:30.340890+00:00",
+  "updated_at_utc": "2026-11-07T14:39:32.894310+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-11-07T14:38:40.812546+00:00"
+      },
       {
         "artist": "Lady Gaga & Bradley Cooper",
         "title": "I'll Never Love Again (Film Version)",
