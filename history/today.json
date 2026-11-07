@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:48:35.106744+00:00",
+  "updated_at_utc": "2026-11-07T12:49:37.544908+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-07T12:48:42.238367+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Next To You (feat. Justin Bieber)",
@@ -302,6 +307,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blind Melon",
+        "title": "Tones of Home",
+        "detected_at_utc": "2026-11-07T12:49:26.209391+00:00"
+      },
       {
         "artist": "Radiohead",
         "title": "Just",
