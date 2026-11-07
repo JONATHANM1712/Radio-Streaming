@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:19:43.271831+00:00",
+  "updated_at_utc": "2026-11-07T15:20:45.669319+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lifehouse",
+        "title": "You and Me",
+        "detected_at_utc": "2026-11-07T15:20:35.019024+00:00"
+      },
       {
         "artist": "Audy & Nindy Olay",
         "title": "Untuk Sahabat",
@@ -707,6 +712,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rage Against the Machine",
+        "title": "Know Your Enemy",
+        "detected_at_utc": "2026-11-07T15:20:36.620416+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Hey, Johnny Park!",
