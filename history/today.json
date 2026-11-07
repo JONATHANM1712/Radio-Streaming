@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:54:44.890978+00:00",
+  "updated_at_utc": "2026-11-07T11:55:47.383661+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Gadd",
+        "title": "Why Don't You, Why Don't I",
+        "detected_at_utc": "2026-11-07T11:55:40.914741+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Just a Feeling",
@@ -162,6 +167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "Under the Same Sun",
+        "detected_at_utc": "2026-11-07T11:55:33.294096+00:00"
+      },
       {
         "artist": "Deep Purple",
         "title": "Black Night (2002 Remaster)",
