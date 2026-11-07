@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:02:10.145921+00:00",
+  "updated_at_utc": "2026-11-07T15:04:21.769382+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Stronger",
+        "detected_at_utc": "2026-11-07T15:04:21.678841+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I Wanna Go",
