@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:25:49.501803+00:00",
+  "updated_at_utc": "2026-11-07T12:27:51.477092+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Swirl 360",
+        "title": "Hey Now Now",
+        "detected_at_utc": "2026-11-07T12:27:51.382268+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
