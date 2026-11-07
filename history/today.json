@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:37:05.332822+00:00",
+  "updated_at_utc": "2026-11-07T11:38:09.049737+00:00",
   "stations": {
     "kis": [
       {
@@ -122,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Anthrax",
+        "title": "Efilnikufesin (N.F.L.)",
+        "detected_at_utc": "2026-11-07T11:37:57.343262+00:00"
+      },
       {
         "artist": "Megadeth",
         "title": "Hangar 18",
