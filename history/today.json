@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:14:23.069638+00:00",
+  "updated_at_utc": "2026-11-07T17:15:26.139253+00:00",
   "stations": {
     "kis": [
       {
@@ -57,6 +57,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Bis wir uns wiederseh'n",
+        "detected_at_utc": "2026-11-07T17:15:21.161367+00:00"
+      },
       {
         "artist": "Run-DMC",
         "title": "It's Tricky",
