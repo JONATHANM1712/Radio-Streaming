@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:13:53.695030+00:00",
+  "updated_at_utc": "2026-11-07T14:14:56.122473+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ALEXA",
+        "title": "Dewi",
+        "detected_at_utc": "2026-11-07T14:14:36.085188+00:00"
+      },
       {
         "artist": "Merril Bainbridge",
         "title": "Mouth",
@@ -532,6 +537,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Talking Heads",
+        "title": "Psycho Killer ( LP Version )",
+        "detected_at_utc": "2026-11-07T14:14:49.656667+00:00"
+      },
       {
         "artist": "Pulp",
         "title": "Common People",
