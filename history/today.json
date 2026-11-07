@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:51:02.955922+00:00",
+  "updated_at_utc": "2026-11-07T13:52:06.217648+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Cry Me a River",
+        "detected_at_utc": "2026-11-07T13:52:01.323742+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
@@ -467,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Helloween",
+        "title": "Windmill",
+        "detected_at_utc": "2026-11-07T13:51:59.862131+00:00"
+      },
       {
         "artist": "Faith No More",
         "title": "Kindergarten",
