@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:31:51.926619+00:00",
+  "updated_at_utc": "2026-11-07T17:32:54.954745+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Ain't It Fun",
+        "detected_at_utc": "2026-11-07T17:31:56.292981+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Softest Touch",
