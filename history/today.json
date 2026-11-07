@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:49:26.474150+00:00",
+  "updated_at_utc": "2026-11-07T15:50:28.982810+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Wake Up Call",
+        "detected_at_utc": "2026-11-07T15:50:15.403578+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "Want To Want Me",
@@ -782,6 +787,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Black Sabbath",
+        "title": "Paranoid",
+        "detected_at_utc": "2026-11-07T15:50:16.387714+00:00"
+      },
       {
         "artist": "Megadeth",
         "title": "Holy Wars... The Punishment Due",
