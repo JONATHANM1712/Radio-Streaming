@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:02:09.285471+00:00",
+  "updated_at_utc": "2026-11-07T17:03:12.269197+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Don't You Worry Child (feat. John Martin)",
+        "detected_at_utc": "2026-11-07T17:02:11.455594+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Independent Women, Pt. I",
