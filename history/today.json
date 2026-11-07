@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:03:42.275447+00:00",
+  "updated_at_utc": "2026-11-07T11:04:45.473682+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-11-07T11:04:33.016719+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Kiss It Better",
