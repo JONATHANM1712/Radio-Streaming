@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:52:06.217648+00:00",
+  "updated_at_utc": "2026-11-07T13:54:54.406031+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kavana",
+        "title": "Special Kind Of Something",
+        "detected_at_utc": "2026-11-07T13:54:54.278806+00:00"
+      },
       {
         "artist": "Duffy",
         "title": "Mercy",
