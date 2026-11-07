@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:29:16.987437+00:00",
+  "updated_at_utc": "2026-11-07T14:30:19.597652+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Matchbox Twenty",
+        "title": "If You're Gone",
+        "detected_at_utc": "2026-11-07T14:30:05.574229+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Stay the Night (feat. Hayley Williams)",
@@ -270,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "My Humps",
+        "detected_at_utc": "2026-11-07T14:29:26.028803+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
