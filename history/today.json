@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:16:31.534636+00:00",
+  "updated_at_utc": "2026-11-07T15:17:33.951697+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy & Nindy Olay",
+        "title": "Untuk Sahabat",
+        "detected_at_utc": "2026-11-07T15:17:30.492400+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Bubbly",
@@ -325,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-07T15:16:39.302645+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
