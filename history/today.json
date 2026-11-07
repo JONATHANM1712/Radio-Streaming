@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:31:00.747896+00:00",
+  "updated_at_utc": "2026-11-07T13:32:07.265860+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "TheOvertunes",
+        "title": "Bicara (feat. Monita Tahalea)",
+        "detected_at_utc": "2026-11-07T13:32:07.084675+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
