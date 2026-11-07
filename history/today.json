@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T16:10:44.538877+00:00",
+  "updated_at_utc": "2026-11-07T16:11:47.728250+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "George Lamond",
+        "title": "Baby, I Believe In You",
+        "detected_at_utc": "2026-11-07T16:11:44.736383+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Little L",
