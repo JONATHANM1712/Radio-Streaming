@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:35:07.371815+00:00",
+  "updated_at_utc": "2026-11-07T15:36:19.862630+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewi Dewi",
+        "title": "Begitu Salah Begitu Benar",
+        "detected_at_utc": "2026-11-07T15:35:55.696853+00:00"
+      },
       {
         "artist": "Suede",
         "title": "Positivity",
@@ -747,6 +752,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "EMF",
+        "title": "Lies (Edit Version)",
+        "detected_at_utc": "2026-11-07T15:35:57.932806+00:00"
+      },
       {
         "artist": "Deep Purple",
         "title": "Child In Time",
