@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T15:11:32.800467+00:00",
+  "updated_at_utc": "2026-11-07T15:12:35.228373+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-07T15:12:34.139592+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
@@ -682,6 +687,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Hammer To Fall",
+        "detected_at_utc": "2026-11-07T15:12:26.215045+00:00"
+      },
       {
         "artist": "Iron Maiden",
         "title": "The Evil That Men Do",
