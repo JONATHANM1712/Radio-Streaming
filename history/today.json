@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:22:35.679001+00:00",
+  "updated_at_utc": "2026-11-07T17:25:38.054542+00:00",
   "stations": {
     "kis": [
       {
@@ -77,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Billy Idol",
+        "title": "Mony Mony",
+        "detected_at_utc": "2026-11-07T17:25:37.921988+00:00"
+      },
       {
         "artist": "Newcleus",
         "title": "Jam On Revenge (The Wikki Wikki Song)",
