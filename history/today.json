@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:09:06.849262+00:00",
+  "updated_at_utc": "2026-11-07T12:11:20.297435+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Great DJ",
+        "detected_at_utc": "2026-11-07T12:11:20.196454+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
