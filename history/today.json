@@ -1,9 +1,27 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:00:03.223636+00:00",
+  "updated_at_utc": "2026-11-07T17:01:06.333172+00:00",
   "stations": {
-    "kis": [],
-    "jak": [],
-    "most": []
+    "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Don't Stop The Music",
+        "detected_at_utc": "2026-11-07T17:00:59.431046+00:00"
+      }
+    ],
+    "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. I",
+        "detected_at_utc": "2026-11-07T17:00:08.526267+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Kurtis Blow",
+        "title": "The Breaks (Re-Recorded)",
+        "detected_at_utc": "2026-11-07T17:01:00.594539+00:00"
+      }
+    ]
   }
 }
