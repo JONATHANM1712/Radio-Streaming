@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:40:35.848812+00:00",
+  "updated_at_utc": "2026-11-07T14:42:49.153479+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-07T14:42:49.074494+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I Will Be",
