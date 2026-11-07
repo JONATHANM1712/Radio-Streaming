@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T11:25:02.906250+00:00",
+  "updated_at_utc": "2026-11-07T11:26:17.645919+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue & William Singe",
+        "title": "Mama",
+        "detected_at_utc": "2026-11-07T11:26:17.565225+00:00"
+      },
       {
         "artist": "Travie McCoy",
         "title": "Billionaire (feat. Bruno Mars)",
