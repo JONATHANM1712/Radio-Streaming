@@ -1,8 +1,13 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T12:31:02.263359+00:00",
+  "updated_at_utc": "2026-11-07T12:32:04.755265+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-11-07T12:31:58.630002+00:00"
+      },
       {
         "artist": "Swirl 360",
         "title": "Hey Now Now",
@@ -262,6 +267,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Zooropa",
+        "detected_at_utc": "2026-11-07T12:31:50.360293+00:00"
+      },
       {
         "artist": "The Cure",
         "title": "Trust",
