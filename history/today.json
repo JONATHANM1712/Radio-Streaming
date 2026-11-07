@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T13:13:06.251345+00:00",
+  "updated_at_utc": "2026-11-07T13:14:08.757623+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-07T13:13:29.300851+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -367,6 +372,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Looks That Kill",
+        "detected_at_utc": "2026-11-07T13:14:07.047885+00:00"
+      },
       {
         "artist": "The Presidents of the United States of America",
         "title": "Lump",
