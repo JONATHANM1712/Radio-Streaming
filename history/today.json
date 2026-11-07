@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated_at_utc": "2026-11-07T14:34:12.715213+00:00",
+  "updated_at_utc": "2026-11-07T14:35:15.126159+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "I'll Never Love Again (Film Version)",
+        "detected_at_utc": "2026-11-07T14:34:35.272434+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "My Humps",
@@ -587,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Warrant",
+        "title": "Cherry Pie",
+        "detected_at_utc": "2026-11-07T14:34:24.710319+00:00"
+      },
       {
         "artist": "Marilyn Manson",
         "title": "Sweet Dreams (Are Made of This)",
