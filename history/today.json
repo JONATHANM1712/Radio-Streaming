@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:36:03.849362+00:00",
+  "updated_at_utc": "2026-11-08T17:37:06.282710+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Base Jam",
+        "title": "Bukan Pujangga",
+        "detected_at_utc": "2026-11-08T17:36:16.703978+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Miss You",
