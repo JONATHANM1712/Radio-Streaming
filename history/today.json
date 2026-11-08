@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:14:08.235445+00:00",
+  "updated_at_utc": "2026-11-08T16:15:42.406267+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-08T16:15:42.306115+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
