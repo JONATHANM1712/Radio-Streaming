@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:36:06.625323+00:00",
+  "updated_at_utc": "2026-11-08T13:37:56.267337+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "BTS",
+        "title": "Butter",
+        "detected_at_utc": "2026-11-08T13:37:55.924110+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Seven Days in Sunny June",
