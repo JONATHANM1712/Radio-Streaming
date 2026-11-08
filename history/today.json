@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:33:25.210406+00:00",
+  "updated_at_utc": "2026-11-08T07:34:28.253384+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamelia",
+        "title": "Superstar",
+        "detected_at_utc": "2026-11-08T07:34:11.390974+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
