@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:23:00.726069+00:00",
+  "updated_at_utc": "2026-11-08T17:24:37.144958+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "That’s Not How This Works (feat. Dan + Shay)",
+        "detected_at_utc": "2026-11-08T17:24:37.059182+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
