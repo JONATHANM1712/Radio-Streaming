@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:01:14.071105+00:00",
+  "updated_at_utc": "2026-11-08T15:02:16.543447+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "Like I Can",
+        "detected_at_utc": "2026-11-08T15:02:04.267867+00:00"
+      },
       {
         "artist": "Yellowcard",
         "title": "Only One",
