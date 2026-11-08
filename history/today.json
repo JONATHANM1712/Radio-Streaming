@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:15:16.252297+00:00",
+  "updated_at_utc": "2026-11-08T13:16:20.643737+00:00",
   "stations": {
     "kis": [
       {
@@ -812,6 +812,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Depeche Mode",
+        "title": "Enjoy the Silence",
+        "detected_at_utc": "2026-11-08T13:16:17.914742+00:00"
+      },
       {
         "artist": "Paula Cole",
         "title": "I Don't Want To Wait (DEMO)",
