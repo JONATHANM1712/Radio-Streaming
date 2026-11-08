@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:06:38.831993+00:00",
+  "updated_at_utc": "2026-11-08T06:09:32.560701+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doechii",
+        "title": "What It Is (Block Boy) [feat. Kodak Black]",
+        "detected_at_utc": "2026-11-08T06:09:32.427925+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Charlie Brown",
