@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:42:10.383213+00:00",
+  "updated_at_utc": "2026-11-08T16:44:46.860725+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-11-08T16:44:46.779352+00:00"
+      },
       {
         "artist": "will.i.am",
         "title": "Scream & Shout (feat. Britney Spears)",
