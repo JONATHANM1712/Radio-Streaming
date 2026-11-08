@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:29:48.117478+00:00",
+  "updated_at_utc": "2026-11-08T06:31:44.173553+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Save Room",
+        "detected_at_utc": "2026-11-08T06:31:44.089037+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
