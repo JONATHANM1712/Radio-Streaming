@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:58:51.635202+00:00",
+  "updated_at_utc": "2026-11-08T06:01:05.313370+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-11-08T06:01:05.169389+00:00"
+      },
       {
         "artist": "Cardi B, Bad Bunny & J Balvin",
         "title": "I Like It",
