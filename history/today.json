@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:35:03.523518+00:00",
+  "updated_at_utc": "2026-11-08T15:36:05.965966+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "My Facebook",
+        "detected_at_utc": "2026-11-08T15:35:18.142459+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Just a Friend 2002",
