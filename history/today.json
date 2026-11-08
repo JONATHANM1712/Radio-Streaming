@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:30:18.131536+00:00",
+  "updated_at_utc": "2026-11-08T16:31:21.588062+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jewel",
+        "title": "Stand",
+        "detected_at_utc": "2026-11-08T16:30:45.961079+00:00"
+      },
       {
         "artist": "Liquido",
         "title": "Play Some Rock",
