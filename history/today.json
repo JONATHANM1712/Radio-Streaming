@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:15:51.435440+00:00",
+  "updated_at_utc": "2026-11-08T07:16:54.928417+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coi Leray",
+        "title": "Players",
+        "detected_at_utc": "2026-11-08T07:16:26.421135+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -507,6 +512,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joan Osborne",
+        "title": "One Of Us",
+        "detected_at_utc": "2026-11-08T07:16:45.136069+00:00"
+      },
       {
         "artist": "Kris Kross",
         "title": "Alright",
