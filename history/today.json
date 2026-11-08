@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:13:07.783266+00:00",
+  "updated_at_utc": "2026-11-08T13:14:12.419045+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Caesar",
+        "title": "Who Knows",
+        "detected_at_utc": "2026-11-08T13:14:10.723553+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
