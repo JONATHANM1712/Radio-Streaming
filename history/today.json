@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:14:53.596987+00:00",
+  "updated_at_utc": "2026-11-08T14:15:57.153079+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pasto",
+        "title": "Tanya Hati",
+        "detected_at_utc": "2026-11-08T14:15:01.485398+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
@@ -435,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-08T14:15:55.353425+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -957,6 +967,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "山下達郎",
+        "title": "RAINY WALK",
+        "detected_at_utc": "2026-11-08T14:14:58.287780+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "Sugar",
