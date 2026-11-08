@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:26:52.038945+00:00",
+  "updated_at_utc": "2026-11-08T07:30:27.262575+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Heart Attack",
+        "detected_at_utc": "2026-11-08T07:30:27.087762+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Champagne Supernova",
