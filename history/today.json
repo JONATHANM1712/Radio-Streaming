@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:21:05.588603+00:00",
+  "updated_at_utc": "2026-11-08T08:22:09.464573+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-08T08:22:08.865701+00:00"
+      },
       {
         "artist": "Portugal. The Man",
         "title": "Feel It Still",
