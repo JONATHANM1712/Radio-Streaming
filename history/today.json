@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T02:43:48.429085+00:00",
+  "updated_at_utc": "2026-11-08T02:44:51.694073+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Canned Heat",
+        "detected_at_utc": "2026-11-08T02:44:37.746052+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Somebody to Love (Remix) [feat. USHER]",
