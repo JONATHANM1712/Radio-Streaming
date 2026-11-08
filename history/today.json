@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:45:48.833300+00:00",
+  "updated_at_utc": "2026-11-08T14:47:44.228067+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Born This Way",
+        "detected_at_utc": "2026-11-08T14:47:44.135291+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Rather Be (feat. Jess Glynne)",
