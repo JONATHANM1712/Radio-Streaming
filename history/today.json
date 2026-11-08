@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:03:57.892910+00:00",
+  "updated_at_utc": "2026-11-08T16:06:31.030897+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paul Russell",
+        "title": "Lil Boo Thang",
+        "detected_at_utc": "2026-11-08T16:06:30.943446+00:00"
+      },
       {
         "artist": "2AM Club",
         "title": "Worry About You",
