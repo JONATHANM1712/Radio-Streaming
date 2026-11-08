@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:48:17.797290+00:00",
+  "updated_at_utc": "2026-11-08T06:49:20.542551+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls",
+        "detected_at_utc": "2026-11-08T06:48:47.688340+00:00"
+      },
       {
         "artist": "Rihanna & Calvin Harris",
         "title": "We Found Love",
@@ -437,6 +442,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Spargo",
+        "title": "One Night Affair",
+        "detected_at_utc": "2026-11-08T06:48:32.030123+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "Not Enough",
