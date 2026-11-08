@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:42:18.865808+00:00",
+  "updated_at_utc": "2026-11-08T06:44:08.778958+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Shout Out to My Ex",
+        "detected_at_utc": "2026-11-08T06:44:08.691701+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Don't Love You No More (I'm Sorry)",
