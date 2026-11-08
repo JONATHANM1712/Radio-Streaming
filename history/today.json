@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:26:11.195450+00:00",
+  "updated_at_utc": "2026-11-08T14:27:22.223957+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lene Marlin",
+        "title": "Sitting Down Here",
+        "detected_at_utc": "2026-11-08T14:27:22.111786+00:00"
+      },
       {
         "artist": "R. City",
         "title": "Locked Away (feat. Adam Levine)",
