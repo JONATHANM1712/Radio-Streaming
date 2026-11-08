@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:55:04.702011+00:00",
+  "updated_at_utc": "2026-11-08T14:56:07.217867+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kenny G",
+        "title": "One More Time (feat. Chante Moore & Chante Moore)",
+        "detected_at_utc": "2026-11-08T14:55:13.205815+00:00"
+      },
       {
         "artist": "Jim Brickman & Martina McBride",
         "title": "Valentine",
@@ -490,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yellowcard",
+        "title": "Only One",
+        "detected_at_utc": "2026-11-08T14:55:55.868917+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
