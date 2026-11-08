@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:54:18.845668+00:00",
+  "updated_at_utc": "2026-11-08T13:57:03.530430+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shakira",
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "detected_at_utc": "2026-11-08T13:56:56.735769+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Royals",
@@ -907,6 +912,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Franks",
+        "title": "Antonio's Song (The Rainbow)",
+        "detected_at_utc": "2026-11-08T13:56:32.286019+00:00"
+      },
       {
         "artist": "Wham!",
         "title": "Everything She Wants (Remix)",
