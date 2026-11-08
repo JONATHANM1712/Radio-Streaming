@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:39:44.579909+00:00",
+  "updated_at_utc": "2026-11-08T14:40:47.001188+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kathy Troccoli",
+        "title": "Tell Me Where It Hurts",
+        "detected_at_utc": "2026-11-08T14:40:45.722370+00:00"
+      },
       {
         "artist": "Barbra Streisand",
         "title": "I Finally Found Someone",
@@ -470,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lifehouse",
+        "title": "You and Me",
+        "detected_at_utc": "2026-11-08T14:40:33.656402+00:00"
+      },
       {
         "artist": "Kaleb J",
         "title": "It's Only Me (Studio Version)",
