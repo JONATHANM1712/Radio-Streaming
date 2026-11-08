@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:37:06.282710+00:00",
+  "updated_at_utc": "2026-11-08T17:38:54.576958+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "detected_at_utc": "2026-11-08T17:38:54.483244+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "The Other Side",
