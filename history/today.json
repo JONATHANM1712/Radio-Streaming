@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:23:03.460286+00:00",
+  "updated_at_utc": "2026-11-08T13:24:09.570657+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Smack That (feat. Eminem)",
+        "detected_at_utc": "2026-11-08T13:24:09.251624+00:00"
+      },
       {
         "artist": "Jeremy Zucker",
         "title": "comethru",
