@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:31:21.588062+00:00",
+  "updated_at_utc": "2026-11-08T16:34:54.177623+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Valenca",
+        "title": "Nuansa Bening",
+        "detected_at_utc": "2026-11-08T16:34:54.057094+00:00"
+      },
       {
         "artist": "Jewel",
         "title": "Stand",
