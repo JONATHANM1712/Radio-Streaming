@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:14:48.063025+00:00",
+  "updated_at_utc": "2026-11-08T07:15:51.435440+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-08T07:15:22.428890+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Yeah 3X",
@@ -502,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kris Kross",
+        "title": "Alright",
+        "detected_at_utc": "2026-11-08T07:15:42.052898+00:00"
+      },
       {
         "artist": "Wu-Tang Clan",
         "title": "Wu-Tang Clan Ain't Nuthing Ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
