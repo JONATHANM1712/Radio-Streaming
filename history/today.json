@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:01:50.685522+00:00",
+  "updated_at_utc": "2026-11-08T07:02:53.261018+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "detected_at_utc": "2026-11-08T07:02:16.303680+00:00"
+      },
       {
         "artist": "BrainStorm",
         "title": "Maybe",
