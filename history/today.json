@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:31:35.633427+00:00",
+  "updated_at_utc": "2026-11-08T13:32:55.328795+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Complicated",
+        "detected_at_utc": "2026-11-08T13:32:55.150608+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Titanium (feat. Sia)",
