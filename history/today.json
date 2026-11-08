@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:51:49.088164+00:00",
+  "updated_at_utc": "2026-11-08T07:52:52.574899+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "Tattoo (Main Version)",
+        "detected_at_utc": "2026-11-08T07:52:51.394961+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
