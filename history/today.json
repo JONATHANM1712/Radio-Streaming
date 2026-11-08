@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:39:17.850636+00:00",
+  "updated_at_utc": "2026-11-08T13:40:23.246271+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "Omg (feat. will.i.am)",
+        "detected_at_utc": "2026-11-08T13:40:20.800212+00:00"
+      },
       {
         "artist": "Float",
         "title": "3 Hari Untuk Selamanya (Live)",
