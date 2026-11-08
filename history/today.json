@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:52:09.168083+00:00",
+  "updated_at_utc": "2026-11-08T14:53:11.601391+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-08T14:52:51.340131+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Born This Way",
