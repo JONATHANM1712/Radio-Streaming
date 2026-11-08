@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:51:11.940280+00:00",
+  "updated_at_utc": "2026-11-08T15:52:24.652396+00:00",
   "stations": {
     "kis": [
       {
@@ -1222,6 +1222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Man of Our Times (2007 Remaster)",
+        "detected_at_utc": "2026-11-08T15:52:24.557676+00:00"
+      },
       {
         "artist": "Chic",
         "title": "Good Times",
