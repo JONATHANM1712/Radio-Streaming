@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:52:57.106091+00:00",
+  "updated_at_utc": "2026-11-08T16:54:00.453355+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Just a Feeling",
+        "detected_at_utc": "2026-11-08T16:53:58.303839+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
@@ -1402,6 +1407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Never Say Goodbye",
+        "detected_at_utc": "2026-11-08T16:53:09.502729+00:00"
+      },
       {
         "artist": "Bob Marley & The Wailers",
         "title": "Three Little Birds",
