@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:21:00.865491+00:00",
+  "updated_at_utc": "2026-11-08T15:22:03.457164+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "I Hate This Part",
+        "detected_at_utc": "2026-11-08T15:21:34.138977+00:00"
+      },
       {
         "artist": "Jonas Blue & JP Cooper",
         "title": "Perfect Strangers",
