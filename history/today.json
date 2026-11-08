@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:35:32.623289+00:00",
+  "updated_at_utc": "2026-11-08T14:36:35.200011+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kaleb J",
+        "title": "It's Only Me (Studio Version)",
+        "detected_at_utc": "2026-11-08T14:36:27.104149+00:00"
+      },
       {
         "artist": "Lykke Li",
         "title": "I Follow Rivers (The Magician Remix)",
