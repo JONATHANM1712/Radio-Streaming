@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:51:08.512189+00:00",
+  "updated_at_utc": "2026-11-08T16:52:57.106091+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-11-08T16:52:56.928628+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "Bring Me To Life",
