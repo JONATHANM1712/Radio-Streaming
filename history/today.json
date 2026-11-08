@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:19:19.359404+00:00",
+  "updated_at_utc": "2026-11-08T13:20:41.122799+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jeremy Zucker",
+        "title": "comethru",
+        "detected_at_utc": "2026-11-08T13:20:40.918191+00:00"
+      },
       {
         "artist": "Norah Jones",
         "title": "Don't Know Why",
