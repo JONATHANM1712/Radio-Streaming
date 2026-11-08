@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:22:04.338083+00:00",
+  "updated_at_utc": "2026-11-08T14:23:16.763435+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-08T14:23:16.667432+00:00"
+      },
       {
         "artist": "Ricky Martin",
         "title": "Nobody Wants to Be Lonely (With Christina Aguilera)",
