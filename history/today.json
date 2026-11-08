@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:25:16.621771+00:00",
+  "updated_at_utc": "2026-11-08T16:27:08.602113+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "Make It Mine",
+        "detected_at_utc": "2026-11-08T16:27:08.480230+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
