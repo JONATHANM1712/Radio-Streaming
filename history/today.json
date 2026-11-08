@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:12:43.389355+00:00",
+  "updated_at_utc": "2026-11-08T08:15:53.266904+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Skyscraper",
+        "detected_at_utc": "2026-11-08T08:15:53.176683+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
