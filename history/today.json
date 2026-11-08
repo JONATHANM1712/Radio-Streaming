@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:40:24.420223+00:00",
+  "updated_at_utc": "2026-11-08T08:41:28.577242+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Spice Girls",
+        "title": "Stop",
+        "detected_at_utc": "2026-11-08T08:40:56.804164+00:00"
+      },
       {
         "artist": "Counting Crows",
         "title": "Accidentally In Love",
@@ -320,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Nothin' On You (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-08T08:41:02.150564+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Hands To Myself",
