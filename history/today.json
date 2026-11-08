@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:11:00.186704+00:00",
+  "updated_at_utc": "2026-11-08T13:13:07.783266+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-08T13:13:07.612323+00:00"
+      },
       {
         "artist": "Snoop Dogg & Wiz Khalifa",
         "title": "Young, Wild & Free (feat. Bruno Mars)",
