@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:01:49.801566+00:00",
+  "updated_at_utc": "2026-11-08T08:02:52.419655+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Guetta & Kelly Rowland",
+        "title": "When Love Takes Over (feat. Kelly Rowland)",
+        "detected_at_utc": "2026-11-08T08:02:09.710733+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
