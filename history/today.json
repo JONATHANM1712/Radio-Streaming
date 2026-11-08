@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:31:34.411060+00:00",
+  "updated_at_utc": "2026-11-08T08:33:41.099403+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanty",
+        "title": "Hanya Memuji",
+        "detected_at_utc": "2026-11-08T08:33:40.977587+00:00"
+      },
       {
         "artist": "Collective Soul",
         "title": "Run",
