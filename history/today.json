@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:45:53.481550+00:00",
+  "updated_at_utc": "2026-11-08T05:46:56.756571+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-08T05:46:53.540873+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Ku Takkan Bisa",
@@ -287,6 +292,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "John Lennon",
+        "title": "Woman",
+        "detected_at_utc": "2026-11-08T05:46:43.198482+00:00"
+      },
       {
         "artist": "U2",
         "title": "Stay (Faraway, So Close!)",
