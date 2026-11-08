@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:40:55.482114+00:00",
+  "updated_at_utc": "2026-11-08T16:42:10.383213+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "detected_at_utc": "2026-11-08T16:42:10.300888+00:00"
+      },
       {
         "artist": "Adam Sandler",
         "title": "Grow Old With You",
