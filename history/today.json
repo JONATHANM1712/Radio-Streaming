@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:33:02.452014+00:00",
+  "updated_at_utc": "2026-11-08T17:34:49.376431+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "The Other Side",
+        "detected_at_utc": "2026-11-08T17:34:49.292414+00:00"
+      },
       {
         "artist": "d4vd",
         "title": "Sleep Well",
