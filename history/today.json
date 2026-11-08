@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:08:29.949002+00:00",
+  "updated_at_utc": "2026-11-08T17:09:32.338998+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashanti",
+        "title": "Foolish",
+        "detected_at_utc": "2026-11-08T17:09:18.406561+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Human",
