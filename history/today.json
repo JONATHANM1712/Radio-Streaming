@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-07T17:32:54.954745+00:00",
+  "updated_at_utc": "2026-11-08T02:40:37.954527+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Creed",
+        "title": "My Sacrifice",
+        "detected_at_utc": "2026-11-08T02:40:37.545443+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "Ain't It Fun",
@@ -102,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Roxette",
+        "title": "Fading Like A Flower (Every Time You Leave)",
+        "detected_at_utc": "2026-11-08T02:40:37.593370+00:00"
+      },
       {
         "artist": "Keziah Jones",
         "title": "Where's Life ?",
