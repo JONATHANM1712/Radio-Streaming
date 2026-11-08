@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:08:14.283277+00:00",
+  "updated_at_utc": "2026-11-08T08:09:17.474659+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mike + The Mechanics",
+        "title": "Over My Shoulder",
+        "detected_at_utc": "2026-11-08T08:08:30.982497+00:00"
+      },
       {
         "artist": "Ray J & Brandy",
         "title": "Another Day In Paradise",
@@ -285,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "Let Me",
+        "detected_at_utc": "2026-11-08T08:08:32.647651+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Made You Look",
