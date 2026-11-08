@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:56:36.631121+00:00",
+  "updated_at_utc": "2026-11-08T07:57:39.215265+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Die For You",
+        "detected_at_utc": "2026-11-08T07:57:00.205888+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "Tattoo (Main Version)",
