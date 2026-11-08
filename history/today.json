@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:03:25.046827+00:00",
+  "updated_at_utc": "2026-11-08T17:05:13.613311+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Human",
+        "detected_at_utc": "2026-11-08T17:05:13.526946+00:00"
+      },
       {
         "artist": "Daniel Powter",
         "title": "Bad Day",
