@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:07:52.826601+00:00",
+  "updated_at_utc": "2026-11-08T13:09:56.776397+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg & Wiz Khalifa",
+        "title": "Young, Wild & Free (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-08T13:09:56.639736+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
