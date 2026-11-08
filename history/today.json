@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:27:44.532116+00:00",
+  "updated_at_utc": "2026-11-08T17:28:47.018716+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-11-08T17:28:06.770570+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Something I Need",
@@ -77,6 +82,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "September",
+        "detected_at_utc": "2026-11-08T17:27:53.497406+00:00"
+      },
       {
         "artist": "Earth, Wind & Fire",
         "title": "December (Based on \"September\")",
