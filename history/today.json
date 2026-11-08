@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:57:48.596512+00:00",
+  "updated_at_utc": "2026-11-08T05:58:51.635202+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lisa Keith",
+        "title": "Better Than You",
+        "detected_at_utc": "2026-11-08T05:58:04.648812+00:00"
+      },
       {
         "artist": "Nelson",
         "title": "(I Can't Live Without Your) Love And Affection (Live/1991)",
