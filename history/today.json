@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:12:03.431494+00:00",
+  "updated_at_utc": "2026-11-08T16:13:05.855415+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-08T16:12:38.434655+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "True Love (feat. Lily Allen)",
