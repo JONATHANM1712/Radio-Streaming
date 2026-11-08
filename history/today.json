@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:01:25.266273+00:00",
+  "updated_at_utc": "2026-11-08T13:03:17.505316+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "LMFAO",
+        "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
+        "detected_at_utc": "2026-11-08T13:03:17.346847+00:00"
+      },
       {
         "artist": "Andre Hehanussa",
         "title": "Bidadari",
