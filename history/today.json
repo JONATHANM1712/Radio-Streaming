@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:54:43.249620+00:00",
+  "updated_at_utc": "2026-11-08T15:55:45.689306+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "All I Have (feat. LL Cool J)",
+        "detected_at_utc": "2026-11-08T15:55:16.930984+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
@@ -1232,6 +1237,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Heavy C",
+        "title": "Porquê",
+        "detected_at_utc": "2026-11-08T15:55:28.382714+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Man of Our Times (2007 Remaster)",
