@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:03:54.880269+00:00",
+  "updated_at_utc": "2026-11-08T06:05:00.098678+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Charlie Brown",
+        "detected_at_utc": "2026-11-08T06:04:14.322109+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
