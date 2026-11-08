@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:16:20.643737+00:00",
+  "updated_at_utc": "2026-11-08T13:17:25.627380+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Norah Jones",
+        "title": "Don't Know Why",
+        "detected_at_utc": "2026-11-08T13:17:23.165650+00:00"
+      },
       {
         "artist": "Daniel Caesar",
         "title": "Who Knows",
