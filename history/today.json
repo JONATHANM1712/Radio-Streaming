@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:30:27.262575+00:00",
+  "updated_at_utc": "2026-11-08T07:31:30.567819+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-08T07:31:06.026885+00:00"
+      },
       {
         "artist": "Timbaland",
         "title": "Give It To Me (feat. Justin Timberlake & Nelly Furtado)",
