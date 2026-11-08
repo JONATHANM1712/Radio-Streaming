@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:46:05.598793+00:00",
+  "updated_at_utc": "2026-11-08T17:47:07.966636+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kodaline",
+        "title": "All I Want",
+        "detected_at_utc": "2026-11-08T17:47:04.596812+00:00"
+      },
       {
         "artist": "Calvin Harris, Dua Lipa & Young Thug",
         "title": "Potion",
