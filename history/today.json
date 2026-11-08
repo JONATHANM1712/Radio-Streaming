@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:05:00.098678+00:00",
+  "updated_at_utc": "2026-11-08T06:06:38.831993+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Please Forgive Me",
+        "detected_at_utc": "2026-11-08T06:06:38.651359+00:00"
+      },
       {
         "artist": "a-ha",
         "title": "Velvet",
