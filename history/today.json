@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:39:52.679592+00:00",
+  "updated_at_utc": "2026-11-08T16:40:55.482114+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adam Sandler",
+        "title": "Grow Old With You",
+        "detected_at_utc": "2026-11-08T16:40:07.918383+00:00"
+      },
       {
         "artist": "Valenca",
         "title": "Nuansa Bening",
@@ -630,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "will.i.am",
+        "title": "Scream & Shout (feat. Britney Spears)",
+        "detected_at_utc": "2026-11-08T16:40:41.985302+00:00"
+      },
       {
         "artist": "Pharrell Williams",
         "title": "Happy (From \"Despicable Me 2\")",
