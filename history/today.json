@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:22:09.464573+00:00",
+  "updated_at_utc": "2026-11-08T08:23:29.495961+00:00",
   "stations": {
     "kis": [
       {
@@ -667,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eruption",
+        "title": "One Way Ticket",
+        "detected_at_utc": "2026-11-08T08:23:29.352178+00:00"
+      },
       {
         "artist": "Suede",
         "title": "Lazy",
