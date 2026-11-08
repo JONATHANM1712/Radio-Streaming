@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:11:39.738368+00:00",
+  "updated_at_utc": "2026-11-08T08:12:43.389355+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-08T08:11:41.896777+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "Let Me",
@@ -642,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Slaughter",
+        "title": "Days Gone By",
+        "detected_at_utc": "2026-11-08T08:12:03.696456+00:00"
+      },
       {
         "artist": "Blondie",
         "title": "One Way Or Another",
