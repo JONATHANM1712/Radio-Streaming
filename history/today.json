@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:35:56.957547+00:00",
+  "updated_at_utc": "2026-11-08T16:36:59.977275+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-11-08T16:36:32.532417+00:00"
+      },
       {
         "artist": "Bazzi",
         "title": "Beautiful (feat. Camila Cabello)",
