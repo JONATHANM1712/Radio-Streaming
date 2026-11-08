@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:03:36.014482+00:00",
+  "updated_at_utc": "2026-11-08T14:04:41.825360+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mamas Gun",
+        "title": "Pots of Gold",
+        "detected_at_utc": "2026-11-08T14:04:28.149668+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Clumsy",
