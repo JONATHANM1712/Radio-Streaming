@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T03:30:59.745855+00:00",
+  "updated_at_utc": "2026-11-08T03:32:58.652089+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vertical Horizon",
+        "title": "Everything You Want",
+        "detected_at_utc": "2026-11-08T03:32:58.571075+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
