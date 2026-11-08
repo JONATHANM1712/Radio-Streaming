@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:40:23.246271+00:00",
+  "updated_at_utc": "2026-11-08T13:42:44.713738+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna & Calvin Harris",
+        "title": "We Found Love",
+        "detected_at_utc": "2026-11-08T13:42:44.464397+00:00"
+      },
       {
         "artist": "BTS",
         "title": "Butter",
