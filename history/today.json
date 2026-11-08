@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:41:28.577242+00:00",
+  "updated_at_utc": "2026-11-08T08:44:03.923108+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark Ronson",
+        "title": "Uptown Funk (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-08T08:44:03.831565+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Stop",
