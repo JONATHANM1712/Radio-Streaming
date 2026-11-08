@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T13:24:09.570657+00:00",
+  "updated_at_utc": "2026-11-08T13:25:13.411501+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Stranger in Moscow",
+        "detected_at_utc": "2026-11-08T13:24:16.062503+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Makes Me Wonder",
