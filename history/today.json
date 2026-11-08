@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:11:47.422549+00:00",
+  "updated_at_utc": "2026-11-08T14:12:51.055750+00:00",
   "stations": {
     "kis": [
       {
@@ -952,6 +952,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Sugar",
+        "detected_at_utc": "2026-11-08T14:11:52.919053+00:00"
+      },
       {
         "artist": "ABBA",
         "title": "Fernando",
