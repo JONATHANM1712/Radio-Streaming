@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:09:04.953348+00:00",
+  "updated_at_utc": "2026-11-08T07:10:08.049803+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paul Anka",
+        "title": "It's Hard To Say Goodbye",
+        "detected_at_utc": "2026-11-08T07:09:32.304795+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Sparks",
