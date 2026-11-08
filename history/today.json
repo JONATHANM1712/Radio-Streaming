@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:44:08.778958+00:00",
+  "updated_at_utc": "2026-11-08T06:45:41.137756+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna & Calvin Harris",
+        "title": "We Found Love",
+        "detected_at_utc": "2026-11-08T06:45:41.048200+00:00"
+      },
       {
         "artist": "Regine Velasquez & Jacky Cheung",
         "title": "In Love With You",
