@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T03:08:28.674469+00:00",
+  "updated_at_utc": "2026-11-08T03:09:31.266302+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Wet Wet Wet",
+        "title": "Love Is All Around",
+        "detected_at_utc": "2026-11-08T03:09:14.481472+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Yeah! (feat. Lil Jon & Ludacris)",
