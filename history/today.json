@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T02:42:44.920786+00:00",
+  "updated_at_utc": "2026-11-08T02:43:48.429085+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Birthday",
+        "detected_at_utc": "2026-11-08T02:43:42.509373+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
