@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:07:22.147613+00:00",
+  "updated_at_utc": "2026-11-08T15:08:24.622814+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
+        "detected_at_utc": "2026-11-08T15:08:12.590327+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
