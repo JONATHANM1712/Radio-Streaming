@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:29:15.486918+00:00",
+  "updated_at_utc": "2026-11-08T16:30:18.131536+00:00",
   "stations": {
     "kis": [
       {
@@ -1342,6 +1342,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Skid Row",
+        "title": "Wasted Time",
+        "detected_at_utc": "2026-11-08T16:29:27.869279+00:00"
+      },
       {
         "artist": "Basia",
         "title": "Astrud",
