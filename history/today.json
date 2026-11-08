@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:01:05.313370+00:00",
+  "updated_at_utc": "2026-11-08T06:02:20.477227+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "a-ha",
+        "title": "Velvet",
+        "detected_at_utc": "2026-11-08T06:02:20.341821+00:00"
+      },
       {
         "artist": "Lisa Keith",
         "title": "Better Than You",
