@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:41:27.235003+00:00",
+  "updated_at_utc": "2026-11-08T07:44:11.723969+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Mraz",
+        "title": "Make It Mine",
+        "detected_at_utc": "2026-11-08T07:44:11.628358+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Ku Katakan Dengan Indah",
