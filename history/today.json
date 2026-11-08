@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:13:05.855415+00:00",
+  "updated_at_utc": "2026-11-08T16:14:08.235445+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-08T16:13:39.661807+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -1292,6 +1297,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Atlantic Starr",
+        "title": "Always",
+        "detected_at_utc": "2026-11-08T16:13:50.891501+00:00"
+      },
       {
         "artist": "Def Leppard",
         "title": "Miss You In a Heartbeat (Revised Version)",
