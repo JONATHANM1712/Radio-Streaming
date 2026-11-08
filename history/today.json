@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:07:33.540007+00:00",
+  "updated_at_utc": "2026-11-08T16:08:35.999722+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Quick & Snow",
+        "title": "Quick & Snow Show 03-10-1999",
+        "detected_at_utc": "2026-11-08T16:07:58.139429+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Buttons",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "True Love (feat. Lily Allen)",
+        "detected_at_utc": "2026-11-08T16:08:33.469915+00:00"
+      },
       {
         "artist": "Paul Russell",
         "title": "Lil Boo Thang",
