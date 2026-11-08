@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T03:15:24.641301+00:00",
+  "updated_at_utc": "2026-11-08T03:16:27.078633+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ello",
+        "title": "Kisah Kita T'lah Usai",
+        "detected_at_utc": "2026-11-08T03:16:22.926529+00:00"
+      },
       {
         "artist": "Frente!",
         "title": "Accidently Kelly Street (2014 Remaster)",
