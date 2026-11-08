@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:04:17.164368+00:00",
+  "updated_at_utc": "2026-11-08T15:05:19.579099+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eminem",
+        "title": "The Monster (feat. Rihanna)",
+        "detected_at_utc": "2026-11-08T15:04:29.069644+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Posessif",
@@ -500,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-08T15:05:08.490877+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
