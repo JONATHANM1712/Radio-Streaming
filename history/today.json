@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:17:30.642678+00:00",
+  "updated_at_utc": "2026-11-08T15:18:33.091937+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Sepatu",
+        "detected_at_utc": "2026-11-08T15:17:55.818080+00:00"
+      },
       {
         "artist": "Dance Monkey & Universatility Group",
         "title": "playing for time",
@@ -525,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue & JP Cooper",
+        "title": "Perfect Strangers",
+        "detected_at_utc": "2026-11-08T15:18:29.428687+00:00"
+      },
       {
         "artist": "Watershed",
         "title": "Indigo Girl",
