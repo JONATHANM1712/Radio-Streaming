@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:29:49.512404+00:00",
+  "updated_at_utc": "2026-11-08T17:30:57.537123+00:00",
   "stations": {
     "kis": [
       {
@@ -87,6 +87,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bad Company",
+        "title": "How About That",
+        "detected_at_utc": "2026-11-08T17:30:57.435877+00:00"
+      },
       {
         "artist": "Earth, Wind & Fire",
         "title": "September",
