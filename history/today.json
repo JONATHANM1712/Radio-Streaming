@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:47:16.796408+00:00",
+  "updated_at_utc": "2026-11-08T16:48:51.920569+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Evanescence",
+        "title": "Bring Me To Life",
+        "detected_at_utc": "2026-11-08T16:48:51.784393+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
