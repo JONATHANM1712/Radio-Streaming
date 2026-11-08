@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:18:55.287629+00:00",
+  "updated_at_utc": "2026-11-08T17:19:57.803830+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-11-08T17:19:30.821274+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
