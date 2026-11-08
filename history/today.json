@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:10:08.049803+00:00",
+  "updated_at_utc": "2026-11-08T07:11:12.445930+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Yeah 3X",
+        "detected_at_utc": "2026-11-08T07:11:11.940658+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
