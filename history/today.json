@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:23:16.763435+00:00",
+  "updated_at_utc": "2026-11-08T14:24:19.269451+00:00",
   "stations": {
     "kis": [
       {
@@ -987,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Patrice Rushen",
+        "title": "Remind Me",
+        "detected_at_utc": "2026-11-08T14:24:13.439667+00:00"
+      },
       {
         "artist": "山下達郎",
         "title": "RAINY WALK",
