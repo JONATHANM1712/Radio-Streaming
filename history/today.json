@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:44:03.923108+00:00",
+  "updated_at_utc": "2026-11-08T12:45:14.332062+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-08T12:45:14.234480+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Nothin' On You (feat. Bruno Mars)",
@@ -722,6 +727,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "That's The Way Of The World (Live)",
+        "detected_at_utc": "2026-11-08T12:45:13.859802+00:00"
+      },
       {
         "artist": "Robert Palmer",
         "title": "Mercy Mercy Me/I Want You (Medley)",
