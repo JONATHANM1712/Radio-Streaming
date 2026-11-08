@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:36:41.274914+00:00",
+  "updated_at_utc": "2026-11-08T05:37:45.730268+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Like That (feat. Gucci Mane)",
+        "detected_at_utc": "2026-11-08T05:36:45.432328+00:00"
+      },
       {
         "artist": "Hoobastank",
         "title": "The Reason",
