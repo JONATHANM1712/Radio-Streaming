@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:28:47.018716+00:00",
+  "updated_at_utc": "2026-11-08T17:29:49.512404+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "Sleeping Child",
+        "detected_at_utc": "2026-11-08T17:29:07.950423+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Pretty Boy",
