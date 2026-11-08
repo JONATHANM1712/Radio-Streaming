@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T03:28:55.039788+00:00",
+  "updated_at_utc": "2026-11-08T03:29:57.389781+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-08T03:29:53.514324+00:00"
+      },
       {
         "artist": "CeeLo Green",
         "title": "F**k You",
