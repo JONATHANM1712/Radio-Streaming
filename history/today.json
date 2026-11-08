@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:44:11.723969+00:00",
+  "updated_at_utc": "2026-11-08T07:45:36.446105+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "Jar of Hearts",
+        "detected_at_utc": "2026-11-08T07:45:36.351202+00:00"
+      },
       {
         "artist": "Laleilmanino",
         "title": "Rapsodi",
