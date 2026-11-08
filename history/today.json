@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:29:20.514040+00:00",
+  "updated_at_utc": "2026-11-08T14:31:18.352568+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lykke Li",
+        "title": "I Follow Rivers (The Magician Remix)",
+        "detected_at_utc": "2026-11-08T14:31:18.248132+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
