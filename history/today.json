@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:41:06.082934+00:00",
+  "updated_at_utc": "2026-11-08T05:42:10.023426+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-08T05:41:29.783721+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Like That (feat. Gucci Mane)",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Stay (Faraway, So Close!)",
+        "detected_at_utc": "2026-11-08T05:41:30.302985+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "Don't Lose My Number",
