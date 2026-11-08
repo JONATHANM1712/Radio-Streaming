@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:07:54.736198+00:00",
+  "updated_at_utc": "2026-11-08T14:10:44.088318+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Starboy (feat. Daft Punk)",
+        "detected_at_utc": "2026-11-08T14:10:43.927025+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Love On",
