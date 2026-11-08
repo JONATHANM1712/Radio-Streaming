@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:04:59.541109+00:00",
+  "updated_at_utc": "2026-11-08T08:06:02.439861+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Made You Look",
+        "detected_at_utc": "2026-11-08T08:05:25.416533+00:00"
+      },
       {
         "artist": "David Guetta & Kelly Rowland",
         "title": "When Love Takes Over (feat. Kelly Rowland)",
