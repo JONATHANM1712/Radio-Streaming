@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T03:35:00.909233+00:00",
+  "updated_at_utc": "2026-11-08T03:36:03.501413+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "POTRET",
+        "title": "Mak Comblang",
+        "detected_at_utc": "2026-11-08T03:35:47.270775+00:00"
+      },
       {
         "artist": "Simple Plan",
         "title": "I'm Just a Kid",
