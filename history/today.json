@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:27:08.602113+00:00",
+  "updated_at_utc": "2026-11-08T16:28:11.488732+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Liquido",
+        "title": "Play Some Rock",
+        "detected_at_utc": "2026-11-08T16:27:35.774619+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
