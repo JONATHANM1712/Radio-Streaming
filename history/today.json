@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:34:44.145455+00:00",
+  "updated_at_utc": "2026-11-08T08:36:51.841604+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "Hands To Myself",
+        "detected_at_utc": "2026-11-08T08:36:51.534123+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I'm a Slave 4 U",
