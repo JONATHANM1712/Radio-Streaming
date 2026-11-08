@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:23:49.638799+00:00",
+  "updated_at_utc": "2026-11-08T06:24:52.992176+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "detected_at_utc": "2026-11-08T06:24:25.767546+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "One In A Million",
