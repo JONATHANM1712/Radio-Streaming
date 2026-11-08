@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:15:57.153079+00:00",
+  "updated_at_utc": "2026-11-08T14:18:59.852684+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Closer",
+        "detected_at_utc": "2026-11-08T14:18:59.724946+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
