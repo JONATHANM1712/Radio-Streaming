@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:40:47.001188+00:00",
+  "updated_at_utc": "2026-11-08T14:43:37.616778+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "detected_at_utc": "2026-11-08T14:43:37.524263+00:00"
+      },
       {
         "artist": "Lifehouse",
         "title": "You and Me",
