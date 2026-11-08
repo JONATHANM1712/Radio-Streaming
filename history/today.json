@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:34:58.020659+00:00",
+  "updated_at_utc": "2026-11-08T06:36:00.446469+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Bukan Untukku",
+        "detected_at_utc": "2026-11-08T06:35:16.221788+00:00"
+      },
       {
         "artist": "Watershed",
         "title": "Indigo Girl",
@@ -185,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gery Gany",
+        "title": "Sesaat Kau Hadir",
+        "detected_at_utc": "2026-11-08T06:35:51.156157+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Save Room",
