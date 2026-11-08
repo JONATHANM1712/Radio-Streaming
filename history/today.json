@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:11:12.445930+00:00",
+  "updated_at_utc": "2026-11-08T07:12:29.822249+00:00",
   "stations": {
     "kis": [
       {
@@ -497,6 +497,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kris Kross",
+        "title": "Alright",
+        "detected_at_utc": "2026-11-08T07:12:29.678124+00:00"
+      },
       {
         "artist": "Kajagoogoo",
         "title": "Big Apple",
