@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T02:41:41.712446+00:00",
+  "updated_at_utc": "2026-11-08T02:42:44.920786+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "rollerblade",
+        "detected_at_utc": "2026-11-08T02:42:40.599484+00:00"
+      },
       {
         "artist": "Creed",
         "title": "My Sacrifice",
