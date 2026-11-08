@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:58:45.295436+00:00",
+  "updated_at_utc": "2026-11-08T07:00:47.932129+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "detected_at_utc": "2026-11-08T07:00:47.842939+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
