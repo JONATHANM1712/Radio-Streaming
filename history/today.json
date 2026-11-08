@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T05:55:27.744617+00:00",
+  "updated_at_utc": "2026-11-08T05:56:44.820633+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "title": "I Like It",
+        "detected_at_utc": "2026-11-08T05:56:44.693911+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Baby (feat. Ludacris)",
