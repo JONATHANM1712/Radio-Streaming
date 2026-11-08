@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T02:46:48.159937+00:00",
+  "updated_at_utc": "2026-11-08T02:47:51.211625+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-11-08T02:47:43.198655+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Canned Heat",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Pandangan Pertama (Live)",
+        "detected_at_utc": "2026-11-08T02:47:49.913895+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Birthday",
@@ -122,6 +132,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Smooth Criminal",
+        "detected_at_utc": "2026-11-08T02:47:49.814316+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Dangerous",
