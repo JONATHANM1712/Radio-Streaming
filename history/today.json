@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:16:54.928417+00:00",
+  "updated_at_utc": "2026-11-08T07:18:34.373901+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stereophonics",
+        "title": "Dakota",
+        "detected_at_utc": "2026-11-08T07:18:34.274324+00:00"
+      },
       {
         "artist": "Coi Leray",
         "title": "Players",
