@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T07:23:10.343773+00:00",
+  "updated_at_utc": "2026-11-08T07:24:15.714424+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dipha Barus",
+        "title": "All Good (feat. Nadin Amizah)",
+        "detected_at_utc": "2026-11-08T07:23:45.427512+00:00"
+      },
       {
         "artist": "Stereophonics",
         "title": "Dakota",
