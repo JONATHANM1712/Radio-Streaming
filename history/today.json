@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T08:23:29.495961+00:00",
+  "updated_at_utc": "2026-11-08T08:25:18.339288+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Arthur",
+        "title": "Say You Won't Let Go",
+        "detected_at_utc": "2026-11-08T08:25:18.198748+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Underneath It All (feat. Lady Saw)",
