@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:41:26.081224+00:00",
+  "updated_at_utc": "2026-11-08T15:43:02.093241+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-08T15:43:01.998550+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Someone Like You",
