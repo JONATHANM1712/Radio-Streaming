@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:44:46.377633+00:00",
+  "updated_at_utc": "2026-11-08T14:45:48.833300+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pitbull",
+        "title": "International Love (feat. Chris Brown)",
+        "detected_at_utc": "2026-11-08T14:44:53.930758+00:00"
+      },
       {
         "artist": "Kathy Troccoli",
         "title": "Tell Me Where It Hurts",
