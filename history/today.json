@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:55:45.689306+00:00",
+  "updated_at_utc": "2026-11-08T15:57:39.309570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "detected_at_utc": "2026-11-08T15:56:44.450182+00:00"
+      },
       {
         "artist": "Mamas Gun",
         "title": "Pots of Gold",
@@ -1237,6 +1242,16 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric Clapton",
+        "title": "Wonderful Tonight",
+        "detected_at_utc": "2026-11-08T15:57:31.189334+00:00"
+      },
+      {
+        "artist": "Genesis",
+        "title": "Man of Our Times (2007 Remaster)",
+        "detected_at_utc": "2026-11-08T15:56:29.901618+00:00"
+      },
       {
         "artist": "Heavy C",
         "title": "Porquê",
