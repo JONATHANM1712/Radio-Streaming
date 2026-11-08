@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:26:42.126308+00:00",
+  "updated_at_utc": "2026-11-08T17:27:44.532116+00:00",
   "stations": {
     "kis": [
       {
@@ -77,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "December (Based on \"September\")",
+        "detected_at_utc": "2026-11-08T17:26:52.216653+00:00"
+      },
       {
         "artist": "Earth, Wind & Fire",
         "title": "September",
