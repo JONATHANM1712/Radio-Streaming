@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:31:44.173553+00:00",
+  "updated_at_utc": "2026-11-08T06:32:46.731218+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alejandro Castelli",
+        "title": "Peru",
+        "detected_at_utc": "2026-11-08T06:32:10.864592+00:00"
+      },
       {
         "artist": "Honeyz",
         "title": "End Of The Line (Rude Boy Mix)",
