@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-08T17:55:17.058808+00:00",
+  "updated_at_utc": "2026-11-08T17:57:16.940489+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "U Make Me Wanna",
+        "detected_at_utc": "2026-11-08T17:57:16.853490+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
