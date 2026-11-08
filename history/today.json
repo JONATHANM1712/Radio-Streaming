@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T14:12:51.055750+00:00",
+  "updated_at_utc": "2026-11-08T14:14:53.596987+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-08T14:14:53.414936+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Starboy (feat. Daft Punk)",
