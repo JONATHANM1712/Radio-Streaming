@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T16:01:52.169342+00:00",
+  "updated_at_utc": "2026-11-08T16:02:54.900367+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "rollerblade",
+        "detected_at_utc": "2026-11-08T16:02:25.484953+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "One Thing",
