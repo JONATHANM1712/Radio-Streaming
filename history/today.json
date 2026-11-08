@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T06:53:32.281880+00:00",
+  "updated_at_utc": "2026-11-08T06:54:35.540453+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kenny Loggins",
+        "title": "For the First Time",
+        "detected_at_utc": "2026-11-08T06:53:59.082739+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Beautiful Girls",
