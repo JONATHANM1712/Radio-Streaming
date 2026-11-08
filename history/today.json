@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T15:28:09.269848+00:00",
+  "updated_at_utc": "2026-11-08T15:29:11.774373+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Natasha Bedingfield",
+        "title": "These Words",
+        "detected_at_utc": "2026-11-08T15:28:43.840885+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
