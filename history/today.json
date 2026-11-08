@@ -1,8 +1,13 @@
 {
   "date": "2026-11-08",
-  "updated_at_utc": "2026-11-08T12:54:41.258550+00:00",
+  "updated_at_utc": "2026-11-08T12:57:59.276860+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andre Hehanussa",
+        "title": "Bidadari",
+        "detected_at_utc": "2026-11-08T12:57:59.061077+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Unintended",
