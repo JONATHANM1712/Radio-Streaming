@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:50:42.621216+00:00",
+  "updated_at_utc": "2026-11-09T17:51:45.394602+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ricky Martin",
+        "title": "She's All I Ever Had",
+        "detected_at_utc": "2026-11-09T17:51:16.968862+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Stickwitu",
@@ -70,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-11-09T17:51:43.702081+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life (Remix) [feat. B.O.B.]",
@@ -147,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "One More Chance",
+        "detected_at_utc": "2026-11-09T17:51:01.133740+00:00"
+      },
       {
         "artist": "Chicago",
         "title": "I Don't Wanna Live Without Your Love",
