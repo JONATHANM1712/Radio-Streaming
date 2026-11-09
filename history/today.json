@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:11:34.934047+00:00",
+  "updated_at_utc": "2026-11-09T13:13:42.373836+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Steve Aoki & Louis Tomlinson",
+        "title": "Just Hold On",
+        "detected_at_utc": "2026-11-09T13:13:42.279821+00:00"
+      },
       {
         "artist": "NIKI",
         "title": "Take A Chance With Me",
