@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:41:10.974043+00:00",
+  "updated_at_utc": "2026-11-09T06:42:13.666993+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-11-09T06:42:12.675871+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Let Me Love You",
