@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:56:10.779815+00:00",
+  "updated_at_utc": "2026-11-09T17:57:13.480097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "4 In the Morning",
+        "detected_at_utc": "2026-11-09T17:56:22.953534+00:00"
+      },
       {
         "artist": "Ricky Martin",
         "title": "She's All I Ever Had",
@@ -75,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Most Girls",
+        "detected_at_utc": "2026-11-09T17:56:49.684774+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
