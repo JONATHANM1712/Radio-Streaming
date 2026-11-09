@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:30:43.904568+00:00",
+  "updated_at_utc": "2026-11-09T08:32:47.644722+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-09T08:32:47.509360+00:00"
+      },
       {
         "artist": "Gnarls Barkley",
         "title": "Crazy",
