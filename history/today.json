@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:54:58.223244+00:00",
+  "updated_at_utc": "2026-11-09T16:57:29.265295+00:00",
   "stations": {
     "kis": [
       {
@@ -845,6 +845,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "detected_at_utc": "2026-11-09T16:57:29.183178+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
