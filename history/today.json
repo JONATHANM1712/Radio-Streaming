@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:30:14.680079+00:00",
+  "updated_at_utc": "2026-11-09T05:32:15.619670+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-09T05:32:15.527626+00:00"
+      },
       {
         "artist": "Shakira",
         "title": "Can't Remember to Forget You (feat. Rihanna)",
