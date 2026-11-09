@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:50:51.653622+00:00",
+  "updated_at_utc": "2026-11-09T16:52:22.731611+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-09T16:52:22.647761+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
