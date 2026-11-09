@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:56:20.907352+00:00",
+  "updated_at_utc": "2026-11-09T07:46:34.742120+00:00",
   "stations": {
     "kis": [
       {
@@ -316,6 +316,11 @@
     ],
     "jak": [
       {
+        "artist": "Ariana Grande",
+        "title": "Side To Side (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-09T07:46:34.591216+00:00"
+      },
+      {
         "artist": "Sara Bareilles",
         "title": "Gravity",
         "detected_at_utc": "2026-11-09T06:54:36.424955+00:00"
@@ -627,6 +632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "La Isla Bonita",
+        "detected_at_utc": "2026-11-09T07:46:34.591000+00:00"
+      },
       {
         "artist": "Tina Turner",
         "title": "Better Be Good to Me",
