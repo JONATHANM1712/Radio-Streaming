@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:52:14.813082+00:00",
+  "updated_at_utc": "2026-11-09T06:53:34.341276+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Next To You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-09T06:53:34.264158+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
