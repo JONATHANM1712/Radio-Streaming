@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:47:37.395322+00:00",
+  "updated_at_utc": "2026-11-09T05:48:39.830308+00:00",
   "stations": {
     "kis": [
       {
@@ -231,6 +231,11 @@
     ],
     "jak": [
       {
+        "artist": "Ella Mai",
+        "title": "Trip",
+        "detected_at_utc": "2026-11-09T05:48:39.416125+00:00"
+      },
+      {
         "artist": "3 Doors Down",
         "title": "Here Without You (Acoustic)",
         "detected_at_utc": "2026-11-09T05:40:27.711037+00:00"
@@ -447,6 +452,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Steve Miller Band",
+        "title": "Fly Like an Eagle",
+        "detected_at_utc": "2026-11-09T05:48:22.816330+00:00"
+      },
       {
         "artist": "Stevie Wonder",
         "title": "You Are The Sunshine Of My Life",
