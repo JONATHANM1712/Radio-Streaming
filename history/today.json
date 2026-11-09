@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:26:05.872015+00:00",
+  "updated_at_utc": "2026-11-09T05:29:11.491366+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shakira",
+        "title": "Can't Remember to Forget You (feat. Rihanna)",
+        "detected_at_utc": "2026-11-09T05:29:11.306154+00:00"
+      },
       {
         "artist": "The Script",
         "title": "For the First Time",
