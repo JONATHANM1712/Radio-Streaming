@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:23:16.303910+00:00",
+  "updated_at_utc": "2026-11-09T14:24:19.542165+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-09T14:23:39.562701+00:00"
+      },
       {
         "artist": "Mary J. Blige",
         "title": "Be Without You (Kendu Mix)",
