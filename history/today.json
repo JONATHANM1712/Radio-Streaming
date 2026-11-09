@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:59:06.314632+00:00",
+  "updated_at_utc": "2026-11-09T16:03:46.756575+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-11-09T16:03:46.665794+00:00"
+      },
       {
         "artist": "Jessie J",
         "title": "Domino",
