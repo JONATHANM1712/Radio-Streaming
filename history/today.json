@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T03:49:44.667249+00:00",
+  "updated_at_utc": "2026-11-09T03:50:48.320300+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Unconditionally",
+        "detected_at_utc": "2026-11-09T03:49:54.092798+00:00"
+      },
       {
         "artist": "Phil Perry",
         "title": "To Fall In Love",
@@ -85,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Poker Face",
+        "detected_at_utc": "2026-11-09T03:50:02.367637+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
