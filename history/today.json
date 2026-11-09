@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:26:22.904428+00:00",
+  "updated_at_utc": "2026-11-09T17:28:08.593680+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olly Murs",
+        "title": "Troublemaker (feat. Flo Rida)",
+        "detected_at_utc": "2026-11-09T17:28:08.506958+00:00"
+      },
       {
         "artist": "Nick Jonas",
         "title": "Jealous",
