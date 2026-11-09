@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:19:01.021008+00:00",
+  "updated_at_utc": "2026-11-09T14:20:27.064439+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mary J. Blige",
+        "title": "Be Without You (Kendu Mix)",
+        "detected_at_utc": "2026-11-09T14:20:26.942757+00:00"
+      },
       {
         "artist": "Hozier",
         "title": "Too Sweet",
