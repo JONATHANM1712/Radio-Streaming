@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:13:06.732364+00:00",
+  "updated_at_utc": "2026-11-09T17:15:25.937251+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "Dimanakah Kau Berada",
+        "detected_at_utc": "2026-11-09T17:15:25.819084+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "My Heart Will Go On (Live)",
