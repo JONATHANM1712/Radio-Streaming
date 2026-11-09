@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T07:56:51.743937+00:00",
+  "updated_at_utc": "2026-11-09T07:58:51.178783+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-11-09T07:58:51.059204+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "That's the Way It Is",
