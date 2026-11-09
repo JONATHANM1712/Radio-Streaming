@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T11:49:47.146292+00:00",
+  "updated_at_utc": "2026-11-09T11:54:56.573481+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "detected_at_utc": "2026-11-09T11:54:56.484967+00:00"
+      },
       {
         "artist": "LFO",
         "title": "Girl On TV",
