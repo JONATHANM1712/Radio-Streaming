@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:53:14.200775+00:00",
+  "updated_at_utc": "2026-11-09T04:54:17.174648+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "detected_at_utc": "2026-11-09T04:54:08.192050+00:00"
+      },
       {
         "artist": "Carole King",
         "title": "Anyone At All",
