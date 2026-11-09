@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T07:48:38.288517+00:00",
+  "updated_at_utc": "2026-11-09T07:49:41.437220+00:00",
   "stations": {
     "kis": [
       {
@@ -321,6 +321,11 @@
     ],
     "jak": [
       {
+        "artist": "The Wanted",
+        "title": "Glad You Came",
+        "detected_at_utc": "2026-11-09T07:49:39.019062+00:00"
+      },
+      {
         "artist": "Ariana Grande",
         "title": "Side To Side (feat. Nicki Minaj)",
         "detected_at_utc": "2026-11-09T07:46:34.591216+00:00"
@@ -637,6 +642,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Deep Purple",
+        "title": "Smoke On the Water",
+        "detected_at_utc": "2026-11-09T07:49:39.019180+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "La Isla Bonita",
