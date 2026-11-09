@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T10:51:38.108151+00:00",
+  "updated_at_utc": "2026-11-09T10:52:55.635766+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-09T10:52:55.474087+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Pretty Boy",
