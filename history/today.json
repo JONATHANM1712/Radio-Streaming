@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:43:56.552232+00:00",
+  "updated_at_utc": "2026-11-09T15:45:46.891989+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "I Like Me Better",
+        "detected_at_utc": "2026-11-09T15:45:46.810102+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
