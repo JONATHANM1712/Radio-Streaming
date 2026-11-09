@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T10:40:15.726348+00:00",
+  "updated_at_utc": "2026-11-09T10:41:18.802445+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-09T10:41:17.488214+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
