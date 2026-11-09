@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:07:14.654348+00:00",
+  "updated_at_utc": "2026-11-09T17:08:43.038377+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Mind Trick",
+        "detected_at_utc": "2026-11-09T17:08:42.951921+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Harleys In Hawaii",
