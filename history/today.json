@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:05:41.276989+00:00",
+  "updated_at_utc": "2026-11-09T04:06:52.025896+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur",
+        "title": "Say You Won't Let Go",
+        "detected_at_utc": "2026-11-09T04:06:51.891936+00:00"
+      },
       {
         "artist": "Rob Thomas",
         "title": "Lonely No More",
