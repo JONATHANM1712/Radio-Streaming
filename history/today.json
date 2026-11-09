@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:36:40.500416+00:00",
+  "updated_at_utc": "2026-11-09T15:37:43.309220+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Walking After You",
+        "detected_at_utc": "2026-11-09T15:37:06.747815+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I Won't Give Up",
