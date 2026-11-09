@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:27:24.401371+00:00",
+  "updated_at_utc": "2026-11-09T04:28:28.612994+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-11-09T04:28:28.469962+00:00"
+      },
       {
         "artist": "Avicii & Sandro Cavazza",
         "title": "Without You",
