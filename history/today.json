@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:19:56.064617+00:00",
+  "updated_at_utc": "2026-11-09T13:20:59.079569+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dewi Sandra",
+        "title": "Buktikan",
+        "detected_at_utc": "2026-11-09T13:19:57.895344+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
