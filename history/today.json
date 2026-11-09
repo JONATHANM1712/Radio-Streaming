@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:52:23.066941+00:00",
+  "updated_at_utc": "2026-11-09T13:53:26.069067+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-09T13:53:14.061172+00:00"
+      },
       {
         "artist": "LINKIN PARK",
         "title": "Heavy (feat. Kiiara)",
