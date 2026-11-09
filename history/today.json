@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:39:28.321305+00:00",
+  "updated_at_utc": "2026-11-09T05:40:30.817137+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "3 Doors Down",
+        "title": "Here Without You (Acoustic)",
+        "detected_at_utc": "2026-11-09T05:40:27.711037+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Misery",
