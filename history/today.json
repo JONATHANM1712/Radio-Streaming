@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:57:36.429809+00:00",
+  "updated_at_utc": "2026-11-09T05:58:39.232626+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-09T05:57:52.787964+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Sejuta Cinta",
