@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:14:45.038360+00:00",
+  "updated_at_utc": "2026-11-09T13:16:52.637050+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-09T13:16:52.555126+00:00"
+      },
       {
         "artist": "Steve Aoki & Louis Tomlinson",
         "title": "Just Hold On",
