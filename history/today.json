@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:28:08.593680+00:00",
+  "updated_at_utc": "2026-11-09T17:30:50.779109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Bay",
+        "title": "Let It Go",
+        "detected_at_utc": "2026-11-09T17:30:50.667892+00:00"
+      },
       {
         "artist": "James Ingram & Dolly Parton",
         "title": "The Day I Fall In Love",
