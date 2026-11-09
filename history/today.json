@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:16:51.686341+00:00",
+  "updated_at_utc": "2026-11-09T14:19:01.021008+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babybird",
+        "title": "You're Gorgeous",
+        "detected_at_utc": "2026-11-09T14:19:00.889991+00:00"
+      },
       {
         "artist": "Andien",
         "title": "Milikmu Selalu",
