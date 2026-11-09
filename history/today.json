@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T11:26:57.266698+00:00",
+  "updated_at_utc": "2026-11-09T11:34:59.544288+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-09T11:34:59.433313+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "I Like You (A Happier Song) [feat. Doja Cat]",
