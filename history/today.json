@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:34:35.543913+00:00",
+  "updated_at_utc": "2026-11-09T15:35:38.000693+00:00",
   "stations": {
     "kis": [
       {
@@ -755,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dhruv",
+        "title": "double take",
+        "detected_at_utc": "2026-11-09T15:35:32.614228+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
