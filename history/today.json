@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:32:28.407018+00:00",
+  "updated_at_utc": "2026-11-09T16:33:53.866544+00:00",
   "stations": {
     "kis": [
       {
@@ -820,6 +820,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande & Kid Cudi",
+        "title": "Just Look Up (From Don’t Look Up)",
+        "detected_at_utc": "2026-11-09T16:33:53.779291+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
