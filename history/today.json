@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:49:26.198088+00:00",
+  "updated_at_utc": "2026-11-09T15:50:28.709138+00:00",
   "stations": {
     "kis": [
       {
@@ -775,6 +775,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bunga Citra Lestari",
+        "title": "Kecewa",
+        "detected_at_utc": "2026-11-09T15:49:52.315618+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "I Like Me Better",
