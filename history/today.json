@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T03:56:18.737659+00:00",
+  "updated_at_utc": "2026-11-09T03:57:22.073946+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Sundays",
+        "title": "When I'm Thinking About You",
+        "detected_at_utc": "2026-11-09T03:56:25.302175+00:00"
+      },
       {
         "artist": "RBD, Anahí, Dulce María, Maite Perroni & Christian Chávez",
         "title": "Tu Amor (feat. Christopher von Uckermann & Alfonso Herrera)",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-09T03:56:34.255340+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Poker Face",
