@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:05:16.209450+00:00",
+  "updated_at_utc": "2026-11-09T05:06:34.206489+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Phoenix",
+        "title": "Lisztomania",
+        "detected_at_utc": "2026-11-09T05:06:34.060863+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "We Don't Talk Anymore (feat. Selena Gomez)",
