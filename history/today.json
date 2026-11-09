@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:45:50.083291+00:00",
+  "updated_at_utc": "2026-11-09T13:46:52.729882+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Got 'Til It's Gone (feat. Q-Tip & Joni Mitchell)",
+        "detected_at_utc": "2026-11-09T13:46:52.246418+00:00"
+      },
       {
         "artist": "Barbra Streisand",
         "title": "I Finally Found Someone",
@@ -615,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-09T13:45:56.173999+00:00"
+      },
       {
         "artist": "Hindia",
         "title": "Rumah Ke Rumah",
