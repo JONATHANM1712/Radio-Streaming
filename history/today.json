@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:41:48.863239+00:00",
+  "updated_at_utc": "2026-11-09T17:43:07.348543+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Barbra Streisand",
+        "title": "I Finally Found Someone",
+        "detected_at_utc": "2026-11-09T17:43:07.268803+00:00"
+      },
       {
         "artist": "Chrisye",
         "title": "Untukku",
