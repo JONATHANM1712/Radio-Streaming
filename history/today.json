@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:27:50.270072+00:00",
+  "updated_at_utc": "2026-11-09T06:28:52.768218+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Naif",
+        "title": "Dimana Aku Di Sini",
+        "detected_at_utc": "2026-11-09T06:28:50.057175+00:00"
+      },
       {
         "artist": "Zedd, Maren Morris & Grey",
         "title": "The Middle",
