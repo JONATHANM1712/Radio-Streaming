@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:08:27.689370+00:00",
+  "updated_at_utc": "2026-11-09T15:10:56.413210+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Henry Moodie",
+        "title": "drunk text",
+        "detected_at_utc": "2026-11-09T15:10:56.283794+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Obsessed",
