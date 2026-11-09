@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:17:32.541385+00:00",
+  "updated_at_utc": "2026-11-09T16:20:10.278581+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-09T16:20:10.184279+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Dibalas Dengan Dusta (Remastered)",
