@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:13:28.223692+00:00",
+  "updated_at_utc": "2026-11-09T05:14:31.565169+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The 1975",
+        "title": "Somebody Else",
+        "detected_at_utc": "2026-11-09T05:13:45.366080+00:00"
+      },
       {
         "artist": "Madonna & Sabrina Carpenter",
         "title": "Bring Your Love",
