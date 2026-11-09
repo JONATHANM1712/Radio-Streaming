@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:07:28.364222+00:00",
+  "updated_at_utc": "2026-11-09T18:08:31.312757+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hilary Duff",
+        "title": "So Yesterday",
+        "detected_at_utc": "2026-11-09T18:08:04.726305+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "On the Floor (feat. Pitbull)",
