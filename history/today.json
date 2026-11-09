@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:49:52.687774+00:00",
+  "updated_at_utc": "2026-11-09T14:50:55.686866+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-09T14:50:18.439282+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Penantian Berharga",
