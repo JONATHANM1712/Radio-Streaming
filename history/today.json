@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:13:57.623010+00:00",
+  "updated_at_utc": "2026-11-09T04:16:07.827243+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Madison Beer",
+        "title": "bittersweet",
+        "detected_at_utc": "2026-11-09T04:16:07.704908+00:00"
+      },
       {
         "artist": "Ello, Barry, Ipank & Lala Karmela",
         "title": "Buka Semangat Baru",
