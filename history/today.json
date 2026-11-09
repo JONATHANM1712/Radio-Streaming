@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:20:09.704712+00:00",
+  "updated_at_utc": "2026-11-09T15:23:25.029693+00:00",
   "stations": {
     "kis": [
       {
@@ -1377,6 +1377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-09T15:23:24.880801+00:00"
+      },
       {
         "artist": "The Smiths",
         "title": "How Soon Is Now? (12\" Version)",
