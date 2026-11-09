@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:04:13.081534+00:00",
+  "updated_at_utc": "2026-11-09T05:05:16.209450+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sondre Lerche",
+        "title": "Two Way Monologue",
+        "detected_at_utc": "2026-11-09T05:04:25.036827+00:00"
+      },
       {
         "artist": "Regina Spektor",
         "title": "Fidelity",
