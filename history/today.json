@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:32:47.644722+00:00",
+  "updated_at_utc": "2026-11-09T08:33:50.662817+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Runaway",
+        "detected_at_utc": "2026-11-09T08:33:47.429468+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Karena Kamu Cuma Satu",
