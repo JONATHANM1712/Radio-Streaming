@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:00:07.132202+00:00",
+  "updated_at_utc": "2026-11-09T17:01:10.248392+00:00",
   "stations": {
     "kis": [
       {
@@ -9,7 +9,19 @@
         "detected_at_utc": "2026-11-09T17:00:05.533464+00:00"
       }
     ],
-    "jak": [],
-    "most": []
+    "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "detected_at_utc": "2026-11-09T17:00:32.865138+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Toto",
+        "title": "Holyanna",
+        "detected_at_utc": "2026-11-09T17:00:46.576395+00:00"
+      }
+    ]
   }
 }
