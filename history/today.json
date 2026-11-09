@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:20:28.242027+00:00",
+  "updated_at_utc": "2026-11-09T08:25:36.217922+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-11-09T08:25:36.092038+00:00"
+      },
       {
         "artist": "The Calling",
         "title": "Wherever You Will Go",
