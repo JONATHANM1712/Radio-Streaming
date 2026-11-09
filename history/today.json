@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:24:02.413889+00:00",
+  "updated_at_utc": "2026-11-09T17:25:05.366577+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Ingram & Dolly Parton",
+        "title": "The Day I Fall In Love",
+        "detected_at_utc": "2026-11-09T17:24:40.305436+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Alejandro",
