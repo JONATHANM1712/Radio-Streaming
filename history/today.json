@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T12:06:04.644729+00:00",
+  "updated_at_utc": "2026-11-09T12:09:30.500806+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andre Hehanussa",
+        "title": "Kkeb",
+        "detected_at_utc": "2026-11-09T12:09:30.408516+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Ordinary People",
