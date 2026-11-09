@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:32:44.099233+00:00",
+  "updated_at_utc": "2026-11-09T14:35:26.022459+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bening",
+        "title": "Ada Cinta",
+        "detected_at_utc": "2026-11-09T14:35:25.838456+00:00"
+      },
       {
         "artist": "Sugababes",
         "title": "Shape",
