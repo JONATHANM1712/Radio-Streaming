@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:36:11.995525+00:00",
+  "updated_at_utc": "2026-11-09T16:39:35.609617+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "3 Finer & T-Djay",
+        "title": "Surdo",
+        "detected_at_utc": "2026-11-09T16:39:35.496550+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I'm Not a Girl, Not Yet a Woman",
