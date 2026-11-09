@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:15:24.693265+00:00",
+  "updated_at_utc": "2026-11-09T08:16:27.713825+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Idgitaf",
+        "title": "Sedia Aku Sebelum Hujan",
+        "detected_at_utc": "2026-11-09T08:16:20.695835+00:00"
+      },
       {
         "artist": "Gym Class Heroes",
         "title": "Stereo Hearts (feat. Adam Levine)",
