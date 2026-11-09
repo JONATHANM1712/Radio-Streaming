@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:21:30.428147+00:00",
+  "updated_at_utc": "2026-11-09T14:23:16.303910+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Bubbly",
+        "detected_at_utc": "2026-11-09T14:23:16.181371+00:00"
+      },
       {
         "artist": "Babybird",
         "title": "You're Gorgeous",
