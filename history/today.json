@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:58:39.232626+00:00",
+  "updated_at_utc": "2026-11-09T05:59:41.722029+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Binocular",
+        "title": "Deep",
+        "detected_at_utc": "2026-11-09T05:58:53.866953+00:00"
+      },
       {
         "artist": "Faith Hill",
         "title": "This Kiss",
