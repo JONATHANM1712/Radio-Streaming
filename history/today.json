@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:37:43.309220+00:00",
+  "updated_at_utc": "2026-11-09T15:38:45.787966+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bow Wow",
+        "title": "Like You (feat. Ciara)",
+        "detected_at_utc": "2026-11-09T15:38:36.804161+00:00"
+      },
       {
         "artist": "Dhruv",
         "title": "double take",
