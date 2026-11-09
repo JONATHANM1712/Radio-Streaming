@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:31:39.352012+00:00",
+  "updated_at_utc": "2026-11-09T06:33:59.551126+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-09T06:33:59.470987+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Dimana Aku Di Sini",
