@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:16:39.021817+00:00",
+  "updated_at_utc": "2026-11-09T15:17:42.302421+00:00",
   "stations": {
     "kis": [
       {
@@ -730,6 +730,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-09T15:17:05.168858+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "What Lovers Do (feat. SZA)",
