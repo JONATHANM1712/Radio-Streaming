@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:40:38.429912+00:00",
+  "updated_at_utc": "2026-11-09T16:41:40.960576+00:00",
   "stations": {
     "kis": [
       {
@@ -830,6 +830,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "STROKEMANENT",
+        "title": "My City",
+        "detected_at_utc": "2026-11-09T16:41:05.542428+00:00"
+      },
       {
         "artist": "OTE",
         "title": "Shout It Out",
