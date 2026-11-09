@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:11:43.007051+00:00",
+  "updated_at_utc": "2026-11-09T18:14:45.701943+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Astrid",
+        "title": "Jadikan Aku Yang Kedua",
+        "detected_at_utc": "2026-11-09T18:14:45.604036+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Free Fallin' (Live at the Nokia Theatre, Los Angeles, CA - December 2007)",
