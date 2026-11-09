@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:47:22.014883+00:00",
+  "updated_at_utc": "2026-11-09T06:48:24.500821+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katon Bagaskara",
+        "title": "Negri Di Awan",
+        "detected_at_utc": "2026-11-09T06:48:22.976704+00:00"
+      },
       {
         "artist": "Sylvan Serenade",
         "title": "Healing Stream 1 Hour of Forest Ambience and Uplifting Nature Sounds",
@@ -602,6 +607,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Hungry Like the Wolf",
+        "detected_at_utc": "2026-11-09T06:48:06.561447+00:00"
+      },
       {
         "artist": "The Honeydrippers",
         "title": "Sea of Love",
