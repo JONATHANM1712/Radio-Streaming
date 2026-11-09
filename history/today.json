@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:14:01.881913+00:00",
+  "updated_at_utc": "2026-11-09T06:15:04.414261+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Empire Of The Sun",
+        "title": "Walking On A Dream",
+        "detected_at_utc": "2026-11-09T06:14:23.662366+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
