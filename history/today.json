@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:09:56.833988+00:00",
+  "updated_at_utc": "2026-11-09T06:11:13.916462+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-09T06:11:13.825124+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Steal My Girl",
