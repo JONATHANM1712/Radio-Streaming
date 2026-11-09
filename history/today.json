@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:25:44.715514+00:00",
+  "updated_at_utc": "2026-11-09T06:26:47.776085+00:00",
   "stations": {
     "kis": [
       {
@@ -276,6 +276,11 @@
     ],
     "jak": [
       {
+        "artist": "Zedd, Maren Morris & Grey",
+        "title": "The Middle",
+        "detected_at_utc": "2026-11-09T06:26:46.753981+00:00"
+      },
+      {
         "artist": "Naif",
         "title": "Dimana Aku Di Sini",
         "detected_at_utc": "2026-11-09T06:25:44.606169+00:00"
@@ -542,6 +547,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Men At Work",
+        "title": "Overkill",
+        "detected_at_utc": "2026-11-09T06:26:30.292212+00:00"
+      },
       {
         "artist": "John Lennon",
         "title": "Love (Take 37 / Raw Studio Mix)",
