@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:39:53.311659+00:00",
+  "updated_at_utc": "2026-11-09T06:41:10.974043+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mario",
+        "title": "Let Me Love You",
+        "detected_at_utc": "2026-11-09T06:41:10.884886+00:00"
+      },
       {
         "artist": "4 Non Blondes",
         "title": "What's Up?",
