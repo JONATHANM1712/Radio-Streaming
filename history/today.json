@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T10:50:31.343736+00:00",
+  "updated_at_utc": "2026-11-09T10:51:38.108151+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-11-09T10:51:37.986265+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Frozen",
