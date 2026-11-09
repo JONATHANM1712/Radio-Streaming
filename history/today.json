@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:26:17.706637+00:00",
+  "updated_at_utc": "2026-11-09T15:27:20.355348+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bachelor Girl",
+        "title": "Buses And Trains",
+        "detected_at_utc": "2026-11-09T15:26:54.166219+00:00"
+      },
       {
         "artist": "Christian Bautista",
         "title": "The Way You Look At Me (Acoustic)",
