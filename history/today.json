@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:08:54.286845+00:00",
+  "updated_at_utc": "2026-11-09T06:09:56.833988+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Major Lazer",
+        "title": "Cold Water (feat. Justin Bieber & MØ)",
+        "detected_at_utc": "2026-11-09T06:09:10.719471+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
