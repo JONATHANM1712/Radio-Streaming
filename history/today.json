@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:51:31.200186+00:00",
+  "updated_at_utc": "2026-11-09T15:53:32.853862+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-11-09T15:53:32.767779+00:00"
+      },
       {
         "artist": "Budapest",
         "title": "Is This the Best It Gets?",
