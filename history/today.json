@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T11:41:08.329499+00:00",
+  "updated_at_utc": "2026-11-09T11:43:36.384083+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Yovie & Nuno",
+        "title": "Merindu Lagi (Pada Kekasih Orang)",
+        "detected_at_utc": "2026-11-09T11:43:36.256516+00:00"
+      },
       {
         "artist": "Gareth Gates",
         "title": "Anyone of Us (Stupid Mistake)",
