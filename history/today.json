@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:58:39.420702+00:00",
+  "updated_at_utc": "2026-11-09T14:02:55.935565+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Not a Bad Thing",
+        "detected_at_utc": "2026-11-09T14:02:55.792017+00:00"
+      },
       {
         "artist": "meja",
         "title": "All 'Bout the Money",
