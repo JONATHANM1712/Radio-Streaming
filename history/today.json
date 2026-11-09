@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:12:04.048996+00:00",
+  "updated_at_utc": "2026-11-09T17:13:06.732364+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-09T17:12:47.778446+00:00"
+      },
       {
         "artist": "Jamie Cullum",
         "title": "Mind Trick",
