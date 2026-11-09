@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:59:41.722029+00:00",
+  "updated_at_utc": "2026-11-09T06:00:57.430166+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-09T06:00:57.358351+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
