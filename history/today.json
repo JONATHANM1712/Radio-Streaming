@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:35:01.999054+00:00",
+  "updated_at_utc": "2026-11-09T06:37:04.469666+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "detected_at_utc": "2026-11-09T06:37:04.350072+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
