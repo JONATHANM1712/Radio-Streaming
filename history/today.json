@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:06:52.025896+00:00",
+  "updated_at_utc": "2026-11-09T04:09:57.446667+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-09T04:09:57.279330+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Say You Won't Let Go",
