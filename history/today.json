@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:02:35.721073+00:00",
+  "updated_at_utc": "2026-11-09T17:03:38.804565+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Stay (feat. Mikky Ekko)",
+        "detected_at_utc": "2026-11-09T17:03:09.381418+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Nothin' On You (feat. Bruno Mars)",
