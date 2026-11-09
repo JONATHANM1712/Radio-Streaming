@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:22:40.097087+00:00",
+  "updated_at_utc": "2026-11-09T16:23:42.861642+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hailee Steinfeld & Alesso",
+        "title": "Let Me Go (feat. Florida Georgia Line & watt)",
+        "detected_at_utc": "2026-11-09T16:23:41.315767+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
