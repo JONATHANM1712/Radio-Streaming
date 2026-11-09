@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:55:13.895685+00:00",
+  "updated_at_utc": "2026-11-09T15:56:16.410271+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-09T15:56:02.453289+00:00"
+      },
       {
         "artist": "Bunga Citra Lestari",
         "title": "Kecewa",
