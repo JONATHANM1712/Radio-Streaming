@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:51:45.394602+00:00",
+  "updated_at_utc": "2026-11-09T17:52:48.048107+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-09T17:52:44.909381+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life",
