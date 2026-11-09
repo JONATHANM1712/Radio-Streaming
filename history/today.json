@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:16:28.882707+00:00",
+  "updated_at_utc": "2026-11-09T06:17:31.710861+00:00",
   "stations": {
     "kis": [
       {
@@ -271,6 +271,11 @@
     ],
     "jak": [
       {
+        "artist": "Tyla",
+        "title": "Truth or Dare",
+        "detected_at_utc": "2026-11-09T06:17:30.421789+00:00"
+      },
+      {
         "artist": "Empire Of The Sun",
         "title": "Walking On A Dream",
         "detected_at_utc": "2026-11-09T06:14:23.662366+00:00"
@@ -522,6 +527,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Enigma",
+        "title": "Return To Innocence",
+        "detected_at_utc": "2026-11-09T06:17:06.340693+00:00"
+      },
       {
         "artist": "The Doors",
         "title": "People Are Strange",
