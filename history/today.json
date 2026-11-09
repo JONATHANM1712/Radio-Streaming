@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T11:39:03.214158+00:00",
+  "updated_at_utc": "2026-11-09T11:40:05.750997+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gareth Gates",
+        "title": "Anyone of Us (Stupid Mistake)",
+        "detected_at_utc": "2026-11-09T11:39:28.974264+00:00"
+      },
       {
         "artist": "Milky",
         "title": "Just The Way You Are",
