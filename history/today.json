@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:53:26.069067+00:00",
+  "updated_at_utc": "2026-11-09T13:56:30.426096+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly",
+        "title": "My Place (feat. Jaheim)",
+        "detected_at_utc": "2026-11-09T13:56:30.282655+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
