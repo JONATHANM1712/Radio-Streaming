@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:01:10.248392+00:00",
+  "updated_at_utc": "2026-11-09T17:02:35.721073+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Demons",
+        "detected_at_utc": "2026-11-09T17:02:35.563745+00:00"
+      },
       {
         "artist": "Ella Mai",
         "title": "Boo'd Up",
