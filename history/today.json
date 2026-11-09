@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T12:13:41.200852+00:00",
+  "updated_at_utc": "2026-11-09T12:15:21.590552+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sun Rai",
+        "title": "San Francisco Street",
+        "detected_at_utc": "2026-11-09T12:15:21.510426+00:00"
+      },
       {
         "artist": "t.A.T.u.",
         "title": "All The Things She Said",
