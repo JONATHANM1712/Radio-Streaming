@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:39:35.609617+00:00",
+  "updated_at_utc": "2026-11-09T16:40:38.429912+00:00",
   "stations": {
     "kis": [
       {
@@ -830,6 +830,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OTE",
+        "title": "Shout It Out",
+        "detected_at_utc": "2026-11-09T16:40:03.264099+00:00"
+      },
       {
         "artist": "Ariana Grande & Kid Cudi",
         "title": "Just Look Up (From Don’t Look Up)",
