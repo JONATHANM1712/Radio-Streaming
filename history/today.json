@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T12:22:58.081495+00:00",
+  "updated_at_utc": "2026-11-09T12:24:00.648429+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-09T12:23:37.543298+00:00"
+      },
       {
         "artist": "Sun Rai",
         "title": "San Francisco Street",
