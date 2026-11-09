@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T12:53:54.119153+00:00",
+  "updated_at_utc": "2026-11-09T12:55:52.513633+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Afgan",
+        "title": "Wajahmu Mengalihkan Duniaku",
+        "detected_at_utc": "2026-11-09T12:55:52.423862+00:00"
+      },
       {
         "artist": "Sugababes",
         "title": "Round Round",
