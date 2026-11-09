@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:35:38.349116+00:00",
+  "updated_at_utc": "2026-11-09T17:36:40.993409+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lola Young",
+        "title": "Messy",
+        "detected_at_utc": "2026-11-09T17:36:19.740402+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Heard 'Em Say (feat. Maroon 5 & Adam Levine)",
