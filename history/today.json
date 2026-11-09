@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:11:15.080228+00:00",
+  "updated_at_utc": "2026-11-09T08:13:16.185207+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-09T08:13:15.881126+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
