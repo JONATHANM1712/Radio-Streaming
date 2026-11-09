@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:24:04.066918+00:00",
+  "updated_at_utc": "2026-11-09T13:25:10.516062+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings of Leon",
+        "title": "Use Somebody",
+        "detected_at_utc": "2026-11-09T13:25:10.428806+00:00"
+      },
       {
         "artist": "Dewi Sandra",
         "title": "Buktikan",
