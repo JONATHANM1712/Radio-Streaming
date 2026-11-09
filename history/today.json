@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T10:22:34.637086+00:00",
+  "updated_at_utc": "2026-11-09T10:24:39.232598+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-11-09T10:24:38.737647+00:00"
+      },
       {
         "artist": "Vertical Horizon",
         "title": "Everything You Want",
