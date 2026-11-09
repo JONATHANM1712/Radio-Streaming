@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:46:52.729882+00:00",
+  "updated_at_utc": "2026-11-09T13:47:55.176666+00:00",
   "stations": {
     "kis": [
       {
@@ -621,6 +621,11 @@
     ],
     "jak": [
       {
+        "artist": "LINKIN PARK",
+        "title": "Heavy (feat. Kiiara)",
+        "detected_at_utc": "2026-11-09T13:46:58.729404+00:00"
+      },
+      {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
         "detected_at_utc": "2026-11-09T13:45:56.173999+00:00"
@@ -1142,6 +1147,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Omar",
+        "title": "There's Nothing Like This",
+        "detected_at_utc": "2026-11-09T13:47:12.214363+00:00"
+      },
       {
         "artist": "Nikka Costa",
         "title": "First Love",
