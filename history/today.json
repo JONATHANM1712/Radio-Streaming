@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:51:43.439733+00:00",
+  "updated_at_utc": "2026-11-09T05:52:45.979448+00:00",
   "stations": {
     "kis": [
       {
@@ -236,6 +236,11 @@
     ],
     "jak": [
       {
+        "artist": "Yovie & Nuno",
+        "title": "Sejuta Cinta",
+        "detected_at_utc": "2026-11-09T05:52:45.701990+00:00"
+      },
+      {
         "artist": "Ella Mai",
         "title": "Trip",
         "detected_at_utc": "2026-11-09T05:48:39.416125+00:00"
@@ -457,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "What's the Frequency, Kenneth?",
+        "detected_at_utc": "2026-11-09T05:52:29.098733+00:00"
+      },
       {
         "artist": "Steve Miller Band",
         "title": "Fly Like an Eagle",
