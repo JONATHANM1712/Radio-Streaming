@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:46:19.538627+00:00",
+  "updated_at_utc": "2026-11-09T06:47:22.014883+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sylvan Serenade",
+        "title": "Healing Stream 1 Hour of Forest Ambience and Uplifting Nature Sounds",
+        "detected_at_utc": "2026-11-09T06:47:20.788115+00:00"
+      },
       {
         "artist": "MAGIC!",
         "title": "Rude",
@@ -300,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Just Dance (feat. Colby O'Donis)",
+        "detected_at_utc": "2026-11-09T06:47:21.203628+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
