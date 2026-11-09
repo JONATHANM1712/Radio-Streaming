@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:16:07.827243+00:00",
+  "updated_at_utc": "2026-11-09T04:17:55.193049+00:00",
   "stations": {
     "kis": [
       {
@@ -237,6 +237,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Poison",
+        "title": "Every Rose Has Its Thorn",
+        "detected_at_utc": "2026-11-09T04:17:55.068191+00:00"
+      },
       {
         "artist": "KC and the Sunshine Band",
         "title": "Get Down Tonight",
