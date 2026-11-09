@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:11:28.851919+00:00",
+  "updated_at_utc": "2026-11-09T14:12:33.526936+00:00",
   "stations": {
     "kis": [
       {
@@ -651,6 +651,11 @@
     ],
     "jak": [
       {
+        "artist": "Far East Movement, The Cataracs & DEV",
+        "title": "Like a G6",
+        "detected_at_utc": "2026-11-09T14:11:50.121514+00:00"
+      },
+      {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
         "detected_at_utc": "2026-11-09T14:08:33.344449+00:00"
@@ -1197,6 +1202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "Shoo-Bee-Doo",
+        "detected_at_utc": "2026-11-09T14:11:54.851752+00:00"
+      },
       {
         "artist": "Vanilla Ice",
         "title": "Ice Ice Baby",
