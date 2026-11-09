@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T12:20:55.268878+00:00",
+  "updated_at_utc": "2026-11-09T12:22:58.081495+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Citra Scholastika",
+        "title": "Pasti Bisa",
+        "detected_at_utc": "2026-11-09T12:22:57.991524+00:00"
+      },
       {
         "artist": "Shayne Ward",
         "title": "No Promises",
