@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T17:44:09.873096+00:00",
+  "updated_at_utc": "2026-11-09T17:45:12.304332+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur",
+        "title": "Free Falling",
+        "detected_at_utc": "2026-11-09T17:44:32.898931+00:00"
+      },
       {
         "artist": "Jess Glynne",
         "title": "Hold My Hand",
