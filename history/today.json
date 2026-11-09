@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:31:22.714530+00:00",
+  "updated_at_utc": "2026-11-09T13:32:25.399294+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Honeyz",
+        "title": "Finally Found",
+        "detected_at_utc": "2026-11-09T13:32:20.471102+00:00"
+      },
       {
         "artist": "Honeyz",
         "title": "Finally Found (Rude Boy Mix)",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings of Leon",
+        "title": "Use Somebody",
+        "detected_at_utc": "2026-11-09T13:32:24.082742+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
