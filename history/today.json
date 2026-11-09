@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:00:17.523101+00:00",
+  "updated_at_utc": "2026-11-09T18:01:29.594198+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "My Kind of Girl (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-11-09T18:01:29.500709+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "4 In the Morning",
