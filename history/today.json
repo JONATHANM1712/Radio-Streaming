@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:25:18.172753+00:00",
+  "updated_at_utc": "2026-11-09T04:26:21.289238+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avicii & Sandro Cavazza",
+        "title": "Without You",
+        "detected_at_utc": "2026-11-09T04:25:23.440110+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "My Love",
