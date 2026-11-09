@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:11:00.802236+00:00",
+  "updated_at_utc": "2026-11-09T04:12:03.771351+00:00",
   "stations": {
     "kis": [
       {
@@ -116,6 +116,11 @@
     ],
     "jak": [
       {
+        "artist": "Ello, Barry, Ipank & Lala Karmela",
+        "title": "Buka Semangat Baru",
+        "detected_at_utc": "2026-11-09T04:12:00.803576+00:00"
+      },
+      {
         "artist": "KATSEYE",
         "title": "Animal",
         "detected_at_utc": "2026-11-09T04:09:57.279330+00:00"
@@ -222,6 +227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "KC and the Sunshine Band",
+        "title": "Get Down Tonight",
+        "detected_at_utc": "2026-11-09T04:11:44.521017+00:00"
+      },
       {
         "artist": "Break Machine",
         "title": "Break Dance Party (Original Version 1984)",
