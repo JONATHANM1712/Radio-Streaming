@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:44:17.574355+00:00",
+  "updated_at_utc": "2026-11-09T05:47:37.395322+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande & The Weeknd",
+        "title": "Love Me Harder",
+        "detected_at_utc": "2026-11-09T05:47:37.307522+00:00"
+      },
       {
         "artist": "Jordan Knight",
         "title": "Give It To You",
