@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T08:02:59.199117+00:00",
+  "updated_at_utc": "2026-11-09T08:05:02.099003+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Not a Bad Thing",
+        "detected_at_utc": "2026-11-09T08:05:01.980752+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
