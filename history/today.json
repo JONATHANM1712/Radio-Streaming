@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:06:29.800284+00:00",
+  "updated_at_utc": "2026-11-09T13:08:26.549136+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "Take A Chance With Me",
+        "detected_at_utc": "2026-11-09T13:08:26.440826+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
