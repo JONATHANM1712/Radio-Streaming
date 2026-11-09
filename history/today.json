@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T14:04:00.204878+00:00",
+  "updated_at_utc": "2026-11-09T14:05:21.261589+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Young Dumb & Broke",
+        "detected_at_utc": "2026-11-09T14:05:21.137329+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "My Place (feat. Jaheim)",
