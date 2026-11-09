@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:21:58.964651+00:00",
+  "updated_at_utc": "2026-11-09T05:23:02.083540+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "For the First Time",
+        "detected_at_utc": "2026-11-09T05:22:00.193189+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
