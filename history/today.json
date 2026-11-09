@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T10:46:28.860410+00:00",
+  "updated_at_utc": "2026-11-09T10:50:31.343736+00:00",
   "stations": {
     "kis": [
       {
@@ -792,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Uci Bing Slamet",
+        "title": "Bukit Berbunga (feat. Adi Bing Slamet)",
+        "detected_at_utc": "2026-11-09T10:50:31.201255+00:00"
+      },
       {
         "artist": "Scorpions",
         "title": "You & I",
