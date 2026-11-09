@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T03:57:22.073946+00:00",
+  "updated_at_utc": "2026-11-09T03:59:40.168057+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rob Thomas",
+        "title": "Lonely No More",
+        "detected_at_utc": "2026-11-09T03:59:40.030258+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
