@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:13:02.463065+00:00",
+  "updated_at_utc": "2026-11-09T15:14:05.641191+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "What Lovers Do (feat. SZA)",
+        "detected_at_utc": "2026-11-09T15:14:00.577574+00:00"
+      },
       {
         "artist": "Henry Moodie",
         "title": "drunk text",
