@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:17:36.954332+00:00",
+  "updated_at_utc": "2026-11-09T05:18:40.258559+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "My Humps",
+        "detected_at_utc": "2026-11-09T05:17:51.540904+00:00"
+      },
       {
         "artist": "Plain White T's",
         "title": "Hey There Delilah",
@@ -190,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-09T05:17:53.280203+00:00"
+      },
       {
         "artist": "The 1975",
         "title": "Somebody Else",
