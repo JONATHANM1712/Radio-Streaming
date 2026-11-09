@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T13:57:34.576446+00:00",
+  "updated_at_utc": "2026-11-09T13:58:39.420702+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "meja",
+        "title": "All 'Bout the Money",
+        "detected_at_utc": "2026-11-09T13:58:24.543424+00:00"
+      },
       {
         "artist": "Saybia",
         "title": "The Second You Sleep",
