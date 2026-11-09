@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:10:40.568024+00:00",
+  "updated_at_utc": "2026-11-09T18:11:43.007051+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bastille",
+        "title": "Pompeii",
+        "detected_at_utc": "2026-11-09T18:11:08.462840+00:00"
+      },
       {
         "artist": "Hilary Duff",
         "title": "So Yesterday",
@@ -197,6 +202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Running to Stand Still",
+        "detected_at_utc": "2026-11-09T18:11:35.499811+00:00"
+      },
       {
         "artist": "Seduction",
         "title": "(You're My One and Only) True Love",
