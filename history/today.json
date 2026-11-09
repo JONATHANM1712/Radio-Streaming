@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T04:36:38.336022+00:00",
+  "updated_at_utc": "2026-11-09T04:39:48.258483+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "detected_at_utc": "2026-11-09T04:39:48.132552+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Larut",
