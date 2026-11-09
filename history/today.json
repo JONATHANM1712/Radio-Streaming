@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T07:49:41.437220+00:00",
+  "updated_at_utc": "2026-11-09T07:50:44.346901+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "That's the Way It Is",
+        "detected_at_utc": "2026-11-09T07:50:38.117280+00:00"
+      },
       {
         "artist": "Santana",
         "title": "Maria Maria (Radio Mix) [feat. The Product G&B]",
