@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:04:01.875855+00:00",
+  "updated_at_utc": "2026-11-09T06:05:04.912617+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-11-09T06:05:03.523568+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "My Humps",
