@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:15:48.224224+00:00",
+  "updated_at_utc": "2026-11-09T18:17:15.664722+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Incubus",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-11-09T18:17:15.564668+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
