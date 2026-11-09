@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T16:16:04.066675+00:00",
+  "updated_at_utc": "2026-11-09T16:17:32.541385+00:00",
   "stations": {
     "kis": [
       {
@@ -805,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Burn",
+        "detected_at_utc": "2026-11-09T16:17:32.451413+00:00"
+      },
       {
         "artist": "Lady Gaga & Bruno Mars",
         "title": "Die With A Smile",
