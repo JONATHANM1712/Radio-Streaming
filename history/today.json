@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T05:10:35.365647+00:00",
+  "updated_at_utc": "2026-11-09T05:11:38.386000+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
+        "detected_at_utc": "2026-11-09T05:10:40.489860+00:00"
+      },
       {
         "artist": "Phoenix",
         "title": "Lisztomania",
