@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T06:53:34.341276+00:00",
+  "updated_at_utc": "2026-11-09T06:54:36.859928+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Gravity",
+        "detected_at_utc": "2026-11-09T06:54:36.424955+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Next To You (feat. Justin Bieber)",
