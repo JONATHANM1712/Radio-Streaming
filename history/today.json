@@ -1,8 +1,13 @@
 {
   "date": "2026-11-09",
-  "updated_at_utc": "2026-11-09T15:41:51.236323+00:00",
+  "updated_at_utc": "2026-11-09T15:42:53.833934+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Groove",
+        "title": "Satu Mimpiku",
+        "detected_at_utc": "2026-11-09T15:42:13.124043+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Walking After You",
