@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:57:11.518129+00:00",
+  "updated_at_utc": "2026-11-10T13:58:21.568980+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Girls Like You (feat. Cardi B)",
+        "detected_at_utc": "2026-11-10T13:58:21.473249+00:00"
+      },
       {
         "artist": "Train",
         "title": "Marry Me",
