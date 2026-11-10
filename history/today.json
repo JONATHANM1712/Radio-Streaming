@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T03:37:05.489355+00:00",
+  "updated_at_utc": "2026-11-10T03:39:04.525804+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-11-10T03:39:04.353815+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
