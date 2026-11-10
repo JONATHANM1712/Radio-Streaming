@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:23:38.125160+00:00",
+  "updated_at_utc": "2026-11-10T13:25:43.595536+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd",
+        "title": "Stay the Night (feat. Hayley Williams)",
+        "detected_at_utc": "2026-11-10T13:25:43.473303+00:00"
+      },
       {
         "artist": "Iyaz",
         "title": "Solo",
