@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:32:26.139729+00:00",
+  "updated_at_utc": "2026-11-10T17:33:28.899542+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Sorry Not Sorry",
+        "detected_at_utc": "2026-11-10T17:32:26.819514+00:00"
+      },
       {
         "artist": "3T",
         "title": "Anything",
@@ -40,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yura Yunita",
+        "title": "Jalan Pulang",
+        "detected_at_utc": "2026-11-10T17:33:22.465169+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
