@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:25:54.344168+00:00",
+  "updated_at_utc": "2026-11-10T06:26:57.429862+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-10T06:26:20.535210+00:00"
+      },
       {
         "artist": "Marshmello & Anne-Marie",
         "title": "FRIENDS",
