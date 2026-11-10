@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:20:35.142441+00:00",
+  "updated_at_utc": "2026-11-10T13:22:35.181827+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Iyaz",
+        "title": "Solo",
+        "detected_at_utc": "2026-11-10T13:22:35.073127+00:00"
+      },
       {
         "artist": "USHER & Alicia Keys",
         "title": "My Boo",
