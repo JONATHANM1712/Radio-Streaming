@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:52:38.855400+00:00",
+  "updated_at_utc": "2026-11-10T08:53:42.792949+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "Die Young",
+        "detected_at_utc": "2026-11-10T08:52:50.920393+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Impossible",
