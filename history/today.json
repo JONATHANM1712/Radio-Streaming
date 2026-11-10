@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:12:27.048820+00:00",
+  "updated_at_utc": "2026-11-10T12:13:54.611773+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-11-10T12:13:54.424064+00:00"
+      },
       {
         "artist": "Crash Adams",
         "title": "Good Side",
