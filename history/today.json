@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:27:17.329348+00:00",
+  "updated_at_utc": "2026-11-10T12:29:56.278127+00:00",
   "stations": {
     "kis": [
       {
@@ -1062,6 +1062,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paula Abdul",
+        "title": "Opposites Attract",
+        "detected_at_utc": "2026-11-10T12:29:56.077105+00:00"
+      },
       {
         "artist": "Kon Kan",
         "title": "Puss N' Boots / These Boots (Are Made for Walking)",
