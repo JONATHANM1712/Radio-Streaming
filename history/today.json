@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:11:32.479590+00:00",
+  "updated_at_utc": "2026-11-10T09:14:17.344300+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "detected_at_utc": "2026-11-10T09:14:17.255538+00:00"
+      },
       {
         "artist": "Hailee Steinfeld & Grey",
         "title": "Starving (feat. Zedd)",
