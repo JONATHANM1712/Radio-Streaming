@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:29:56.278127+00:00",
+  "updated_at_utc": "2026-11-10T12:31:25.615011+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Adventure of a Lifetime",
+        "detected_at_utc": "2026-11-10T12:31:25.442002+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Treasure",
