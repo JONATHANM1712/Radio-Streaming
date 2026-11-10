@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-09T18:17:15.664722+00:00",
+  "updated_at_utc": "2026-11-10T03:25:40.263052+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Damage",
+        "title": "Wonderful Tonight",
+        "detected_at_utc": "2026-11-10T03:25:39.753800+00:00"
+      },
       {
         "artist": "Astrid",
         "title": "Jadikan Aku Yang Kedua",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-10T03:25:39.925922+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Wish You Were Here",
@@ -217,6 +227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Billy Idol",
+        "title": "Sweet Sixteen",
+        "detected_at_utc": "2026-11-10T03:25:39.878041+00:00"
+      },
       {
         "artist": "Candlebox",
         "title": "Far Behind",
