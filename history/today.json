@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:36:02.066096+00:00",
+  "updated_at_utc": "2026-11-10T11:37:05.606710+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nelly Furtado & Timbaland",
+        "title": "Promiscuous (feat. Timbaland)",
+        "detected_at_utc": "2026-11-10T11:36:53.826899+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "With You (Main Version)",
