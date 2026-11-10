@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:40:09.105305+00:00",
+  "updated_at_utc": "2026-11-10T12:41:13.711494+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jack Ü, Skrillex & Diplo",
+        "title": "Where Are Ü Now (with Justin Bieber) [feat. Justin Bieber]",
+        "detected_at_utc": "2026-11-10T12:40:18.950167+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Adventure of a Lifetime",
