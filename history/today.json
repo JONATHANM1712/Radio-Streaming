@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:57:07.028447+00:00",
+  "updated_at_utc": "2026-11-10T11:59:03.082184+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Crash Adams",
+        "title": "Good Side",
+        "detected_at_utc": "2026-11-10T11:59:02.904529+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
