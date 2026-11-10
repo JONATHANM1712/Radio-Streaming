@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:19:39.374560+00:00",
+  "updated_at_utc": "2026-11-10T04:20:58.201958+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Artful Dodger",
+        "title": "Please Don’t Turn Me On (feat. Lifford) [Radio Edit]",
+        "detected_at_utc": "2026-11-10T04:20:58.016592+00:00"
+      },
       {
         "artist": "Alison Limerick",
         "title": "Make It On My Own",
