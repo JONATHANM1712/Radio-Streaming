@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:21:36.644306+00:00",
+  "updated_at_utc": "2026-11-10T08:24:52.892159+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur",
+        "title": "Impossible",
+        "detected_at_utc": "2026-11-10T08:24:52.718875+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Just Can't Get Enough",
