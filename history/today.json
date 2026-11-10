@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:42:12.847420+00:00",
+  "updated_at_utc": "2026-11-10T04:45:37.244933+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coolio & L.V.",
+        "title": "Gangsta's Paradise",
+        "detected_at_utc": "2026-11-10T04:45:37.078624+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Biar Menjadi Kenangan",
