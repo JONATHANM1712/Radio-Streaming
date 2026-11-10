@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:05:07.515302+00:00",
+  "updated_at_utc": "2026-11-10T13:06:14.075472+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "detected_at_utc": "2026-11-10T13:05:11.041107+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
