@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:38:07.788595+00:00",
+  "updated_at_utc": "2026-11-10T04:40:08.196046+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "If I Ain't Got You",
+        "detected_at_utc": "2026-11-10T04:40:07.856041+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
