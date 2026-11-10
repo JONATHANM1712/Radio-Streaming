@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:11:34.599673+00:00",
+  "updated_at_utc": "2026-11-10T17:12:37.221522+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "detected_at_utc": "2026-11-10T17:12:20.940308+00:00"
+      },
       {
         "artist": "Duncan Sheik",
         "title": "On a High (Single Version)",
