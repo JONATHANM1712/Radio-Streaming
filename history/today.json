@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:06:53.201504+00:00",
+  "updated_at_utc": "2026-11-10T05:07:55.864800+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-10T05:07:51.218751+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Animals",
