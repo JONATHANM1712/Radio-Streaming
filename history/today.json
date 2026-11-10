@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:33:28.899542+00:00",
+  "updated_at_utc": "2026-11-10T17:35:32.525863+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Binocular",
+        "title": "Deep",
+        "detected_at_utc": "2026-11-10T17:35:32.261159+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Sorry Not Sorry",
