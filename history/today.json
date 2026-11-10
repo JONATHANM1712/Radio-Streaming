@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:56:54.833037+00:00",
+  "updated_at_utc": "2026-11-10T04:57:58.243761+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-10T04:57:35.135139+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Something I Need",
