@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:44:11.129294+00:00",
+  "updated_at_utc": "2026-11-10T17:46:15.908537+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Larissa Lambert",
+        "title": "Weak",
+        "detected_at_utc": "2026-11-10T17:46:15.865199+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "All The Right Moves",
@@ -122,6 +127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Spin Doctors",
+        "title": "Jimmy Olsen's Blues",
+        "detected_at_utc": "2026-11-10T17:46:15.803875+00:00"
+      },
       {
         "artist": "Joy Division",
         "title": "Shadowplay",
