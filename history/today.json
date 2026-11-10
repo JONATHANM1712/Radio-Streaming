@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T03:31:51.041929+00:00",
+  "updated_at_utc": "2026-11-10T03:32:55.507907+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
+        "detected_at_utc": "2026-11-10T03:32:52.034868+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Yoü And I",
