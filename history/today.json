@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:16:48.590809+00:00",
+  "updated_at_utc": "2026-11-10T17:17:51.624850+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-10T17:17:30.260754+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
