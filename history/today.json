@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:00:10.422482+00:00",
+  "updated_at_utc": "2026-11-10T16:02:49.928762+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Rise & Fall (feat. Sting)",
+        "detected_at_utc": "2026-11-10T16:02:49.825302+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "Paint My Love",
