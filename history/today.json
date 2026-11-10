@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:24:52.892159+00:00",
+  "updated_at_utc": "2026-11-10T08:25:56.842614+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rachel Platten",
+        "title": "Fight Song",
+        "detected_at_utc": "2026-11-10T08:25:55.173736+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Impossible",
