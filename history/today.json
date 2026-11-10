@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:34:08.825582+00:00",
+  "updated_at_utc": "2026-11-10T13:36:10.468410+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rida Sita Dewi",
+        "title": "Antara Kita",
+        "detected_at_utc": "2026-11-10T13:36:10.367264+00:00"
+      },
       {
         "artist": "Michael Jackson & Justin Timberlake",
         "title": "Love Never Felt So Good",
