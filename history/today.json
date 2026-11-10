@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:00:06.511300+00:00",
+  "updated_at_utc": "2026-11-10T12:01:10.280305+00:00",
   "stations": {
     "kis": [
       {
@@ -1022,6 +1022,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "Beautiful Ones",
+        "detected_at_utc": "2026-11-10T12:00:10.137112+00:00"
+      },
       {
         "artist": "Heatwave",
         "title": "The Groove Line",
