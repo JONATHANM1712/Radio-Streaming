@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:27:45.793382+00:00",
+  "updated_at_utc": "2026-11-10T13:28:51.443344+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-10T13:28:51.305894+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Stay the Night (feat. Hayley Williams)",
