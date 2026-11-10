@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:57:41.235014+00:00",
+  "updated_at_utc": "2026-11-10T15:58:43.951423+00:00",
   "stations": {
     "kis": [
       {
@@ -795,6 +795,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "When We Were Young",
+        "detected_at_utc": "2026-11-10T15:58:43.655750+00:00"
+      },
       {
         "artist": "Secondhand Serenade",
         "title": "Fall For You",
