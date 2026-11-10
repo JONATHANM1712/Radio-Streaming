@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:58:52.504444+00:00",
+  "updated_at_utc": "2026-11-10T08:59:56.122158+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-10T08:59:01.948874+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Die Young",
