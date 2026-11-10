@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:15:45.983856+00:00",
+  "updated_at_utc": "2026-11-10T17:16:48.590809+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-10T17:16:28.413625+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Shape of You",
