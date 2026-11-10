@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:22:04.471509+00:00",
+  "updated_at_utc": "2026-11-10T15:24:19.726886+00:00",
   "stations": {
     "kis": [
       {
@@ -755,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-11-10T15:24:19.642477+00:00"
+      },
       {
         "artist": "Blue",
         "title": "All Rise",
