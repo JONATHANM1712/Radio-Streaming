@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:16:35.695110+00:00",
+  "updated_at_utc": "2026-11-10T04:18:35.349458+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-10T04:18:35.120892+00:00"
+      },
       {
         "artist": "Nico & Vinz",
         "title": "Am I Wrong",
