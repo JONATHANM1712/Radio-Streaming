@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:08:08.668346+00:00",
+  "updated_at_utc": "2026-11-10T09:09:26.903680+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fall Out Boy",
+        "title": "Sugar, We're Goin Down",
+        "detected_at_utc": "2026-11-10T09:09:26.807467+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
