@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:59:37.363366+00:00",
+  "updated_at_utc": "2026-11-10T13:00:56.054797+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-10T13:00:55.879743+00:00"
+      },
       {
         "artist": "The Moffatts",
         "title": "I'll Be There for You (Tom Lord-Alge Remix)",
