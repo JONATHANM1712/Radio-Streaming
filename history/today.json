@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:14:09.758705+00:00",
+  "updated_at_utc": "2026-11-10T16:15:12.986934+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bad Meets Evil",
+        "title": "Lighters (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-10T16:15:12.893729+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
