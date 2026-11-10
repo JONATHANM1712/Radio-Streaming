@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:49:22.589567+00:00",
+  "updated_at_utc": "2026-11-10T15:50:25.609596+00:00",
   "stations": {
     "kis": [
       {
@@ -785,6 +785,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-10T15:49:22.731792+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
