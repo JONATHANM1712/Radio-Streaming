@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:48:14.213176+00:00",
+  "updated_at_utc": "2026-11-10T16:49:16.999982+00:00",
   "stations": {
     "kis": [
       {
@@ -850,6 +850,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse",
+        "title": "Back To Black",
+        "detected_at_utc": "2026-11-10T16:49:12.900378+00:00"
+      },
       {
         "artist": "Troye Sivan",
         "title": "YOUTH",
