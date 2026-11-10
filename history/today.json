@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:48:34.022127+00:00",
+  "updated_at_utc": "2026-11-10T08:49:37.630035+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-10T08:48:40.877695+00:00"
+      },
       {
         "artist": "Nelly Furtado",
         "title": "I'm Like A Bird",
