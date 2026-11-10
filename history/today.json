@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:52:49.648007+00:00",
+  "updated_at_utc": "2026-11-10T05:54:49.835371+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-11-10T05:54:49.741740+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
