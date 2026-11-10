@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:53:32.214809+00:00",
+  "updated_at_utc": "2026-11-10T17:54:35.003242+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-10T17:53:32.892174+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Heathens",
