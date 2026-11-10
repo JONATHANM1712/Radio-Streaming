@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:26:27.284794+00:00",
+  "updated_at_utc": "2026-11-10T15:28:30.531961+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-11-10T15:28:30.438067+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "One Step At a Time",
