@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:45:42.848992+00:00",
+  "updated_at_utc": "2026-11-10T13:46:46.639343+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Walau Habis Terang",
+        "detected_at_utc": "2026-11-10T13:46:46.504404+00:00"
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-10T13:45:44.094141+00:00"
+      },
       {
         "artist": "bbno$",
         "title": "edamame (feat. Rich Brian)",
