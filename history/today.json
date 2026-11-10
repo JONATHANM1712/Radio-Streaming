@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:27:52.547953+00:00",
+  "updated_at_utc": "2026-11-10T09:28:55.220441+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "She Will Be Loved",
+        "detected_at_utc": "2026-11-10T09:27:52.992954+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
