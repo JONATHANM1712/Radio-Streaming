@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:59:03.082184+00:00",
+  "updated_at_utc": "2026-11-10T12:00:06.511300+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sioen",
+        "title": "Cruisin'",
+        "detected_at_utc": "2026-11-10T11:59:15.766967+00:00"
+      },
       {
         "artist": "Amy Winehouse & Mark Ronson",
         "title": "Valerie (Version Revisited)",
