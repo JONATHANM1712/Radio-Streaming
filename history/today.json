@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:55:34.665403+00:00",
+  "updated_at_utc": "2026-11-10T09:57:34.631265+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Telephone (feat. Beyoncé)",
+        "detected_at_utc": "2026-11-10T09:57:34.538429+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "Fool Again",
