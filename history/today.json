@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:49:37.630035+00:00",
+  "updated_at_utc": "2026-11-10T08:50:41.329731+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur",
+        "title": "Impossible",
+        "detected_at_utc": "2026-11-10T08:49:42.521242+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
