@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:46:26.615938+00:00",
+  "updated_at_utc": "2026-11-10T11:47:36.350004+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rachel Platten",
+        "title": "Fight Song",
+        "detected_at_utc": "2026-11-10T11:47:36.005469+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "It's Gonna Be Me",
