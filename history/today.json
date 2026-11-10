@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:42:19.287685+00:00",
+  "updated_at_utc": "2026-11-10T16:46:08.071325+00:00",
   "stations": {
     "kis": [
       {
@@ -845,6 +845,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Troye Sivan",
+        "title": "YOUTH",
+        "detected_at_utc": "2026-11-10T16:46:07.982477+00:00"
+      },
       {
         "artist": "Tamia",
         "title": "Officially Missing You",
