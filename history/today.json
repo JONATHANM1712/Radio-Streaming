@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:16:07.672290+00:00",
+  "updated_at_utc": "2026-11-10T13:17:19.637733+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Jikalau",
+        "detected_at_utc": "2026-11-10T13:17:18.951520+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "Smile Like Mona Lisa",
@@ -595,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER & Alicia Keys",
+        "title": "My Boo",
+        "detected_at_utc": "2026-11-10T13:16:12.558386+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "supernatural",
