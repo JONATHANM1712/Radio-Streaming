@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:50:44.701572+00:00",
+  "updated_at_utc": "2026-11-10T05:51:47.196070+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-11-10T05:51:03.632689+00:00"
+      },
       {
         "artist": "MYMP",
         "title": "Especially For You",
