@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:12:25.125321+00:00",
+  "updated_at_utc": "2026-11-10T15:13:28.991533+00:00",
   "stations": {
     "kis": [
       {
@@ -740,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "D’MASIV",
+        "title": "Cinta Ini Membunuhku",
+        "detected_at_utc": "2026-11-10T15:12:37.223616+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
