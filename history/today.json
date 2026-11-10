@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T10:28:35.581529+00:00",
+  "updated_at_utc": "2026-11-10T11:31:41.599516+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-11-10T11:31:41.389857+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "Bent",
