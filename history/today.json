@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T07:44:17.623631+00:00",
+  "updated_at_utc": "2026-11-10T07:45:21.285869+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Judika",
+        "title": "Sampai Kau Jadi Milikku",
+        "detected_at_utc": "2026-11-10T07:44:18.066148+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
