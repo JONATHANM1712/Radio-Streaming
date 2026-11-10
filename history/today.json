@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:09:37.253043+00:00",
+  "updated_at_utc": "2026-11-10T14:10:43.831781+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "J.Tajor",
+        "title": "Like I Do",
+        "detected_at_utc": "2026-11-10T14:10:43.736453+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "F**kin' Perfect",
