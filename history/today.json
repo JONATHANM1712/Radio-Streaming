@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:06:14.075472+00:00",
+  "updated_at_utc": "2026-11-10T13:07:28.830086+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-10T13:07:28.698996+00:00"
+      },
       {
         "artist": "Wiz Khalifa",
         "title": "See You Again (feat. Charlie Puth)",
