@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:07:32.070345+00:00",
+  "updated_at_utc": "2026-11-10T15:09:31.201644+00:00",
   "stations": {
     "kis": [
       {
@@ -735,6 +735,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-10T15:09:31.112693+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "In My Blood",
