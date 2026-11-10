@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:35:08.872992+00:00",
+  "updated_at_utc": "2026-11-10T08:36:18.932412+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Hati-Hati di Jalan",
+        "detected_at_utc": "2026-11-10T08:36:18.744860+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "The One That Got Away",
