@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:50:08.226532+00:00",
+  "updated_at_utc": "2026-11-10T12:52:26.248606+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain't Worried",
+        "detected_at_utc": "2026-11-10T12:52:26.080235+00:00"
+      },
       {
         "artist": "Lady Gaga & Bradley Cooper",
         "title": "Shallow",
