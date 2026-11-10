@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:31:41.130996+00:00",
+  "updated_at_utc": "2026-11-10T05:33:23.475927+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-10T05:33:23.382778+00:00"
+      },
       {
         "artist": "USHER",
         "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
