@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:23:56.518911+00:00",
+  "updated_at_utc": "2026-11-10T17:25:00.003766+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa",
+        "title": "Tetap Bukan Kamu (feat. Rony Parulian)",
+        "detected_at_utc": "2026-11-10T17:24:42.749662+00:00"
+      },
       {
         "artist": "Room 5",
         "title": "Make Luv",
