@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:10:01.227713+00:00",
+  "updated_at_utc": "2026-11-10T05:11:56.288200+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Jadi Gila",
+        "detected_at_utc": "2026-11-10T05:11:56.193495+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
