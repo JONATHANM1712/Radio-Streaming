@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:47:29.874091+00:00",
+  "updated_at_utc": "2026-11-10T08:48:34.022127+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vierra",
+        "title": "Dengarkan Curhatku",
+        "detected_at_utc": "2026-11-10T08:47:30.035588+00:00"
+      },
       {
         "artist": "Counting Crows",
         "title": "Big Yellow Taxi (feat. Vanessa Carlton)",
