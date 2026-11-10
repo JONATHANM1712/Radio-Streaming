@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:22:30.743295+00:00",
+  "updated_at_utc": "2026-11-10T05:25:13.247030+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Into You",
+        "detected_at_utc": "2026-11-10T05:25:13.158778+00:00"
+      },
       {
         "artist": "Five for Fighting",
         "title": "Superman (It's Not Easy)",
