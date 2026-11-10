@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:53:30.512680+00:00",
+  "updated_at_utc": "2026-11-10T12:54:33.913209+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Moffatts",
+        "title": "I'll Be There for You (Tom Lord-Alge Remix)",
+        "detected_at_utc": "2026-11-10T12:54:20.565618+00:00"
+      },
       {
         "artist": "Hanson",
         "title": "Mmmbop",
