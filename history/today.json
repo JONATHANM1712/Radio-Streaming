@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:58:33.359921+00:00",
+  "updated_at_utc": "2026-11-10T12:59:37.363366+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Wiz Khalifa",
+        "title": "See You Again (feat. Charlie Puth)",
+        "detected_at_utc": "2026-11-10T12:58:52.422700+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Crazy In Love (feat. JAŸ-Z)",
