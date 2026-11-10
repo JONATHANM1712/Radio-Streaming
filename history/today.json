@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:42:17.491993+00:00",
+  "updated_at_utc": "2026-11-10T13:43:35.018258+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Lovefool",
+        "detected_at_utc": "2026-11-10T13:43:34.914206+00:00"
+      },
       {
         "artist": "Rida Sita Dewi",
         "title": "Antara Kita",
