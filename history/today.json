@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:53:48.487991+00:00",
+  "updated_at_utc": "2026-11-10T11:54:53.293225+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Landon Pigg",
+        "title": "Falling In Love At a Coffee Shop",
+        "detected_at_utc": "2026-11-10T11:54:43.695043+00:00"
+      },
       {
         "artist": "Nelly Furtado & Timbaland",
         "title": "Promiscuous (feat. Timbaland)",
