@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T03:53:49.448891+00:00",
+  "updated_at_utc": "2026-11-10T03:56:55.600309+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Go On Girl",
+        "detected_at_utc": "2026-11-10T03:56:55.438019+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
@@ -297,6 +302,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Deep Purple",
+        "title": "Soldier of Fortune",
+        "detected_at_utc": "2026-11-10T03:56:55.438105+00:00"
+      },
       {
         "artist": "Warren G",
         "title": "Regulate (feat. Nate Dogg)",
