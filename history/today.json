@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T03:43:13.984442+00:00",
+  "updated_at_utc": "2026-11-10T03:47:29.041540+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-10T03:47:28.886828+00:00"
+      },
       {
         "artist": "India.Arie",
         "title": "Can I Walk With You",
