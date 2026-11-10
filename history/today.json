@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:35:20.835342+00:00",
+  "updated_at_utc": "2026-11-10T15:36:24.043403+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Adams",
+        "title": "Hanya Kau",
+        "detected_at_utc": "2026-11-10T15:35:47.305756+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
