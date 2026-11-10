@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:26:11.916272+00:00",
+  "updated_at_utc": "2026-11-10T14:28:14.730738+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-10T14:28:14.599597+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "One Way or Another (Teenage Kicks)",
