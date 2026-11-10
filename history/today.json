@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:50:31.947203+00:00",
+  "updated_at_utc": "2026-11-10T16:53:18.077435+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nick Jonas",
+        "title": "Jealous",
+        "detected_at_utc": "2026-11-10T16:53:17.921187+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Viva Forever",
