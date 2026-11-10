@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:35:28.847610+00:00",
+  "updated_at_utc": "2026-11-10T14:37:20.807402+00:00",
   "stations": {
     "kis": [
       {
@@ -1357,6 +1357,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "GTR",
+        "title": "When the Heart Rules the Mind",
+        "detected_at_utc": "2026-11-10T14:37:20.704198+00:00"
+      },
       {
         "artist": "The Sugarhill Gang",
         "title": "Rapper's Delight",
