@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:05:25.014203+00:00",
+  "updated_at_utc": "2026-11-10T14:06:27.814585+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Deja Vu (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-11-10T14:05:28.116815+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Scream",
