@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:12:37.221522+00:00",
+  "updated_at_utc": "2026-11-10T17:13:39.806699+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "(Everything I Do) I Do It for You",
+        "detected_at_utc": "2026-11-10T17:13:36.771378+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Underneath It All (feat. Lady Saw)",
