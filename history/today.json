@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:25:09.082066+00:00",
+  "updated_at_utc": "2026-11-10T12:26:13.216109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mac Taboel",
+        "title": "Sunday Field Trip",
+        "detected_at_utc": "2026-11-10T12:26:10.040424+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "So What",
