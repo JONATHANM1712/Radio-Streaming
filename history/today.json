@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:35:18.578563+00:00",
+  "updated_at_utc": "2026-11-10T06:36:25.078210+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Arizona Zervas",
+        "title": "ROXANNE",
+        "detected_at_utc": "2026-11-10T06:35:38.875658+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Gimme More",
