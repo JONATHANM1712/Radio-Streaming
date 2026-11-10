@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T10:14:57.917798+00:00",
+  "updated_at_utc": "2026-11-10T10:16:00.599321+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-11-10T10:15:02.034759+00:00"
+      },
       {
         "artist": "Jonas Blue",
         "title": "Fast Car (feat. Dakota)",
