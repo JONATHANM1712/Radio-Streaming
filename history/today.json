@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:07:57.612137+00:00",
+  "updated_at_utc": "2026-11-10T06:09:22.520248+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Taste",
+        "detected_at_utc": "2026-11-10T06:09:22.416328+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "How Long",
