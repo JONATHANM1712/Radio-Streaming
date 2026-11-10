@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:20:41.559488+00:00",
+  "updated_at_utc": "2026-11-10T06:23:11.854091+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marshmello & Anne-Marie",
+        "title": "FRIENDS",
+        "detected_at_utc": "2026-11-10T06:23:11.756989+00:00"
+      },
       {
         "artist": "Mêlée",
         "title": "Built to Last",
