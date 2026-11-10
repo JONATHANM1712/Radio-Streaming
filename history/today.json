@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T07:53:35.520730+00:00",
+  "updated_at_utc": "2026-11-10T07:55:33.375118+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-11-10T07:55:33.213220+00:00"
+      },
       {
         "artist": "Iwa K",
         "title": "Bebas",
