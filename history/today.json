@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:44:28.839109+00:00",
+  "updated_at_utc": "2026-11-10T12:48:00.923990+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "Shallow",
+        "detected_at_utc": "2026-11-10T12:48:00.790776+00:00"
+      },
       {
         "artist": "Jack Ü, Skrillex & Diplo",
         "title": "Where Are Ü Now (with Justin Bieber) [feat. Justin Bieber]",
