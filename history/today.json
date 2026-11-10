@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:54:53.293225+00:00",
+  "updated_at_utc": "2026-11-10T11:56:02.815033+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Amy Winehouse & Mark Ronson",
+        "title": "Valerie (Version Revisited)",
+        "detected_at_utc": "2026-11-10T11:56:02.604022+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Dia Milikku",
