@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:40:09.014263+00:00",
+  "updated_at_utc": "2026-11-10T09:41:11.545616+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Payphone (feat. Wiz Khalifa)",
+        "detected_at_utc": "2026-11-10T09:40:09.546135+00:00"
+      },
       {
         "artist": "Headhunterz",
         "title": "Still Standin'",
