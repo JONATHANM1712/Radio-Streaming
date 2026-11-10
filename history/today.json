@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:39:58.502983+00:00",
+  "updated_at_utc": "2026-11-10T17:42:04.830255+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "All The Right Moves",
+        "detected_at_utc": "2026-11-10T17:42:04.738993+00:00"
+      },
       {
         "artist": "Calum Scott",
         "title": "Dancing On My Own",
@@ -112,6 +117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joy Division",
+        "title": "Shadowplay",
+        "detected_at_utc": "2026-11-10T17:42:04.739083+00:00"
+      },
       {
         "artist": "Earth, Wind & Fire",
         "title": "After The Love Is Gone",
