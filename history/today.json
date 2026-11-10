@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:48:19.872810+00:00",
+  "updated_at_utc": "2026-11-10T15:49:22.589567+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Save Room",
+        "detected_at_utc": "2026-11-10T15:49:21.471083+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
@@ -780,6 +785,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-11-10T15:48:21.059189+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
