@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:54:59.059691+00:00",
+  "updated_at_utc": "2026-11-10T14:56:07.924471+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-10T14:56:07.821985+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Insomnia",
