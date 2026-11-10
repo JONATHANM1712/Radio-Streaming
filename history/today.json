@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:58:13.046337+00:00",
+  "updated_at_utc": "2026-11-10T05:59:15.742764+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "How Long",
+        "detected_at_utc": "2026-11-10T05:58:54.838335+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
