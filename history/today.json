@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:33:17.539115+00:00",
+  "updated_at_utc": "2026-11-10T04:36:01.487270+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Empire State Of Mind (feat. Alicia Keys)",
+        "detected_at_utc": "2026-11-10T04:36:01.346734+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
