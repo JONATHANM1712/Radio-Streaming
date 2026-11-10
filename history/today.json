@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:21:27.525025+00:00",
+  "updated_at_utc": "2026-11-10T05:22:30.743295+00:00",
   "stations": {
     "kis": [
       {
@@ -497,6 +497,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tone-Lōc",
+        "title": "Wild Thing",
+        "detected_at_utc": "2026-11-10T05:22:10.879183+00:00"
+      },
       {
         "artist": "Frankie Valli",
         "title": "Grease",
