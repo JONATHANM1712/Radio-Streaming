@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:53:30.356309+00:00",
+  "updated_at_utc": "2026-11-10T15:54:33.119657+00:00",
   "stations": {
     "kis": [
       {
@@ -790,6 +790,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "When We Were Young",
+        "detected_at_utc": "2026-11-10T15:53:31.760184+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
