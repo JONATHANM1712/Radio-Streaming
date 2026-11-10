@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T15:31:13.964642+00:00",
+  "updated_at_utc": "2026-11-10T15:32:41.198138+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"TROLLS\")",
+        "detected_at_utc": "2026-11-10T15:32:41.076916+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "Someday",
@@ -760,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-10T15:32:41.085010+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "All of Me",
