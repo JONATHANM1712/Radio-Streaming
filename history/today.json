@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:55:52.357793+00:00",
+  "updated_at_utc": "2026-11-10T05:56:55.199505+00:00",
   "stations": {
     "kis": [
       {
@@ -577,6 +577,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Order",
+        "title": "Bizarre Love Triangle",
+        "detected_at_utc": "2026-11-10T05:56:54.116312+00:00"
+      },
       {
         "artist": "Spargo",
         "title": "Lady",
