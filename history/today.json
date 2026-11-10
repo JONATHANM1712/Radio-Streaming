@@ -1,8 +1,14 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:02:12.518890+00:00",
+  "updated_at_utc": "2026-11-10T17:03:15.198823+00:00",
   "stations": {
-    "kis": [],
+    "kis": [
+      {
+        "artist": "Peabo Bryson",
+        "title": "Why Goodbye",
+        "detected_at_utc": "2026-11-10T17:02:17.366115+00:00"
+      }
+    ],
     "jak": [
       {
         "artist": "Coldplay",
