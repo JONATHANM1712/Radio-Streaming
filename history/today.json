@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:12:42.962650+00:00",
+  "updated_at_utc": "2026-11-10T06:14:51.248877+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-10T06:14:51.153765+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Lay Me Down",
