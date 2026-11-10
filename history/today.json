@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:11:24.068743+00:00",
+  "updated_at_utc": "2026-11-10T04:12:27.286208+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Haruskah Ku Mati",
+        "detected_at_utc": "2026-11-10T04:11:43.312995+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "P.D.A. (We Just Don't Care)",
@@ -332,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bananarama",
+        "title": "I Heard a Rumour",
+        "detected_at_utc": "2026-11-10T04:11:24.620553+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Tracie",
