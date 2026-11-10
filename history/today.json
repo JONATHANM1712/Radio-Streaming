@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:12:27.286208+00:00",
+  "updated_at_utc": "2026-11-10T04:14:28.814910+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "detected_at_utc": "2026-11-10T04:14:28.629779+00:00"
+      },
       {
         "artist": "Doechii",
         "title": "What It Is (Block Boy) [feat. Kodak Black]",
