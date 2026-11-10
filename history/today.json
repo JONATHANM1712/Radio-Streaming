@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:33:14.301560+00:00",
+  "updated_at_utc": "2026-11-10T14:34:23.947459+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tompi",
+        "title": "Sedari Dulu",
+        "detected_at_utc": "2026-11-10T14:34:23.850158+00:00"
+      },
       {
         "artist": "Lisa Loeb & Nine Stories",
         "title": "Do You Sleep?",
