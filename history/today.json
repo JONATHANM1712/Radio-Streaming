@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:07:57.690443+00:00",
+  "updated_at_utc": "2026-11-10T16:09:06.632930+00:00",
   "stations": {
     "kis": [
       {
@@ -805,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nadhif Basalamah",
+        "title": "kota ini tak sama tanpamu",
+        "detected_at_utc": "2026-11-10T16:08:02.093463+00:00"
+      },
       {
         "artist": "Adele",
         "title": "When We Were Young",
