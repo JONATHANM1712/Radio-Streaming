@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:00:03.886435+00:00",
+  "updated_at_utc": "2026-11-10T04:01:07.460001+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "I Know What You Did Last Summer",
+        "detected_at_utc": "2026-11-10T04:01:05.712812+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Go On Girl",
