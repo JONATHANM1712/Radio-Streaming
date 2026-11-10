@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:39:16.284066+00:00",
+  "updated_at_utc": "2026-11-10T08:40:19.732764+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanice",
+        "title": "I Love Your Smile",
+        "detected_at_utc": "2026-11-10T08:39:16.487880+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Fallin' For You",
