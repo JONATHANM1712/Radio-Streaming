@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T12:24:04.852651+00:00",
+  "updated_at_utc": "2026-11-10T12:25:09.082066+00:00",
   "stations": {
     "kis": [
       {
@@ -1052,6 +1052,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kon Kan",
+        "title": "Puss N' Boots / These Boots (Are Made for Walking)",
+        "detected_at_utc": "2026-11-10T12:24:32.922347+00:00"
+      },
       {
         "artist": "Joe Shyna",
         "title": "Simp Report (Skit)",
