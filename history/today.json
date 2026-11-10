@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T11:37:05.606710+00:00",
+  "updated_at_utc": "2026-11-10T11:40:14.431277+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "Because You Loved Me",
+        "detected_at_utc": "2026-11-10T11:40:14.076745+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
