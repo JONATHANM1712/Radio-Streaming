@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T09:57:34.631265+00:00",
+  "updated_at_utc": "2026-11-10T09:59:38.268459+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue",
+        "title": "Fast Car (feat. Dakota)",
+        "detected_at_utc": "2026-11-10T09:59:38.185680+00:00"
+      },
       {
         "artist": "Scott Buckley",
         "title": "Legacy (Special Version)",
