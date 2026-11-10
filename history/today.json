@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:57:52.278760+00:00",
+  "updated_at_utc": "2026-11-10T16:59:53.396813+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peabo Bryson",
+        "title": "Why Goodbye",
+        "detected_at_utc": "2026-11-10T16:59:53.309995+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Don't Let Me Be The Last To Know (Azza Remix)",
