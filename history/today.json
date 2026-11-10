@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:27:36.108626+00:00",
+  "updated_at_utc": "2026-11-10T05:29:18.458951+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+        "detected_at_utc": "2026-11-10T05:29:18.366809+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Into You",
