@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:55:44.637800+00:00",
+  "updated_at_utc": "2026-11-10T16:56:48.737988+00:00",
   "stations": {
     "kis": [
       {
@@ -855,6 +855,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-10T16:56:42.325529+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Back To Black",
