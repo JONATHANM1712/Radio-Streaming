@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:04:21.492158+00:00",
+  "updated_at_utc": "2026-11-10T17:05:24.768115+00:00",
   "stations": {
     "kis": [
       {
@@ -16,12 +16,22 @@
     ],
     "jak": [
       {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-11-10T17:05:06.655620+00:00"
+      },
+      {
         "artist": "Coldplay",
         "title": "Sparks",
         "detected_at_utc": "2026-11-10T17:00:52.660866+00:00"
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "A Matter of Feeling",
+        "detected_at_utc": "2026-11-10T17:05:23.414488+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Autumn (Paradise Is Free)",
