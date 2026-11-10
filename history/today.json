@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T10:00:40.887691+00:00",
+  "updated_at_utc": "2026-11-10T10:02:41.895000+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Amerie",
+        "title": "1 Thing",
+        "detected_at_utc": "2026-11-10T10:02:41.805406+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Telephone (feat. Beyoncé)",
