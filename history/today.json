@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T08:27:53.927851+00:00",
+  "updated_at_utc": "2026-11-10T08:28:59.252009+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dua",
+        "title": "Kau",
+        "detected_at_utc": "2026-11-10T08:27:55.787763+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Party In the U.S.A.",
