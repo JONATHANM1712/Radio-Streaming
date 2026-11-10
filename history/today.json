@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T04:28:51.201803+00:00",
+  "updated_at_utc": "2026-11-10T04:29:55.413085+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Monica",
+        "title": "Angel of Mine",
+        "detected_at_utc": "2026-11-10T04:29:10.668675+00:00"
+      },
       {
         "artist": "Alesso",
         "title": "Heroes (We Could Be) [feat. Tove Lo]",
@@ -372,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van Halen",
+        "title": "Don't Tell Me (What Love Can Do)",
+        "detected_at_utc": "2026-11-10T04:29:53.196335+00:00"
+      },
       {
         "artist": "Grace Jones",
         "title": "I'm Not Perfect (But I'm Perfect For You)",
