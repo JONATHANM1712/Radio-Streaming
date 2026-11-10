@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T05:18:24.883564+00:00",
+  "updated_at_utc": "2026-11-10T05:20:07.005970+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Five for Fighting",
+        "title": "Superman (It's Not Easy)",
+        "detected_at_utc": "2026-11-10T05:20:06.884581+00:00"
+      },
       {
         "artist": "Kehlani",
         "title": "Folded",
