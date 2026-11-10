@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:20:55.135729+00:00",
+  "updated_at_utc": "2026-11-10T17:22:53.797727+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MIKA",
+        "title": "Relax, Take It Easy",
+        "detected_at_utc": "2026-11-10T17:22:53.699687+00:00"
+      },
       {
         "artist": "Audy",
         "title": "Arti Hadirmu",
