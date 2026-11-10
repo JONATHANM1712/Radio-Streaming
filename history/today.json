@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T13:22:35.181827+00:00",
+  "updated_at_utc": "2026-11-10T13:23:38.125160+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-11-10T13:23:35.623562+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Doo Wop (That Thing)",
@@ -1177,6 +1182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paul McCartney",
+        "title": "No More Lonely Nights",
+        "detected_at_utc": "2026-11-10T13:23:32.505825+00:00"
+      },
       {
         "artist": "Skid Row",
         "title": "18 And Life",
