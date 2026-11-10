@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T16:12:03.823038+00:00",
+  "updated_at_utc": "2026-11-10T16:13:07.028661+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-10T16:12:08.197941+00:00"
+      },
       {
         "artist": "Nadhif Basalamah",
         "title": "kota ini tak sama tanpamu",
