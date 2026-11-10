@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T14:43:30.689030+00:00",
+  "updated_at_utc": "2026-11-10T14:45:44.138913+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-11-10T14:45:44.020600+00:00"
+      },
       {
         "artist": "Faith Hill",
         "title": "There You'll Be",
