@@ -1,8 +1,13 @@
 {
   "date": "2026-11-10",
-  "updated_at_utc": "2026-11-10T06:37:28.348522+00:00",
+  "updated_at_utc": "2026-11-10T06:38:31.327553+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ott",
+        "title": "All Out of Love (Acoustic Unplugged Version)",
+        "detected_at_utc": "2026-11-10T06:37:38.584839+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "My All",
@@ -310,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "detected_at_utc": "2026-11-10T06:37:45.872733+00:00"
+      },
       {
         "artist": "Arizona Zervas",
         "title": "ROXANNE",
