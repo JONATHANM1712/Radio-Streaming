@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-10T17:54:35.003242+00:00",
+  "updated_at_utc": "2026-11-11T03:49:34.492011+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-11-11T03:49:34.476643+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
@@ -147,6 +152,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stevie B",
+        "title": "Because I Love You (The Postman Song)",
+        "detected_at_utc": "2026-11-11T03:49:34.350898+00:00"
+      },
       {
         "artist": "Gloria Estefan",
         "title": "Get On Your Feet",
