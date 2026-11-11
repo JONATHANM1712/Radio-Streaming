@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:29:32.295525+00:00",
+  "updated_at_utc": "2026-11-11T14:30:37.422968+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tyler Collins",
+        "title": "Thanks to You",
+        "detected_at_utc": "2026-11-11T14:29:36.833163+00:00"
+      },
       {
         "artist": "Smash Mouth",
         "title": "All Star",
