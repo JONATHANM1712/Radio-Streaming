@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:12:24.510843+00:00",
+  "updated_at_utc": "2026-11-11T14:13:29.272773+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Ting Tings",
+        "title": "Great DJ",
+        "detected_at_utc": "2026-11-11T14:12:59.916690+00:00"
+      },
       {
         "artist": "LFO",
         "title": "Girl On TV",
@@ -762,6 +767,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cardigans",
+        "title": "Lovefool",
+        "detected_at_utc": "2026-11-11T14:12:35.567078+00:00"
+      },
       {
         "artist": "T-Connection",
         "title": "Saturday Night",
