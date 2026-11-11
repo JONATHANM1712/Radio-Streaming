@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:21:36.097783+00:00",
+  "updated_at_utc": "2026-11-11T04:22:39.573315+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-11-11T04:22:01.281693+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Maafkan",
