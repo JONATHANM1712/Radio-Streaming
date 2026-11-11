@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:13:57.444323+00:00",
+  "updated_at_utc": "2026-11-11T16:15:00.010796+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chrisye",
+        "title": "Seperti Yang Kau Minta",
+        "detected_at_utc": "2026-11-11T16:14:59.770640+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "That Should Be Me",
