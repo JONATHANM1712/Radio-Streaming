@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:15:48.840739+00:00",
+  "updated_at_utc": "2026-11-11T06:16:51.430324+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "I'm Not a Girl, Not Yet a Woman",
+        "detected_at_utc": "2026-11-11T06:16:49.964428+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
@@ -245,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Nobody Gets Me",
+        "detected_at_utc": "2026-11-11T06:16:49.684292+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Sedari Dulu",
