@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:27:41.674633+00:00",
+  "updated_at_utc": "2026-11-11T17:28:49.322281+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "In the End",
+        "detected_at_utc": "2026-11-11T17:28:49.235794+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Good Feeling",
