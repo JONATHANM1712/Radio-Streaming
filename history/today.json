@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:35:15.934409+00:00",
+  "updated_at_utc": "2026-11-11T14:37:16.229632+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Counting Crows",
+        "title": "Accidentally In Love",
+        "detected_at_utc": "2026-11-11T14:37:16.096217+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
