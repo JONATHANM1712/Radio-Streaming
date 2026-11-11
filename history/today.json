@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:51:30.486827+00:00",
+  "updated_at_utc": "2026-11-11T10:52:32.895707+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-11T10:52:30.043005+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "That's the Way It Is",
