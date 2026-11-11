@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:19:38.294130+00:00",
+  "updated_at_utc": "2026-11-11T17:20:41.799304+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Suit & Tie featuring JAŸ-Z (Radio Edit)",
+        "detected_at_utc": "2026-11-11T17:20:39.490581+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Buttons",
