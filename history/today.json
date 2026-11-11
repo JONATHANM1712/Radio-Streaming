@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:45:21.795287+00:00",
+  "updated_at_utc": "2026-11-11T15:46:24.280529+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicole Scherzinger",
+        "title": "Baby Love (feat. will.i.am)",
+        "detected_at_utc": "2026-11-11T15:46:20.580473+00:00"
+      },
       {
         "artist": "Kunto Aji",
         "title": "Ekspektasi",
