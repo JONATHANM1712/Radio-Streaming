@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T05:22:26.001444+00:00",
+  "updated_at_utc": "2026-11-11T05:25:23.321559+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "title": "Get Lucky",
+        "detected_at_utc": "2026-11-11T05:25:23.157517+00:00"
+      },
       {
         "artist": "Indah Dewi Pertiwi",
         "title": "Gejolak Cinta (feat. Sandhy Sondoro)",
