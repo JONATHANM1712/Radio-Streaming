@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:20:19.462288+00:00",
+  "updated_at_utc": "2026-11-11T14:21:59.215867+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Smash Mouth",
+        "title": "All Star",
+        "detected_at_utc": "2026-11-11T14:21:59.058708+00:00"
+      },
       {
         "artist": "GIGI",
         "title": "My Facebook",
