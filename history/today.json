@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:32:14.728000+00:00",
+  "updated_at_utc": "2026-11-11T06:34:19.796536+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-11T06:34:19.711241+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "World of Our Own",
