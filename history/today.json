@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:03:06.961047+00:00",
+  "updated_at_utc": "2026-11-11T15:04:09.947974+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-11-11T15:04:08.116182+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "One More Time",
