@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:58:46.336498+00:00",
+  "updated_at_utc": "2026-11-11T04:59:50.107525+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "S Club",
+        "title": "Never Had A Dream Come True",
+        "detected_at_utc": "2026-11-11T04:59:45.486189+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Come Undone",
@@ -155,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Hall of Fame (feat. will.i.am)",
+        "detected_at_utc": "2026-11-11T04:59:38.516622+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Better In Time",
