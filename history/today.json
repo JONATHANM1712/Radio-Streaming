@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:33:02.863199+00:00",
+  "updated_at_utc": "2026-11-11T14:34:07.228405+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-11T14:33:58.532949+00:00"
+      },
       {
         "artist": "Snow Patrol",
         "title": "Chasing Cars",
