@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T05:38:49.556201+00:00",
+  "updated_at_utc": "2026-11-11T05:40:57.324699+00:00",
   "stations": {
     "kis": [
       {
@@ -427,6 +427,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fariz RM",
+        "title": "Barcelona",
+        "detected_at_utc": "2026-11-11T05:40:57.180527+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Uninvited",
