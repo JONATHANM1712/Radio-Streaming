@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:57:39.366364+00:00",
+  "updated_at_utc": "2026-11-11T16:02:45.148803+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Perunggu",
+        "title": "33x",
+        "detected_at_utc": "2026-11-11T16:02:45.061454+00:00"
+      },
       {
         "artist": "Ashlee Simpson",
         "title": "Pieces Of Me",
