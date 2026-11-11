@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:08:16.150559+00:00",
+  "updated_at_utc": "2026-11-11T15:09:19.208182+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "You'll Be In My Heart",
+        "detected_at_utc": "2026-11-11T15:09:14.006463+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
