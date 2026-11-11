@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:25:02.934384+00:00",
+  "updated_at_utc": "2026-11-11T06:26:05.476426+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue",
+        "title": "By Your Side (feat. RAYE)",
+        "detected_at_utc": "2026-11-11T06:26:02.916022+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "In My Place",
