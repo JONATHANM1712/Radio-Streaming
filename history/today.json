@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T13:40:59.400348+00:00",
+  "updated_at_utc": "2026-11-11T13:42:03.127038+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "H.E.R.",
+        "title": "Best Part (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-11-11T13:42:00.035869+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
@@ -697,6 +702,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Wishing On a Star",
+        "detected_at_utc": "2026-11-11T13:41:41.354308+00:00"
+      },
       {
         "artist": "Simple Minds",
         "title": "Don't You (Forget About Me)",
