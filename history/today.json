@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T05:18:18.659202+00:00",
+  "updated_at_utc": "2026-11-11T05:19:22.590497+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Indah Dewi Pertiwi",
+        "title": "Gejolak Cinta (feat. Sandhy Sondoro)",
+        "detected_at_utc": "2026-11-11T05:19:12.652940+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
