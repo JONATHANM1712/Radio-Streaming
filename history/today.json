@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:48:13.463670+00:00",
+  "updated_at_utc": "2026-11-11T17:49:16.691114+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-11T17:49:16.604346+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
