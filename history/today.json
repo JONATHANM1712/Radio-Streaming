@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:24:52.950568+00:00",
+  "updated_at_utc": "2026-11-11T14:25:57.742946+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande & The Weeknd",
+        "title": "Love Me Harder",
+        "detected_at_utc": "2026-11-11T14:24:54.019350+00:00"
+      },
       {
         "artist": "The Underdog Project",
         "title": "Summer Jam (Unplugged)",
