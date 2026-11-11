@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:05:21.136564+00:00",
+  "updated_at_utc": "2026-11-11T14:06:24.761219+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Portugal. The Man",
+        "title": "Feel It Still",
+        "detected_at_utc": "2026-11-11T14:06:10.060288+00:00"
+      },
       {
         "artist": "Blue",
         "title": "One Love",
@@ -742,6 +747,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "T-Connection",
+        "title": "Saturday Night",
+        "detected_at_utc": "2026-11-11T14:05:55.452307+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Runaway",
