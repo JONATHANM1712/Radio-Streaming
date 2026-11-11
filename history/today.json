@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:54:36.698476+00:00",
+  "updated_at_utc": "2026-11-11T04:55:40.141430+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Better In Time",
+        "detected_at_utc": "2026-11-11T04:55:31.261977+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
