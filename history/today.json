@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:28:56.630928+00:00",
+  "updated_at_utc": "2026-11-11T15:29:59.251626+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-11T15:29:52.299197+00:00"
+      },
       {
         "artist": "Two Door Cinema Club",
         "title": "What You Know",
