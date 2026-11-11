@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:52:32.895707+00:00",
+  "updated_at_utc": "2026-11-11T10:54:34.763038+00:00",
   "stations": {
     "kis": [
       {
@@ -652,6 +652,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Satu Yang Tak Bisa Lepas",
+        "detected_at_utc": "2026-11-11T10:54:34.679045+00:00"
+      },
       {
         "artist": "RANDY VANWARMER",
         "title": "Just When I Needed You Most",
