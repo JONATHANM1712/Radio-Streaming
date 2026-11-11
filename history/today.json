@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:31:46.885132+00:00",
+  "updated_at_utc": "2026-11-11T17:33:56.661156+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Donne Maula",
+        "title": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "detected_at_utc": "2026-11-11T17:33:56.575308+00:00"
+      },
       {
         "artist": "LINKIN PARK",
         "title": "In the End",
