@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:34:19.796536+00:00",
+  "updated_at_utc": "2026-11-11T06:35:22.298635+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gareth Gates",
+        "title": "Anyone of Us (Stupid Mistake)",
+        "detected_at_utc": "2026-11-11T06:35:20.002693+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
