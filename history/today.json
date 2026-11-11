@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:48:29.232682+00:00",
+  "updated_at_utc": "2026-11-11T04:49:32.923480+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-11T04:49:20.760515+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Womanizer",
