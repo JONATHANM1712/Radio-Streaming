@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:56:41.427730+00:00",
+  "updated_at_utc": "2026-11-11T10:59:43.010776+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peter Cetera",
+        "title": "(I Wanna Take) Forever Tonight",
+        "detected_at_utc": "2026-11-11T10:59:42.920768+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teman Hidup",
