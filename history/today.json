@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:06:05.180475+00:00",
+  "updated_at_utc": "2026-11-11T04:07:08.564666+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-11T04:07:05.189535+00:00"
+      },
       {
         "artist": "Ariana Grande & Nathan Sykes",
         "title": "Almost Is Never Enough",
