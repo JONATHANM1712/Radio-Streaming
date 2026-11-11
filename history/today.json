@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:15:54.212386+00:00",
+  "updated_at_utc": "2026-11-11T14:17:00.667920+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "My Facebook",
+        "detected_at_utc": "2026-11-11T14:16:26.912420+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
@@ -772,6 +777,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wham!",
+        "title": "Last Christmas (Single Version)",
+        "detected_at_utc": "2026-11-11T14:15:58.917031+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Lovefool",
