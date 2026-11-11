@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:56:52.327643+00:00",
+  "updated_at_utc": "2026-11-11T14:57:55.864421+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "detected_at_utc": "2026-11-11T14:57:55.735306+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
