@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:19:53.973226+00:00",
+  "updated_at_utc": "2026-11-11T06:20:56.674245+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nidji",
+        "title": "Bila Aku Jatuh Cinta",
+        "detected_at_utc": "2026-11-11T06:20:55.987939+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I'm Not a Girl, Not Yet a Woman",
