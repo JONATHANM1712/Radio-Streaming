@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:50:56.086097+00:00",
+  "updated_at_utc": "2026-11-11T16:51:59.088200+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-11-11T16:51:51.928801+00:00"
+      },
       {
         "artist": "Jessie J",
         "title": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
