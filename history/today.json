@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:21:39.172682+00:00",
+  "updated_at_utc": "2026-11-11T15:22:42.350322+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Gone, Gone, Gone",
+        "detected_at_utc": "2026-11-11T15:22:42.253361+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Sempat Memiliki",
