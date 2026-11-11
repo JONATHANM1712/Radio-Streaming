@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:31:12.154054+00:00",
+  "updated_at_utc": "2026-11-11T06:32:14.728000+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-11T06:32:13.560801+00:00"
+      },
       {
         "artist": "Phillip Phillips",
         "title": "Home",
@@ -542,6 +547,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Yes",
+        "title": "It Can Happen (Cinema Version)",
+        "detected_at_utc": "2026-11-11T06:31:12.338720+00:00"
+      },
       {
         "artist": "Miki Matsubara",
         "title": "Mayonaka No Door~stay with Me Classic",
