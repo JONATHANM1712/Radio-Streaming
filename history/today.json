@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:33:02.851160+00:00",
+  "updated_at_utc": "2026-11-11T04:34:07.099147+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christian Bautista",
+        "title": "The Way You Look At Me (Acoustic)",
+        "detected_at_utc": "2026-11-11T04:33:59.480696+00:00"
+      },
       {
         "artist": "Keith Martin",
         "title": "Because of You",
@@ -125,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michelle Branch",
+        "title": "All You Wanted",
+        "detected_at_utc": "2026-11-11T04:33:54.309174+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
