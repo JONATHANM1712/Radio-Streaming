@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:18:35.393633+00:00",
+  "updated_at_utc": "2026-11-11T17:19:38.294130+00:00",
   "stations": {
     "kis": [
       {
@@ -67,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Trammps",
+        "title": "Disco Inferno",
+        "detected_at_utc": "2026-11-11T17:19:31.783803+00:00"
+      },
       {
         "artist": "Christopher Cross",
         "title": "Sailing",
