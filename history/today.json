@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T13:46:13.524822+00:00",
+  "updated_at_utc": "2026-11-11T13:47:19.563126+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pasto",
+        "title": "Aku Pasti Kembali",
+        "detected_at_utc": "2026-11-11T13:46:19.735144+00:00"
+      },
       {
         "artist": "H.E.R.",
         "title": "Best Part (feat. Daniel Caesar)",
