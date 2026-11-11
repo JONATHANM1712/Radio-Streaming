@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:21:31.392166+00:00",
+  "updated_at_utc": "2026-11-11T10:22:34.429570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Pertama",
+        "detected_at_utc": "2026-11-11T10:21:32.689574+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "The Lazy Song",
@@ -285,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "honk!",
+        "detected_at_utc": "2026-11-11T10:21:33.377635+00:00"
+      },
       {
         "artist": "Santana",
         "title": "The Game of Love (feat. Michelle Branch) [Main/Radio Mix]",
