@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T13:52:48.192337+00:00",
+  "updated_at_utc": "2026-11-11T13:53:53.285296+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Neida",
+        "title": "Tenang Saja (feat. Laleilmanino)",
+        "detected_at_utc": "2026-11-11T13:53:43.117348+00:00"
+      },
       {
         "artist": "Pasto",
         "title": "Aku Pasti Kembali",
