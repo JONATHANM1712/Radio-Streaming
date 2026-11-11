@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:20:08.826371+00:00",
+  "updated_at_utc": "2026-11-11T16:21:13.314813+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Heartbreak Warfare",
+        "detected_at_utc": "2026-11-11T16:21:12.993288+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Ku Katakan Dengan Indah",
