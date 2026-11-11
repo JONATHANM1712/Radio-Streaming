@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T11:11:07.494156+00:00",
+  "updated_at_utc": "2026-11-11T11:14:24.295042+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Archuleta",
+        "title": "Crush",
+        "detected_at_utc": "2026-11-11T11:14:24.217243+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Jikalau",
