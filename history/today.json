@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:27:43.627870+00:00",
+  "updated_at_utc": "2026-11-11T10:28:46.634147+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kendrick Lamar & SZA",
+        "title": "All The Stars",
+        "detected_at_utc": "2026-11-11T10:28:46.306692+00:00"
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-11T10:27:44.623758+00:00"
+      },
       {
         "artist": "Headhunterz",
         "title": "Still Standin'",
@@ -607,6 +617,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kid Creole & The Coconuts",
+        "title": "My Male Curiousity",
+        "detected_at_utc": "2026-11-11T10:27:45.882183+00:00"
+      },
       {
         "artist": "Rage Against the Machine",
         "title": "Killing In The Name",
