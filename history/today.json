@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:08:19.578404+00:00",
+  "updated_at_utc": "2026-11-11T17:09:22.047488+00:00",
   "stations": {
     "kis": [
       {
@@ -21,6 +21,11 @@
     ],
     "jak": [
       {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-11T17:08:23.468015+00:00"
+      },
+      {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
         "detected_at_utc": "2026-11-11T17:07:22.238462+00:00"
@@ -37,6 +42,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fatboy Slim",
+        "title": "Right Here, Right Now",
+        "detected_at_utc": "2026-11-11T17:09:19.290185+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Why Should I Cry For You?",
