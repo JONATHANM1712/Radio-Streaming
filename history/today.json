@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:45:10.525646+00:00",
+  "updated_at_utc": "2026-11-11T14:46:14.632064+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Semisonic",
+        "title": "Closing Time",
+        "detected_at_utc": "2026-11-11T14:45:17.839624+00:00"
+      },
       {
         "artist": "Maudy Ayunda",
         "title": "Tahu Diri",
@@ -395,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Criminal",
+        "detected_at_utc": "2026-11-11T14:46:13.808878+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
