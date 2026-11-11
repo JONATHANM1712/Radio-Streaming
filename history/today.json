@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T03:59:52.316535+00:00",
+  "updated_at_utc": "2026-11-11T04:00:55.912649+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande & Nathan Sykes",
+        "title": "Almost Is Never Enough",
+        "detected_at_utc": "2026-11-11T04:00:55.142390+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Jenny from the Block (Track Masters Remix featuring Styles & Jadakiss)",
@@ -182,6 +187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Deniece Williams",
+        "title": "Let's Hear It for the Boy",
+        "detected_at_utc": "2026-11-11T03:59:53.523257+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Take A Look",
