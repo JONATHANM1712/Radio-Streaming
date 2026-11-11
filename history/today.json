@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:07:34.113331+00:00",
+  "updated_at_utc": "2026-11-11T06:08:37.411345+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-11T06:08:37.311680+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Sugar",
