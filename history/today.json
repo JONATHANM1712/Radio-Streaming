@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T06:26:05.476426+00:00",
+  "updated_at_utc": "2026-11-11T06:27:07.940671+00:00",
   "stations": {
     "kis": [
       {
@@ -532,6 +532,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Miki Matsubara",
+        "title": "Mayonaka No Door~stay with Me Classic",
+        "detected_at_utc": "2026-11-11T06:27:05.620047+00:00"
+      },
       {
         "artist": "Queen",
         "title": "Jealousy",
