@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:30:23.136214+00:00",
+  "updated_at_utc": "2026-11-11T16:32:26.631907+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pamungkas",
+        "title": "To the Bone",
+        "detected_at_utc": "2026-11-11T16:32:26.519354+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
