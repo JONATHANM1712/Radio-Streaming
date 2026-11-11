@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:01:15.819655+00:00",
+  "updated_at_utc": "2026-11-11T17:03:16.864679+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Missy Elliott",
+        "title": "Work It",
+        "detected_at_utc": "2026-11-11T17:03:16.773228+00:00"
+      },
       {
         "artist": "Julia Michaels",
         "title": "Issues",
