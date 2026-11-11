@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:15:00.010796+00:00",
+  "updated_at_utc": "2026-11-11T16:16:03.107141+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Ku Katakan Dengan Indah",
+        "detected_at_utc": "2026-11-11T16:15:03.283837+00:00"
+      },
       {
         "artist": "Madison Beer",
         "title": "Reckless",
