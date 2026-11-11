@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:55:05.887236+00:00",
+  "updated_at_utc": "2026-11-11T16:56:08.548965+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Ingram & Dolly Parton",
+        "title": "The Day I Fall In Love",
+        "detected_at_utc": "2026-11-11T16:55:56.972703+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
@@ -1132,6 +1137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Soul to Squeeze",
+        "detected_at_utc": "2026-11-11T16:55:57.818051+00:00"
+      },
       {
         "artist": "Roxette",
         "title": "You Don't Understand Me",
