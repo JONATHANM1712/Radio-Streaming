@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T10:41:12.718788+00:00",
+  "updated_at_utc": "2026-11-11T10:43:17.754965+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "Dusk Till Dawn (feat. Sia)",
+        "detected_at_utc": "2026-11-11T10:43:17.634589+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
