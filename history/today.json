@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:34:07.099147+00:00",
+  "updated_at_utc": "2026-11-11T04:37:06.660583+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vierra",
+        "title": "Jadi Yang Kuinginkan",
+        "detected_at_utc": "2026-11-11T04:37:06.460081+00:00"
+      },
       {
         "artist": "Christian Bautista",
         "title": "The Way You Look At Me (Acoustic)",
