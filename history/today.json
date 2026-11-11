@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T05:55:15.150598+00:00",
+  "updated_at_utc": "2026-11-11T05:56:18.244630+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Nobody Gets Me",
+        "detected_at_utc": "2026-11-11T05:56:16.754181+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Nothin' On You (feat. Bruno Mars)",
