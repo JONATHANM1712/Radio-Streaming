@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:27:51.796337+00:00",
+  "updated_at_utc": "2026-11-11T15:28:56.630928+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "detected_at_utc": "2026-11-11T15:28:56.534712+00:00"
+      },
       {
         "artist": "Vonda Shepard",
         "title": "Baby, Don't You Break My Heart Slow",
