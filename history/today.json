@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:17:00.667920+00:00",
+  "updated_at_utc": "2026-11-11T14:19:09.615452+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Underdog Project",
+        "title": "Summer Jam (Unplugged)",
+        "detected_at_utc": "2026-11-11T14:19:09.473011+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Gabriela",
