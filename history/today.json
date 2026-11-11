@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:52:30.322870+00:00",
+  "updated_at_utc": "2026-11-11T15:53:32.809709+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gemini",
+        "title": "Even Though You Broke My Heart",
+        "detected_at_utc": "2026-11-11T15:53:32.261833+00:00"
+      },
       {
         "artist": "Selena",
         "title": "I Could Fall In Love",
