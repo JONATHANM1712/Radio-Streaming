@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T14:06:24.761219+00:00",
+  "updated_at_utc": "2026-11-11T14:09:28.237013+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-11T14:09:28.125709+00:00"
+      },
       {
         "artist": "Portugal. The Man",
         "title": "Feel It Still",
