@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:45:23.699003+00:00",
+  "updated_at_utc": "2026-11-11T04:47:24.494474+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rixton",
+        "title": "Me and My Broken Heart",
+        "detected_at_utc": "2026-11-11T04:47:24.321294+00:00"
+      },
       {
         "artist": "Tina Arena",
         "title": "Chains",
