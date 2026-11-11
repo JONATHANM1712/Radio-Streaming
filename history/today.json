@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T15:09:19.208182+00:00",
+  "updated_at_utc": "2026-11-11T15:11:19.462914+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tracy Chapman",
+        "title": "Give Me One Reason",
+        "detected_at_utc": "2026-11-11T15:11:19.329691+00:00"
+      },
       {
         "artist": "Blue",
         "title": "If You Come Back",
