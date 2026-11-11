@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T04:25:50.261411+00:00",
+  "updated_at_utc": "2026-11-11T04:27:10.579213+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Scream",
+        "detected_at_utc": "2026-11-11T04:27:10.356337+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Kiss It Better",
