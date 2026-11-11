@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-11T17:44:16.449864+00:00",
+  "updated_at_utc": "2026-11-11T17:45:18.950223+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Texas",
+        "title": "Say What You Want",
+        "detected_at_utc": "2026-11-11T17:45:17.557679+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
@@ -60,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Travis",
+        "title": "Closer",
+        "detected_at_utc": "2026-11-11T17:45:11.897309+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "feelslikeimfallinginlove",
