@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:44:46.974379+00:00",
+  "updated_at_utc": "2026-11-11T16:45:49.974706+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ari Pramundito",
+        "title": "Dicintai 'Tuk Disakiti",
+        "detected_at_utc": "2026-11-11T16:45:49.437731+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -1107,6 +1112,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foreigner",
+        "title": "Say You Will",
+        "detected_at_utc": "2026-11-11T16:45:44.171934+00:00"
+      },
       {
         "artist": "Stryper",
         "title": "I Believe In You",
