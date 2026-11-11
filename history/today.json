@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T05:31:41.049685+00:00",
+  "updated_at_utc": "2026-11-11T05:33:37.953024+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "Some Nights",
+        "detected_at_utc": "2026-11-11T05:33:37.756185+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
