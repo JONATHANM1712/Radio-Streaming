@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T16:51:59.088200+00:00",
+  "updated_at_utc": "2026-11-11T16:55:05.887236+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-11-11T16:55:05.798634+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
