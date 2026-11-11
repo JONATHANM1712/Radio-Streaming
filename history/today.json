@@ -1,8 +1,13 @@
 {
   "date": "2026-11-11",
-  "updated_at_utc": "2026-11-11T03:56:47.345313+00:00",
+  "updated_at_utc": "2026-11-11T03:59:52.316535+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flo Rida",
+        "title": "Wild Ones (feat. Sia)",
+        "detected_at_utc": "2026-11-11T03:59:52.166646+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "So Sick",
