@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:18:59.488864+00:00",
+  "updated_at_utc": "2026-11-12T16:20:03.171769+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kerispatih",
+        "title": "Demi Cinta",
+        "detected_at_utc": "2026-11-12T16:19:28.430231+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
