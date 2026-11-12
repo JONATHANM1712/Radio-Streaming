@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:42:01.508416+00:00",
+  "updated_at_utc": "2026-11-12T05:43:22.435704+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-12T05:43:22.342863+00:00"
+      },
       {
         "artist": "Stephen Sanchez & Em Beihold",
         "title": "Until I Found You (Em Beihold Version)",
