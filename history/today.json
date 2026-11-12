@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:20:59.576955+00:00",
+  "updated_at_utc": "2026-11-12T06:22:18.822893+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Die For You",
+        "detected_at_utc": "2026-11-12T06:22:18.734414+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Laskar Pelangi",
