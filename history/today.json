@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:54:12.810200+00:00",
+  "updated_at_utc": "2026-11-12T09:55:15.300464+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avicii",
+        "title": "Wake Me Up",
+        "detected_at_utc": "2026-11-12T09:54:12.833170+00:00"
+      },
       {
         "artist": "Sheryl Crow",
         "title": "All I Wanna Do",
