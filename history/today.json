@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:19:16.697704+00:00",
+  "updated_at_utc": "2026-11-12T17:20:19.321863+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "My Chemical Romance",
+        "title": "Helena",
+        "detected_at_utc": "2026-11-12T17:19:59.766725+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
