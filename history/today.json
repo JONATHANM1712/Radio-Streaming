@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:49:30.884339+00:00",
+  "updated_at_utc": "2026-11-12T06:52:37.877745+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Break My Heart",
+        "detected_at_utc": "2026-11-12T06:52:37.734247+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
