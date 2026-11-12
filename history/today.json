@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:57:33.231042+00:00",
+  "updated_at_utc": "2026-11-12T05:58:35.678329+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Heart Attack",
+        "detected_at_utc": "2026-11-12T05:57:43.268232+00:00"
+      },
       {
         "artist": "Plain White T's",
         "title": "Hey There Delilah",
