@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:57:32.901320+00:00",
+  "updated_at_utc": "2026-11-12T16:58:35.830588+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "The Scientist",
+        "detected_at_utc": "2026-11-12T16:58:32.378176+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
@@ -1377,6 +1382,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Since I Don't Have You",
+        "detected_at_utc": "2026-11-12T16:57:48.356140+00:00"
+      },
       {
         "artist": "The Human League",
         "title": "Don't You Want Me",
