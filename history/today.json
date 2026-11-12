@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:11:05.798030+00:00",
+  "updated_at_utc": "2026-11-12T06:14:06.929554+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-12T06:14:06.830680+00:00"
+      },
       {
         "artist": "Eminem",
         "title": "The Monster (feat. Rihanna)",
