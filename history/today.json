@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:35:03.275521+00:00",
+  "updated_at_utc": "2026-11-12T06:36:07.024820+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yura Yunita",
+        "title": "Dunia Tipu-Tipu",
+        "detected_at_utc": "2026-11-12T06:35:40.416517+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Please Don't Go",
