@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:48:37.237275+00:00",
+  "updated_at_utc": "2026-11-12T16:49:39.817061+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Don't You Remember",
+        "detected_at_utc": "2026-11-12T16:49:20.873285+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "How To Save A Life",
