@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:15:43.296145+00:00",
+  "updated_at_utc": "2026-11-12T05:17:44.563305+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Kill Bill",
+        "detected_at_utc": "2026-11-12T05:17:44.474859+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "In My Head",
