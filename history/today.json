@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:24:02.701329+00:00",
+  "updated_at_utc": "2026-11-12T17:25:25.105536+00:00",
   "stations": {
     "kis": [
       {
@@ -77,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "David Lee Roth",
+        "title": "Goin' Crazy!",
+        "detected_at_utc": "2026-11-12T17:25:24.997754+00:00"
+      },
       {
         "artist": "Thompson Twins",
         "title": "Lies",
