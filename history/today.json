@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:48:21.323085+00:00",
+  "updated_at_utc": "2026-11-12T12:51:39.207180+00:00",
   "stations": {
     "kis": [
       {
@@ -1102,6 +1102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Miquel Brown",
+        "title": "Close to Perfection",
+        "detected_at_utc": "2026-11-12T12:51:39.109061+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Suicide Blonde",
