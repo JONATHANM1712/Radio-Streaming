@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:25:13.265475+00:00",
+  "updated_at_utc": "2026-11-12T06:26:23.900986+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-12T06:26:23.803578+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Die For You",
