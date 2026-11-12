@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:05:08.985586+00:00",
+  "updated_at_utc": "2026-11-12T13:06:46.122628+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Architechs",
+        "title": "Body Groove (feat. Nana) [Mix Mc Version]",
+        "detected_at_utc": "2026-11-12T13:06:46.031782+00:00"
+      },
       {
         "artist": "Tevin Campbell",
         "title": "Can We Talk",
