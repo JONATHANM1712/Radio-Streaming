@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:37:10.268194+00:00",
+  "updated_at_utc": "2026-11-12T06:38:14.004763+00:00",
   "stations": {
     "kis": [
       {
@@ -632,6 +632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Les Hiboux",
+        "title": "Vai ser muito bom (feat. A Garota de Ipanema) [Claap \"I don't speak portuguese\" Remix]",
+        "detected_at_utc": "2026-11-12T06:37:28.403481+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Running In the Family",
