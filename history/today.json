@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:14:53.001645+00:00",
+  "updated_at_utc": "2026-11-12T17:15:55.574331+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sondre Lerche",
+        "title": "Two Way Monologue",
+        "detected_at_utc": "2026-11-12T17:15:47.065501+00:00"
+      },
       {
         "artist": "Isyana Sarasvati",
         "title": "Tetap Dalam Jiwa",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-12T17:15:54.122656+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
@@ -52,6 +62,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Heights",
+        "title": "How Do You Talk to an Angel",
+        "detected_at_utc": "2026-11-12T17:15:10.922913+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "It's So Hard To Say Goodbye To Yesterday",
