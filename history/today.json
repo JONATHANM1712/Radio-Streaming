@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:00:40.706418+00:00",
+  "updated_at_utc": "2026-11-12T06:02:40.547537+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJDANNJ",
+        "title": "DJ DAN 2025 MIX",
+        "detected_at_utc": "2026-11-12T06:02:40.457993+00:00"
+      },
       {
         "artist": "Duncan Sheik",
         "title": "Barely Breathing",
