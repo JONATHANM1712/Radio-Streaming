@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T15:53:19.774866+00:00",
+  "updated_at_utc": "2026-11-12T15:54:22.985526+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ebiet G. Ade",
+        "title": "Titip Rindu Buat Ayah",
+        "detected_at_utc": "2026-11-12T15:53:45.930796+00:00"
+      },
       {
         "artist": "Camila Cabello",
         "title": "Havana (feat. Young Thug)",
