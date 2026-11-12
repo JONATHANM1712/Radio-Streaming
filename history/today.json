@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T03:51:42.201729+00:00",
+  "updated_at_utc": "2026-11-12T03:52:59.778120+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "detected_at_utc": "2026-11-12T03:52:59.639880+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
