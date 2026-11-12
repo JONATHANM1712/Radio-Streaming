@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:36:58.710662+00:00",
+  "updated_at_utc": "2026-11-12T13:38:01.239769+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stacey Ryan",
+        "title": "Fall In Love Alone",
+        "detected_at_utc": "2026-11-12T13:37:32.449662+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
