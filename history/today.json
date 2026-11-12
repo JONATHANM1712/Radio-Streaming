@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:42:15.985911+00:00",
+  "updated_at_utc": "2026-11-12T08:44:16.322816+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "George Pendred",
+        "title": "The Moon",
+        "detected_at_utc": "2026-11-12T08:44:16.182544+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "On the Floor (feat. Pitbull)",
