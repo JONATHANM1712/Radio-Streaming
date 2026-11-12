@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:09:00.521439+00:00",
+  "updated_at_utc": "2026-11-12T06:10:03.219657+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joss Stone",
+        "title": "Don't Cha Wanna Ride",
+        "detected_at_utc": "2026-11-12T06:09:50.880147+00:00"
+      },
       {
         "artist": "DJ Snake",
         "title": "Middle (feat. Bipolar Sunshine)",
