@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:38:52.811830+00:00",
+  "updated_at_utc": "2026-11-12T09:39:55.422134+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JVKE",
+        "title": "golden hour",
+        "detected_at_utc": "2026-11-12T09:39:54.878555+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -917,6 +922,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fat Boys & The Beach Boys",
+        "title": "Wipeout",
+        "detected_at_utc": "2026-11-12T09:38:53.028750+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "My Favourite Game",
