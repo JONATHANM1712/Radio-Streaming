@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T07:07:01.489785+00:00",
+  "updated_at_utc": "2026-11-12T07:09:19.421729+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-12T07:09:19.267850+00:00"
+      },
       {
         "artist": "Jonas Blue",
         "title": "Rise (feat. Jack & Jack)",
