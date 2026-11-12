@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:22:03.843364+00:00",
+  "updated_at_utc": "2026-11-12T16:24:38.021639+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-12T16:24:37.839003+00:00"
+      },
       {
         "artist": "Kerispatih",
         "title": "Demi Cinta",
