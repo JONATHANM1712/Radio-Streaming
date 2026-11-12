@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:28:06.502230+00:00",
+  "updated_at_utc": "2026-11-12T16:29:09.586420+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-12T16:28:50.269699+00:00"
+      },
       {
         "artist": "Louis Tomlinson",
         "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
