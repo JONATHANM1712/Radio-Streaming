@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:16:54.652141+00:00",
+  "updated_at_utc": "2026-11-12T06:17:57.228256+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Laskar Pelangi",
+        "detected_at_utc": "2026-11-12T06:17:11.154435+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
