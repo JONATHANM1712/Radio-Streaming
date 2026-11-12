@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:54:47.168825+00:00",
+  "updated_at_utc": "2026-11-12T16:56:30.036027+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-12T16:56:29.869707+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Don't You Remember",
