@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:25:25.105536+00:00",
+  "updated_at_utc": "2026-11-12T17:26:27.849321+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Yeah 3X",
+        "detected_at_utc": "2026-11-12T17:26:07.046348+00:00"
+      },
       {
         "artist": "Jung Kook",
         "title": "Standing Next to You",
