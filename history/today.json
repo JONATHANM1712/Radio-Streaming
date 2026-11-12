@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:39:54.696249+00:00",
+  "updated_at_utc": "2026-11-12T16:41:10.904591+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-11-12T16:41:10.820538+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Keabadian (Remastered 2026)",
