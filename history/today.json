@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T15:52:15.494742+00:00",
+  "updated_at_utc": "2026-11-12T15:53:19.774866+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Bubbly",
+        "detected_at_utc": "2026-11-12T15:53:14.495104+00:00"
+      },
       {
         "artist": "Major Lazer",
         "title": "Cold Water (feat. Justin Bieber & MØ)",
@@ -605,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Camila Cabello",
+        "title": "Havana (feat. Young Thug)",
+        "detected_at_utc": "2026-11-12T15:52:44.513838+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
@@ -1217,6 +1227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "When the Smoke Is Going Down (Live)",
+        "detected_at_utc": "2026-11-12T15:52:50.604666+00:00"
+      },
       {
         "artist": "Morcheeba",
         "title": "Let Me See",
