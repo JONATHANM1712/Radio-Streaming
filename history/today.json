@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:35:57.368238+00:00",
+  "updated_at_utc": "2026-11-12T12:37:01.191258+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-11-12T12:36:43.576916+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Oh Kasih...",
