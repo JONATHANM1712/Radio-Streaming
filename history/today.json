@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:50:07.712056+00:00",
+  "updated_at_utc": "2026-11-12T09:51:10.341168+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheryl Crow",
+        "title": "All I Wanna Do",
+        "detected_at_utc": "2026-11-12T09:50:07.807571+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Drive",
@@ -435,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Deorro & Chris Brown",
+        "title": "Five More Hours",
+        "detected_at_utc": "2026-11-12T09:50:08.041635+00:00"
+      },
       {
         "artist": "SZA",
         "title": "I Hate U",
