@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:11:49.294883+00:00",
+  "updated_at_utc": "2026-11-12T17:12:52.142633+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Tetap Dalam Jiwa",
+        "detected_at_utc": "2026-11-12T17:12:42.624645+00:00"
+      },
       {
         "artist": "The Swell Season, Glen Hansard & Markéta Irglová",
         "title": "Falling Slowly",
@@ -42,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Boyz II Men",
+        "title": "It's So Hard To Say Goodbye To Yesterday",
+        "detected_at_utc": "2026-11-12T17:12:07.116434+00:00"
+      },
       {
         "artist": "Martika",
         "title": "Love...Thy Will Be Done",
