@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:58:54.652763+00:00",
+  "updated_at_utc": "2026-11-12T07:00:14.031546+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Favorite Girl",
+        "detected_at_utc": "2026-11-12T07:00:13.863028+00:00"
+      },
       {
         "artist": "Aqua",
         "title": "Turn Back Time",
