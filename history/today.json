@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:16:29.835429+00:00",
+  "updated_at_utc": "2026-11-12T04:17:33.218843+00:00",
   "stations": {
     "kis": [
       {
@@ -146,6 +146,11 @@
     ],
     "jak": [
       {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-12T04:16:47.325944+00:00"
+      },
+      {
         "artist": "Imagine Dragons",
         "title": "On Top Of The World",
         "detected_at_utc": "2026-11-12T04:13:41.118759+00:00"
@@ -287,6 +292,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Walking After You",
+        "detected_at_utc": "2026-11-12T04:17:29.759630+00:00"
+      },
       {
         "artist": "Spagna",
         "title": "Call Me",
