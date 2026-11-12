@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:11:38.698678+00:00",
+  "updated_at_utc": "2026-11-12T04:13:41.434779+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "On Top Of The World",
+        "detected_at_utc": "2026-11-12T04:13:41.118759+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Nonsense",
