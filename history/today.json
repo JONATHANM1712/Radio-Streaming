@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:19:58.294425+00:00",
+  "updated_at_utc": "2026-11-12T12:22:58.104330+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Seperti Kekasihku",
+        "detected_at_utc": "2026-11-12T12:22:57.974109+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Rock Your Body",
