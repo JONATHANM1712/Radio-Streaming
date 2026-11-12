@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:23:15.420242+00:00",
+  "updated_at_utc": "2026-11-12T09:24:18.209950+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Budapest",
+        "title": "Is This the Best It Gets?",
+        "detected_at_utc": "2026-11-12T09:23:18.750024+00:00"
+      },
       {
         "artist": "D’MASIV",
         "title": "Semakin",
