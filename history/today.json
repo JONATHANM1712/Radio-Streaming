@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:19:03.867422+00:00",
+  "updated_at_utc": "2026-11-12T06:20:59.576955+00:00",
   "stations": {
     "kis": [
       {
@@ -592,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "Strange Currencies",
+        "detected_at_utc": "2026-11-12T06:20:59.482432+00:00"
+      },
       {
         "artist": "The Cure",
         "title": "Pictures of You",
