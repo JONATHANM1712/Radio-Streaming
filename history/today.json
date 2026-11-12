@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T03:39:17.225659+00:00",
+  "updated_at_utc": "2026-11-12T03:40:27.452305+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anda Perdana",
+        "title": "Tentang Seseorang (Remastered 2024)",
+        "detected_at_utc": "2026-11-12T03:39:22.977178+00:00"
+      },
       {
         "artist": "Ricky Martin",
         "title": "Nobody Wants to Be Lonely (With Christina Aguilera)",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bazzi",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-12T03:39:32.396721+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Underneath It All (feat. Lady Saw)",
