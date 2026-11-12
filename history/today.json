@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:30:11.325455+00:00",
+  "updated_at_utc": "2026-11-12T06:31:14.864684+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "Please Don't Go",
+        "detected_at_utc": "2026-11-12T06:30:29.120640+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
