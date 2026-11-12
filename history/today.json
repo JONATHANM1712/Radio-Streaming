@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:48:29.153672+00:00",
+  "updated_at_utc": "2026-11-12T08:49:32.580884+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Here's to Never Growing Up",
+        "detected_at_utc": "2026-11-12T08:49:22.725631+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
