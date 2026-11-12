@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:19:41.926948+00:00",
+  "updated_at_utc": "2026-11-12T04:20:45.528556+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "UNGU & Andien",
+        "title": "Saat Bahagia",
+        "detected_at_utc": "2026-11-12T04:19:53.703212+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
