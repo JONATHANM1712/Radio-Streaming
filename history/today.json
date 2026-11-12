@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:43:32.125303+00:00",
+  "updated_at_utc": "2026-11-12T06:44:35.376025+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-12T06:44:14.619860+00:00"
+      },
       {
         "artist": "Saosin",
         "title": "You're Not Alone",
