@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:16:06.571951+00:00",
+  "updated_at_utc": "2026-11-12T09:17:09.531393+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-12T09:17:06.497836+00:00"
+      },
       {
         "artist": "Simple Plan",
         "title": "Jet Lag (feat. Natasha Bedingfield)",
