@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:54:47.937987+00:00",
+  "updated_at_utc": "2026-11-12T12:56:23.333114+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "Ku Ingin",
+        "detected_at_utc": "2026-11-12T12:56:23.226357+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Come & Get It",
