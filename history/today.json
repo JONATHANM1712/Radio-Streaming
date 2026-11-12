@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:11:14.132841+00:00",
+  "updated_at_utc": "2026-11-12T08:12:19.459779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Ordinary People",
+        "detected_at_utc": "2026-11-12T08:12:14.870114+00:00"
+      },
       {
         "artist": "Atomic Kitten",
         "title": "The Tide Is High (Get the Feeling)",
