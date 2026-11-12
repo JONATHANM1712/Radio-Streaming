@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:54:47.511883+00:00",
+  "updated_at_utc": "2026-11-12T04:56:10.082670+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-12T04:56:09.958268+00:00"
+      },
       {
         "artist": "VIDI",
         "title": "Datang Dan Kembali",
