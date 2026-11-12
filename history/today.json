@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:12:24.620107+00:00",
+  "updated_at_utc": "2026-11-12T05:14:40.709212+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "In My Head",
+        "detected_at_utc": "2026-11-12T05:14:40.604511+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
