@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:49:39.012589+00:00",
+  "updated_at_utc": "2026-11-12T04:50:42.093391+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "One Direction",
+        "title": "What Makes You Beautiful",
+        "detected_at_utc": "2026-11-12T04:49:45.215391+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Try Again",
@@ -180,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "VIDI",
+        "title": "Datang Dan Kembali",
+        "detected_at_utc": "2026-11-12T04:50:00.882207+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Black Magic",
