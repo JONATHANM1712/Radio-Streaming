@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:05:56.268179+00:00",
+  "updated_at_utc": "2026-11-12T12:07:02.925798+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Train",
+        "title": "Hey, Soul Sister",
+        "detected_at_utc": "2026-11-12T12:07:02.796989+00:00"
+      },
       {
         "artist": "GAC (Gamaliél Audrey Cantika)",
         "title": "Cinta",
