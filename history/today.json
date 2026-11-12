@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:08:38.271143+00:00",
+  "updated_at_utc": "2026-11-12T16:12:15.350244+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "G-Eazy & Kehlani",
+        "title": "Good Life",
+        "detected_at_utc": "2026-11-12T16:12:15.227624+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Nothing Lasts Forever",
