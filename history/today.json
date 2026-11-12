@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:34:13.321926+00:00",
+  "updated_at_utc": "2026-11-12T17:35:15.961043+00:00",
   "stations": {
     "kis": [
       {
@@ -56,6 +56,11 @@
     ],
     "jak": [
       {
+        "artist": "American Authors",
+        "title": "Best Day of My Life",
+        "detected_at_utc": "2026-11-12T17:34:17.817065+00:00"
+      },
+      {
         "artist": "Chris Brown",
         "title": "Yeah 3X",
         "detected_at_utc": "2026-11-12T17:26:07.046348+00:00"
@@ -102,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sting",
+        "title": "Moon Over Bourbon Street",
+        "detected_at_utc": "2026-11-12T17:34:38.040070+00:00"
+      },
       {
         "artist": "a-ha",
         "title": "Manhattan Skyline",
