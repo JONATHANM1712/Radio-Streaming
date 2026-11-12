@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T15:58:01.188001+00:00",
+  "updated_at_utc": "2026-11-12T15:59:56.689055+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Camila Cabello",
+        "title": "Havana (feat. Young Thug)",
+        "detected_at_utc": "2026-11-12T15:59:56.599292+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "The Sweetest Love",
