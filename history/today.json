@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:21:16.315863+00:00",
+  "updated_at_utc": "2026-11-12T09:23:15.420242+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamelia",
+        "title": "Superstar",
+        "detected_at_utc": "2026-11-12T09:23:15.287139+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
