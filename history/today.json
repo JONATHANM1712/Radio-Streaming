@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:35:30.306535+00:00",
+  "updated_at_utc": "2026-11-12T16:36:33.015038+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Keabadian (Remastered 2026)",
+        "detected_at_utc": "2026-11-12T16:36:00.179063+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Everything",
