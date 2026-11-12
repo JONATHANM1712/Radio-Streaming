@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:16:40.549929+00:00",
+  "updated_at_utc": "2026-11-12T12:17:43.867981+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "Better Now",
+        "detected_at_utc": "2026-11-12T12:16:50.176997+00:00"
+      },
       {
         "artist": "Train",
         "title": "Hey, Soul Sister",
@@ -1042,6 +1047,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Garbage",
+        "title": "Only Happy When It Rains",
+        "detected_at_utc": "2026-11-12T12:16:45.969462+00:00"
+      },
       {
         "artist": "Supergrass",
         "title": "Alright",
