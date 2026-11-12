@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:20:45.528556+00:00",
+  "updated_at_utc": "2026-11-12T04:22:47.797285+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "Treat Her Like a Lady",
+        "detected_at_utc": "2026-11-12T04:22:47.628161+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Please Don't Go",
