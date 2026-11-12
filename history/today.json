@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:44:35.376025+00:00",
+  "updated_at_utc": "2026-11-12T06:45:38.794365+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Duffy",
+        "title": "Mercy",
+        "detected_at_utc": "2026-11-12T06:45:37.895602+00:00"
+      },
       {
         "artist": "Haley Bennett & Hugh Grant",
         "title": "Way Back Into Love",
@@ -310,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Me Too",
+        "detected_at_utc": "2026-11-12T06:45:18.962895+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
@@ -642,6 +652,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Karimata",
+        "title": "Rintangan (feat. Lydia Nursaid & Dian P. P.)",
+        "detected_at_utc": "2026-11-12T06:44:56.632892+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "I Belong To You",
