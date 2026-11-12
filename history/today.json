@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:50:21.060759+00:00",
+  "updated_at_utc": "2026-11-12T05:51:23.598619+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Benson Boone",
+        "title": "Beautiful Things",
+        "detected_at_utc": "2026-11-12T05:50:32.622757+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
@@ -517,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blondie",
+        "title": "Accidents Never Happen",
+        "detected_at_utc": "2026-11-12T05:51:14.102721+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Off the Wall",
