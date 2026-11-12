@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:18:30.032625+00:00",
+  "updated_at_utc": "2026-11-12T08:19:33.408669+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-12T08:18:30.489910+00:00"
+      },
       {
         "artist": "Payung Teduh",
         "title": "Akad",
