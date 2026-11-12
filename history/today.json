@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:23:00.092763+00:00",
+  "updated_at_utc": "2026-11-12T17:24:02.701329+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jung Kook",
+        "title": "Standing Next to You",
+        "detected_at_utc": "2026-11-12T17:23:03.426756+00:00"
+      },
       {
         "artist": "My Chemical Romance",
         "title": "Helena",
