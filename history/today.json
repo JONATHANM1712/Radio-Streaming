@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:27:09.059126+00:00",
+  "updated_at_utc": "2026-11-12T12:29:20.345179+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shanty",
+        "title": "Oh Kasih...",
+        "detected_at_utc": "2026-11-12T12:29:20.242321+00:00"
+      },
       {
         "artist": "Ed Sheeran & Justin Bieber",
         "title": "I Don't Care",
