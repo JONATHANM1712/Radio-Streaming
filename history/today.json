@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:50:42.093391+00:00",
+  "updated_at_utc": "2026-11-12T04:52:52.792727+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nu Flavor",
+        "title": "Heaven",
+        "detected_at_utc": "2026-11-12T04:52:52.627543+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "What Makes You Beautiful",
