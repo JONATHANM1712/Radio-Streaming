@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T15:54:22.985526+00:00",
+  "updated_at_utc": "2026-11-12T15:55:49.729387+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robin Thicke",
+        "title": "The Sweetest Love",
+        "detected_at_utc": "2026-11-12T15:55:49.633488+00:00"
+      },
       {
         "artist": "Ebiet G. Ade",
         "title": "Titip Rindu Buat Ayah",
