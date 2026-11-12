@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T09:30:43.107830+00:00",
+  "updated_at_utc": "2026-11-12T09:31:46.683444+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-11-12T09:31:43.291962+00:00"
+      },
       {
         "artist": "Budapest",
         "title": "Is This the Best It Gets?",
