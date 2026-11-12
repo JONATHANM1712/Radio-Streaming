@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:03:57.446817+00:00",
+  "updated_at_utc": "2026-11-12T17:05:00.036399+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SWV",
+        "title": "Right Here (Human Nature Radio Mix)",
+        "detected_at_utc": "2026-11-12T17:04:32.337812+00:00"
+      },
       {
         "artist": "Missy Elliott",
         "title": "Get Ur Freak On",
@@ -10,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Timbaland",
+        "title": "Give It To Me (feat. Justin Timberlake & Nelly Furtado)",
+        "detected_at_utc": "2026-11-12T17:04:40.397661+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "The Scientist",
