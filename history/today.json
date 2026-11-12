@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T11:31:59.027779+00:00",
+  "updated_at_utc": "2026-11-12T11:33:05.321571+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-12T11:33:05.206957+00:00"
+      },
       {
         "artist": "Deorro & Chris Brown",
         "title": "Five More Hours",
