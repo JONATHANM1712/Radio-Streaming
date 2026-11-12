@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:36:02.388158+00:00",
+  "updated_at_utc": "2026-11-12T08:39:06.036071+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Memories",
+        "detected_at_utc": "2026-11-12T08:39:05.882705+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
