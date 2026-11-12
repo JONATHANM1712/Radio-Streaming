@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:12:19.459779+00:00",
+  "updated_at_utc": "2026-11-12T08:13:24.370172+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Payung Teduh",
+        "title": "Akad",
+        "detected_at_utc": "2026-11-12T08:13:17.385443+00:00"
+      },
       {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
