@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T11:49:46.772787+00:00",
+  "updated_at_utc": "2026-11-12T11:52:03.513173+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GAC (Gamaliél Audrey Cantika)",
+        "title": "Cinta",
+        "detected_at_utc": "2026-11-12T11:52:03.383870+00:00"
+      },
       {
         "artist": "Ricardo And Friends",
         "title": "I Love You Daddy",
@@ -997,6 +1002,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bell Biv DeVoe",
+        "title": "Poison",
+        "detected_at_utc": "2026-11-12T11:52:03.385516+00:00"
+      },
       {
         "artist": "Culture Club",
         "title": "The War Song",
