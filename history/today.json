@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:15:51.780750+00:00",
+  "updated_at_utc": "2026-11-12T06:16:54.652141+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "detected_at_utc": "2026-11-12T06:15:59.763238+00:00"
+      },
       {
         "artist": "Joss Stone",
         "title": "Don't Cha Wanna Ride",
