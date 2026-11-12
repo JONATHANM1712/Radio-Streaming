@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T03:46:36.868208+00:00",
+  "updated_at_utc": "2026-11-12T03:47:42.057199+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-12T03:46:47.573627+00:00"
+      },
       {
         "artist": "Bazzi",
         "title": "Paradise",
