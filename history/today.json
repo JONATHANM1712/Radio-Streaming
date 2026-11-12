@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:49:39.817061+00:00",
+  "updated_at_utc": "2026-11-12T16:51:13.700806+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Williams Brothers",
+        "title": "Can't Cry Hard Enough",
+        "detected_at_utc": "2026-11-12T16:51:13.618888+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
