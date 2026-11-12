@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:39:37.700390+00:00",
+  "updated_at_utc": "2026-11-12T06:43:32.125303+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-11-12T06:43:31.944133+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
