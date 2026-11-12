@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:15:07.872555+00:00",
+  "updated_at_utc": "2026-11-12T13:16:36.428431+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Addison Rae",
+        "title": "Diet Pepsi",
+        "detected_at_utc": "2026-11-12T13:16:36.348475+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "We Are Young (feat. Janelle Monáe)",
