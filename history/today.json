@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T11:37:12.370704+00:00",
+  "updated_at_utc": "2026-11-12T11:38:23.486142+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "She",
+        "title": "Slow Down Baby",
+        "detected_at_utc": "2026-11-12T11:38:23.349252+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
