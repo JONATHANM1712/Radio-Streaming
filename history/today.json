@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T11:41:22.356059+00:00",
+  "updated_at_utc": "2026-11-12T11:42:33.967642+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ricardo And Friends",
+        "title": "I Love You Daddy",
+        "detected_at_utc": "2026-11-12T11:42:33.815687+00:00"
+      },
       {
         "artist": "LAUV & Troye Sivan",
         "title": "I'm So Tired...",
