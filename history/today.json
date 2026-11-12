@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:37:01.191258+00:00",
+  "updated_at_utc": "2026-11-12T12:38:04.418737+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris & Rihanna",
+        "title": "This Is What You Came For",
+        "detected_at_utc": "2026-11-12T12:37:49.491833+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
