@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:09:04.814031+00:00",
+  "updated_at_utc": "2026-11-12T17:11:49.294883+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "detected_at_utc": "2026-11-12T17:11:49.205072+00:00"
+      },
       {
         "artist": "Outkast",
         "title": "Ms. Jackson",
