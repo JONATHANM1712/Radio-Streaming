@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:05:55.943531+00:00",
+  "updated_at_utc": "2026-11-12T06:06:58.477907+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJ Snake",
+        "title": "Middle (feat. Bipolar Sunshine)",
+        "detected_at_utc": "2026-11-12T06:06:46.899149+00:00"
+      },
       {
         "artist": "DJDANNJ",
         "title": "DJ DAN 2025 MIX",
@@ -557,6 +562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kenny Loggins",
+        "title": "Footloose",
+        "detected_at_utc": "2026-11-12T06:06:39.914700+00:00"
+      },
       {
         "artist": "Roberta Flack",
         "title": "Making Love",
