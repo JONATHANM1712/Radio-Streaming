@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:21:22.671426+00:00",
+  "updated_at_utc": "2026-11-12T13:22:25.165190+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "James Arthur & Anne-Marie",
+        "title": "Rewrite the Stars",
+        "detected_at_utc": "2026-11-12T13:21:50.637709+00:00"
+      },
       {
         "artist": "Addison Rae",
         "title": "Diet Pepsi",
