@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T12:18:48.035224+00:00",
+  "updated_at_utc": "2026-11-12T12:19:58.294425+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran & Justin Bieber",
+        "title": "I Don't Care",
+        "detected_at_utc": "2026-11-12T12:19:58.164440+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Better Now",
