@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T05:21:54.853151+00:00",
+  "updated_at_utc": "2026-11-12T05:23:42.352957+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Blunt",
+        "title": "You're Beautiful",
+        "detected_at_utc": "2026-11-12T05:23:42.262374+00:00"
+      },
       {
         "artist": "Letto",
         "title": "Ruang Rindu",
