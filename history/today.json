@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T06:53:41.670749+00:00",
+  "updated_at_utc": "2026-11-12T06:55:43.932794+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-12T06:55:43.808749+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "Break My Heart",
