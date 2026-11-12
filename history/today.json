@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:07:31.243041+00:00",
+  "updated_at_utc": "2026-11-12T04:10:35.326878+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Nonsense",
+        "detected_at_utc": "2026-11-12T04:10:35.182512+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Meet Me Halfway",
