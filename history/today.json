@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T08:50:35.534951+00:00",
+  "updated_at_utc": "2026-11-12T08:53:29.397562+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Empire Of The Sun",
+        "title": "Walking On A Dream",
+        "detected_at_utc": "2026-11-12T08:53:29.190229+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Here's to Never Growing Up",
