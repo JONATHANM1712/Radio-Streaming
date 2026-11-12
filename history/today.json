@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T15:51:12.135945+00:00",
+  "updated_at_utc": "2026-11-12T15:52:15.494742+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-12T15:51:42.797277+00:00"
+      },
       {
         "artist": "Stacey Ryan",
         "title": "Fall In Love Alone",
@@ -1212,6 +1217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Morcheeba",
+        "title": "Let Me See",
+        "detected_at_utc": "2026-11-12T15:51:49.075413+00:00"
+      },
       {
         "artist": "Beck",
         "title": "Loser",
