@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T07:10:22.840339+00:00",
+  "updated_at_utc": "2026-11-12T08:09:07.249082+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
+        "detected_at_utc": "2026-11-12T08:09:07.135252+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
