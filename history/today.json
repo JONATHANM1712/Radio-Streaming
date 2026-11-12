@@ -1,8 +1,13 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:10:35.326878+00:00",
+  "updated_at_utc": "2026-11-12T04:11:38.698678+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Deana Carter",
+        "title": "Colour Everywhere",
+        "detected_at_utc": "2026-11-12T04:11:25.713076+00:00"
+      },
       {
         "artist": "Hoobastank",
         "title": "The Reason",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Spagna",
+        "title": "Call Me",
+        "detected_at_utc": "2026-11-12T04:11:17.640513+00:00"
+      },
       {
         "artist": "David Bowie",
         "title": "Modern Love",
