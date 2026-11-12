@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:04:06.436378+00:00",
+  "updated_at_utc": "2026-11-12T13:05:08.985586+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "detected_at_utc": "2026-11-12T13:05:04.833998+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Supermassive Black Hole",
