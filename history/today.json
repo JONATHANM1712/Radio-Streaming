@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:57:59.804375+00:00",
+  "updated_at_utc": "2026-11-12T04:59:14.586665+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "U Remind Me",
+        "detected_at_utc": "2026-11-12T04:59:14.418574+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
