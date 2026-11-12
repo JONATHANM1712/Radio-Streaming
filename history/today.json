@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T13:33:52.867240+00:00",
+  "updated_at_utc": "2026-11-12T13:34:55.676591+00:00",
   "stations": {
     "kis": [
       {
@@ -1197,6 +1197,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Beck",
+        "title": "Loser",
+        "detected_at_utc": "2026-11-12T13:34:31.837822+00:00"
+      },
       {
         "artist": "DJ Jazzy Jeff & The Fresh Prince",
         "title": "Brand New Funk",
