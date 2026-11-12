@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T04:05:16.867292+00:00",
+  "updated_at_utc": "2026-11-12T04:06:27.330923+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "detected_at_utc": "2026-11-12T04:06:27.171144+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Set Fire to the Rain",
