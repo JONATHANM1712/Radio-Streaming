@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_at_utc": "2026-11-12T16:43:31.004715+00:00",
+  "updated_at_utc": "2026-11-12T16:44:33.552803+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "How To Save A Life",
+        "detected_at_utc": "2026-11-12T16:44:14.656837+00:00"
+      },
       {
         "artist": "Abhijeet & Shah Rukh Khan",
         "title": "Main To Hoon Pagal",
