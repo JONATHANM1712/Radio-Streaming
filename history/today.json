@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:01:42.323607+00:00",
+  "updated_at_utc": "2026-11-13T16:04:43.971405+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Everglow",
+        "detected_at_utc": "2026-11-13T16:03:55.879970+00:00"
+      },
       {
         "artist": "Elton John",
         "title": "Sorry Seems To Be The Hardest Word (Remastered)",
