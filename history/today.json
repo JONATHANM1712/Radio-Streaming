@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:26:13.290953+00:00",
+  "updated_at_utc": "2026-11-13T11:30:15.018198+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Get the Party Started",
+        "detected_at_utc": "2026-11-13T11:30:14.903742+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Cobalah Mengerti",
