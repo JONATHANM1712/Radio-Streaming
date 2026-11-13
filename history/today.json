@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:28:12.083639+00:00",
+  "updated_at_utc": "2026-11-13T05:29:20.929687+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-13T05:29:20.835743+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "I Like Me Better",
