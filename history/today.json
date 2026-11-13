@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:01:29.839484+00:00",
+  "updated_at_utc": "2026-11-13T15:03:34.933511+00:00",
   "stations": {
     "kis": [
       {
@@ -1152,6 +1152,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Snow",
+        "title": "Lonely Monday Morning",
+        "detected_at_utc": "2026-11-13T15:03:34.842479+00:00"
+      },
       {
         "artist": "MisterLEVIK",
         "title": "Montagem! (Slowed)",
