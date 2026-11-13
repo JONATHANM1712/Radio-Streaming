@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:09:01.775072+00:00",
+  "updated_at_utc": "2026-11-13T16:10:04.395443+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-13T16:10:02.800537+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "I'm Not The Only One",
