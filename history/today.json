@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:23:26.986145+00:00",
+  "updated_at_utc": "2026-11-13T15:26:44.187998+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-11-13T15:26:44.095333+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Medley: Let Me Talk to You / My Love (feat. T.I.)",
