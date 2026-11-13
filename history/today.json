@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:43:21.590691+00:00",
+  "updated_at_utc": "2026-11-13T13:44:24.440779+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "You Da One",
+        "detected_at_utc": "2026-11-13T13:44:24.078132+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
@@ -982,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Phil Collins",
+        "title": "Long Long Way to Go (2016 Remastered)",
+        "detected_at_utc": "2026-11-13T13:44:20.519900+00:00"
+      },
       {
         "artist": "Rialto",
         "title": "Untouchable",
