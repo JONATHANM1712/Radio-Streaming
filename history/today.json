@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:25:50.051088+00:00",
+  "updated_at_utc": "2026-11-13T16:26:52.781735+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Steal My Girl",
+        "detected_at_utc": "2026-11-13T16:26:32.325999+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Let Me Love You",
