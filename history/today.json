@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:48:13.221883+00:00",
+  "updated_at_utc": "2026-11-13T04:49:15.682737+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-13T04:48:17.032306+00:00"
+      },
       {
         "artist": "STROKEMANENT",
         "title": "My City",
