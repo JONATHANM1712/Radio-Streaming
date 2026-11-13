@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:18:50.018078+00:00",
+  "updated_at_utc": "2026-11-13T14:20:55.719256+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adam Levine",
+        "title": "Lost Stars",
+        "detected_at_utc": "2026-11-13T14:20:55.629424+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Akhir Cerita Cinta",
