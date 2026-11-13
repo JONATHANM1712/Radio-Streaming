@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:18:37.485430+00:00",
+  "updated_at_utc": "2026-11-13T06:20:39.972065+00:00",
   "stations": {
     "kis": [
       {
@@ -562,6 +562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "S.O.U.L. S.Y.S.T.E.M.",
+        "title": "It's Gonna Be A Lovely Day",
+        "detected_at_utc": "2026-11-13T06:20:39.869556+00:00"
+      },
       {
         "artist": "Suede",
         "title": "Trash",
