@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:20:39.972065+00:00",
+  "updated_at_utc": "2026-11-13T06:22:44.518157+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Richard Marx & Donna Lewis",
+        "title": "At the Beginning",
+        "detected_at_utc": "2026-11-13T06:22:44.415569+00:00"
+      },
       {
         "artist": "Joe",
         "title": "I Wanna Know",
