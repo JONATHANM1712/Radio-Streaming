@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:15:42.203687+00:00",
+  "updated_at_utc": "2026-11-13T06:17:34.954542+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Joe",
+        "title": "I Wanna Know",
+        "detected_at_utc": "2026-11-13T06:17:34.846376+00:00"
+      },
       {
         "artist": "Club 80's",
         "title": "Dari Hati",
