@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:59:37.479080+00:00",
+  "updated_at_utc": "2026-11-13T16:01:42.323607+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-13T16:01:42.230232+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Aku Bertahan",
