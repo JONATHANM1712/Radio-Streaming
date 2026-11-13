@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:17:34.954542+00:00",
+  "updated_at_utc": "2026-11-13T06:18:37.485430+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "If You Come Back",
+        "detected_at_utc": "2026-11-13T06:17:43.165140+00:00"
+      },
       {
         "artist": "Doja Cat",
         "title": "Paint The Town Red",
