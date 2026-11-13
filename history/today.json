@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:06:14.219273+00:00",
+  "updated_at_utc": "2026-11-13T14:07:17.037821+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Monica",
+        "title": "Angel of Mine",
+        "detected_at_utc": "2026-11-13T14:07:12.262650+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
@@ -1027,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Time Bandits",
+        "title": "I'm Specialized In You",
+        "detected_at_utc": "2026-11-13T14:07:07.824662+00:00"
+      },
       {
         "artist": "Alejandro Castelli",
         "title": "Peru",
