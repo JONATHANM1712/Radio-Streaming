@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:30:57.146702+00:00",
+  "updated_at_utc": "2026-11-13T15:31:59.966668+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-13T15:31:00.241323+00:00"
+      },
       {
         "artist": "Isyana Sarasvati",
         "title": "Kau Adalah (feat. Rayi Putra)",
