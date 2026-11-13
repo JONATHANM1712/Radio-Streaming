@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:51:20.888007+00:00",
+  "updated_at_utc": "2026-11-13T04:52:23.575056+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ebiet G. Ade",
+        "title": "Titip Rindu Buat Ayah",
+        "detected_at_utc": "2026-11-13T04:52:23.184448+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
