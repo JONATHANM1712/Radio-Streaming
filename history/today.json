@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:35:17.968760+00:00",
+  "updated_at_utc": "2026-11-13T06:36:22.940982+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Renee Olstead",
+        "title": "A Love That Will Last",
+        "detected_at_utc": "2026-11-13T06:35:41.864085+00:00"
+      },
       {
         "artist": "Hanson",
         "title": "I Will Come To You",
