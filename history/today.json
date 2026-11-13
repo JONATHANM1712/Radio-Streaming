@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:13:33.425723+00:00",
+  "updated_at_utc": "2026-11-13T06:14:39.416479+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Paint The Town Red",
+        "detected_at_utc": "2026-11-13T06:14:39.278737+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Aku Jatuh Cinta",
