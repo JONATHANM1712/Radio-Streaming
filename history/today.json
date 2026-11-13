@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:07:17.037821+00:00",
+  "updated_at_utc": "2026-11-13T14:09:23.750291+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Menghapus Jejakmu",
+        "detected_at_utc": "2026-11-13T14:09:23.625684+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
