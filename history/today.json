@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:24:02.849114+00:00",
+  "updated_at_utc": "2026-11-13T05:25:14.417401+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "I Like Me Better",
+        "detected_at_utc": "2026-11-13T05:25:14.321182+00:00"
+      },
       {
         "artist": "ALEXA",
         "title": "Dewi",
