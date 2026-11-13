@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:15:46.413737+00:00",
+  "updated_at_utc": "2026-11-13T07:18:55.474563+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bobby Caldwell",
+        "title": "Heart of Mine",
+        "detected_at_utc": "2026-11-13T07:18:55.274791+00:00"
+      },
       {
         "artist": "Kris Dayanti",
         "title": "Yang Ku mau",
