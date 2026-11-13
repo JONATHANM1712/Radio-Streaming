@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:56:03.253389+00:00",
+  "updated_at_utc": "2026-11-13T03:57:06.927496+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-13T03:56:52.262551+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Home",
