@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:22:05.683974+00:00",
+  "updated_at_utc": "2026-11-13T13:24:04.085019+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Dangerously in Love 2",
+        "detected_at_utc": "2026-11-13T13:24:03.995313+00:00"
+      },
       {
         "artist": "Ecoutez",
         "title": "Percayalah",
