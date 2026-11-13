@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:08:54.103512+00:00",
+  "updated_at_utc": "2026-11-13T12:11:35.489279+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chanté Moore & Kenny Lattimore",
+        "title": "Loveable (From Your Head to Your Toes)",
+        "detected_at_utc": "2026-11-13T12:11:35.386515+00:00"
+      },
       {
         "artist": "Simply Red",
         "title": "You Make Me Feel Brand New",
