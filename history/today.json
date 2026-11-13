@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:27:49.294139+00:00",
+  "updated_at_utc": "2026-11-13T04:28:52.061281+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "Love On Top",
+        "detected_at_utc": "2026-11-13T04:28:48.483032+00:00"
+      },
       {
         "artist": "Kungs & Cookin' On 3 Burners",
         "title": "This Girl",
