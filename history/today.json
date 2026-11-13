@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:37:20.312347+00:00",
+  "updated_at_utc": "2026-11-13T03:38:23.977236+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "New Light",
+        "detected_at_utc": "2026-11-13T03:37:23.477394+00:00"
+      },
       {
         "artist": "Aditya",
         "title": "Be Mine",
@@ -172,6 +177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alice Cooper",
+        "title": "Poison",
+        "detected_at_utc": "2026-11-13T03:37:24.375376+00:00"
+      },
       {
         "artist": "Depeche Mode",
         "title": "Everything Counts (Oliver Huntemann & Stephan Bodzin Dub)",
