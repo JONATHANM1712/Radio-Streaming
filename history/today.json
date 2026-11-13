@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:46:14.448218+00:00",
+  "updated_at_utc": "2026-11-13T04:48:13.221883+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "Hurt",
+        "detected_at_utc": "2026-11-13T04:48:13.128222+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Karena Ku Sanggup",
