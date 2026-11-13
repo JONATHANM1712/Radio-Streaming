@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:49:37.075983+00:00",
+  "updated_at_utc": "2026-11-13T17:52:38.047697+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "California Gurls (feat. Snoop Dogg)",
+        "detected_at_utc": "2026-11-13T17:52:37.966708+00:00"
+      },
       {
         "artist": "R. City",
         "title": "Locked Away (feat. Adam Levine)",
