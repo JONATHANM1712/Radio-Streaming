@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T11:31:19.341125+00:00",
+  "updated_at_utc": "2026-11-13T11:35:22.671463+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "After 7",
+        "title": "'Til You Do Me Right",
+        "detected_at_utc": "2026-11-13T11:35:22.481063+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Back To Black",
