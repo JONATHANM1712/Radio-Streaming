@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:00:01.671965+00:00",
+  "updated_at_utc": "2026-11-13T04:05:08.155136+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ZAYN",
+        "title": "Let Me",
+        "detected_at_utc": "2026-11-13T04:05:08.026872+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
