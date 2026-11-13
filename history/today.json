@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:32:16.779249+00:00",
+  "updated_at_utc": "2026-11-13T05:33:19.305059+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "I Know You Want Me (Calle Ocho)",
+        "detected_at_utc": "2026-11-13T05:32:25.966541+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
