@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T11:58:51.785772+00:00",
+  "updated_at_utc": "2026-11-13T12:00:44.227585+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Gravity",
+        "detected_at_utc": "2026-11-13T12:00:44.097698+00:00"
+      },
       {
         "artist": "Annie Lennox",
         "title": "No More \"I Love You's\"",
