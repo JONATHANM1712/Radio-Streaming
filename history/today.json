@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:28:08.551575+00:00",
+  "updated_at_utc": "2026-11-13T03:29:12.157527+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-13T03:29:09.268775+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -152,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fugees",
+        "title": "Ready or Not",
+        "detected_at_utc": "2026-11-13T03:29:10.280934+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
