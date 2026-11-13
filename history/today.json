@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:12:47.348292+00:00",
+  "updated_at_utc": "2026-11-13T05:13:50.802225+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Paul",
+        "title": "No Lie (feat. Dua Lipa)",
+        "detected_at_utc": "2026-11-13T05:12:55.081513+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Selfish",
