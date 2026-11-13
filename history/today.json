@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:28:53.364613+00:00",
+  "updated_at_utc": "2026-11-13T12:29:57.176269+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chloe x Halle",
+        "title": "Do It",
+        "detected_at_utc": "2026-11-13T12:29:57.072839+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
