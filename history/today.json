@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:45:33.906460+00:00",
+  "updated_at_utc": "2026-11-13T06:46:37.775768+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-11-13T06:46:37.398584+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -627,6 +632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Irene Cara",
+        "title": "Fame",
+        "detected_at_utc": "2026-11-13T06:46:14.207619+00:00"
+      },
       {
         "artist": "Placebo",
         "title": "Every You Every Me",
