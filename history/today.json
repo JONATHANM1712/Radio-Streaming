@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:20:55.719256+00:00",
+  "updated_at_utc": "2026-11-13T14:21:58.663449+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "True Love (feat. Lily Allen)",
+        "detected_at_utc": "2026-11-13T14:20:59.099360+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "7 Days",
