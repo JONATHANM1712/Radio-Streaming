@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:28:10.130766+00:00",
+  "updated_at_utc": "2026-11-13T06:30:14.530394+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-13T06:30:14.320316+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Never Gonna Leave This Bed",
