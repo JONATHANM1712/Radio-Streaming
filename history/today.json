@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:01:48.527282+00:00",
+  "updated_at_utc": "2026-11-13T12:06:09.926103+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "You Make Me Feel Brand New",
+        "detected_at_utc": "2026-11-13T12:06:09.487048+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Gravity",
