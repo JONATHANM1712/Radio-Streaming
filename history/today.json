@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:36:28.593332+00:00",
+  "updated_at_utc": "2026-11-13T15:38:23.983494+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Stephanie Poetri",
+        "title": "I Love You 3000",
+        "detected_at_utc": "2026-11-13T15:38:23.898764+00:00"
+      },
       {
         "artist": "Lionel Richie",
         "title": "I Call It Love",
