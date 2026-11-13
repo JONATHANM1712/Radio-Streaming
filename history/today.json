@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:22:15.036186+00:00",
+  "updated_at_utc": "2026-11-13T07:23:19.453359+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Amy Winehouse",
+        "title": "Back To Black",
+        "detected_at_utc": "2026-11-13T07:23:08.624328+00:00"
+      },
       {
         "artist": "Bobby Caldwell",
         "title": "Heart of Mine",
@@ -330,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Cobalah Mengerti",
+        "detected_at_utc": "2026-11-13T07:23:18.441315+00:00"
+      },
       {
         "artist": "Swedish House Mafia",
         "title": "Don't You Worry Child (feat. John Martin)",
@@ -722,6 +732,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Turn It On Again",
+        "detected_at_utc": "2026-11-13T07:23:03.519810+00:00"
+      },
       {
         "artist": "KC and the Sunshine Band",
         "title": "Give It Up",
