@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:32:59.725280+00:00",
+  "updated_at_utc": "2026-11-13T17:36:43.788084+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "Guilty",
+        "detected_at_utc": "2026-11-13T17:36:43.699087+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Wild Ones (feat. Sia)",
