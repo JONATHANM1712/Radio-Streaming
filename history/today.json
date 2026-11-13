@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:49:15.682737+00:00",
+  "updated_at_utc": "2026-11-13T04:50:18.042951+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-13T04:49:19.227849+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
@@ -342,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Bad",
+        "detected_at_utc": "2026-11-13T04:49:16.169089+00:00"
+      },
       {
         "artist": "Cool Colours",
         "title": "Tataplah",
