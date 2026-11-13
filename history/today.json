@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:43:36.803073+00:00",
+  "updated_at_utc": "2026-11-13T05:44:47.613248+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vinayak",
+        "title": "Cartoon network",
+        "detected_at_utc": "2026-11-13T05:44:47.518993+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Hanya Memuji",
