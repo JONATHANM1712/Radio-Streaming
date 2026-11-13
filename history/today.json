@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:57:06.927496+00:00",
+  "updated_at_utc": "2026-11-13T03:58:58.485180+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-13T03:58:58.342091+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Teenage Love Affair",
