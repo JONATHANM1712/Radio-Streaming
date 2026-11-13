@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:42:25.544809+00:00",
+  "updated_at_utc": "2026-11-13T06:43:29.191462+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Everything Has Changed (feat. Ed Sheeran)",
+        "detected_at_utc": "2026-11-13T06:43:15.321247+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Bila Aku Jatuh Cinta",
