@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:26:00.227408+00:00",
+  "updated_at_utc": "2026-11-13T03:27:04.296964+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-13T03:26:04.290219+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Love In This Club (feat. Young Jeezy)",
