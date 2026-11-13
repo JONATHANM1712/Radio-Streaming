@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:38:49.421877+00:00",
+  "updated_at_utc": "2026-11-13T17:41:14.526599+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "CAKE",
+        "title": "I Will Survive",
+        "detected_at_utc": "2026-11-13T17:41:14.426493+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Kesempurnaan Cinta",
