@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:14:38.747304+00:00",
+  "updated_at_utc": "2026-11-13T13:16:43.253283+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GRUVI",
+        "title": "Masih Mencintaimu",
+        "detected_at_utc": "2026-11-13T13:16:43.104772+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
