@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:34:14.043589+00:00",
+  "updated_at_utc": "2026-11-13T06:35:17.968760+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hanson",
+        "title": "I Will Come To You",
+        "detected_at_utc": "2026-11-13T06:34:33.103931+00:00"
+      },
       {
         "artist": "Passenger",
         "title": "Let Her Go",
@@ -265,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eve",
+        "title": "Let Me Blow Ya Mind (feat. Gwen Stefani & Stevie J.)",
+        "detected_at_utc": "2026-11-13T06:34:38.188523+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
