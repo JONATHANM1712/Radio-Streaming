@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:56:30.868790+00:00",
+  "updated_at_utc": "2026-11-13T15:58:07.597338+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elton John",
+        "title": "Sorry Seems To Be The Hardest Word (Remastered)",
+        "detected_at_utc": "2026-11-13T15:58:07.489041+00:00"
+      },
       {
         "artist": "MYMP",
         "title": "Especially For You",
