@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:14:36.773280+00:00",
+  "updated_at_utc": "2026-11-13T07:15:46.413737+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Crying Over You ◐ (feat. BEKA)",
+        "detected_at_utc": "2026-11-13T07:15:46.236408+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Dive",
