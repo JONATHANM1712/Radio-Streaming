@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:39:33.785632+00:00",
+  "updated_at_utc": "2026-11-13T05:40:36.221935+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shanty",
+        "title": "Hanya Memuji",
+        "detected_at_utc": "2026-11-13T05:39:39.106504+00:00"
+      },
       {
         "artist": "BTS",
         "title": "Dynamite",
