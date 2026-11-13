@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:42:20.298777+00:00",
+  "updated_at_utc": "2026-11-13T12:43:23.091586+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-11-13T12:42:30.749982+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "That Should Be Me",
