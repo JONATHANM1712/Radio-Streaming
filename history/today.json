@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:19:52.125492+00:00",
+  "updated_at_utc": "2026-11-13T13:22:05.683974+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "title": "Get Lucky",
+        "detected_at_utc": "2026-11-13T13:22:05.379667+00:00"
+      },
       {
         "artist": "GRUVI",
         "title": "Masih Mencintaimu",
