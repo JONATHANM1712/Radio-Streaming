@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-12T17:35:15.961043+00:00",
+  "updated_at_utc": "2026-11-13T03:12:41.931269+00:00",
   "stations": {
     "kis": [
       {
@@ -56,6 +56,11 @@
     ],
     "jak": [
       {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-13T03:12:41.711804+00:00"
+      },
+      {
         "artist": "American Authors",
         "title": "Best Day of My Life",
         "detected_at_utc": "2026-11-12T17:34:17.817065+00:00"
@@ -107,6 +112,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Janet Jackson",
+        "title": "What Have You Done For Me Lately",
+        "detected_at_utc": "2026-11-13T03:12:41.637874+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Moon Over Bourbon Street",
