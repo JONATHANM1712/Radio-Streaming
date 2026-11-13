@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:07:40.242124+00:00",
+  "updated_at_utc": "2026-11-13T05:08:49.160671+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Selfish",
+        "detected_at_utc": "2026-11-13T05:08:49.060440+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "The One That Got Away",
