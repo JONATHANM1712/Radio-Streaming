@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:15:16.597222+00:00",
+  "updated_at_utc": "2026-11-13T16:17:23.711235+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Efek Rumah Kaca",
+        "title": "Desember",
+        "detected_at_utc": "2026-11-13T16:17:23.627455+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "You Must Love Me",
