@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:46:40.563802+00:00",
+  "updated_at_utc": "2026-11-13T03:47:43.964356+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peter Cetera",
+        "title": "(I Wanna Take) Forever Tonight",
+        "detected_at_utc": "2026-11-13T03:47:37.999931+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Engga Ngerti",
@@ -90,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-13T03:47:40.754012+00:00"
+      },
       {
         "artist": "Ciara",
         "title": "1, 2 Step (feat. Missy Elliott)",
