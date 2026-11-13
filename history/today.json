@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:04:12.166596+00:00",
+  "updated_at_utc": "2026-11-13T06:05:20.738515+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Omi",
+        "title": "Hula Hoop",
+        "detected_at_utc": "2026-11-13T06:05:20.620903+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Seven Days in Sunny June",
