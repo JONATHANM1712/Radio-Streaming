@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:48:34.403779+00:00",
+  "updated_at_utc": "2026-11-13T17:49:37.075983+00:00",
   "stations": {
     "kis": [
       {
@@ -71,6 +71,11 @@
     ],
     "jak": [
       {
+        "artist": "Rafi Sudirman & MALIQ & D'Essentials",
+        "title": "Heaven",
+        "detected_at_utc": "2026-11-13T17:49:07.790847+00:00"
+      },
+      {
         "artist": "Pharrell Williams",
         "title": "Happy (From \"Despicable Me 2\")",
         "detected_at_utc": "2026-11-13T17:44:59.665964+00:00"
@@ -137,6 +142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "In the Closet",
+        "detected_at_utc": "2026-11-13T17:49:25.718787+00:00"
+      },
       {
         "artist": "Kate Bush",
         "title": "Hounds of Love",
