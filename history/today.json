@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:37:01.642474+00:00",
+  "updated_at_utc": "2026-11-13T04:40:06.362614+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Cheating on You",
+        "detected_at_utc": "2026-11-13T04:40:06.253431+00:00"
+      },
       {
         "artist": "Jennifer Love Hewitt",
         "title": "BareNaked (Video Version)",
