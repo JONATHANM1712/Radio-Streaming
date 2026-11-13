@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:40:29.449183+00:00",
+  "updated_at_utc": "2026-11-13T03:41:34.569464+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Engga Ngerti",
+        "detected_at_utc": "2026-11-13T03:41:27.628172+00:00"
+      },
       {
         "artist": "Barbra Streisand",
         "title": "I Finally Found Someone",
