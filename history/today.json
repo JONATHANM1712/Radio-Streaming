@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:11:22.100545+00:00",
+  "updated_at_utc": "2026-11-13T04:12:25.428512+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-11-13T04:12:23.016528+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
