@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:37:46.476682+00:00",
+  "updated_at_utc": "2026-11-13T17:38:49.421877+00:00",
   "stations": {
     "kis": [
       {
@@ -112,6 +112,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "The Wild Ones",
+        "detected_at_utc": "2026-11-13T17:38:07.339797+00:00"
+      },
       {
         "artist": "Chic",
         "title": "Le Freak (Live)",
