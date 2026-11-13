@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:18:55.474563+00:00",
+  "updated_at_utc": "2026-11-13T07:19:59.939058+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-13T07:19:02.628229+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Crying Over You ◐ (feat. BEKA)",
