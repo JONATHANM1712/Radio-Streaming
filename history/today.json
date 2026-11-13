@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T11:35:22.671463+00:00",
+  "updated_at_utc": "2026-11-13T11:36:30.382376+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Loyal (feat. Lil Wayne & Tyga)",
+        "detected_at_utc": "2026-11-13T11:36:30.224071+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Get the Party Started",
