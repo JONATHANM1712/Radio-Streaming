@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:56:44.520369+00:00",
+  "updated_at_utc": "2026-11-13T17:57:47.268323+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-13T17:57:21.259394+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Say (All I Need)",
