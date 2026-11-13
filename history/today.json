@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:43:29.191462+00:00",
+  "updated_at_utc": "2026-11-13T06:45:33.906460+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-13T06:45:33.732397+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Obsessed",
