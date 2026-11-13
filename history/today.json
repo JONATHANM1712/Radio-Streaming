@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:19:33.343293+00:00",
+  "updated_at_utc": "2026-11-13T17:20:35.958153+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "Shoulda, Woulda, Coulda",
+        "detected_at_utc": "2026-11-13T17:19:35.928710+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Keabadian (Remastered 2026)",
@@ -30,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-11-13T17:20:15.748548+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
