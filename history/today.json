@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:41:01.372884+00:00",
+  "updated_at_utc": "2026-11-13T16:43:03.838419+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-11-13T16:43:03.751976+00:00"
+      },
       {
         "artist": "88rising & NIKI",
         "title": "Indigo",
