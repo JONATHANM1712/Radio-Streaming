@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:47:29.209906+00:00",
+  "updated_at_utc": "2026-11-13T17:48:34.403779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-13T17:48:30.727670+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Lovefool",
