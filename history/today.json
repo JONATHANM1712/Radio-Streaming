@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:42:34.301652+00:00",
+  "updated_at_utc": "2026-11-13T05:43:36.803073+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "Ku Ingin",
+        "detected_at_utc": "2026-11-13T05:42:37.529820+00:00"
+      },
       {
         "artist": "LeAnn Rimes",
         "title": "I Need You",
