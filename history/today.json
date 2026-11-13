@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:12:41.931269+00:00",
+  "updated_at_utc": "2026-11-13T03:13:46.484937+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Judika",
+        "title": "Sampai Kau Jadi Milikku",
+        "detected_at_utc": "2026-11-13T03:13:43.017648+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
@@ -112,6 +117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daryl Hall & John Oates",
+        "title": "Maneater",
+        "detected_at_utc": "2026-11-13T03:13:42.864451+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "What Have You Done For Me Lately",
