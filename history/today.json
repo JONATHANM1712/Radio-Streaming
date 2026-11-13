@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:46:02.137510+00:00",
+  "updated_at_utc": "2026-11-13T15:49:03.270720+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-13T15:49:03.176066+00:00"
+      },
       {
         "artist": "Creed",
         "title": "My Sacrifice",
