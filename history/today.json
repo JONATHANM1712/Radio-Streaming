@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:07:14.981677+00:00",
+  "updated_at_utc": "2026-11-13T12:08:54.103512+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-11-13T12:08:53.950974+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
