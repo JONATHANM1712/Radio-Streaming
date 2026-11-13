@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:33:03.505882+00:00",
+  "updated_at_utc": "2026-11-13T12:36:17.610446+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "That Should Be Me",
+        "detected_at_utc": "2026-11-13T12:36:17.521808+00:00"
+      },
       {
         "artist": "Chloe x Halle",
         "title": "Do It",
