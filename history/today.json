@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:25:49.570210+00:00",
+  "updated_at_utc": "2026-11-13T06:28:10.130766+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Never Gonna Leave This Bed",
+        "detected_at_utc": "2026-11-13T06:28:09.977469+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Shout Out to My Ex",
