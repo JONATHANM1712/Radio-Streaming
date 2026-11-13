@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:43:08.243624+00:00",
+  "updated_at_utc": "2026-11-13T04:46:14.448218+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "STROKEMANENT",
+        "title": "My City",
+        "detected_at_utc": "2026-11-13T04:46:14.364604+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Cheating on You",
