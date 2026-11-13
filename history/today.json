@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T11:49:08.324695+00:00",
+  "updated_at_utc": "2026-11-13T11:53:23.718204+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris & Dua Lipa",
+        "title": "One Kiss",
+        "detected_at_utc": "2026-11-13T11:53:23.571244+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Dewi",
