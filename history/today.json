@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:30:04.158840+00:00",
+  "updated_at_utc": "2026-11-13T16:32:45.380005+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-13T16:32:45.283575+00:00"
+      },
       {
         "artist": "Shakira & Beyoncé",
         "title": "Beautiful Liar",
