@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:37:43.436545+00:00",
+  "updated_at_utc": "2026-11-13T13:38:46.578851+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jaz",
+        "title": "Teman Bahagia",
+        "detected_at_utc": "2026-11-13T13:37:51.761795+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Toxic",
