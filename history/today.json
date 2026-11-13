@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:19:06.204660+00:00",
+  "updated_at_utc": "2026-11-13T05:20:08.676188+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ten2Five",
+        "title": "Hanya Untuk mu",
+        "detected_at_utc": "2026-11-13T05:19:57.280494+00:00"
+      },
       {
         "artist": "Surface",
         "title": "Shower Me With Your Love",
