@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:27:20.011514+00:00",
+  "updated_at_utc": "2026-11-13T12:28:53.364613+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-13T12:28:53.262930+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
