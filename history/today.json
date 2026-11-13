@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:11:27.099845+00:00",
+  "updated_at_utc": "2026-11-13T06:12:29.980215+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Aku Jatuh Cinta",
+        "detected_at_utc": "2026-11-13T06:11:34.728356+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
