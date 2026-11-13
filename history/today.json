@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:41:14.526599+00:00",
+  "updated_at_utc": "2026-11-13T17:42:16.992910+00:00",
   "stations": {
     "kis": [
       {
@@ -61,6 +61,11 @@
     ],
     "jak": [
       {
+        "artist": "Ardhito Pramono",
+        "title": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
+        "detected_at_utc": "2026-11-13T17:41:53.243012+00:00"
+      },
+      {
         "artist": "Blue",
         "title": "Guilty",
         "detected_at_utc": "2026-11-13T17:36:43.699087+00:00"
@@ -117,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mark Morrison",
+        "title": "Return Of The Mack",
+        "detected_at_utc": "2026-11-13T17:42:13.924206+00:00"
+      },
       {
         "artist": "Suede",
         "title": "The Wild Ones",
