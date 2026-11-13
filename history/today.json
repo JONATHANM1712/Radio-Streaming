@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:12:29.980215+00:00",
+  "updated_at_utc": "2026-11-13T06:13:33.425723+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Club 80's",
+        "title": "Dari Hati",
+        "detected_at_utc": "2026-11-13T06:13:28.575651+00:00"
+      },
       {
         "artist": "Monica",
         "title": "For You I Will",
