@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:12:19.403730+00:00",
+  "updated_at_utc": "2026-11-13T13:13:31.442507+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-13T13:13:31.313334+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "She Looks So Perfect",
