@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T07:19:59.939058+00:00",
+  "updated_at_utc": "2026-11-13T07:22:15.036186+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Don't You Worry Child (feat. John Martin)",
+        "detected_at_utc": "2026-11-13T07:22:14.854219+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
