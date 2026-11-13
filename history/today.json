@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:06:48.923330+00:00",
+  "updated_at_utc": "2026-11-13T13:10:05.094957+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Goo Goo Dolls",
+        "title": "Iris",
+        "detected_at_utc": "2026-11-13T13:10:05.031109+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "The Sweetest Love",
@@ -420,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "She Looks So Perfect",
+        "detected_at_utc": "2026-11-13T13:10:04.991535+00:00"
+      },
       {
         "artist": "The All-American Rejects",
         "title": "Gives You Hell",
@@ -897,6 +907,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Four Tops",
+        "title": "It's All In the Game",
+        "detected_at_utc": "2026-11-13T13:10:04.983921+00:00"
+      },
       {
         "artist": "Tears for Fears",
         "title": "Break It Down Again",
