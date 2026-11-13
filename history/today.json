@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:22:26.316024+00:00",
+  "updated_at_utc": "2026-11-13T16:25:50.051088+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kings of Convenience",
+        "title": "Misread",
+        "detected_at_utc": "2026-11-13T16:25:49.963028+00:00"
+      },
       {
         "artist": "Kathy Troccoli",
         "title": "Tell Me Where It Hurts",
