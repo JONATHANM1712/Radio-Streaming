@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:12:59.781889+00:00",
+  "updated_at_utc": "2026-11-13T15:14:09.529969+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady A",
+        "title": "Need You Now",
+        "detected_at_utc": "2026-11-13T15:14:04.449184+00:00"
+      },
       {
         "artist": "911",
         "title": "The Day We Find Love",
@@ -555,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sun Rai",
+        "title": "San Francisco Street",
+        "detected_at_utc": "2026-11-13T15:13:05.096525+00:00"
+      },
       {
         "artist": "Rizky Febian & Adrian Khalif",
         "title": "Alamak",
