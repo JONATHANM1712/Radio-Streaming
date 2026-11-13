@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:14:28.059685+00:00",
+  "updated_at_utc": "2026-11-13T17:15:30.683426+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Keabadian (Remastered 2026)",
+        "detected_at_utc": "2026-11-13T17:15:27.932054+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Waiting On the World to Change",
