@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T18:00:51.433473+00:00",
+  "updated_at_utc": "2026-11-13T18:02:29.682770+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "detected_at_utc": "2026-11-13T18:02:29.599290+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
