@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T04:40:06.362614+00:00",
+  "updated_at_utc": "2026-11-13T04:41:08.953523+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Karena Ku Sanggup",
+        "detected_at_utc": "2026-11-13T04:41:03.932957+00:00"
+      },
       {
         "artist": "Bobby Caldwell",
         "title": "Back to You",
