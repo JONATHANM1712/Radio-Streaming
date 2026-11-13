@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:53:55.385141+00:00",
+  "updated_at_utc": "2026-11-13T03:54:59.407662+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Teenage Love Affair",
+        "detected_at_utc": "2026-11-13T03:54:51.841071+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "I'm a Slave 4 U",
