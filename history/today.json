@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:16:43.194313+00:00",
+  "updated_at_utc": "2026-11-13T14:17:46.581430+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "7 Days",
+        "detected_at_utc": "2026-11-13T14:16:47.448835+00:00"
+      },
       {
         "artist": "Kehlani",
         "title": "Folded",
