@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:18:26.498294+00:00",
+  "updated_at_utc": "2026-11-13T12:22:39.730744+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-13T12:22:39.628219+00:00"
+      },
       {
         "artist": "Jonas Blue & JP Cooper",
         "title": "Perfect Strangers",
