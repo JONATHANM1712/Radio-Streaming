@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:38:42.348008+00:00",
+  "updated_at_utc": "2026-11-13T06:39:47.011622+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nidji",
+        "title": "Bila Aku Jatuh Cinta",
+        "detected_at_utc": "2026-11-13T06:38:58.432002+00:00"
+      },
       {
         "artist": "Renee Olstead",
         "title": "A Love That Will Last",
