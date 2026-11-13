@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:18:53.051765+00:00",
+  "updated_at_utc": "2026-11-13T03:19:56.595239+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "detected_at_utc": "2026-11-13T03:19:54.228530+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
