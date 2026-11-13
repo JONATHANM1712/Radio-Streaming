@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:43:20.118975+00:00",
+  "updated_at_utc": "2026-11-13T17:44:59.760081+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-11-13T17:44:59.665964+00:00"
+      },
       {
         "artist": "Ardhito Pramono",
         "title": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
