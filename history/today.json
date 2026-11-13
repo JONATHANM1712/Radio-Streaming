@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T03:14:49.762205+00:00",
+  "updated_at_utc": "2026-11-13T03:16:44.576062+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ratu",
+        "title": "Salahkah Aku Terlalu Mencintaimu",
+        "detected_at_utc": "2026-11-13T03:16:44.414423+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Say",
