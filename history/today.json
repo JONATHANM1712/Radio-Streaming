@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:52:05.430335+00:00",
+  "updated_at_utc": "2026-11-13T14:53:13.705796+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Love Song",
+        "detected_at_utc": "2026-11-13T14:53:13.613758+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
