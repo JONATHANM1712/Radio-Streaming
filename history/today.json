@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:12:22.700846+00:00",
+  "updated_at_utc": "2026-11-13T17:13:25.531472+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. I",
+        "detected_at_utc": "2026-11-13T17:13:01.607665+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Light Switch",
