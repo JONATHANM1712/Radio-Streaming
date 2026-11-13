@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T15:54:00.108049+00:00",
+  "updated_at_utc": "2026-11-13T15:55:02.736426+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Aku Bertahan",
+        "detected_at_utc": "2026-11-13T15:54:24.932893+00:00"
+      },
       {
         "artist": "Jessie J",
         "title": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
