@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:21:23.068884+00:00",
+  "updated_at_utc": "2026-11-13T16:22:26.316024+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kathy Troccoli",
+        "title": "Tell Me Where It Hurts",
+        "detected_at_utc": "2026-11-13T16:21:39.037786+00:00"
+      },
       {
         "artist": "Efek Rumah Kaca",
         "title": "Desember",
@@ -1337,6 +1342,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Livin' On The Edge",
+        "detected_at_utc": "2026-11-13T16:21:44.706927+00:00"
+      },
       {
         "artist": "Kansas",
         "title": "Dust In the Wind",
