@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T13:13:31.442507+00:00",
+  "updated_at_utc": "2026-11-13T13:14:38.747304+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Billie Myers",
+        "title": "Kiss the Rain",
+        "detected_at_utc": "2026-11-13T13:14:32.440192+00:00"
+      },
       {
         "artist": "The Goo Goo Dolls",
         "title": "Iris",
@@ -912,6 +917,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Thompson Twins",
+        "title": "Hold Me Now",
+        "detected_at_utc": "2026-11-13T13:14:33.363082+00:00"
+      },
       {
         "artist": "Four Tops",
         "title": "It's All In the Game",
