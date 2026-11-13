@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:53:07.080748+00:00",
+  "updated_at_utc": "2026-11-13T12:54:11.113348+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ricky Martin",
+        "title": "She's All I Ever Had",
+        "detected_at_utc": "2026-11-13T12:54:11.029007+00:00"
+      },
       {
         "artist": "USHER",
         "title": "U Got It Bad",
