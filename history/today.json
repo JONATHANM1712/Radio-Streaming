@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T11:57:47.367673+00:00",
+  "updated_at_utc": "2026-11-13T11:58:51.785772+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-13T11:57:48.465643+00:00"
+      },
       {
         "artist": "Neida",
         "title": "Tenang Saja (feat. Laleilmanino)",
