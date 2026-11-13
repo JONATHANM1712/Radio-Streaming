@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T12:25:40.348906+00:00",
+  "updated_at_utc": "2026-11-13T12:27:20.011514+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fan Club",
+        "title": "I Never Gave Up On You",
+        "detected_at_utc": "2026-11-13T12:27:19.810901+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "2 Become 1",
