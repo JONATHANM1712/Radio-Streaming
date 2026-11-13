@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T16:07:59.057434+00:00",
+  "updated_at_utc": "2026-11-13T16:09:01.775072+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Luther Vandross",
+        "title": "The Closer I Get to You (feat. Beyoncé)",
+        "detected_at_utc": "2026-11-13T16:08:02.965290+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Everglow",
