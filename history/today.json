@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T14:11:30.784789+00:00",
+  "updated_at_utc": "2026-11-13T14:12:38.455744+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kehlani",
+        "title": "Folded",
+        "detected_at_utc": "2026-11-13T14:12:33.430645+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Menghapus Jejakmu",
