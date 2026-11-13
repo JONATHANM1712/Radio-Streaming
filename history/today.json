@@ -1,8 +1,13 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T06:58:19.545893+00:00",
+  "updated_at_utc": "2026-11-13T06:59:23.647769+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Raisa",
+        "title": "Terjebak Nostalgia",
+        "detected_at_utc": "2026-11-13T06:59:23.438029+00:00"
+      },
       {
         "artist": "Peabo Bryson",
         "title": "Why Goodbye",
