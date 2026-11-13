@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:16:33.425066+00:00",
+  "updated_at_utc": "2026-11-13T17:17:35.953930+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-13T17:17:10.645154+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
