@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:17:02.861539+00:00",
+  "updated_at_utc": "2026-11-13T05:19:06.204660+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ALEXA",
+        "title": "Dewi",
+        "detected_at_utc": "2026-11-13T05:19:06.110212+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
