@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at_utc": "2026-11-13T05:58:12.918846+00:00",
+  "updated_at_utc": "2026-11-13T05:59:15.408916+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Seven Days in Sunny June",
+        "detected_at_utc": "2026-11-13T05:59:11.408225+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
