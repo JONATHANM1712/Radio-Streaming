@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T17:07:12.104012+00:00",
+  "updated_at_utc": "2026-11-13T17:09:55.644562+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Light Switch",
+        "detected_at_utc": "2026-11-13T17:09:55.557764+00:00"
+      },
       {
         "artist": "Cardi B, Bad Bunny & J Balvin",
         "title": "I Like It",
