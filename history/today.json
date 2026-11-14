@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T04:56:17.097085+00:00",
+  "updated_at_utc": "2026-11-14T04:58:16.971817+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Evanescence",
+        "title": "Bring Me To Life",
+        "detected_at_utc": "2026-11-14T04:58:16.719270+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Best Song Ever",
