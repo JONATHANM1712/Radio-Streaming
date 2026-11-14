@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:10:00.917889+00:00",
+  "updated_at_utc": "2026-11-14T11:11:38.232912+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lalahuta",
+        "title": "Tunggu Apa Lagi",
+        "detected_at_utc": "2026-11-14T11:11:38.152791+00:00"
+      },
       {
         "artist": "Sam Fischer",
         "title": "This City",
