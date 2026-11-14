@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:26:37.057362+00:00",
+  "updated_at_utc": "2026-11-14T14:28:10.244974+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "S&M",
+        "detected_at_utc": "2026-11-14T14:28:10.070433+00:00"
+      },
       {
         "artist": "Morrissey",
         "title": "The More You Ignore Me, The Closer I Get (Remastered)",
