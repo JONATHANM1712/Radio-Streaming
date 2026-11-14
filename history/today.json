@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:37:01.741661+00:00",
+  "updated_at_utc": "2026-11-14T15:38:04.658277+00:00",
   "stations": {
     "kis": [
       {
@@ -745,6 +745,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hailee Steinfeld",
+        "title": "Rock Bottom (feat. DNCE)",
+        "detected_at_utc": "2026-11-14T15:38:01.031948+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "All The Right Moves",
