@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:01:17.344535+00:00",
+  "updated_at_utc": "2026-11-14T12:04:21.027531+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "The Heart Wants What It Wants",
+        "detected_at_utc": "2026-11-14T12:04:20.946063+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Lost in Japan",
