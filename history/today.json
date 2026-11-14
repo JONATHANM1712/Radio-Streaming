@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:40:32.636002+00:00",
+  "updated_at_utc": "2026-11-14T16:41:35.113801+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-11-14T16:40:46.458897+00:00"
+      },
       {
         "artist": "Sania",
         "title": "Cintai Aku Lagi",
@@ -825,6 +830,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Terbuang Dalam Waktu",
+        "detected_at_utc": "2026-11-14T16:41:33.787623+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
@@ -1697,6 +1707,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bush",
+        "title": "Glycerine",
+        "detected_at_utc": "2026-11-14T16:41:04.204898+00:00"
+      },
       {
         "artist": "Led Zeppelin",
         "title": "When the Levee Breaks",
