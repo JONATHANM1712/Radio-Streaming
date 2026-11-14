@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T07:29:39.872626+00:00",
+  "updated_at_utc": "2026-11-14T07:30:43.300788+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Selamat Pagi (Live)",
+        "detected_at_utc": "2026-11-14T07:30:15.776576+00:00"
+      },
       {
         "artist": "Kenny G",
         "title": "One More Time (feat. Chante Moore & Chante Moore)",
