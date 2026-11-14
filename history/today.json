@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:17:59.848185+00:00",
+  "updated_at_utc": "2026-11-14T15:19:33.062120+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-11-14T15:19:32.977118+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Hello",
