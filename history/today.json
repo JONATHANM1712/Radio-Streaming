@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:12:09.960482+00:00",
+  "updated_at_utc": "2026-11-14T10:13:12.549295+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Djo",
+        "title": "End of Beginning",
+        "detected_at_utc": "2026-11-14T10:13:11.331986+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Wide Awake",
