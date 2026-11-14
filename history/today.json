@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:45:41.266259+00:00",
+  "updated_at_utc": "2026-11-14T15:46:43.736451+00:00",
   "stations": {
     "kis": [
       {
@@ -755,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-11-14T15:46:11.916946+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
