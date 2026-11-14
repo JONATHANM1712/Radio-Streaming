@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:22:22.710998+00:00",
+  "updated_at_utc": "2026-11-14T06:23:32.699785+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charice",
+        "title": "Pyramid (feat. Iyaz)",
+        "detected_at_utc": "2026-11-14T06:23:32.541123+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Talking Body",
