@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T07:22:30.823876+00:00",
+  "updated_at_utc": "2026-11-14T07:24:18.987088+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "If I Lose Myself",
+        "detected_at_utc": "2026-11-14T07:24:18.802117+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "Hotel Room Service",
