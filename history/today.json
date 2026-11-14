@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:02:11.858419+00:00",
+  "updated_at_utc": "2026-11-14T11:04:21.880730+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-11-14T11:04:21.773774+00:00"
+      },
       {
         "artist": "Silentó",
         "title": "Watch Me (Whip / Nae Nae)",
