@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:18:03.692379+00:00",
+  "updated_at_utc": "2026-11-14T06:19:11.268037+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Talking Body",
+        "detected_at_utc": "2026-11-14T06:19:11.030068+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Lucky",
