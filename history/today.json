@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:06:28.198938+00:00",
+  "updated_at_utc": "2026-11-14T12:08:32.124218+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-14T12:08:32.027318+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "The Heart Wants What It Wants",
