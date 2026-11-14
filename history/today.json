@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:56:26.534041+00:00",
+  "updated_at_utc": "2026-11-14T14:57:29.143565+00:00",
   "stations": {
     "kis": [
       {
@@ -695,6 +695,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-11-14T14:56:58.503847+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
@@ -1427,6 +1432,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Jimi Hendrix Experience",
+        "title": "Voodoo Child (Slight Return)",
+        "detected_at_utc": "2026-11-14T14:57:28.852816+00:00"
+      },
       {
         "artist": "Rockin' For Decades",
         "title": "Even Harder Now",
