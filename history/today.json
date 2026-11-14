@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:36:57.664558+00:00",
+  "updated_at_utc": "2026-11-14T05:38:00.109887+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "GIVĒON",
+        "title": "HEARTBREAK ANNIVERSARY",
+        "detected_at_utc": "2026-11-14T05:36:59.194256+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Titanium (feat. Sia)",
@@ -372,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fugazi",
+        "title": "Break",
+        "detected_at_utc": "2026-11-14T05:37:59.626914+00:00"
+      },
       {
         "artist": "Blind Melon",
         "title": "Toes Across the Floor",
