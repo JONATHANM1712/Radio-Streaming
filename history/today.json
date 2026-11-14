@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:52:00.748833+00:00",
+  "updated_at_utc": "2026-11-14T12:53:03.860887+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Photograph",
+        "detected_at_utc": "2026-11-14T12:52:27.813725+00:00"
+      },
       {
         "artist": "Corinne Bailey Rae",
         "title": "Put Your Records On",
@@ -1182,6 +1187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Too Young to Fall In Love",
+        "detected_at_utc": "2026-11-14T12:52:34.083118+00:00"
+      },
       {
         "artist": "David Bowie",
         "title": "Heroes",
