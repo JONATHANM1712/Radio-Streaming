@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:09:39.526364+00:00",
+  "updated_at_utc": "2026-11-14T05:11:39.265221+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "ADA Band",
+        "title": "Masih (Sahabatku Kekasihku)",
+        "detected_at_utc": "2026-11-14T05:11:39.126228+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "Tattoo (Main Version)",
