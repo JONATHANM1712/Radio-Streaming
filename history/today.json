@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:56:59.451587+00:00",
+  "updated_at_utc": "2026-11-14T11:58:02.025346+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Landon Pigg",
+        "title": "Falling In Love At a Coffee Shop",
+        "detected_at_utc": "2026-11-14T11:56:59.761275+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
