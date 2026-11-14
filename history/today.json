@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:31:53.385228+00:00",
+  "updated_at_utc": "2026-11-14T11:33:31.487488+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "detected_at_utc": "2026-11-14T11:33:31.391085+00:00"
+      },
       {
         "artist": "Anabell Da Diva",
         "title": "Always Be My Baby",
