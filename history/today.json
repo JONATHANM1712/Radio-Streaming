@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:54:23.748010+00:00",
+  "updated_at_utc": "2026-11-14T15:55:26.886973+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Secret Garden",
+        "detected_at_utc": "2026-11-14T15:54:26.352654+00:00"
+      },
       {
         "artist": "The All-American Rejects",
         "title": "Gives You Hell",
