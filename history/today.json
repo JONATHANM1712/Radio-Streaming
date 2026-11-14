@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:57:27.596521+00:00",
+  "updated_at_utc": "2026-11-14T05:58:30.229741+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-14T05:57:29.845456+00:00"
+      },
       {
         "artist": "Joeniar Arief",
         "title": "Rapuh",
@@ -417,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sex Pistols",
+        "title": "Submission",
+        "detected_at_utc": "2026-11-14T05:58:28.848623+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Subway To Venus",
