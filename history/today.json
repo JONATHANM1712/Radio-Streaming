@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:05:40.720229+00:00",
+  "updated_at_utc": "2026-11-14T06:06:43.809891+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-14T06:05:42.186892+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Say You Won't Let Go",
