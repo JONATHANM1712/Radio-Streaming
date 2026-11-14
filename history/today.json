@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:35:27.338032+00:00",
+  "updated_at_utc": "2026-11-14T15:37:01.741661+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andien",
+        "title": "Gemilang",
+        "detected_at_utc": "2026-11-14T15:37:01.610205+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Where Is The Love?",
