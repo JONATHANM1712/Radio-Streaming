@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:03:43.811519+00:00",
+  "updated_at_utc": "2026-11-14T10:04:46.890974+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "detected_at_utc": "2026-11-14T10:04:46.616290+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Underneath It All (feat. Lady Saw)",
