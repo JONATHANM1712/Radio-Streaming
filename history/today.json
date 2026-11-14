@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:26:58.518810+00:00",
+  "updated_at_utc": "2026-11-14T17:28:01.645281+00:00",
   "stations": {
     "kis": [
       {
@@ -46,6 +46,11 @@
     ],
     "jak": [
       {
+        "artist": "Amy Winehouse",
+        "title": "Rehab",
+        "detected_at_utc": "2026-11-14T17:27:45.453093+00:00"
+      },
+      {
         "artist": "Chappell Roan",
         "title": "The Subway",
         "detected_at_utc": "2026-11-14T17:23:39.540725+00:00"
@@ -87,6 +92,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suzanne Vega",
+        "title": "Luka",
+        "detected_at_utc": "2026-11-14T17:27:16.965524+00:00"
+      },
       {
         "artist": "Tracy Chapman",
         "title": "Baby Can I Hold You",
