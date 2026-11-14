@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:27:54.481689+00:00",
+  "updated_at_utc": "2026-11-14T06:30:14.050864+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-11-14T06:30:13.911801+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
