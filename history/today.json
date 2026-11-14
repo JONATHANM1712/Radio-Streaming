@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:09:48.899251+00:00",
+  "updated_at_utc": "2026-11-14T06:11:50.749963+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-11-14T06:11:50.654555+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feel So Close (Radio Edit)",
