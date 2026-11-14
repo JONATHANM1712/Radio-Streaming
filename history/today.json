@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:27:32.577112+00:00",
+  "updated_at_utc": "2026-11-14T05:28:36.489615+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Muse",
+        "title": "Unintended",
+        "detected_at_utc": "2026-11-14T05:27:33.043191+00:00"
+      },
       {
         "artist": "Splender",
         "title": "I Think God Can Explain",
@@ -165,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-14T05:28:35.087464+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Solo (feat. Demi Lovato)",
