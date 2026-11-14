@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:31:50.752339+00:00",
+  "updated_at_utc": "2026-11-14T05:32:53.393219+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chrisye",
+        "title": "Cintaku",
+        "detected_at_utc": "2026-11-14T05:31:51.167199+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Unintended",
@@ -170,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Guetta",
+        "title": "Titanium (feat. Sia)",
+        "detected_at_utc": "2026-11-14T05:32:53.135790+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
