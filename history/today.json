@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:32:44.601537+00:00",
+  "updated_at_utc": "2026-11-14T12:33:47.106892+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gabrielle",
+        "title": "Out of Reach (Bridget Jones's Diary Soundtrack Version)",
+        "detected_at_utc": "2026-11-14T12:33:45.123705+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
