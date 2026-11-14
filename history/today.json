@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:40:46.279908+00:00",
+  "updated_at_utc": "2026-11-14T09:41:49.116161+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Let It Go (Single Version)",
+        "detected_at_utc": "2026-11-14T09:40:51.451854+00:00"
+      },
       {
         "artist": "Junior Senior",
         "title": "Move Your Feet",
