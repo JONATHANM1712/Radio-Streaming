@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:35:13.276336+00:00",
+  "updated_at_utc": "2026-11-14T06:36:17.063830+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Sebuah Kisah Klasik (Re-Mix)",
+        "detected_at_utc": "2026-11-14T06:36:16.014064+00:00"
+      },
       {
         "artist": "Monolink",
         "title": "Return to Oz",
@@ -245,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Joji",
+        "title": "Glimpse of Us",
+        "detected_at_utc": "2026-11-14T06:35:30.459799+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
@@ -512,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Siouxsie & The Banshees",
+        "title": "Hong Kong Garden",
+        "detected_at_utc": "2026-11-14T06:35:34.082478+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Anything Goes",
