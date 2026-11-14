@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T04:22:18.512065+00:00",
+  "updated_at_utc": "2026-11-14T04:23:22.086797+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Won't Go Home Without You",
+        "detected_at_utc": "2026-11-14T04:23:16.618742+00:00"
+      },
       {
         "artist": "Selena Gomez & Marshmello",
         "title": "Wolves",
