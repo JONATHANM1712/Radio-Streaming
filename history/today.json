@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:00:01.318695+00:00",
+  "updated_at_utc": "2026-11-14T16:02:35.432398+00:00",
   "stations": {
     "kis": [
       {
@@ -775,6 +775,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston & Justin Bieber",
+        "title": "Eenie Meenie",
+        "detected_at_utc": "2026-11-14T16:02:35.283711+00:00"
+      },
       {
         "artist": "DJ Snake",
         "title": "Middle (feat. Bipolar Sunshine)",
