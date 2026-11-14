@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:33:32.348537+00:00",
+  "updated_at_utc": "2026-11-14T17:35:59.776022+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Sing",
+        "detected_at_utc": "2026-11-14T17:35:59.678648+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Strangers",
