@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:28:45.402151+00:00",
+  "updated_at_utc": "2026-11-14T10:29:52.879383+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Gone, Gone, Gone",
+        "detected_at_utc": "2026-11-14T10:29:52.796844+00:00"
+      },
       {
         "artist": "Tahiti 80",
         "title": "Heartbeat",
