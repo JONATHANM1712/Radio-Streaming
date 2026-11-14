@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:06:43.809891+00:00",
+  "updated_at_utc": "2026-11-14T06:08:46.295635+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feel So Close (Radio Edit)",
+        "detected_at_utc": "2026-11-14T06:08:46.203622+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
