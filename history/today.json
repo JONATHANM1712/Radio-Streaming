@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:44:58.039460+00:00",
+  "updated_at_utc": "2026-11-14T09:46:00.984190+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Payphone (feat. Wiz Khalifa)",
+        "detected_at_utc": "2026-11-14T09:45:05.658497+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Let It Go (Single Version)",
