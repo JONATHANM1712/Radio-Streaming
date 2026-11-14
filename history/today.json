@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:52:51.170827+00:00",
+  "updated_at_utc": "2026-11-14T16:53:54.374804+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "Love In This Club, Pt. II (feat. Beyoncé & Lil Wayne)",
+        "detected_at_utc": "2026-11-14T16:53:03.257725+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Don't Go Away",
