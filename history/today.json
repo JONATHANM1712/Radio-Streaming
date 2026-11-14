@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:43:24.548954+00:00",
+  "updated_at_utc": "2026-11-14T17:44:27.274390+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NewJeans",
+        "title": "Hype Boy",
+        "detected_at_utc": "2026-11-14T17:44:10.942667+00:00"
+      },
       {
         "artist": "Kings of Leon",
         "title": "Use Somebody",
