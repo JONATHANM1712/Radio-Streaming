@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:23:43.910065+00:00",
+  "updated_at_utc": "2026-11-14T15:25:08.318503+00:00",
   "stations": {
     "kis": [
       {
@@ -1502,6 +1502,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "Bullet with Butterfly Wings",
+        "detected_at_utc": "2026-11-14T15:25:08.225328+00:00"
+      },
       {
         "artist": "Ugly Kid Joe",
         "title": "Cats in the Cradle",
