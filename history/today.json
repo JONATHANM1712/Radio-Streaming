@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:59:21.040576+00:00",
+  "updated_at_utc": "2026-11-14T18:00:23.587136+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement, The Cataracs & DEV",
+        "title": "Like a G6",
+        "detected_at_utc": "2026-11-14T17:59:47.183814+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
