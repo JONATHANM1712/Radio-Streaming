@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T07:16:53.924670+00:00",
+  "updated_at_utc": "2026-11-14T07:17:57.363533+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-14T07:17:05.849896+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Ride",
