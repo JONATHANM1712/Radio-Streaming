@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:24:02.029406+00:00",
+  "updated_at_utc": "2026-11-14T14:25:05.486089+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Walking Away",
+        "detected_at_utc": "2026-11-14T14:24:59.088062+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "Aperture",
