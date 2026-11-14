@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:51:50.540042+00:00",
+  "updated_at_utc": "2026-11-14T14:53:22.639932+00:00",
   "stations": {
     "kis": [
       {
@@ -1422,6 +1422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stryper",
+        "title": "In God We Trust",
+        "detected_at_utc": "2026-11-14T14:53:22.524549+00:00"
+      },
       {
         "artist": "Sublime",
         "title": "Wrong Way",
