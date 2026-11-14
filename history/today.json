@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:38:00.109887+00:00",
+  "updated_at_utc": "2026-11-14T05:40:02.959358+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hilary Duff",
+        "title": "So Yesterday",
+        "detected_at_utc": "2026-11-14T05:40:02.861639+00:00"
+      },
       {
         "artist": "GIVĒON",
         "title": "HEARTBREAK ANNIVERSARY",
