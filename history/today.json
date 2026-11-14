@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:11:22.836632+00:00",
+  "updated_at_utc": "2026-11-14T17:13:23.808292+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-11-14T17:13:23.686022+00:00"
+      },
       {
         "artist": "Ray J",
         "title": "One Wish",
