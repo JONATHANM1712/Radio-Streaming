@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:25:15.891628+00:00",
+  "updated_at_utc": "2026-11-14T16:26:18.338073+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gemini",
+        "title": "Even Though You Broke My Heart",
+        "detected_at_utc": "2026-11-14T16:26:16.214348+00:00"
+      },
       {
         "artist": "Close II You",
         "title": "Baby Don't Go (Voyage of Love Mix)",
@@ -1657,6 +1662,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blur",
+        "title": "Beetlebum",
+        "detected_at_utc": "2026-11-14T16:25:44.813622+00:00"
+      },
       {
         "artist": "Iron Maiden",
         "title": "The Number of the Beast (1998 Remaster)",
