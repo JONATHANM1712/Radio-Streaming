@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:08:35.702198+00:00",
+  "updated_at_utc": "2026-11-14T05:09:39.526364+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Pink Pony Club",
+        "detected_at_utc": "2026-11-14T05:08:36.045769+00:00"
+      },
       {
         "artist": "The Fray",
         "title": "You Found Me",
