@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:34:35.005151+00:00",
+  "updated_at_utc": "2026-11-14T11:36:01.495231+00:00",
   "stations": {
     "kis": [
       {
@@ -977,6 +977,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Metallica",
+        "title": "Wherever I May Roam",
+        "detected_at_utc": "2026-11-14T11:36:01.375460+00:00"
+      },
       {
         "artist": "The Breeders",
         "title": "Cannonball",
