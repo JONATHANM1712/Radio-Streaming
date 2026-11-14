@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:43:40.150280+00:00",
+  "updated_at_utc": "2026-11-14T14:44:42.842316+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Ariana Grande",
+        "title": "Rain On Me",
+        "detected_at_utc": "2026-11-14T14:44:35.825449+00:00"
+      },
       {
         "artist": "t.A.T.u.",
         "title": "All The Things She Said",
