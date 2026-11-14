@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:50:15.445131+00:00",
+  "updated_at_utc": "2026-11-14T09:51:18.364604+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-14T09:50:18.052828+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Payphone (feat. Wiz Khalifa)",
