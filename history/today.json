@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-13T18:06:00.900961+00:00",
+  "updated_at_utc": "2026-11-14T04:17:08.731948+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Time Is Running Out",
+        "detected_at_utc": "2026-11-14T04:16:02.066567+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Confessions, Pt. II",
@@ -182,6 +187,16 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "The Lamb Lies Down On Broadway",
+        "detected_at_utc": "2026-11-14T04:17:04.215554+00:00"
+      },
+      {
+        "artist": "Bush",
+        "title": "Swallowed",
+        "detected_at_utc": "2026-11-14T04:16:02.447378+00:00"
+      },
       {
         "artist": "The Verve",
         "title": "Lucky Man",
