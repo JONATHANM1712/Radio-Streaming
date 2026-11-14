@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:25:11.994193+00:00",
+  "updated_at_utc": "2026-11-14T11:26:17.308122+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-14T11:26:17.227339+00:00"
+      },
       {
         "artist": "Icona Pop",
         "title": "All Night",
