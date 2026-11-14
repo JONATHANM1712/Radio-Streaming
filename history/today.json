@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:23:14.188321+00:00",
+  "updated_at_utc": "2026-11-14T05:24:18.590404+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Splender",
+        "title": "I Think God Can Explain",
+        "detected_at_utc": "2026-11-14T05:24:15.564001+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Better When I'm Dancin'",
@@ -160,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Solo (feat. Demi Lovato)",
+        "detected_at_utc": "2026-11-14T05:24:15.408786+00:00"
+      },
       {
         "artist": "Train",
         "title": "Hey, Soul Sister",
