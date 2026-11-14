@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:00:25.169668+00:00",
+  "updated_at_utc": "2026-11-14T05:03:23.031404+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "That's the Way It Is",
+        "detected_at_utc": "2026-11-14T05:03:22.879912+00:00"
+      },
       {
         "artist": "Monica",
         "title": "Just Another Girl",
