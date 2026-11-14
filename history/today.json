@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:31:26.406377+00:00",
+  "updated_at_utc": "2026-11-14T17:32:29.360728+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Strangers",
+        "detected_at_utc": "2026-11-14T17:31:53.143278+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Rehab",
