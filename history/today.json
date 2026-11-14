@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:18:27.880414+00:00",
+  "updated_at_utc": "2026-11-14T10:20:28.463823+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Water Under the Bridge",
+        "detected_at_utc": "2026-11-14T10:20:28.382220+00:00"
+      },
       {
         "artist": "Budapest",
         "title": "Is This the Best It Gets?",
