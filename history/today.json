@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:00:06.418481+00:00",
+  "updated_at_utc": "2026-11-14T11:01:09.144919+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Silentó",
+        "title": "Watch Me (Whip / Nae Nae)",
+        "detected_at_utc": "2026-11-14T11:01:09.019159+00:00"
+      },
       {
         "artist": "OnlyOne017",
         "title": "Si Me Muero (feat. Little Rive)",
