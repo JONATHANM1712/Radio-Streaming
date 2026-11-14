@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:15:16.338416+00:00",
+  "updated_at_utc": "2026-11-14T10:16:19.182251+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Budapest",
+        "title": "Is This the Best It Gets?",
+        "detected_at_utc": "2026-11-14T10:16:16.754631+00:00"
+      },
       {
         "artist": "Djo",
         "title": "End of Beginning",
