@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:23:26.285796+00:00",
+  "updated_at_utc": "2026-11-14T12:24:29.036732+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure",
+        "title": "Omen (feat. Sam Smith)",
+        "detected_at_utc": "2026-11-14T12:24:24.587455+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Stop Crying Your Heart Out",
