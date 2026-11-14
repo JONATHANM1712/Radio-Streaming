@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:18:39.845549+00:00",
+  "updated_at_utc": "2026-11-14T13:19:49.702802+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mocca",
+        "title": "Once Upon a Time / Secret Admirer",
+        "detected_at_utc": "2026-11-14T13:19:49.572627+00:00"
+      },
       {
         "artist": "Raisa",
         "title": "Jatuh Hati",
