@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:56:46.121591+00:00",
+  "updated_at_utc": "2026-11-14T12:57:50.292976+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Brian McKnight",
+        "title": "My Kind of Girl (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-11-14T12:57:42.306053+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
