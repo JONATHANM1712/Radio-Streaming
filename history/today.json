@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:32:56.010071+00:00",
+  "updated_at_utc": "2026-11-14T15:33:58.414387+00:00",
   "stations": {
     "kis": [
       {
@@ -740,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "All The Right Moves",
+        "detected_at_utc": "2026-11-14T15:33:54.781838+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
