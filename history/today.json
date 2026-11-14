@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:23:38.484936+00:00",
+  "updated_at_utc": "2026-11-14T10:24:41.044672+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lenka",
+        "title": "The Show",
+        "detected_at_utc": "2026-11-14T10:24:36.464163+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Water Under the Bridge",
