@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:47:12.465860+00:00",
+  "updated_at_utc": "2026-11-14T13:50:52.054487+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Third Eye Blind",
+        "title": "Semi-Charmed Life",
+        "detected_at_utc": "2026-11-14T13:50:51.927016+00:00"
+      },
       {
         "artist": "A1",
         "title": "Caught In the Middle",
