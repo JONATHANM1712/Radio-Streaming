@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:00:12.807318+00:00",
+  "updated_at_utc": "2026-11-14T12:01:17.344535+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "detected_at_utc": "2026-11-14T12:01:09.499038+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Karena Kamu Cuma Satu",
@@ -495,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "Lost in Japan",
+        "detected_at_utc": "2026-11-14T12:01:12.559566+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
