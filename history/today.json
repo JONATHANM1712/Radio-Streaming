@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:15:30.189676+00:00",
+  "updated_at_utc": "2026-11-14T17:17:30.746178+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-14T17:17:30.519072+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
