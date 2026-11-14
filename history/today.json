@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:04:46.890974+00:00",
+  "updated_at_utc": "2026-11-14T10:05:50.130147+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-14T10:05:50.044371+00:00"
+      },
       {
         "artist": "Bastille",
         "title": "Pompeii",
