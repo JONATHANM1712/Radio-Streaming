@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:45:09.988043+00:00",
+  "updated_at_utc": "2026-11-14T05:46:12.535762+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Martin Garrix & Bebe Rexha",
+        "title": "In the Name of Love",
+        "detected_at_utc": "2026-11-14T05:46:11.581723+00:00"
+      },
       {
         "artist": "Hilary Duff",
         "title": "So Yesterday",
