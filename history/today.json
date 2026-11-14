@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T04:29:29.906553+00:00",
+  "updated_at_utc": "2026-11-14T04:30:33.357021+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "Stars",
+        "detected_at_utc": "2026-11-14T04:30:23.861112+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Januari",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Manusia Bodoh",
+        "detected_at_utc": "2026-11-14T04:30:28.837802+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
