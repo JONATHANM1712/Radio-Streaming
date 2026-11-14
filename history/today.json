@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:09:49.819132+00:00",
+  "updated_at_utc": "2026-11-14T16:11:50.002589+00:00",
   "stations": {
     "kis": [
       {
@@ -785,6 +785,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sophie Ellis-Bextor",
+        "title": "Murder On The Dancefloor",
+        "detected_at_utc": "2026-11-14T16:11:49.801504+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
