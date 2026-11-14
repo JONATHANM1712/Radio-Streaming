@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:11:38.048128+00:00",
+  "updated_at_utc": "2026-11-14T14:14:42.390515+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Arjuna",
+        "detected_at_utc": "2026-11-14T14:14:42.236715+00:00"
+      },
       {
         "artist": "Roxette",
         "title": "You Don't Understand Me",
