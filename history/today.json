@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:37:41.560964+00:00",
+  "updated_at_utc": "2026-11-14T09:38:44.576431+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-11-14T09:37:43.307919+00:00"
+      },
       {
         "artist": "Lyodra & Andi Rianto",
         "title": "Sang Dewi",
