@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:54:31.455965+00:00",
+  "updated_at_utc": "2026-11-14T06:55:35.573496+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Rise & Fall (feat. Sting)",
+        "detected_at_utc": "2026-11-14T06:55:30.077699+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
