@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:15:11.208313+00:00",
+  "updated_at_utc": "2026-11-14T11:16:13.669862+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-14T11:15:46.762670+00:00"
+      },
       {
         "artist": "Lalahuta",
         "title": "Tunggu Apa Lagi",
