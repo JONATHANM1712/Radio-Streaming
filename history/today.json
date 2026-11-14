@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:50:17.891128+00:00",
+  "updated_at_utc": "2026-11-14T05:51:20.587810+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Joeniar Arief",
+        "title": "Rapuh",
+        "detected_at_utc": "2026-11-14T05:50:18.197869+00:00"
+      },
       {
         "artist": "Martin Garrix & Bebe Rexha",
         "title": "In the Name of Love",
