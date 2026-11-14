@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:47:58.321578+00:00",
+  "updated_at_utc": "2026-11-14T06:49:01.703725+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Vazquez",
+        "title": "Gallery",
+        "detected_at_utc": "2026-11-14T06:48:13.766164+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
