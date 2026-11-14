@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:50:05.250534+00:00",
+  "updated_at_utc": "2026-11-14T06:52:23.934934+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "Heavy (feat. Kiiara)",
+        "detected_at_utc": "2026-11-14T06:52:23.713704+00:00"
+      },
       {
         "artist": "Mario Vazquez",
         "title": "Gallery",
