@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T04:17:08.731948+00:00",
+  "updated_at_utc": "2026-11-14T04:20:10.898952+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & Marshmello",
+        "title": "Wolves",
+        "detected_at_utc": "2026-11-14T04:20:10.713495+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Time Is Running Out",
