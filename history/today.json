@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:26:02.004602+00:00",
+  "updated_at_utc": "2026-11-14T12:27:30.329134+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "The Lazy Song",
+        "detected_at_utc": "2026-11-14T12:27:30.246481+00:00"
+      },
       {
         "artist": "Disclosure",
         "title": "Omen (feat. Sam Smith)",
