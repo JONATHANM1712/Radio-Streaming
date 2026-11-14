@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:22:41.416109+00:00",
+  "updated_at_utc": "2026-11-14T15:23:43.910065+00:00",
   "stations": {
     "kis": [
       {
@@ -730,6 +730,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "work",
+        "detected_at_utc": "2026-11-14T15:23:39.354444+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
