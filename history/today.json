@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:26:48.848850+00:00",
+  "updated_at_utc": "2026-11-14T06:27:54.481689+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "detected_at_utc": "2026-11-14T06:27:40.840573+00:00"
+      },
       {
         "artist": "Brian McKnight & Mariah Carey",
         "title": "Whenever You Call",
@@ -230,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-14T06:26:54.439510+00:00"
+      },
       {
         "artist": "Charice",
         "title": "Pyramid (feat. Iyaz)",
