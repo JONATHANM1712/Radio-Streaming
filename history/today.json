@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:10:02.737287+00:00",
+  "updated_at_utc": "2026-11-14T10:12:09.960482+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Take a Bow",
+        "detected_at_utc": "2026-11-14T10:12:09.870222+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Breathless",
