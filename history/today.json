@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:14:48.455412+00:00",
+  "updated_at_utc": "2026-11-14T12:15:51.281184+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Jealous Type",
+        "detected_at_utc": "2026-11-14T12:15:48.500394+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "The Sweet Escape (feat. Akon)",
