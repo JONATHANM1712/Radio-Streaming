@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:10:37.855035+00:00",
+  "updated_at_utc": "2026-11-14T12:11:40.461956+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "The Sweet Escape (feat. Akon)",
+        "detected_at_utc": "2026-11-14T12:11:39.629388+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
