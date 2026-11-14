@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:50:52.054487+00:00",
+  "updated_at_utc": "2026-11-14T13:55:03.288493+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJ Sammy & Yanou",
+        "title": "Heaven (feat. Do) (Candlelight Mix)",
+        "detected_at_utc": "2026-11-14T13:55:03.155391+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "Semi-Charmed Life",
