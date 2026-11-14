@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:19:49.702802+00:00",
+  "updated_at_utc": "2026-11-14T13:21:32.198705+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "detected_at_utc": "2026-11-14T13:21:32.061839+00:00"
+      },
       {
         "artist": "Train",
         "title": "Marry Me",
