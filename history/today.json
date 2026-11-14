@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:41:38.492287+00:00",
+  "updated_at_utc": "2026-11-14T12:42:41.029861+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Sensual Seduction",
+        "detected_at_utc": "2026-11-14T12:42:05.287717+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Talk (feat. Disclosure)",
