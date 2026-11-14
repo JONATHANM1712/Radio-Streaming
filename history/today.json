@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:57:30.848193+00:00",
+  "updated_at_utc": "2026-11-14T09:58:33.465372+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Don't You Worry Child (feat. John Martin)",
+        "detected_at_utc": "2026-11-14T09:58:32.780370+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
