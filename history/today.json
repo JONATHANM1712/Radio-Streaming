@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:55:56.857991+00:00",
+  "updated_at_utc": "2026-11-14T11:56:59.451587+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Karena Kamu Cuma Satu",
+        "detected_at_utc": "2026-11-14T11:56:58.696731+00:00"
+      },
       {
         "artist": "Shaggy",
         "title": "It Wasn't Me (feat. Ricardo Ducent)",
@@ -1032,6 +1037,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cure",
+        "title": "The Hanging Garden",
+        "detected_at_utc": "2026-11-14T11:56:01.209947+00:00"
+      },
       {
         "artist": "Skid Row",
         "title": "Big Guns",
