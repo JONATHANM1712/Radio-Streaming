@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:52:50.429417+00:00",
+  "updated_at_utc": "2026-11-14T11:55:56.857991+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-14T11:55:56.769368+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "You and I Both",
