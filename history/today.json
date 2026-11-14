@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:51:47.810992+00:00",
+  "updated_at_utc": "2026-11-14T11:52:50.429417+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shaggy",
+        "title": "It Wasn't Me (feat. Ricardo Ducent)",
+        "detected_at_utc": "2026-11-14T11:52:47.063036+00:00"
+      },
       {
         "artist": "M2M",
         "title": "The Day You Went Away",
@@ -485,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "You and I Both",
+        "detected_at_utc": "2026-11-14T11:52:48.549697+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
