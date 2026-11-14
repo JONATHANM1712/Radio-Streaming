@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:33:47.106892+00:00",
+  "updated_at_utc": "2026-11-14T12:34:49.650852+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruth Sahanaya, Kris Dayanti, Titi Dj",
+        "title": "Semua Jadi Satu",
+        "detected_at_utc": "2026-11-14T12:34:21.068582+00:00"
+      },
       {
         "artist": "Nada Surf",
         "title": "Inside Of Love",
