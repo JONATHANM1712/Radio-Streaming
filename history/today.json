@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:29:52.879383+00:00",
+  "updated_at_utc": "2026-11-14T10:32:59.039999+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Weezer",
+        "title": "Island In the Sun",
+        "detected_at_utc": "2026-11-14T10:32:58.876504+00:00"
+      },
       {
         "artist": "Phillip Phillips",
         "title": "Gone, Gone, Gone",
