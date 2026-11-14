@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:38:57.299149+00:00",
+  "updated_at_utc": "2026-11-14T12:40:35.660937+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Barbra Streisand",
+        "title": "I Finally Found Someone",
+        "detected_at_utc": "2026-11-14T12:40:35.580386+00:00"
+      },
       {
         "artist": "Ruth Sahanaya, Kris Dayanti, Titi Dj",
         "title": "Semua Jadi Satu",
