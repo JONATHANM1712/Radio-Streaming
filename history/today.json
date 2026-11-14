@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:17:17.279600+00:00",
+  "updated_at_utc": "2026-11-14T14:19:46.343160+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "detected_at_utc": "2026-11-14T14:19:46.191482+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "London Bridge",
