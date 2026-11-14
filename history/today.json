@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:09:30.704756+00:00",
+  "updated_at_utc": "2026-11-14T13:10:44.959171+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Just Give Me a Reason (feat. Nate Ruess)",
+        "detected_at_utc": "2026-11-14T13:10:44.825771+00:00"
+      },
       {
         "artist": "The Lantis",
         "title": "Bunga Maaf",
