@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T13:24:15.618938+00:00",
+  "updated_at_utc": "2026-11-14T13:25:49.972044+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-14T13:25:49.847956+00:00"
+      },
       {
         "artist": "Alessia Cara",
         "title": "Scars to Your Beautiful",
