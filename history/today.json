@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:54:57.988394+00:00",
+  "updated_at_utc": "2026-11-14T16:56:57.338100+00:00",
   "stations": {
     "kis": [
       {
@@ -850,6 +850,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-14T16:56:57.211838+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Go On Girl",
