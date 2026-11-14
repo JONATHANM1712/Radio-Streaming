@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:29:52.482554+00:00",
+  "updated_at_utc": "2026-11-14T15:30:54.957016+00:00",
   "stations": {
     "kis": [
       {
@@ -735,6 +735,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-14T15:30:50.415146+00:00"
+      },
       {
         "artist": "Labrinth",
         "title": "Beneath Your Beautiful (feat. Emeli Sande)",
