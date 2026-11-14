@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:26:18.338073+00:00",
+  "updated_at_utc": "2026-11-14T16:29:16.946064+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "detected_at_utc": "2026-11-14T16:29:16.858710+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Hey Baby",
