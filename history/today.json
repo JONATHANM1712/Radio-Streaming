@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:54:19.932398+00:00",
+  "updated_at_utc": "2026-11-14T09:55:22.819524+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Sk8er Boi",
+        "detected_at_utc": "2026-11-14T09:54:25.850235+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
