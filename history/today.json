@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:24:13.379585+00:00",
+  "updated_at_utc": "2026-11-14T16:25:15.891628+00:00",
   "stations": {
     "kis": [
       {
@@ -805,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "No Doubt",
+        "title": "Hey Baby",
+        "detected_at_utc": "2026-11-14T16:25:11.385415+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Stay the Night (feat. Hayley Williams)",
