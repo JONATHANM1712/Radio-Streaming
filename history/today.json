@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:45:30.579148+00:00",
+  "updated_at_utc": "2026-11-14T17:46:33.167931+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Lips Are Movin",
+        "detected_at_utc": "2026-11-14T17:46:13.552529+00:00"
+      },
       {
         "artist": "NewJeans",
         "title": "Hype Boy",
