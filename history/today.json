@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:32:24.554196+00:00",
+  "updated_at_utc": "2026-11-14T16:33:27.108965+00:00",
   "stations": {
     "kis": [
       {
@@ -820,6 +820,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-14T16:33:22.577261+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "We Don't Talk Anymore (feat. Selena Gomez)",
