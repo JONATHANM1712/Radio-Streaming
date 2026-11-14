@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:17:30.746178+00:00",
+  "updated_at_utc": "2026-11-14T17:18:34.088334+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Charlie Brown",
+        "detected_at_utc": "2026-11-14T17:17:44.031504+00:00"
+      },
       {
         "artist": "Raisa",
         "title": "Teka Teki",
@@ -30,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-14T17:18:32.022908+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
