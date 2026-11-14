@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:01:21.452394+00:00",
+  "updated_at_utc": "2026-11-14T17:05:08.529355+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "A Thousand Years",
+        "detected_at_utc": "2026-11-14T17:05:08.404059+00:00"
+      },
       {
         "artist": "Rob Thomas",
         "title": "Lonely No More",
