@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:11:39.265221+00:00",
+  "updated_at_utc": "2026-11-14T05:12:45.881573+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Adams",
+        "title": "Timur",
+        "detected_at_utc": "2026-11-14T05:12:45.715883+00:00"
+      },
       {
         "artist": "Chappell Roan",
         "title": "Pink Pony Club",
