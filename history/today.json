@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T06:01:36.183761+00:00",
+  "updated_at_utc": "2026-11-14T06:02:38.656915+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-11-14T06:02:36.605792+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Cinta Mati (feat. Ahmad Dhani)",
@@ -427,6 +432,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rage Against the Machine",
+        "title": "Take The Power Back",
+        "detected_at_utc": "2026-11-14T06:02:34.912169+00:00"
+      },
       {
         "artist": "Sex Pistols",
         "title": "Submission",
