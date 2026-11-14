@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:50:09.333633+00:00",
+  "updated_at_utc": "2026-11-14T10:53:13.349248+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-14T10:53:13.258036+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "Someday",
