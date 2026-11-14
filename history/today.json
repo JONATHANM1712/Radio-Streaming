@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T09:31:27.776801+00:00",
+  "updated_at_utc": "2026-11-14T09:32:33.636731+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Artful Dodger",
+        "title": "Please Don’t Turn Me On (feat. Lifford) [Radio Edit]",
+        "detected_at_utc": "2026-11-14T09:32:26.204836+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Selamat Pagi (Live)",
@@ -315,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lyodra & Andi Rianto",
+        "title": "Sang Dewi",
+        "detected_at_utc": "2026-11-14T09:32:29.330252+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
@@ -667,6 +677,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foo Fighters",
+        "title": "Breakout",
+        "detected_at_utc": "2026-11-14T09:32:27.846890+00:00"
+      },
       {
         "artist": "Ugly Kid Joe",
         "title": "Neighbor (Full-Length Version)",
