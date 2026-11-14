@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:19:55.674815+00:00",
+  "updated_at_utc": "2026-11-14T05:20:58.809652+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Train",
+        "title": "Hey, Soul Sister",
+        "detected_at_utc": "2026-11-14T05:19:57.437522+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
