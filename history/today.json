@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:51:51.577588+00:00",
+  "updated_at_utc": "2026-11-14T15:54:23.748010+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "P.D.A. (We Just Don't Care)",
+        "detected_at_utc": "2026-11-14T15:54:23.607118+00:00"
+      },
       {
         "artist": "Hindia",
         "title": "Secukupnya",
