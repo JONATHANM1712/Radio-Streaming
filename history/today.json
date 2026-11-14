@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-14T17:50:36.785117+00:00",
+  "updated_at_utc": "2026-11-14T17:51:39.270595+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-14T17:51:21.625344+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Lips Are Movin",
