@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:12:40.961946+00:00",
+  "updated_at_utc": "2026-11-14T11:15:11.208313+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ratu",
+        "title": "Salahkah Aku Terlalu Mencintaimu",
+        "detected_at_utc": "2026-11-14T11:15:11.120570+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Until The End Of Time (with Beyoncé)",
