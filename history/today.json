@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T15:49:46.477673+00:00",
+  "updated_at_utc": "2026-11-14T15:50:49.010893+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hindia",
+        "title": "Secukupnya",
+        "detected_at_utc": "2026-11-14T15:50:17.441688+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Say",
@@ -1562,6 +1567,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "In the Cage (2007 Stereo Mix)",
+        "detected_at_utc": "2026-11-14T15:50:47.654512+00:00"
+      },
       {
         "artist": "Fernando",
         "title": "Sometimes (Legowelt Mix)",
