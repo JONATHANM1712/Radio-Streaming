@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:03:23.031404+00:00",
+  "updated_at_utc": "2026-11-14T05:04:28.158931+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "You Found Me",
+        "detected_at_utc": "2026-11-14T05:04:28.008623+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "Bring Me To Life",
