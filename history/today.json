@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T12:55:41.873218+00:00",
+  "updated_at_utc": "2026-11-14T12:56:46.121591+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-14T12:56:07.100901+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Go On Girl",
@@ -565,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-11-14T12:56:39.953261+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Photograph",
