@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:32:59.039999+00:00",
+  "updated_at_utc": "2026-11-14T10:34:01.950498+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "detected_at_utc": "2026-11-14T10:33:54.718736+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
