@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:17:16.272936+00:00",
+  "updated_at_utc": "2026-11-14T11:18:59.369576+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-11-14T11:18:59.281833+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
