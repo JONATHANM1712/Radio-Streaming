@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T14:47:12.447234+00:00",
+  "updated_at_utc": "2026-11-14T14:48:15.298598+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In The World)",
+        "detected_at_utc": "2026-11-14T14:47:42.978950+00:00"
+      },
       {
         "artist": "Lady Gaga & Ariana Grande",
         "title": "Rain On Me",
