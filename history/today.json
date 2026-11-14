@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:37:29.177417+00:00",
+  "updated_at_utc": "2026-11-14T16:40:32.636002+00:00",
   "stations": {
     "kis": [
       {
@@ -825,6 +825,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-11-14T16:40:32.540858+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
