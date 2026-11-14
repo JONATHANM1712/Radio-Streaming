@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T05:16:50.943223+00:00",
+  "updated_at_utc": "2026-11-14T05:17:55.629936+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-14T05:16:52.325557+00:00"
+      },
       {
         "artist": "The Adams",
         "title": "Timur",
@@ -322,6 +327,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Who",
+        "title": "Eminence Front",
+        "detected_at_utc": "2026-11-14T05:17:52.435810+00:00"
+      },
       {
         "artist": "Faith No More",
         "title": "Everything's Ruined",
