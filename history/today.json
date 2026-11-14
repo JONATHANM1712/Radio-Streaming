@@ -1,8 +1,13 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T16:15:30.917353+00:00",
+  "updated_at_utc": "2026-11-14T16:16:34.049618+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lingua",
+        "title": "Takkan Habis Cintaku (Remastered)",
+        "detected_at_utc": "2026-11-14T16:16:01.211320+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "Words",
@@ -790,6 +795,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-14T16:15:57.839934+00:00"
+      },
       {
         "artist": "Sophie Ellis-Bextor",
         "title": "Murder On The Dancefloor",
