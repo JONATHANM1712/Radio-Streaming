@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T11:43:18.604059+00:00",
+  "updated_at_utc": "2026-11-14T11:44:21.212507+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "Paris in the Rain",
+        "detected_at_utc": "2026-11-14T11:44:02.962901+00:00"
+      },
       {
         "artist": "Nada Surf",
         "title": "Inside Of Love",
