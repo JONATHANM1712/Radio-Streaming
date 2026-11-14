@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:57:30.643862+00:00",
+  "updated_at_utc": "2026-11-14T11:00:06.418481+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OnlyOne017",
+        "title": "Si Me Muero (feat. Little Rive)",
+        "detected_at_utc": "2026-11-14T11:00:06.333497+00:00"
+      },
       {
         "artist": "Mêlée",
         "title": "Built to Last",
