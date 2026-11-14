@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T10:48:03.736374+00:00",
+  "updated_at_utc": "2026-11-14T10:49:06.282895+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-14T10:48:26.415087+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "California King Bed",
