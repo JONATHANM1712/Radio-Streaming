@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at_utc": "2026-11-14T07:03:53.949433+00:00",
+  "updated_at_utc": "2026-11-14T07:04:57.187250+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Next To You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-14T07:04:45.816552+00:00"
+      },
       {
         "artist": "MGMT",
         "title": "Time to Pretend",
