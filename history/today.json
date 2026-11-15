@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:58:23.740457+00:00",
+  "updated_at_utc": "2026-11-15T06:00:24.208416+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "detected_at_utc": "2026-11-15T06:00:24.115999+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Not a Bad Thing",
