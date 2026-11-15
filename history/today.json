@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:58:39.072008+00:00",
+  "updated_at_utc": "2026-11-15T04:59:42.513160+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nidji",
+        "title": "Biarlah",
+        "detected_at_utc": "2026-11-15T04:59:31.307194+00:00"
+      },
       {
         "artist": "Diana Ross",
         "title": "When You Tell Me That You Love Me",
@@ -332,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Procol Harum",
+        "title": "A Whiter Shade of Pale (Original Single Version)",
+        "detected_at_utc": "2026-11-15T04:58:40.997487+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Freedom Someday",
