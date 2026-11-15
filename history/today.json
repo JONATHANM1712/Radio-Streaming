@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:53:35.621056+00:00",
+  "updated_at_utc": "2026-11-15T04:55:20.521795+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Diana Ross",
+        "title": "When You Tell Me That You Love Me",
+        "detected_at_utc": "2026-11-15T04:55:20.402610+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Just My Imagination",
