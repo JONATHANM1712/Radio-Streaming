@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:50:03.900802+00:00",
+  "updated_at_utc": "2026-11-15T05:52:13.074790+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicole Scherzinger",
+        "title": "Baby Love (feat. will.i.am)",
+        "detected_at_utc": "2026-11-15T05:52:12.991517+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
