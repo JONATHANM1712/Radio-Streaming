@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:46:43.821424+00:00",
+  "updated_at_utc": "2026-11-15T10:47:46.768337+00:00",
   "stations": {
     "kis": [
       {
@@ -862,6 +862,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foreigner",
+        "title": "I Want To Know What Love Is (Remastered)",
+        "detected_at_utc": "2026-11-15T10:46:47.539282+00:00"
+      },
       {
         "artist": "Echo & The Bunnymen",
         "title": "The Killing Moon",
