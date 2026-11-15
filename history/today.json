@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:34:22.943328+00:00",
+  "updated_at_utc": "2026-11-15T10:36:28.907287+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER & Alicia Keys",
+        "title": "My Boo",
+        "detected_at_utc": "2026-11-15T10:36:28.749676+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "Lonely (feat. Anne-Marie)",
