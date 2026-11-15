@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T11:00:11.536129+00:00",
+  "updated_at_utc": "2026-11-15T11:02:10.368294+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Side To Side (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-15T11:02:10.178552+00:00"
+      },
       {
         "artist": "Ello",
         "title": "Pergi Untuk Kembali",
