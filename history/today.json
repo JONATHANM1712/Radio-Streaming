@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T13:57:50.845216+00:00",
+  "updated_at_utc": "2026-11-15T13:58:54.243853+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Lose My Breath",
+        "detected_at_utc": "2026-11-15T13:58:10.183194+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
