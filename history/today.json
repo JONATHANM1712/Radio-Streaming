@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:17:08.288359+00:00",
+  "updated_at_utc": "2026-11-15T05:18:13.099788+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Better In Time",
+        "detected_at_utc": "2026-11-15T05:18:08.151176+00:00"
+      },
       {
         "artist": "Maudy Ayunda",
         "title": "Perahu Kertas",
