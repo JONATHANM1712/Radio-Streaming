@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:11:56.187620+00:00",
+  "updated_at_utc": "2026-11-15T05:13:08.977963+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Dean",
+        "title": "Man I Need",
+        "detected_at_utc": "2026-11-15T05:13:08.765134+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Smack That (feat. Eminem)",
