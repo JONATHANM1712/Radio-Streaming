@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:28:31.567994+00:00",
+  "updated_at_utc": "2026-11-15T05:29:34.621795+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-15T05:28:37.994518+00:00"
+      },
       {
         "artist": "Kygo & Selena Gomez",
         "title": "It Ain't Me",
