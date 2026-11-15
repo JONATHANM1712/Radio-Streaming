@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:14:06.488503+00:00",
+  "updated_at_utc": "2026-11-15T07:16:05.541528+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-15T07:16:05.455474+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Untungnya, Hidup Harus Tetap Berjalan",
