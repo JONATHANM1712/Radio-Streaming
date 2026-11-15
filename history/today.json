@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:16:52.002515+00:00",
+  "updated_at_utc": "2026-11-15T14:19:11.920017+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Julia Michaels",
+        "title": "Issues",
+        "detected_at_utc": "2026-11-15T14:19:11.763480+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Never Knew I Needed",
