@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T08:05:07.859822+00:00",
+  "updated_at_utc": "2026-11-15T08:06:10.709516+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Dynamite",
+        "detected_at_utc": "2026-11-15T08:06:10.618258+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "21 Guns",
