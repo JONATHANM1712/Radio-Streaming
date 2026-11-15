@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:15:28.945202+00:00",
+  "updated_at_utc": "2026-11-15T17:18:55.839942+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "The Remedy (I Won't Worry)",
+        "detected_at_utc": "2026-11-15T17:18:55.753791+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
