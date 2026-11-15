@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:50:31.547865+00:00",
+  "updated_at_utc": "2026-11-15T16:51:34.016392+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-15T16:50:51.815578+00:00"
+      },
       {
         "artist": "Hailee Steinfeld & Grey",
         "title": "Starving (feat. Zedd)",
