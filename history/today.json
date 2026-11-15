@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:40:19.421017+00:00",
+  "updated_at_utc": "2026-11-15T15:41:39.686485+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MIKA",
+        "title": "Love Today",
+        "detected_at_utc": "2026-11-15T15:41:39.569490+00:00"
+      },
       {
         "artist": "TheOvertunes",
         "title": "Bicara (feat. Monita Tahalea)",
