@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T08:12:26.422155+00:00",
+  "updated_at_utc": "2026-11-15T10:33:14.576602+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "Lonely (feat. Anne-Marie)",
+        "detected_at_utc": "2026-11-15T10:32:22.407230+00:00"
+      },
       {
         "artist": "Wiz Khalifa",
         "title": "See You Again (feat. Charlie Puth)",
@@ -822,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Telephone Line",
+        "detected_at_utc": "2026-11-15T10:32:22.472127+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Fields Of Gold",
