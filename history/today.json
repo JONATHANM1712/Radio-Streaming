@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:05:31.899542+00:00",
+  "updated_at_utc": "2026-11-15T06:06:34.380549+00:00",
   "stations": {
     "kis": [
       {
@@ -502,6 +502,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Kranz",
+        "title": "Din Daa Daa",
+        "detected_at_utc": "2026-11-15T06:06:32.375545+00:00"
+      },
       {
         "artist": "Lisa Lisa & Cult Jam",
         "title": "Let the Beat Hit 'Em, Pt. 2",
