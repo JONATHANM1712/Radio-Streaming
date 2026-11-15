@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:23:00.839285+00:00",
+  "updated_at_utc": "2026-11-15T17:24:03.816782+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "You Make Me Feel Brand New",
+        "detected_at_utc": "2026-11-15T17:23:39.138087+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "No Air",
