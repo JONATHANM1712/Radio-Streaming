@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:40:14.815162+00:00",
+  "updated_at_utc": "2026-11-15T06:42:16.238113+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "It's a Beautiful Day",
+        "detected_at_utc": "2026-11-15T06:42:16.143311+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Got 'Til It's Gone (feat. Q-Tip & Joni Mitchell)",
