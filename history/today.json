@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:04:43.891260+00:00",
+  "updated_at_utc": "2026-11-15T15:05:47.292028+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "detected_at_utc": "2026-11-15T15:05:25.546765+00:00"
+      },
       {
         "artist": "Andien",
         "title": "Sahabat Setia",
