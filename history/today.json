@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:41:46.857552+00:00",
+  "updated_at_utc": "2026-11-15T14:42:49.784177+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Every Teardrop Is a Waterfall",
+        "detected_at_utc": "2026-11-15T14:42:02.121848+00:00"
+      },
       {
         "artist": "Pitbull & Kesha",
         "title": "Timber",
@@ -1077,6 +1082,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Hootie & The Blowfish",
+        "title": "Let Her Cry",
+        "detected_at_utc": "2026-11-15T14:42:25.578865+00:00"
+      },
       {
         "artist": "Suede",
         "title": "Lazy",
