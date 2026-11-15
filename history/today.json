@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:26:31.649699+00:00",
+  "updated_at_utc": "2026-11-15T14:28:13.532442+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sweetbox",
+        "title": "Everything's Gonna Be Alright",
+        "detected_at_utc": "2026-11-15T14:28:13.403159+00:00"
+      },
       {
         "artist": "American Authors",
         "title": "Best Day of My Life",
