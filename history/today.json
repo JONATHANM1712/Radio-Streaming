@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:59:48.319364+00:00",
+  "updated_at_utc": "2026-11-15T07:01:46.879726+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "H.E.R.",
+        "title": "Best Part (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-11-15T07:01:46.788536+00:00"
+      },
       {
         "artist": "Good Charlotte",
         "title": "I Just Wanna Live",
