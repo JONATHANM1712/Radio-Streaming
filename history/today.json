@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:03:49.433917+00:00",
+  "updated_at_utc": "2026-11-15T16:04:52.849876+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "detected_at_utc": "2026-11-15T16:04:11.353730+00:00"
+      },
       {
         "artist": "Binocular",
         "title": "Deep",
