@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:47:35.087384+00:00",
+  "updated_at_utc": "2026-11-15T14:48:38.035579+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-15T14:48:13.856408+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Every Teardrop Is a Waterfall",
