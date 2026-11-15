@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:54:02.257931+00:00",
+  "updated_at_utc": "2026-11-15T10:57:02.718488+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ello",
+        "title": "Pergi Untuk Kembali",
+        "detected_at_utc": "2026-11-15T10:57:02.563352+00:00"
+      },
       {
         "artist": "Mishari Rashid Alafasy",
         "title": "Recitation 1",
