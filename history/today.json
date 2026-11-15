@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:01:26.738322+00:00",
+  "updated_at_utc": "2026-11-15T06:04:23.986729+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Third Eye Blind",
+        "title": "How's It Going To Be",
+        "detected_at_utc": "2026-11-15T06:04:23.889955+00:00"
+      },
       {
         "artist": "702",
         "title": "Where My Girls At?",
