@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:28:03.544607+00:00",
+  "updated_at_utc": "2026-11-15T06:29:06.111983+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Baby Boy (feat. Sean Paul)",
+        "detected_at_utc": "2026-11-15T06:28:58.535615+00:00"
+      },
       {
         "artist": "Caught In the Act",
         "title": "Babe",
@@ -260,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-15T06:29:03.170504+00:00"
+      },
       {
         "artist": "Camila Cabello",
         "title": "Never Be the Same",
@@ -552,6 +562,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Maxi Priest",
+        "title": "Close To You",
+        "detected_at_utc": "2026-11-15T06:29:04.807222+00:00"
+      },
       {
         "artist": "J.F. Gloss",
         "title": "Come on Over",
