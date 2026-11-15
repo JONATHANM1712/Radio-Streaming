@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:57:41.869589+00:00",
+  "updated_at_utc": "2026-11-15T15:58:44.518270+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-15T15:58:01.157185+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Still Feel Like Your Man",
