@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:01:39.560730+00:00",
+  "updated_at_utc": "2026-11-15T15:03:40.398745+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vinayak",
+        "title": "Cartoon network",
+        "detected_at_utc": "2026-11-15T15:03:40.256305+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
