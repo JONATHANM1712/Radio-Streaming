@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:50:35.508044+00:00",
+  "updated_at_utc": "2026-11-15T06:52:35.263020+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Teenage Dream",
+        "detected_at_utc": "2026-11-15T06:52:35.179070+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Hair",
