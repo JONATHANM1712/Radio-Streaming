@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:13:44.285091+00:00",
+  "updated_at_utc": "2026-11-15T06:17:42.335424+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mario Vazquez",
+        "title": "Gallery",
+        "detected_at_utc": "2026-11-15T06:17:42.217087+00:00"
+      },
       {
         "artist": "Ari Pramundito",
         "title": "Dicintai 'Tuk Disakiti",
