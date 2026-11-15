@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:39:10.755569+00:00",
+  "updated_at_utc": "2026-11-15T04:42:12.127118+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-15T04:42:11.976332+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Selalu Denganmu",
