@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T08:09:12.919223+00:00",
+  "updated_at_utc": "2026-11-15T08:10:15.333285+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "yes, and?",
+        "detected_at_utc": "2026-11-15T08:09:14.413731+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Dynamite",
