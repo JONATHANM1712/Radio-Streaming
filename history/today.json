@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:27:31.448614+00:00",
+  "updated_at_utc": "2026-11-15T04:28:50.052663+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Miss Independent",
+        "detected_at_utc": "2026-11-15T04:28:49.911004+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
