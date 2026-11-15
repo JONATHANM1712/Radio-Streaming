@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:10:39.547170+00:00",
+  "updated_at_utc": "2026-11-15T06:12:41.375559+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "What About Us",
+        "detected_at_utc": "2026-11-15T06:12:41.255369+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Need Your Love",
