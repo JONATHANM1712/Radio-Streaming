@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:21:18.400483+00:00",
+  "updated_at_utc": "2026-11-15T14:22:21.502174+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-15T14:22:18.361656+00:00"
+      },
       {
         "artist": "Julia Michaels",
         "title": "Issues",
