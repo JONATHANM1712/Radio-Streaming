@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:11:01.194514+00:00",
+  "updated_at_utc": "2026-11-15T04:12:04.623385+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-15T04:11:17.527293+00:00"
+      },
       {
         "artist": "American Authors",
         "title": "Best Day of My Life",
