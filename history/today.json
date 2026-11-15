@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:03:07.955141+00:00",
+  "updated_at_utc": "2026-11-15T04:06:08.825623+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "PUSH 2 START",
+        "detected_at_utc": "2026-11-15T04:06:08.639206+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
