@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:01:30.589437+00:00",
+  "updated_at_utc": "2026-11-15T17:04:32.618775+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Cool",
+        "detected_at_utc": "2026-11-15T17:04:32.527951+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Please Don't Go",
