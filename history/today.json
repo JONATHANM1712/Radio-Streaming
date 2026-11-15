@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:53:15.456381+00:00",
+  "updated_at_utc": "2026-11-15T05:55:10.370779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "David Archuleta",
+        "title": "A Little Too Not Over You",
+        "detected_at_utc": "2026-11-15T05:55:10.258829+00:00"
+      },
       {
         "artist": "New Edition",
         "title": "I'm Still In Love With You",
