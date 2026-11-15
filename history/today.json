@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:32:13.689007+00:00",
+  "updated_at_utc": "2026-11-15T17:33:16.681153+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Brave",
+        "detected_at_utc": "2026-11-15T17:33:13.705207+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Softest Touch",
