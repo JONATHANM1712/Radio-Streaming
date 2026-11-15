@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:57:43.095787+00:00",
+  "updated_at_utc": "2026-11-15T06:58:45.849005+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Good Charlotte",
+        "title": "I Just Wanna Live",
+        "detected_at_utc": "2026-11-15T06:58:43.051128+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
