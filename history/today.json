@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:49:32.846593+00:00",
+  "updated_at_utc": "2026-11-15T06:50:35.508044+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Color Me Badd",
+        "title": "I Adore Mi Amor",
+        "detected_at_utc": "2026-11-15T06:50:26.838497+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
