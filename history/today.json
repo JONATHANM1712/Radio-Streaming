@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:03:40.398745+00:00",
+  "updated_at_utc": "2026-11-15T15:04:43.891260+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Labrinth",
+        "title": "Jealous",
+        "detected_at_utc": "2026-11-15T15:04:41.739773+00:00"
+      },
       {
         "artist": "Vinayak",
         "title": "Cartoon network",
