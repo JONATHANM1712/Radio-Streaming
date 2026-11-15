@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:13:47.253854+00:00",
+  "updated_at_utc": "2026-11-15T14:15:48.815606+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-11-15T14:15:48.682598+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Bad Romance",
