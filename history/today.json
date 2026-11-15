@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:55:27.001900+00:00",
+  "updated_at_utc": "2026-11-15T14:56:30.289506+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "2AM Club",
+        "title": "Worry About You",
+        "detected_at_utc": "2026-11-15T14:56:28.127103+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
@@ -1112,6 +1117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "L.A. Guns",
+        "title": "The Ballad Of Jayne",
+        "detected_at_utc": "2026-11-15T14:55:47.199229+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Never As Good As the First Time",
