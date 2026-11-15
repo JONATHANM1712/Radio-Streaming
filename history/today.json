@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:19:58.373997+00:00",
+  "updated_at_utc": "2026-11-15T17:21:16.967449+00:00",
   "stations": {
     "kis": [
       {
@@ -72,6 +72,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury & Montserrat Caballé",
+        "title": "Barcelona",
+        "detected_at_utc": "2026-11-15T17:21:16.874834+00:00"
+      },
       {
         "artist": "Joe \"Bean\" Esposito",
         "title": "Lady, Lady, Lady",
