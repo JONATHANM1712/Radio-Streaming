@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:38:16.541684+00:00",
+  "updated_at_utc": "2026-11-15T14:39:21.296533+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull & Kesha",
+        "title": "Timber",
+        "detected_at_utc": "2026-11-15T14:38:55.223019+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Me Against the Music (feat. Madonna) [Video Mix]",
