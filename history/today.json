@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:12:48.489294+00:00",
+  "updated_at_utc": "2026-11-15T17:14:26.449163+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nidji",
+        "title": "Jangan Lupakan",
+        "detected_at_utc": "2026-11-15T17:14:26.328070+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "She's the One",
