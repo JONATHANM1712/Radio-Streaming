@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:10:19.757399+00:00",
+  "updated_at_utc": "2026-11-15T17:11:45.869202+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guilherme Lima",
+        "title": "After All",
+        "detected_at_utc": "2026-11-15T17:11:45.771168+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "My Immortal",
