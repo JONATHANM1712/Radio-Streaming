@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:31:34.970105+00:00",
+  "updated_at_utc": "2026-11-15T05:32:37.806613+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Separated",
+        "detected_at_utc": "2026-11-15T05:31:42.209587+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
