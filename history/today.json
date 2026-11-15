@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:33:14.576602+00:00",
+  "updated_at_utc": "2026-11-15T10:34:22.943328+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ratu",
+        "title": "Dear Diary",
+        "detected_at_utc": "2026-11-15T10:34:22.731544+00:00"
+      },
       {
         "artist": "Base Jam",
         "title": "Jatuh Cinta",
