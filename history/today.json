@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T13:45:06.549746+00:00",
+  "updated_at_utc": "2026-11-15T13:48:16.882132+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "My Kind of Girl (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-11-15T13:48:16.717894+00:00"
+      },
       {
         "artist": "Blue",
         "title": "One Love",
