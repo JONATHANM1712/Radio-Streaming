@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:18:45.045618+00:00",
+  "updated_at_utc": "2026-11-15T06:20:52.420991+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-11-15T06:20:52.329526+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
