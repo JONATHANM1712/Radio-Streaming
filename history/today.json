@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:09:33.969082+00:00",
+  "updated_at_utc": "2026-11-15T15:11:55.936945+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "detected_at_utc": "2026-11-15T15:11:55.802630+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
