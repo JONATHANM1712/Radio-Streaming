@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:28:45.554624+00:00",
+  "updated_at_utc": "2026-11-15T17:31:11.143678+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Softest Touch",
+        "detected_at_utc": "2026-11-15T17:31:11.023410+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Don't Matter",
