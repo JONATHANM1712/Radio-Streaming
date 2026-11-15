@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:12:00.332138+00:00",
+  "updated_at_utc": "2026-11-15T07:13:03.205721+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rialto",
+        "title": "Monday Morning 5:19",
+        "detected_at_utc": "2026-11-15T07:12:58.235109+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Me Against the Music (feat. Madonna) [Video Mix]",
