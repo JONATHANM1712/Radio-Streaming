@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:57:21.125724+00:00",
+  "updated_at_utc": "2026-11-15T05:58:23.740457+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shakira",
+        "title": "Can't Remember to Forget You (feat. Rihanna)",
+        "detected_at_utc": "2026-11-15T05:58:15.525507+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "A Little Too Not Over You",
