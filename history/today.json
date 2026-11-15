@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:32:28.159149+00:00",
+  "updated_at_utc": "2026-11-15T16:34:51.517038+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris, Charlie Puth & Shenseea",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-11-15T16:34:51.425728+00:00"
+      },
       {
         "artist": "Mario",
         "title": "How Do I Breathe",
