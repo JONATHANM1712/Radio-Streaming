@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:32:33.951661+00:00",
+  "updated_at_utc": "2026-11-15T07:35:30.168828+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "Youngblood",
+        "detected_at_utc": "2026-11-15T07:35:30.079043+00:00"
+      },
       {
         "artist": "India.Arie",
         "title": "Can I Walk With You",
