@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:04:13.063958+00:00",
+  "updated_at_utc": "2026-11-15T14:05:39.512772+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gracie Abrams",
+        "title": "Hit the Wall",
+        "detected_at_utc": "2026-11-15T14:05:39.385386+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Supermassive Black Hole",
