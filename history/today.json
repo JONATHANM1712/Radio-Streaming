@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:57:33.298603+00:00",
+  "updated_at_utc": "2026-11-15T14:59:33.682970+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "detected_at_utc": "2026-11-15T14:59:33.274728+00:00"
+      },
       {
         "artist": "2AM Club",
         "title": "Worry About You",
