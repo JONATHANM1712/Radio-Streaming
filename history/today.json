@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:41:20.322391+00:00",
+  "updated_at_utc": "2026-11-15T16:42:22.792022+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Vogue",
+        "detected_at_utc": "2026-11-15T16:41:40.185355+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "J.A.P",
