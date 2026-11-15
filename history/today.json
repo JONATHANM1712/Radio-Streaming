@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:51:34.016392+00:00",
+  "updated_at_utc": "2026-11-15T16:52:36.438983+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-15T16:52:12.895722+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Good Life",
