@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:37:34.075116+00:00",
+  "updated_at_utc": "2026-11-15T15:39:16.761394+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Cukup Sudah",
+        "detected_at_utc": "2026-11-15T15:39:16.668790+00:00"
+      },
       {
         "artist": "Lene Marlin",
         "title": "Another Day",
