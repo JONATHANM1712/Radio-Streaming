@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:39:21.296533+00:00",
+  "updated_at_utc": "2026-11-15T14:40:42.673737+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-11-15T14:40:42.345022+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi (feat. Andi Rianto)",
