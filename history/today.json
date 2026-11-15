@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:16:05.541528+00:00",
+  "updated_at_utc": "2026-11-15T07:17:08.005900+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tangga",
+        "title": "Jurus Terjitu",
+        "detected_at_utc": "2026-11-15T07:17:04.301517+00:00"
+      },
       {
         "artist": "Rialto",
         "title": "Monday Morning 5:19",
