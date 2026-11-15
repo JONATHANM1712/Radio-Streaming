@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T13:49:20.123342+00:00",
+  "updated_at_utc": "2026-11-15T13:50:25.758789+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Plain White T's",
+        "title": "Hey There Delilah",
+        "detected_at_utc": "2026-11-15T13:49:34.095241+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
@@ -927,6 +932,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Barry Manilow",
+        "title": "Can't Smile Without You",
+        "detected_at_utc": "2026-11-15T13:49:33.441635+00:00"
+      },
       {
         "artist": "Fugees",
         "title": "Killing Me Softly With His Song",
