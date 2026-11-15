@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:51:54.643305+00:00",
+  "updated_at_utc": "2026-11-15T10:52:57.783362+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-15T10:52:56.172123+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Goin' Where the Wind Blows",
