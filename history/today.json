@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:12:41.375559+00:00",
+  "updated_at_utc": "2026-11-15T06:13:44.285091+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Pramundito",
+        "title": "Dicintai 'Tuk Disakiti",
+        "detected_at_utc": "2026-11-15T06:13:36.579223+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "4 In the Morning",
@@ -517,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Morrissey",
+        "title": "The More You Ignore Me, The Closer I Get (Remastered)",
+        "detected_at_utc": "2026-11-15T06:13:44.225781+00:00"
+      },
       {
         "artist": "Marvin Gaye",
         "title": "Sexual Healing",
