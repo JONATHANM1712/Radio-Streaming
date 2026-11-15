@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:04:23.986729+00:00",
+  "updated_at_utc": "2026-11-15T06:05:31.899542+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Heartbreak Warfare",
+        "detected_at_utc": "2026-11-15T06:05:31.812323+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Leave (Get Out)",
