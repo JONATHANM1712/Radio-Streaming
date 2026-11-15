@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:06:58.865244+00:00",
+  "updated_at_utc": "2026-11-15T05:08:02.606395+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-11-15T05:07:46.821780+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "It Will Rain",
