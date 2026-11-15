@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:44:02.417623+00:00",
+  "updated_at_utc": "2026-11-15T15:45:04.932427+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-11-15T15:44:23.704056+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Cukup Sudah",
