@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:49:16.100488+00:00",
+  "updated_at_utc": "2026-11-15T15:50:19.145913+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lil Wayne",
+        "title": "Mrs. Officer (feat. Bobby V & Kidd Kidd) [feat. Bobby V & Kidd Kidd]",
+        "detected_at_utc": "2026-11-15T15:49:50.209938+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
