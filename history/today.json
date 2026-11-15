@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T03:59:55.708916+00:00",
+  "updated_at_utc": "2026-11-15T04:02:02.429336+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Archuleta",
+        "title": "Crush",
+        "detected_at_utc": "2026-11-15T04:02:02.240760+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "One Thing",
