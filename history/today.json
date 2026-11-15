@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:55:20.521795+00:00",
+  "updated_at_utc": "2026-11-15T04:56:24.007058+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Panic! At the Disco",
+        "title": "I Write Sins Not Tragedies",
+        "detected_at_utc": "2026-11-15T04:55:33.804976+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
