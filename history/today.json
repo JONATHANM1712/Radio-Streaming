@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:35:30.168828+00:00",
+  "updated_at_utc": "2026-11-15T07:36:32.682853+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Yovie & Nuno",
+        "title": "Lebih Dekat Denganmu, Nanti (Juwita)",
+        "detected_at_utc": "2026-11-15T07:36:30.374353+00:00"
+      },
       {
         "artist": "Vertical Horizon",
         "title": "You're a God",
