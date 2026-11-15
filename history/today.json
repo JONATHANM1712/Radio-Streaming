@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-15T17:14:26.449163+00:00",
+  "updated_at_utc": "2026-11-15T17:15:28.945202+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-15T17:14:49.812965+00:00"
+      },
       {
         "artist": "海潮哥",
         "title": "萬人呐喊海潮哥",
