@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:56:24.007058+00:00",
+  "updated_at_utc": "2026-11-15T04:58:39.072008+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "detected_at_utc": "2026-11-15T04:58:38.927245+00:00"
+      },
       {
         "artist": "Panic! At the Disco",
         "title": "I Write Sins Not Tragedies",
