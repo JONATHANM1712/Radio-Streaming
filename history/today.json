@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:06:59.142476+00:00",
+  "updated_at_utc": "2026-11-15T16:08:02.183987+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Dance The Night (From Barbie The Album)",
+        "detected_at_utc": "2026-11-15T16:07:15.940839+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Set Fire to the Rain",
