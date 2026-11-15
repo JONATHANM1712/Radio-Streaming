@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:44:41.916527+00:00",
+  "updated_at_utc": "2026-11-15T10:46:43.821424+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Hudson & Dreamgirls",
+        "title": "And I Am Telling You I'm Not Going (Highlights Version)",
+        "detected_at_utc": "2026-11-15T10:46:43.697964+00:00"
+      },
       {
         "artist": "Nick Jonas",
         "title": "Jealous",
