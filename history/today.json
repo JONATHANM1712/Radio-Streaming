@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:06:43.367472+00:00",
+  "updated_at_utc": "2026-11-15T14:08:34.471441+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Supergroove",
+        "title": "Can't Get Enough",
+        "detected_at_utc": "2026-11-15T14:08:34.349271+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Request + Line",
