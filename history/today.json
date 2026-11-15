@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:23:56.982788+00:00",
+  "updated_at_utc": "2026-11-15T06:24:59.513847+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Caught In the Act",
+        "title": "Babe",
+        "detected_at_utc": "2026-11-15T06:24:53.116217+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Sorry Not Sorry",
@@ -255,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Camila Cabello",
+        "title": "Never Be the Same",
+        "detected_at_utc": "2026-11-15T06:24:57.804863+00:00"
+      },
       {
         "artist": "Elliott Yamin",
         "title": "Wait for You",
