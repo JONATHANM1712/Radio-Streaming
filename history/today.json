@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:42:53.271042+00:00",
+  "updated_at_utc": "2026-11-15T05:43:55.734778+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Telephone (feat. Beyoncé)",
+        "detected_at_utc": "2026-11-15T05:42:56.977560+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
@@ -442,6 +447,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cranberries",
+        "title": "Sunday",
+        "detected_at_utc": "2026-11-15T05:42:56.561908+00:00"
+      },
       {
         "artist": "Freddie Mercury",
         "title": "There Must Be More To Life Than This (Special Edition)",
