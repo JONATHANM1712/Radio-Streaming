@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T11:08:22.148856+00:00",
+  "updated_at_utc": "2026-11-15T13:43:39.532679+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-11-15T13:43:39.397941+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
