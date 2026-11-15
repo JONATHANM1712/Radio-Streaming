@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:24:56.669210+00:00",
+  "updated_at_utc": "2026-11-15T15:26:19.527542+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DEV",
+        "title": "In the Dark",
+        "detected_at_utc": "2026-11-15T15:26:19.371790+00:00"
+      },
       {
         "artist": "DJ Khaled",
         "title": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
