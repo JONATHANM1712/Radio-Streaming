@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:01:29.874949+00:00",
+  "updated_at_utc": "2026-11-15T14:02:33.488979+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Supermassive Black Hole",
+        "detected_at_utc": "2026-11-15T14:02:28.959148+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Lose My Breath",
