@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:49:49.120649+00:00",
+  "updated_at_utc": "2026-11-15T10:51:54.643305+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mr. Big",
+        "title": "Goin' Where the Wind Blows",
+        "detected_at_utc": "2026-11-15T10:51:54.513878+00:00"
+      },
       {
         "artist": "Jennifer Hudson & Dreamgirls",
         "title": "And I Am Telling You I'm Not Going (Highlights Version)",
