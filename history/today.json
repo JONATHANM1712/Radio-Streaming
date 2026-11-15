@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:44:20.367255+00:00",
+  "updated_at_utc": "2026-11-15T04:46:19.055456+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls",
+        "detected_at_utc": "2026-11-15T04:46:18.897050+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Dear Future Husband",
