@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:46:27.464319+00:00",
+  "updated_at_utc": "2026-11-15T06:48:30.172249+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Hair",
+        "detected_at_utc": "2026-11-15T06:48:30.061347+00:00"
+      },
       {
         "artist": "Keane",
         "title": "Everybody's Changing",
