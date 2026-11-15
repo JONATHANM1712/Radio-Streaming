@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:48:04.140994+00:00",
+  "updated_at_utc": "2026-11-15T05:50:03.900802+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Edition",
+        "title": "I'm Still In Love With You",
+        "detected_at_utc": "2026-11-15T05:50:03.813540+00:00"
+      },
       {
         "artist": "Fourplay",
         "title": "Let's Make Love",
