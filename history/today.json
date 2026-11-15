@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T06:17:42.335424+00:00",
+  "updated_at_utc": "2026-11-15T06:18:45.045618+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-15T06:17:48.282998+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "What About Us",
@@ -527,6 +532,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Chantal Kreviazuk",
+        "title": "Leaving On A Jet Plane",
+        "detected_at_utc": "2026-11-15T06:17:49.336777+00:00"
+      },
       {
         "artist": "Morrissey",
         "title": "The More You Ignore Me, The Closer I Get (Remastered)",
