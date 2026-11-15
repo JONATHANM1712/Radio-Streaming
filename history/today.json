@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:33:40.525052+00:00",
+  "updated_at_utc": "2026-11-15T05:35:47.525658+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "High School in Jakarta",
+        "detected_at_utc": "2026-11-15T05:35:47.438017+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Separated",
