@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T08:03:13.867731+00:00",
+  "updated_at_utc": "2026-11-15T08:05:07.859822+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eternal",
+        "title": "I Wanna Be the Only One (feat. Bebe Winans)",
+        "detected_at_utc": "2026-11-15T08:05:07.778333+00:00"
+      },
       {
         "artist": "Thalía",
         "title": "I Want You",
