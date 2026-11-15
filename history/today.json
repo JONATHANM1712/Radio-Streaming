@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:05:49.077871+00:00",
+  "updated_at_utc": "2026-11-15T07:07:54.536515+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Shut Up and Drive",
+        "detected_at_utc": "2026-11-15T07:07:54.449311+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
