@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:12:43.926338+00:00",
+  "updated_at_utc": "2026-11-15T14:13:47.253854+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-15T14:12:58.346830+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
