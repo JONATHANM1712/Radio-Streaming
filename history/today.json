@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:32:01.271688+00:00",
+  "updated_at_utc": "2026-11-15T04:33:04.510169+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "detected_at_utc": "2026-11-15T04:32:56.492236+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Miss Independent",
