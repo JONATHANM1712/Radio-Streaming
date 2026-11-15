@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T14:24:46.121436+00:00",
+  "updated_at_utc": "2026-11-15T14:26:31.649699+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-11-15T14:26:31.498548+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
