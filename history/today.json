@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T04:48:26.157132+00:00",
+  "updated_at_utc": "2026-11-15T04:49:29.571350+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Naif",
+        "title": "Benci Untuk Mencinta",
+        "detected_at_utc": "2026-11-15T04:49:23.640871+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Beautiful Girls",
