@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T16:52:36.438983+00:00",
+  "updated_at_utc": "2026-11-15T16:53:55.850191+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Crazy Town",
+        "title": "Butterfly",
+        "detected_at_utc": "2026-11-15T16:53:55.756200+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Someday (From the August Rush Soundtrack)",
