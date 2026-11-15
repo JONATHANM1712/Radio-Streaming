@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:36:13.438408+00:00",
+  "updated_at_utc": "2026-11-15T15:37:34.075116+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "TheOvertunes",
+        "title": "Bicara (feat. Monita Tahalea)",
+        "detected_at_utc": "2026-11-15T15:37:33.992473+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Misread",
