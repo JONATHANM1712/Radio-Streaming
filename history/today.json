@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:27:19.622874+00:00",
+  "updated_at_utc": "2026-11-15T07:28:22.449581+00:00",
   "stations": {
     "kis": [
       {
@@ -702,6 +702,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Modern Talking",
+        "title": "Cheri Cheri Lady",
+        "detected_at_utc": "2026-11-15T07:27:25.944401+00:00"
+      },
       {
         "artist": "The Human League",
         "title": "Mirror Man",
