@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T10:59:08.429931+00:00",
+  "updated_at_utc": "2026-11-15T11:00:11.536129+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "detected_at_utc": "2026-11-15T11:00:09.400475+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
