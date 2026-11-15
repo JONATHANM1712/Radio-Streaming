@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:56:17.897815+00:00",
+  "updated_at_utc": "2026-11-15T05:57:21.125724+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Not a Bad Thing",
+        "detected_at_utc": "2026-11-15T05:56:18.362849+00:00"
+      },
       {
         "artist": "Nicole Scherzinger",
         "title": "Baby Love (feat. will.i.am)",
