@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T15:58:44.518270+00:00",
+  "updated_at_utc": "2026-11-15T15:59:47.072858+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
+        "detected_at_utc": "2026-11-15T15:59:43.795999+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Never Gonna Leave This Bed",
@@ -610,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Binocular",
+        "title": "Deep",
+        "detected_at_utc": "2026-11-15T15:59:03.028175+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
