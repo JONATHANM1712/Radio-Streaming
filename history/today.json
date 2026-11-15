@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:35:47.525658+00:00",
+  "updated_at_utc": "2026-11-15T05:36:50.024075+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "Rindu Ini",
+        "detected_at_utc": "2026-11-15T05:36:42.301467+00:00"
+      },
       {
         "artist": "Christina Aguilera",
         "title": "I Turn to You",
@@ -427,6 +432,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Skid Row",
+        "title": "18 And Life",
+        "detected_at_utc": "2026-11-15T05:36:47.468067+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "When You Gonna Learn?",
