@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T07:59:08.591916+00:00",
+  "updated_at_utc": "2026-11-15T08:00:11.144586+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "detected_at_utc": "2026-11-15T08:00:02.827835+00:00"
+      },
       {
         "artist": "James Blunt",
         "title": "You're Beautiful",
