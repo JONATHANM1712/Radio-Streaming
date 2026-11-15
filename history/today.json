@@ -1,8 +1,13 @@
 {
   "date": "2026-11-15",
-  "updated_at_utc": "2026-11-15T05:21:25.292966+00:00",
+  "updated_at_utc": "2026-11-15T05:22:28.203536+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shai",
+        "title": "If I Ever Fall In Love",
+        "detected_at_utc": "2026-11-15T05:22:14.093227+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Better In Time",
@@ -392,6 +397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jeremy Jordan",
+        "title": "The Right Kind of Love",
+        "detected_at_utc": "2026-11-15T05:22:26.716201+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Goin' Where the Wind Blows",
