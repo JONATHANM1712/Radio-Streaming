@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:54:21.632459+00:00",
+  "updated_at_utc": "2026-11-16T04:55:30.679516+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bad Meets Evil",
+        "title": "Lighters (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-16T04:55:30.541232+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
