@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:19:56.523961+00:00",
+  "updated_at_utc": "2026-11-16T13:20:59.502083+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Loyal (feat. Lil Wayne & Tyga)",
+        "detected_at_utc": "2026-11-16T13:20:54.735749+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
