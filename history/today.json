@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:11:33.715768+00:00",
+  "updated_at_utc": "2026-11-16T06:12:36.683484+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Nothin' On You (feat. Bruno Mars)",
+        "detected_at_utc": "2026-11-16T06:11:42.956350+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
