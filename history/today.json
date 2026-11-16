@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:48:01.207406+00:00",
+  "updated_at_utc": "2026-11-16T05:49:04.345630+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lina Santiago",
+        "title": "Everywhere I Go",
+        "detected_at_utc": "2026-11-16T05:48:53.518705+00:00"
+      },
       {
         "artist": "Keane",
         "title": "Everybody's Changing",
@@ -170,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Matchbox Twenty",
+        "title": "Unwell",
+        "detected_at_utc": "2026-11-16T05:49:02.838854+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
