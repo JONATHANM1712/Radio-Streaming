@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:17:51.333516+00:00",
+  "updated_at_utc": "2026-11-16T13:18:53.818933+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gita Gutawa",
+        "title": "Bukan Permainan",
+        "detected_at_utc": "2026-11-16T13:18:33.722798+00:00"
+      },
       {
         "artist": "FC Kahuna",
         "title": "Hayling",
