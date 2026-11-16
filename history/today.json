@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:21:17.126022+00:00",
+  "updated_at_utc": "2026-11-16T04:23:18.735358+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daft Punk",
+        "title": "Something About Us",
+        "detected_at_utc": "2026-11-16T04:23:18.604845+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Your Love Is My Drug",
