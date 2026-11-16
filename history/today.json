@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:22:40.311210+00:00",
+  "updated_at_utc": "2026-11-16T13:25:00.690381+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-16T13:25:00.577907+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Loyal (feat. Lil Wayne & Tyga)",
