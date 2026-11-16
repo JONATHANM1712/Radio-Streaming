@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:31:07.506685+00:00",
+  "updated_at_utc": "2026-11-16T14:32:16.679330+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-16T14:32:12.327472+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "TiK ToK",
