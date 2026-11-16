@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T12:45:28.868705+00:00",
+  "updated_at_utc": "2026-11-16T12:46:32.331304+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "detected_at_utc": "2026-11-16T12:46:30.588509+00:00"
+      },
       {
         "artist": "Caught In the Act",
         "title": "Babe",
