@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:05:11.449642+00:00",
+  "updated_at_utc": "2026-11-16T16:06:14.034194+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Better",
+        "detected_at_utc": "2026-11-16T16:06:11.129396+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
