@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:22:17.942990+00:00",
+  "updated_at_utc": "2026-11-16T05:23:23.894976+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sugar Ray",
+        "title": "Every Morning",
+        "detected_at_utc": "2026-11-16T05:23:10.140406+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Halo",
