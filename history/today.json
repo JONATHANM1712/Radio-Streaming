@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:44:44.416331+00:00",
+  "updated_at_utc": "2026-11-16T06:47:53.478918+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Somebody to Love (Remix) [feat. USHER]",
+        "detected_at_utc": "2026-11-16T06:47:53.381952+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Good Days",
