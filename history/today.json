@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:16:18.338251+00:00",
+  "updated_at_utc": "2026-11-16T14:19:18.042588+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Indra Lesmana",
+        "title": "Sedalam Cintamu (feat. Nania)",
+        "detected_at_utc": "2026-11-16T14:19:17.855870+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Party In the U.S.A.",
