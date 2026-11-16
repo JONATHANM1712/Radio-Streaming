@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:47:04.136004+00:00",
+  "updated_at_utc": "2026-11-16T04:48:07.761130+00:00",
   "stations": {
     "kis": [
       {
@@ -101,6 +101,11 @@
     ],
     "jak": [
       {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-11-16T04:47:16.075817+00:00"
+      },
+      {
         "artist": "Lady Gaga & Bradley Cooper",
         "title": "Shallow",
         "detected_at_utc": "2026-11-16T04:37:57.301493+00:00"
@@ -192,6 +197,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Creed",
+        "title": "Higher",
+        "detected_at_utc": "2026-11-16T04:47:05.351360+00:00"
+      },
       {
         "artist": "The Goo Goo Dolls",
         "title": "Iris",
