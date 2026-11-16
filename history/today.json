@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T12:11:37.771842+00:00",
+  "updated_at_utc": "2026-11-16T12:12:40.242817+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Don't Lie",
+        "detected_at_utc": "2026-11-16T12:12:27.170638+00:00"
+      },
       {
         "artist": "Ava Max",
         "title": "Million Dollar Baby",
