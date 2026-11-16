@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:23:23.894976+00:00",
+  "updated_at_utc": "2026-11-16T05:25:23.595729+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-16T05:25:23.280567+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
