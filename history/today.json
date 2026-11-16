@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:56:12.404622+00:00",
+  "updated_at_utc": "2026-11-16T13:57:15.314711+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "BRKNRBTZ",
+        "title": "Marry Your Daughter",
+        "detected_at_utc": "2026-11-16T13:56:41.904320+00:00"
+      },
       {
         "artist": "Joy Enriquez & George Fenton",
         "title": "How Can I Not Love You",
@@ -465,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Stickwitu",
+        "detected_at_utc": "2026-11-16T13:57:03.857548+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
