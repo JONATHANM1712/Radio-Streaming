@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:31:13.811180+00:00",
+  "updated_at_utc": "2026-11-16T06:32:16.493830+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-16T06:31:20.780915+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Di Balik Awan",
