@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T11:25:02.243687+00:00",
+  "updated_at_utc": "2026-11-16T11:27:06.272759+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Normani",
+        "title": "Motivation",
+        "detected_at_utc": "2026-11-16T11:27:05.920697+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "The Hills",
