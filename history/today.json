@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:19:03.972982+00:00",
+  "updated_at_utc": "2026-11-16T15:22:06.864521+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "I Hate This Part",
+        "detected_at_utc": "2026-11-16T15:22:06.733098+00:00"
+      },
       {
         "artist": "Ari Pramundito",
         "title": "Dicintai 'Tuk Disakiti",
