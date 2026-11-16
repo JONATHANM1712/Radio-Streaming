@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-16T17:10:33.793739+00:00",
+  "updated_at_utc": "2026-11-16T17:11:37.823804+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "CeeLo Green",
+        "title": "F**k You",
+        "detected_at_utc": "2026-11-16T17:11:37.736480+00:00"
+      },
       {
         "artist": "Princessa",
         "title": "I Won't Forget You",
