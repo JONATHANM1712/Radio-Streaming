@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:31:41.427697+00:00",
+  "updated_at_utc": "2026-11-16T16:33:47.296023+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bow Wow",
+        "title": "Like You (feat. Ciara)",
+        "detected_at_utc": "2026-11-16T16:33:47.206003+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
