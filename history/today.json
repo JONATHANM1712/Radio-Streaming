@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:43:41.987887+00:00",
+  "updated_at_utc": "2026-11-16T06:44:44.416331+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Peter Cetera",
+        "title": "You're The Inspiration",
+        "detected_at_utc": "2026-11-16T06:44:43.839843+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Let Me Love You",
