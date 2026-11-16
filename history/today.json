@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:49:01.834777+00:00",
+  "updated_at_utc": "2026-11-16T14:50:05.748884+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Keep Holding On",
+        "detected_at_utc": "2026-11-16T14:49:05.951114+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Peaches (feat. Daniel Caesar & GIVĒON)",
