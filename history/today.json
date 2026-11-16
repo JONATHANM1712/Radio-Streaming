@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:23:10.285224+00:00",
+  "updated_at_utc": "2026-11-16T15:24:14.453948+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-11-16T15:24:10.200787+00:00"
+      },
       {
         "artist": "Adera",
         "title": "Lebih Indah",
