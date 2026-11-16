@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:31:26.074406+00:00",
+  "updated_at_utc": "2026-11-16T13:32:29.439460+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "detected_at_utc": "2026-11-16T13:32:12.389690+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Payphone (feat. Wiz Khalifa)",
