@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:33:57.753589+00:00",
+  "updated_at_utc": "2026-11-16T04:35:01.674897+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "One Love",
+        "detected_at_utc": "2026-11-16T04:34:51.869960+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
