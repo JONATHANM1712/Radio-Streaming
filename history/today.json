@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:30:38.866551+00:00",
+  "updated_at_utc": "2026-11-16T16:31:41.427697+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cranberries",
+        "title": "Ode To My Family",
+        "detected_at_utc": "2026-11-16T16:30:45.687880+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Night Changes",
@@ -640,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-16T16:30:43.493952+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
