@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:48:41.211979+00:00",
+  "updated_at_utc": "2026-11-16T15:49:44.437354+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "All I Ask",
+        "detected_at_utc": "2026-11-16T15:48:48.186415+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Without You (feat. Usher)",
