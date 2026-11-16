@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:24:06.474606+00:00",
+  "updated_at_utc": "2026-11-16T14:25:11.346408+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Crying Over You ◐ (feat. BEKA)",
+        "detected_at_utc": "2026-11-16T14:25:11.153265+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "TiK ToK",
