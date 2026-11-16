@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:14:46.840531+00:00",
+  "updated_at_utc": "2026-11-16T13:16:48.739752+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-16T13:16:48.635890+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
