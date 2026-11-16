@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:13:24.175026+00:00",
+  "updated_at_utc": "2026-11-16T16:16:23.404863+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Ordinary People",
+        "detected_at_utc": "2026-11-16T16:16:23.319746+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "WILDFLOWER",
