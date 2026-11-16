@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T11:06:31.337893+00:00",
+  "updated_at_utc": "2026-11-16T11:10:33.979472+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
+        "detected_at_utc": "2026-11-16T11:10:33.858368+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Back To Black",
