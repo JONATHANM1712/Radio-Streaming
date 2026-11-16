@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:44:45.828090+00:00",
+  "updated_at_utc": "2026-11-16T15:45:49.862313+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-11-16T15:45:45.312878+00:00"
+      },
       {
         "artist": "Tangga",
         "title": "Cinta Tak Mungkin Berhenti",
