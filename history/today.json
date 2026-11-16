@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:40:32.447743+00:00",
+  "updated_at_utc": "2026-11-16T06:42:39.589433+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mario",
+        "title": "Let Me Love You",
+        "detected_at_utc": "2026-11-16T06:42:39.507565+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "Dusk Till Dawn (feat. Sia)",
