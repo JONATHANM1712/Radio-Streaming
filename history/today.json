@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:16:02.725911+00:00",
+  "updated_at_utc": "2026-11-16T04:17:17.009239+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Counting Crows",
+        "title": "Accidentally In Love",
+        "detected_at_utc": "2026-11-16T04:17:16.848924+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
