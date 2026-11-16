@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:54:58.361593+00:00",
+  "updated_at_utc": "2026-11-16T15:58:00.872627+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-16T15:58:00.751199+00:00"
+      },
       {
         "artist": "Musiq Soulchild",
         "title": "Just Friends (Sunny)",
