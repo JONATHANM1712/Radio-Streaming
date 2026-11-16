@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:03:22.765497+00:00",
+  "updated_at_utc": "2026-11-16T15:05:33.100123+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "What's My Name? (feat. Drake)",
+        "detected_at_utc": "2026-11-16T15:05:32.984800+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "That's Not My Name",
