@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:22:27.928167+00:00",
+  "updated_at_utc": "2026-11-16T14:24:06.474606+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "TiK ToK",
+        "detected_at_utc": "2026-11-16T14:24:06.346666+00:00"
+      },
       {
         "artist": "Ray J",
         "title": "One Wish",
