@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T10:58:12.113889+00:00",
+  "updated_at_utc": "2026-11-16T10:59:17.243524+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Football Chants & Sports Chants",
+        "title": "Haaland (Ha Ha Ha) Man City Chants",
+        "detected_at_utc": "2026-11-16T10:58:15.151677+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "New Light",
