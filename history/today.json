@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T12:27:57.597718+00:00",
+  "updated_at_utc": "2026-11-16T12:29:00.412395+00:00",
   "stations": {
     "kis": [
       {
@@ -366,6 +366,11 @@
     ],
     "jak": [
       {
+        "artist": "BTS",
+        "title": "Butter",
+        "detected_at_utc": "2026-11-16T12:28:55.293489+00:00"
+      },
+      {
         "artist": "Black Eyed Peas",
         "title": "Don't Lie",
         "detected_at_utc": "2026-11-16T12:12:27.170638+00:00"
@@ -642,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jason Donovan",
+        "title": "Too Many Broken Hearts",
+        "detected_at_utc": "2026-11-16T12:28:05.514226+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Girls On Film",
