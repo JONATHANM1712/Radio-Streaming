@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:46:51.757896+00:00",
+  "updated_at_utc": "2026-11-16T05:48:01.207406+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-16T05:48:01.089106+00:00"
+      },
       {
         "artist": "Daniel Powter",
         "title": "Bad Day",
