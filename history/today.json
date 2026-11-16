@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T10:44:49.825783+00:00",
+  "updated_at_utc": "2026-11-16T10:46:55.094768+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "New Light",
+        "detected_at_utc": "2026-11-16T10:46:54.972918+00:00"
+      },
       {
         "artist": "Flight Facilities",
         "title": "Crave You (feat. Giselle)",
