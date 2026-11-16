@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:06:38.311077+00:00",
+  "updated_at_utc": "2026-11-16T14:07:42.506218+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-16T14:07:42.362448+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
