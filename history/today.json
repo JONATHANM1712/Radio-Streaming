@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T04:59:29.746021+00:00",
+  "updated_at_utc": "2026-11-16T05:00:32.857052+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Me Too",
+        "detected_at_utc": "2026-11-16T04:59:38.406619+00:00"
+      },
       {
         "artist": "Bad Meets Evil",
         "title": "Lighters (feat. Bruno Mars)",
