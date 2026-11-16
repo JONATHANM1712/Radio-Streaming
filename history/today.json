@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:27:06.406973+00:00",
+  "updated_at_utc": "2026-11-16T13:28:09.638561+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Payphone (feat. Wiz Khalifa)",
+        "detected_at_utc": "2026-11-16T13:28:05.524263+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
