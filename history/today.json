@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:31:21.245174+00:00",
+  "updated_at_utc": "2026-11-16T15:32:24.961898+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-11-16T15:32:23.431078+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Stranger in Moscow",
