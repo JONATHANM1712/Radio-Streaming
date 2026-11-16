@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:16:23.404863+00:00",
+  "updated_at_utc": "2026-11-16T16:17:27.446171+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SAMSONS",
+        "title": "Kisah Tak Sempurna",
+        "detected_at_utc": "2026-11-16T16:17:27.361393+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
