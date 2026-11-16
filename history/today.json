@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:50:52.991455+00:00",
+  "updated_at_utc": "2026-11-16T15:53:55.086137+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Musiq Soulchild",
+        "title": "Just Friends (Sunny)",
+        "detected_at_utc": "2026-11-16T15:53:54.991026+00:00"
+      },
       {
         "artist": "Adele",
         "title": "All I Ask",
