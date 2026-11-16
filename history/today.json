@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:28:18.658231+00:00",
+  "updated_at_utc": "2026-11-16T05:29:29.967004+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sandhy Sondoro",
+        "title": "Malam Biru (Kasihku)",
+        "detected_at_utc": "2026-11-16T05:29:29.843777+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
