@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:55:17.447214+00:00",
+  "updated_at_utc": "2026-11-16T14:57:12.526026+00:00",
   "stations": {
     "kis": [
       {
@@ -962,6 +962,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alice Cooper",
+        "title": "Love's a Loaded Gun",
+        "detected_at_utc": "2026-11-16T14:57:12.403973+00:00"
+      },
       {
         "artist": "Rockwell",
         "title": "Knife",
