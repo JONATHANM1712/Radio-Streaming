@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:38:38.209716+00:00",
+  "updated_at_utc": "2026-11-16T14:39:41.801292+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "detected_at_utc": "2026-11-16T14:38:44.356633+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Oops!...I Did It Again",
