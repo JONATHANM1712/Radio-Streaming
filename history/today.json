@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:12:20.925319+00:00",
+  "updated_at_utc": "2026-11-16T13:13:28.714249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Color Me Badd",
+        "title": "Choose",
+        "detected_at_utc": "2026-11-16T13:13:28.630855+00:00"
+      },
       {
         "artist": "CoCo Lee",
         "title": "Before I Fall In Love",
