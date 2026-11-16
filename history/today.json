@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:20:05.686079+00:00",
+  "updated_at_utc": "2026-11-16T05:22:17.942990+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-11-16T05:22:17.547424+00:00"
+      },
       {
         "artist": "Deorro & Chris Brown",
         "title": "Five More Hours",
