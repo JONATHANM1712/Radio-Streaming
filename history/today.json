@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T16:08:08.791198+00:00",
+  "updated_at_utc": "2026-11-16T16:10:16.218116+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-16T16:10:16.128980+00:00"
+      },
       {
         "artist": "Khalid",
         "title": "Better",
