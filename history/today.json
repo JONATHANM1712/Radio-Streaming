@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:57:08.262517+00:00",
+  "updated_at_utc": "2026-11-16T05:58:11.153303+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ardie Son",
+        "title": "New Life (feat. The Seventh Movement)",
+        "detected_at_utc": "2026-11-16T05:57:18.511435+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "Unwell",
