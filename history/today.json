@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T10:40:51.798391+00:00",
+  "updated_at_utc": "2026-11-16T10:41:55.034366+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daft Punk",
+        "title": "Something About Us",
+        "detected_at_utc": "2026-11-16T10:41:45.219194+00:00"
+      },
       {
         "artist": "Madison Avenue",
         "title": "Don't Call Me Baby",
@@ -467,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Münchener Freiheit",
+        "title": "Bis wir uns wiederseh'n",
+        "detected_at_utc": "2026-11-16T10:41:49.113170+00:00"
+      },
       {
         "artist": "Dido",
         "title": "Thank You",
