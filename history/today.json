@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T12:53:56.915446+00:00",
+  "updated_at_utc": "2026-11-16T12:54:59.392720+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dee Lestari",
+        "title": "Malaikat Juga Tahu",
+        "detected_at_utc": "2026-11-16T12:54:44.299325+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Up&Up",
