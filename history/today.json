@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:18:56.143334+00:00",
+  "updated_at_utc": "2026-11-16T06:20:53.281941+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ecoutez",
+        "title": "Tunjuk 1 Bintang",
+        "detected_at_utc": "2026-11-16T06:20:53.186516+00:00"
+      },
       {
         "artist": "Robyn",
         "title": "Show Me Love (Radio Edit)",
