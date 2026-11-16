@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:04:21.768551+00:00",
+  "updated_at_utc": "2026-11-16T06:05:33.961520+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "detected_at_utc": "2026-11-16T06:05:33.863575+00:00"
+      },
       {
         "artist": "Ardie Son",
         "title": "New Life (feat. The Seventh Movement)",
