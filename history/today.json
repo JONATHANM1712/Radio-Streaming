@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:35:00.604162+00:00",
+  "updated_at_utc": "2026-11-16T13:36:19.515170+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marcell",
+        "title": "Firasat",
+        "detected_at_utc": "2026-11-16T13:36:19.391359+00:00"
+      },
       {
         "artist": "Halsey",
         "title": "Without Me",
