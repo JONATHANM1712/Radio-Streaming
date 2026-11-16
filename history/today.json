@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:24:05.998651+00:00",
+  "updated_at_utc": "2026-11-16T06:25:08.615398+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rob Thomas",
+        "title": "Lonely No More",
+        "detected_at_utc": "2026-11-16T06:25:05.889194+00:00"
+      },
       {
         "artist": "Ecoutez",
         "title": "Tunjuk 1 Bintang",
