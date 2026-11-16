@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:00:29.175484+00:00",
+  "updated_at_utc": "2026-11-16T14:01:36.333993+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-11-16T14:00:55.304732+00:00"
+      },
       {
         "artist": "BRKNRBTZ",
         "title": "Marry Your Daughter",
