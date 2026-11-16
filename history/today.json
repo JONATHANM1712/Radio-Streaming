@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:49:58.364034+00:00",
+  "updated_at_utc": "2026-11-16T06:52:01.593581+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-16T06:52:01.497153+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Somebody to Love (Remix) [feat. USHER]",
