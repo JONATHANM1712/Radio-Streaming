@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:37:33.068043+00:00",
+  "updated_at_utc": "2026-11-16T14:38:38.209716+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunga Citra Lestari",
+        "title": "Kecewa",
+        "detected_at_utc": "2026-11-16T14:37:41.691083+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "Drowning",
