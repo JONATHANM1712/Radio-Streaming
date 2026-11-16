@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T13:09:10.459108+00:00",
+  "updated_at_utc": "2026-11-16T13:10:12.822605+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tame Impala",
+        "title": "Dracula",
+        "detected_at_utc": "2026-11-16T13:09:11.455320+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "One In A Million",
