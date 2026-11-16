@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:11:51.355666+00:00",
+  "updated_at_utc": "2026-11-16T05:12:54.757747+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Deorro & Chris Brown",
+        "title": "Five More Hours",
+        "detected_at_utc": "2026-11-16T05:11:58.606697+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Wild Ones (feat. Sia)",
