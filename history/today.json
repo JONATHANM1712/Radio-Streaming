@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T14:19:18.042588+00:00",
+  "updated_at_utc": "2026-11-16T14:20:26.171399+00:00",
   "stations": {
     "kis": [
       {
@@ -496,6 +496,11 @@
     ],
     "jak": [
       {
+        "artist": "Ray J",
+        "title": "One Wish",
+        "detected_at_utc": "2026-11-16T14:19:51.394778+00:00"
+      },
+      {
         "artist": "Miley Cyrus",
         "title": "Flowers",
         "detected_at_utc": "2026-11-16T14:15:14.008028+00:00"
@@ -877,6 +882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Def Leppard",
+        "title": "Hysteria",
+        "detected_at_utc": "2026-11-16T14:19:55.344704+00:00"
+      },
       {
         "artist": "Spargo",
         "title": "One Night Affair",
