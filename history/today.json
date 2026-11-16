@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T10:41:55.034366+00:00",
+  "updated_at_utc": "2026-11-16T10:44:49.825783+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nidji",
+        "title": "Ku Takkan Bisa",
+        "detected_at_utc": "2026-11-16T10:44:49.702943+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "Something About Us",
