@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:40:41.574630+00:00",
+  "updated_at_utc": "2026-11-16T05:41:44.786111+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Moony",
+        "title": "Dove (I'll Be Loving You) [Club Mix]",
+        "detected_at_utc": "2026-11-16T05:41:41.815169+00:00"
+      },
       {
         "artist": "Raisa",
         "title": "Serba Salah",
@@ -160,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Powter",
+        "title": "Bad Day",
+        "detected_at_utc": "2026-11-16T05:40:49.304180+00:00"
+      },
       {
         "artist": "JP Saxe",
         "title": "If the World Was Ending (feat. Julia Michaels)",
