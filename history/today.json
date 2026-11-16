@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-16T17:02:00.753174+00:00",
+  "updated_at_utc": "2026-11-16T17:03:03.678513+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "detected_at_utc": "2026-11-16T17:02:23.846021+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Dangerous Woman",
