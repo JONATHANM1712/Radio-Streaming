@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T15:43:40.624938+00:00",
+  "updated_at_utc": "2026-11-16T15:44:45.828090+00:00",
   "stations": {
     "kis": [
       {
@@ -591,6 +591,11 @@
     ],
     "jak": [
       {
+        "artist": "David Guetta",
+        "title": "Without You (feat. Usher)",
+        "detected_at_utc": "2026-11-16T15:44:41.916234+00:00"
+      },
+      {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
         "detected_at_utc": "2026-11-16T15:43:40.238731+00:00"
@@ -1067,6 +1072,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Pointer Sisters",
+        "title": "Automatic",
+        "detected_at_utc": "2026-11-16T15:44:33.808268+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "When It's Love",
