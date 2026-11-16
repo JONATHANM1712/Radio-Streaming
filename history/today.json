@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T06:08:38.528423+00:00",
+  "updated_at_utc": "2026-11-16T06:09:41.561117+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sting",
+        "title": "Desert Rose (feat. Cheb Mami)",
+        "detected_at_utc": "2026-11-16T06:09:29.754307+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
