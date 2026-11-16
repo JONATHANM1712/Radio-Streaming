@@ -1,8 +1,13 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:55:06.389475+00:00",
+  "updated_at_utc": "2026-11-16T05:57:08.262517+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Someone Like You",
+        "detected_at_utc": "2026-11-16T05:57:08.161469+00:00"
+      },
       {
         "artist": "Anabell Da Diva",
         "title": "Always Be My Baby",
