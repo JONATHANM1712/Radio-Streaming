@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_at_utc": "2026-11-16T05:30:33.426678+00:00",
+  "updated_at_utc": "2026-11-16T05:31:37.778447+00:00",
   "stations": {
     "kis": [
       {
@@ -156,6 +156,11 @@
     ],
     "jak": [
       {
+        "artist": "JP Saxe",
+        "title": "If the World Was Ending (feat. Julia Michaels)",
+        "detected_at_utc": "2026-11-16T05:31:33.233141+00:00"
+      },
+      {
         "artist": "Sandhy Sondoro",
         "title": "Malam Biru (Kasihku)",
         "detected_at_utc": "2026-11-16T05:29:29.843777+00:00"
@@ -292,6 +297,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Boy Meets Girl",
+        "title": "Waiting for a Star to Fall",
+        "detected_at_utc": "2026-11-16T05:31:25.557686+00:00"
+      },
       {
         "artist": "Shalamar",
         "title": "I Can Make You Feel Good",
