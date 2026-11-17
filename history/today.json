@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T03:46:41.848431+00:00",
+  "updated_at_utc": "2026-11-17T03:47:45.661631+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "Sleeping Child",
+        "detected_at_utc": "2026-11-17T03:47:45.507794+00:00"
+      },
       {
         "artist": "Sophie Ellis-Bextor",
         "title": "Murder On The Dancefloor",
