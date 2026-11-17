@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:05:24.937154+00:00",
+  "updated_at_utc": "2026-11-17T16:07:25.283127+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Ordinary People",
+        "detected_at_utc": "2026-11-17T16:07:25.199676+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Royals",
