@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:04:55.746393+00:00",
+  "updated_at_utc": "2026-11-17T12:06:05.497093+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lykke Li",
+        "title": "I Follow Rivers (The Magician Remix)",
+        "detected_at_utc": "2026-11-17T12:06:05.402925+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
