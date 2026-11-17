@@ -1,8 +1,18 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T03:30:14.866544+00:00",
+  "updated_at_utc": "2026-11-17T03:31:18.049228+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "detected_at_utc": "2026-11-17T03:31:16.504488+00:00"
+      },
+      {
+        "artist": "Robbie Williams & Nicole Kidman",
+        "title": "Somethin' Stupid",
+        "detected_at_utc": "2026-11-17T03:30:14.893253+00:00"
+      },
       {
         "artist": "CeeLo Green",
         "title": "F**k You",
@@ -57,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-17T03:30:15.039045+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "You Are Not Alone",
