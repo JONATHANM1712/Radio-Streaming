@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:03:28.970667+00:00",
+  "updated_at_utc": "2026-11-17T17:06:33.625586+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-17T17:06:33.536365+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Too Good To Say Goodbye",
