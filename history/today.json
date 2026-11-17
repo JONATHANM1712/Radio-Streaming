@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T03:37:33.785170+00:00",
+  "updated_at_utc": "2026-11-17T03:40:31.336827+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Arizona Zervas",
+        "title": "ROXANNE",
+        "detected_at_utc": "2026-11-17T03:40:31.182999+00:00"
+      },
       {
         "artist": "Sugababes",
         "title": "Overload",
