@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:05:59.158869+00:00",
+  "updated_at_utc": "2026-11-17T05:08:57.660010+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-17T05:08:57.436121+00:00"
+      },
       {
         "artist": "Pharrell Williams",
         "title": "Happy (From \"Despicable Me 2\")",
