@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:22:15.973576+00:00",
+  "updated_at_utc": "2026-11-17T16:23:19.389949+00:00",
   "stations": {
     "kis": [
       {
@@ -671,6 +671,11 @@
     ],
     "jak": [
       {
+        "artist": "LAUV",
+        "title": "Paris in the Rain",
+        "detected_at_utc": "2026-11-17T16:22:19.487099+00:00"
+      },
+      {
         "artist": "Tate McRae",
         "title": "Housewife",
         "detected_at_utc": "2026-11-17T16:21:14.858817+00:00"
@@ -1277,6 +1282,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alan Sorrenti",
+        "title": "If you need me now",
+        "detected_at_utc": "2026-11-17T16:22:22.359101+00:00"
+      },
       {
         "artist": "Aerosmith",
         "title": "Crazy",
