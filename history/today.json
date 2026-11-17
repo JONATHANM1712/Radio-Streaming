@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:14:53.982921+00:00",
+  "updated_at_utc": "2026-11-17T17:15:56.661129+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Diana King",
+        "title": "I Say a Little Prayer",
+        "detected_at_utc": "2026-11-17T17:15:42.756535+00:00"
+      },
       {
         "artist": "Shakira & Beyoncé",
         "title": "Beautiful Liar",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "The A Team",
+        "detected_at_utc": "2026-11-17T17:15:50.741845+00:00"
+      },
       {
         "artist": "Chappell Roan",
         "title": "Good Luck, Babe!",
