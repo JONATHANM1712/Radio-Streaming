@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:31:21.927023+00:00",
+  "updated_at_utc": "2026-11-17T17:32:25.050462+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Selamat Pagi (Live)",
+        "detected_at_utc": "2026-11-17T17:32:15.886000+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "Bring Me To Life",
