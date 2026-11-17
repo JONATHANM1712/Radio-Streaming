@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:07:35.544490+00:00",
+  "updated_at_utc": "2026-11-17T06:08:38.500412+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pamungkas",
+        "title": "Berapa Kali Kita Akan Saling Memaafkan",
+        "detected_at_utc": "2026-11-17T06:08:34.197309+00:00"
+      },
       {
         "artist": "Lenka",
         "title": "Trouble Is a Friend",
