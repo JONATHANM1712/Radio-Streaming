@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:44:39.387358+00:00",
+  "updated_at_utc": "2026-11-17T13:45:43.025146+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Total Touch",
+        "title": "I'll Say Goodbye (Radio Edit)",
+        "detected_at_utc": "2026-11-17T13:45:25.052554+00:00"
+      },
       {
         "artist": "Oppie Andaresta",
         "title": "Cuma Khayalan",
