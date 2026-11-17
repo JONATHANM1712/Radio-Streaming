@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:17:36.199136+00:00",
+  "updated_at_utc": "2026-11-17T04:22:41.452493+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eminem",
+        "title": "The Monster (feat. Rihanna)",
+        "detected_at_utc": "2026-11-17T04:22:41.328955+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Salahkah",
