@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:37:43.897375+00:00",
+  "updated_at_utc": "2026-11-17T17:39:36.388592+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-17T17:39:36.297837+00:00"
+      },
       {
         "artist": "Dawin",
         "title": "Dessert",
