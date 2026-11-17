@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T11:48:24.781119+00:00",
+  "updated_at_utc": "2026-11-17T11:49:27.407190+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Outkast",
+        "title": "Hey Ya!",
+        "detected_at_utc": "2026-11-17T11:49:26.164814+00:00"
+      },
       {
         "artist": "Alanis Morissette",
         "title": "Ironic",
@@ -365,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Sweet Child O' Mine",
+        "detected_at_utc": "2026-11-17T11:48:25.603107+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Snooze",
