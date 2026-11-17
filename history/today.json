@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:30:39.085802+00:00",
+  "updated_at_utc": "2026-11-17T15:31:42.004981+00:00",
   "stations": {
     "kis": [
       {
@@ -616,6 +616,11 @@
     ],
     "jak": [
       {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-17T15:30:39.282165+00:00"
+      },
+      {
         "artist": "Jess Glynne",
         "title": "Hold My Hand",
         "detected_at_utc": "2026-11-17T15:26:30.551322+00:00"
@@ -1167,6 +1172,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Bed of Roses",
+        "detected_at_utc": "2026-11-17T15:31:40.824332+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Waiting for That Day",
