@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:14:32.637167+00:00",
+  "updated_at_utc": "2026-11-17T04:16:31.192565+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Salahkah",
+        "detected_at_utc": "2026-11-17T04:16:31.022269+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
