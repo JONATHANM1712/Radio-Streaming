@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T09:37:00.263012+00:00",
+  "updated_at_utc": "2026-11-17T09:39:02.319842+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Love Story",
+        "detected_at_utc": "2026-11-17T09:39:02.238580+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "Adore You",
