@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T09:16:34.579596+00:00",
+  "updated_at_utc": "2026-11-17T09:18:36.706369+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Britney Spears",
+        "title": "Lucky",
+        "detected_at_utc": "2026-11-17T09:18:36.591086+00:00"
+      },
       {
         "artist": "Yovie & Nuno",
         "title": "Dia Milikku",
