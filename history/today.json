@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:52:48.539239+00:00",
+  "updated_at_utc": "2026-11-17T13:53:52.006962+00:00",
   "stations": {
     "kis": [
       {
@@ -501,6 +501,11 @@
     ],
     "jak": [
       {
+        "artist": "James Bay",
+        "title": "Let It Go",
+        "detected_at_utc": "2026-11-17T13:52:54.061751+00:00"
+      },
+      {
         "artist": "Tulus",
         "title": "Teh Hijau",
         "detected_at_utc": "2026-11-17T13:47:44.037503+00:00"
@@ -952,6 +957,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "It's A Hard Life",
+        "detected_at_utc": "2026-11-17T13:52:53.338270+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Ain't Seen Love Like That (Early Version)",
