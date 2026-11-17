@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:12:43.671482+00:00",
+  "updated_at_utc": "2026-11-17T16:13:47.158683+00:00",
   "stations": {
     "kis": [
       {
@@ -661,6 +661,11 @@
     ],
     "jak": [
       {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-17T16:12:47.116556+00:00"
+      },
+      {
         "artist": "LINKIN PARK",
         "title": "Heavy (feat. Kiiara)",
         "detected_at_utc": "2026-11-17T16:09:35.558326+00:00"
@@ -1252,6 +1257,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "John Lennon",
+        "title": "Jealous Guy",
+        "detected_at_utc": "2026-11-17T16:12:49.496662+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Bosnia",
