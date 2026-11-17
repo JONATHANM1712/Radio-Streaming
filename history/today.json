@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:50:33.892556+00:00",
+  "updated_at_utc": "2026-11-17T06:51:38.537144+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Newman",
+        "title": "Love Me Again",
+        "detected_at_utc": "2026-11-17T06:50:35.297752+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
