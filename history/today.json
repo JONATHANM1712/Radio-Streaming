@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T07:07:21.011106+00:00",
+  "updated_at_utc": "2026-11-17T07:08:24.865932+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Santana",
+        "title": "The Game of Love (feat. Michelle Branch) [Main/Radio Mix]",
+        "detected_at_utc": "2026-11-17T07:07:22.418950+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "All of Me",
@@ -285,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "title": "I Like It",
+        "detected_at_utc": "2026-11-17T07:08:22.265181+00:00"
+      },
       {
         "artist": "2AM Club",
         "title": "Worry About You",
