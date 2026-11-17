@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:12:06.525487+00:00",
+  "updated_at_utc": "2026-11-17T05:13:09.059326+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Annie Lennox",
+        "title": "Waiting In Vain",
+        "detected_at_utc": "2026-11-17T05:13:04.629231+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "We Can't Stop",
