@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:20:10.496781+00:00",
+  "updated_at_utc": "2026-11-17T17:21:13.264658+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Camila Cabello, Anna Kendrick, Justin Timberlake, Eric Andre, Daveed Diggs & Kid Cudi",
+        "title": "It Takes Two",
+        "detected_at_utc": "2026-11-17T17:21:02.880751+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "The A Team",
