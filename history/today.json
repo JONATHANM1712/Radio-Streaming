@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:27:20.159411+00:00",
+  "updated_at_utc": "2026-11-17T17:28:23.352688+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Evanescence",
+        "title": "Bring Me To Life",
+        "detected_at_utc": "2026-11-17T17:28:05.556722+00:00"
+      },
       {
         "artist": "My Chemical Romance",
         "title": "I Don't Love You",
@@ -40,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "Clumsy",
+        "detected_at_utc": "2026-11-17T17:28:15.321743+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "She Looks So Perfect",
