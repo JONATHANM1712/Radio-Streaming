@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:39:05.248954+00:00",
+  "updated_at_utc": "2026-11-17T15:40:07.953747+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Tiada Kata Berpisah",
+        "detected_at_utc": "2026-11-17T15:40:01.971929+00:00"
+      },
       {
         "artist": "Natalie Imbruglia",
         "title": "Wrong Impression",
