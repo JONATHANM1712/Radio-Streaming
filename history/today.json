@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:29:20.061020+00:00",
+  "updated_at_utc": "2026-11-17T14:32:22.459282+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "detected_at_utc": "2026-11-17T14:32:22.290165+00:00"
+      },
       {
         "artist": "Jamelia",
         "title": "Superstar",
