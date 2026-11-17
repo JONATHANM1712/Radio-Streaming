@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:24:05.768838+00:00",
+  "updated_at_utc": "2026-11-17T14:25:09.528643+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-17T14:25:08.045893+00:00"
+      },
       {
         "artist": "Avicii",
         "title": "The Nights",
