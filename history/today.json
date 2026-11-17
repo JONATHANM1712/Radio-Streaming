@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:07:30.130973+00:00",
+  "updated_at_utc": "2026-11-17T14:08:34.391747+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simple Plan",
+        "title": "Perfect",
+        "detected_at_utc": "2026-11-17T14:08:21.449940+00:00"
+      },
       {
         "artist": "Simple Plan",
         "title": "Perfect (Acoustic Version)",
@@ -982,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "Bang and Blame",
+        "detected_at_utc": "2026-11-17T14:08:31.831498+00:00"
+      },
       {
         "artist": "Al Jarreau",
         "title": "Boogie Down (Extended Version)",
