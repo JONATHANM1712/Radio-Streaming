@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:03:51.931127+00:00",
+  "updated_at_utc": "2026-11-17T05:04:55.686200+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-11-17T05:04:51.096417+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
