@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:42:15.006224+00:00",
+  "updated_at_utc": "2026-11-17T04:43:18.109387+00:00",
   "stations": {
     "kis": [
       {
@@ -121,6 +121,11 @@
     ],
     "jak": [
       {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-17T04:43:13.631323+00:00"
+      },
+      {
         "artist": "Ari Lasso",
         "title": "Cinta Terakhir",
         "detected_at_utc": "2026-11-17T04:33:59.184672+00:00"
@@ -222,6 +227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Portishead",
+        "title": "Glory Box",
+        "detected_at_utc": "2026-11-17T04:43:14.613422+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Dirty Diana",
