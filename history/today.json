@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:21:22.338373+00:00",
+  "updated_at_utc": "2026-11-17T12:22:39.031902+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "detected_at_utc": "2026-11-17T12:22:38.934887+00:00"
+      },
       {
         "artist": "Ella Mai",
         "title": "Trip",
