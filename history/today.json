@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:40:15.040380+00:00",
+  "updated_at_utc": "2026-11-17T13:43:35.936942+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Love Song",
+        "detected_at_utc": "2026-11-17T13:43:35.764646+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "7 rings",
