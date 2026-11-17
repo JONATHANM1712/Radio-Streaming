@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:34:48.770584+00:00",
+  "updated_at_utc": "2026-11-17T15:35:52.104454+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vanessa Carlton",
+        "title": "A Thousand Miles",
+        "detected_at_utc": "2026-11-17T15:34:49.391821+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
