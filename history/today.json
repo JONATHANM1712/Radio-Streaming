@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:36:48.433466+00:00",
+  "updated_at_utc": "2026-11-17T06:37:52.486732+00:00",
   "stations": {
     "kis": [
       {
@@ -261,6 +261,11 @@
     ],
     "jak": [
       {
+        "artist": "Glenn Fredly & Audy",
+        "title": "Terpesona",
+        "detected_at_utc": "2026-11-17T06:36:51.297103+00:00"
+      },
+      {
         "artist": "Gorillaz",
         "title": "On Melancholy Hill",
         "detected_at_utc": "2026-11-17T06:33:42.802424+00:00"
@@ -502,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "R.E.M.",
+        "title": "What's the Frequency, Kenneth?",
+        "detected_at_utc": "2026-11-17T06:37:37.500720+00:00"
+      },
       {
         "artist": "Billy Ocean",
         "title": "When the Going Gets Tough, The Tough Get Going",
