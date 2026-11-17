@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T08:51:58.160837+00:00",
+  "updated_at_utc": "2026-11-17T08:53:03.430476+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-17T08:52:59.852517+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
