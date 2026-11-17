@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:04:20.208025+00:00",
+  "updated_at_utc": "2026-11-17T16:05:24.937154+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-11-17T16:05:24.850505+00:00"
+      },
       {
         "artist": "Adam Levine",
         "title": "Lost Stars",
