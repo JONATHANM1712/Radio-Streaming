@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:43:18.109387+00:00",
+  "updated_at_utc": "2026-11-17T04:44:21.637443+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "IDGAF (Radio Edit)",
+        "detected_at_utc": "2026-11-17T04:44:15.166901+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
