@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:08:38.500412+00:00",
+  "updated_at_utc": "2026-11-17T06:09:40.959969+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Sorry",
+        "detected_at_utc": "2026-11-17T06:09:36.984907+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Say You'll Be There",
