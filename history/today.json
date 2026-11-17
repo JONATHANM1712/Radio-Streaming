@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:29:08.521175+00:00",
+  "updated_at_utc": "2026-11-17T06:30:14.439719+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-17T06:29:28.464309+00:00"
+      },
       {
         "artist": "Nick Jonas",
         "title": "Jealous",
