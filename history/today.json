@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:49:10.965373+00:00",
+  "updated_at_utc": "2026-11-17T05:51:13.628108+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Foster the People",
+        "title": "Pumped Up Kicks",
+        "detected_at_utc": "2026-11-17T05:51:13.522508+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
