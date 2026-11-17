@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:21:07.710754+00:00",
+  "updated_at_utc": "2026-11-17T15:22:14.458618+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "detected_at_utc": "2026-11-17T15:22:14.240456+00:00"
+      },
       {
         "artist": "ADA Band",
         "title": "Setengah Hati",
