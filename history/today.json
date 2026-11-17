@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:36:15.230929+00:00",
+  "updated_at_utc": "2026-11-17T13:39:11.412629+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Oppie Andaresta",
+        "title": "Cuma Khayalan",
+        "detected_at_utc": "2026-11-17T13:39:11.216605+00:00"
+      },
       {
         "artist": "USHER",
         "title": "U Remind Me",
