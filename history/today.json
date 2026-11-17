@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:18:09.332358+00:00",
+  "updated_at_utc": "2026-11-17T05:19:11.968485+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Pilihanku",
+        "detected_at_utc": "2026-11-17T05:18:10.843157+00:00"
+      },
       {
         "artist": "Annie Lennox",
         "title": "Waiting In Vain",
