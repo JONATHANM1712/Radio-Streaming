@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:37:16.009713+00:00",
+  "updated_at_utc": "2026-11-17T16:38:19.141400+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-17T16:37:16.591373+00:00"
+      },
       {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Leave Before You Love Me",
