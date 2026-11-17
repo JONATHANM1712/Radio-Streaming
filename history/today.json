@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:00:37.933436+00:00",
+  "updated_at_utc": "2026-11-17T13:04:10.230910+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Sorry",
+        "detected_at_utc": "2026-11-17T13:04:10.102468+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Just Give Me a Reason (feat. Nate Ruess)",
