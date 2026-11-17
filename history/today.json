@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:12:37.784677+00:00",
+  "updated_at_utc": "2026-11-17T17:13:40.406686+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Good Luck, Babe!",
+        "detected_at_utc": "2026-11-17T17:12:44.031520+00:00"
+      },
       {
         "artist": "Jamie Cullum",
         "title": "Everlasting Love",
