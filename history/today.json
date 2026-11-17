@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:45:53.571923+00:00",
+  "updated_at_utc": "2026-11-17T14:47:40.813308+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Mind Trick",
+        "detected_at_utc": "2026-11-17T14:47:40.716106+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Best Thing I Never Had",
