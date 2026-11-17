@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:14:11.604645+00:00",
+  "updated_at_utc": "2026-11-17T05:15:14.169528+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Tears",
+        "detected_at_utc": "2026-11-17T05:15:05.316621+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Kau Dan Aku",
