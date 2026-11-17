@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:06:26.701959+00:00",
+  "updated_at_utc": "2026-11-17T14:07:30.130973+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simple Plan",
+        "title": "Perfect (Acoustic Version)",
+        "detected_at_utc": "2026-11-17T14:07:19.460163+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "We Are Never Ever Getting Back Together",
@@ -977,6 +982,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Al Jarreau",
+        "title": "Boogie Down (Extended Version)",
+        "detected_at_utc": "2026-11-17T14:07:29.853625+00:00"
+      },
       {
         "artist": "Al Jarreau",
         "title": "Boogie Down",
