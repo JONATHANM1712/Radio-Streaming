@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T11:54:36.896697+00:00",
+  "updated_at_utc": "2026-11-17T11:55:46.296064+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-17T11:55:46.207596+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Sweet Child O' Mine",
