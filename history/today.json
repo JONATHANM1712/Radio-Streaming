@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:25:09.528643+00:00",
+  "updated_at_utc": "2026-11-17T14:28:15.739568+00:00",
   "stations": {
     "kis": [
       {
@@ -1037,6 +1037,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Ordinary World",
+        "detected_at_utc": "2026-11-17T14:28:15.574359+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Lea",
