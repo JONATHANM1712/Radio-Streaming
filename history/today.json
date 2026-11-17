@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:57:29.628499+00:00",
+  "updated_at_utc": "2026-11-17T12:58:32.144343+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-11-17T12:57:37.807586+00:00"
+      },
       {
         "artist": "Megan Thee Stallion",
         "title": "Savage",
