@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:53:52.006962+00:00",
+  "updated_at_utc": "2026-11-17T13:55:54.946397+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Level 42",
+        "title": "Love In a Peaceful World",
+        "detected_at_utc": "2026-11-17T13:55:54.818138+00:00"
+      },
       {
         "artist": "Jason Mraz & Colbie Caillat",
         "title": "Lucky",
