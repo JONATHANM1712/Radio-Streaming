@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:25:15.556823+00:00",
+  "updated_at_utc": "2026-11-17T06:26:19.022198+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nick Jonas",
+        "title": "Jealous",
+        "detected_at_utc": "2026-11-17T06:26:13.413941+00:00"
+      },
       {
         "artist": "Glenn Fredly & Audy",
         "title": "Terpesona",
