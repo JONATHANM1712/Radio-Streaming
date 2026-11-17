@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:00:18.299571+00:00",
+  "updated_at_utc": "2026-11-17T17:01:22.024325+00:00",
   "stations": {
     "kis": [
       {
@@ -9,7 +9,19 @@
         "detected_at_utc": "2026-11-17T17:00:10.622558+00:00"
       }
     ],
-    "jak": [],
-    "most": []
+    "jak": [
+      {
+        "artist": "Mario Winans",
+        "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+        "detected_at_utc": "2026-11-17T17:00:22.161758+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Queen",
+        "title": "Innuendo",
+        "detected_at_utc": "2026-11-17T17:00:25.859086+00:00"
+      }
+    ]
   }
 }
