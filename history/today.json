@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:20:47.205743+00:00",
+  "updated_at_utc": "2026-11-17T14:22:00.924774+00:00",
   "stations": {
     "kis": [
       {
@@ -541,6 +541,11 @@
     ],
     "jak": [
       {
+        "artist": "Avicii",
+        "title": "The Nights",
+        "detected_at_utc": "2026-11-17T14:22:00.691362+00:00"
+      },
+      {
         "artist": "Float",
         "title": "3 Hari Untuk Selamanya (Live)",
         "detected_at_utc": "2026-11-17T14:16:48.966308+00:00"
@@ -1022,6 +1027,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Toto",
+        "title": "Lea",
+        "detected_at_utc": "2026-11-17T14:22:00.738509+00:00"
+      },
       {
         "artist": "The Black Crowes",
         "title": "Sister Luck",
