@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T08:53:03.430476+00:00",
+  "updated_at_utc": "2026-11-17T08:56:04.803530+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "detected_at_utc": "2026-11-17T08:56:04.672954+00:00"
+      },
       {
         "artist": "Richard Marx",
         "title": "Right Here Waiting",
@@ -301,6 +306,11 @@
     ],
     "jak": [
       {
+        "artist": "Ryan Cabrera",
+        "title": "True",
+        "detected_at_utc": "2026-11-17T08:56:04.758544+00:00"
+      },
+      {
         "artist": "JENNIE",
         "title": "Less than a Lover",
         "detected_at_utc": "2026-11-17T08:52:59.852517+00:00"
@@ -597,6 +607,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "The Sun Goes Down (Living It Up)",
+        "detected_at_utc": "2026-11-17T08:56:04.672834+00:00"
+      },
       {
         "artist": "Saigon Kick",
         "title": "Love Is On the Way",
