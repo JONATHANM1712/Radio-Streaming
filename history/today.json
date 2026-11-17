@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:16:31.192565+00:00",
+  "updated_at_utc": "2026-11-17T04:17:36.199136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "She Will Be Loved",
+        "detected_at_utc": "2026-11-17T04:17:36.058652+00:00"
+      },
       {
         "artist": "Daya",
         "title": "Hide Away",
