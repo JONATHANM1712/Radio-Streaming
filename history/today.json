@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:52:43.177022+00:00",
+  "updated_at_utc": "2026-11-17T06:53:58.696020+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Collective Soul",
+        "title": "Run",
+        "detected_at_utc": "2026-11-17T06:53:58.419760+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Your Love Is My Drug",
@@ -275,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Too Little Too Late",
+        "detected_at_utc": "2026-11-17T06:53:58.498459+00:00"
+      },
       {
         "artist": "John Newman",
         "title": "Love Me Again",
