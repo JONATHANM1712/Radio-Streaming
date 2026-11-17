@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:13:26.761842+00:00",
+  "updated_at_utc": "2026-11-17T06:14:31.310650+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dave Koz",
+        "title": "It Might Be You",
+        "detected_at_utc": "2026-11-17T06:13:44.162654+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Sorry",
@@ -215,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "mgk & Camila Cabello",
+        "title": "Bad Things",
+        "detected_at_utc": "2026-11-17T06:13:42.931330+00:00"
+      },
       {
         "artist": "Pamungkas",
         "title": "Berapa Kali Kita Akan Saling Memaafkan",
