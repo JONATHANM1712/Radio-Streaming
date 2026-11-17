@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:11:40.889474+00:00",
+  "updated_at_utc": "2026-11-17T13:12:44.816524+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eminem",
+        "title": "Love The Way You Lie (feat. Rihanna)",
+        "detected_at_utc": "2026-11-17T13:11:44.240791+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
