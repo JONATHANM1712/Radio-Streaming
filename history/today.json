@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:17:53.008205+00:00",
+  "updated_at_utc": "2026-11-17T06:19:57.844575+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Foster the People",
+        "title": "Pumped Up Kicks",
+        "detected_at_utc": "2026-11-17T06:19:57.575648+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
