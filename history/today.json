@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:03:14.672252+00:00",
+  "updated_at_utc": "2026-11-17T04:05:16.444804+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Project Pop",
+        "title": "Ingatlah Hari Ini",
+        "detected_at_utc": "2026-11-17T04:05:16.296169+00:00"
+      },
       {
         "artist": "Weezer",
         "title": "Island In the Sun",
