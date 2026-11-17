@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:36:33.498720+00:00",
+  "updated_at_utc": "2026-11-17T14:37:36.501031+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Base Jam",
+        "title": "Bermimpi (1996)",
+        "detected_at_utc": "2026-11-17T14:37:21.786854+00:00"
+      },
       {
         "artist": "Jewel",
         "title": "Stand",
