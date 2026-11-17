@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:17:15.780690+00:00",
+  "updated_at_utc": "2026-11-17T12:18:30.132543+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Trip",
+        "detected_at_utc": "2026-11-17T12:18:30.046746+00:00"
+      },
       {
         "artist": "Jung Kook & Latto",
         "title": "Seven",
