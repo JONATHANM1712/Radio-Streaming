@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:45:45.294017+00:00",
+  "updated_at_utc": "2026-11-17T16:48:51.520084+00:00",
   "stations": {
     "kis": [
       {
@@ -1352,6 +1352,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Frente!",
+        "title": "Labour of Love (2014 Remaster)",
+        "detected_at_utc": "2026-11-17T16:48:51.400164+00:00"
+      },
       {
         "artist": "White Lion",
         "title": "Til Death Do Us Part",
