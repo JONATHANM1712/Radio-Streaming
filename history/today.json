@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:05:16.444804+00:00",
+  "updated_at_utc": "2026-11-17T04:06:19.805309+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Girlfriend",
+        "detected_at_utc": "2026-11-17T04:06:13.925956+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "History",
