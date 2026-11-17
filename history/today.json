@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T09:40:04.835945+00:00",
+  "updated_at_utc": "2026-11-17T09:43:06.370676+00:00",
   "stations": {
     "kis": [
       {
@@ -687,6 +687,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rod Stewart",
+        "title": "Infatuation",
+        "detected_at_utc": "2026-11-17T09:43:06.273073+00:00"
+      },
       {
         "artist": "Lisa Lisa & Cult Jam",
         "title": "Something 'Bout Love",
