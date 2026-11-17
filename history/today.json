@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T03:48:49.067455+00:00",
+  "updated_at_utc": "2026-11-17T03:50:50.281147+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Next To You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-17T03:50:50.132369+00:00"
+      },
       {
         "artist": "Michael Learns to Rock",
         "title": "Sleeping Child",
