@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:24:48.355494+00:00",
+  "updated_at_utc": "2026-11-17T04:26:50.994616+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Marcell",
+        "title": "Takkan Terganti",
+        "detected_at_utc": "2026-11-17T04:26:50.768043+00:00"
+      },
       {
         "artist": "Az Yet",
         "title": "Last Night",
