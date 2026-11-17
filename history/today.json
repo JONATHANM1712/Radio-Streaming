@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T09:11:26.810084+00:00",
+  "updated_at_utc": "2026-11-17T09:12:29.874381+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanty",
+        "title": "Hanya Memuji",
+        "detected_at_utc": "2026-11-17T09:12:28.925761+00:00"
+      },
       {
         "artist": "Chanté Moore",
         "title": "Straight Up",
