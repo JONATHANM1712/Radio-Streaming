@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:12:51.672148+00:00",
+  "updated_at_utc": "2026-11-17T15:13:54.246398+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Far East Movement & Ryan Tedder",
+        "title": "Rocketeer (feat. Ryan Tedder)",
+        "detected_at_utc": "2026-11-17T15:12:53.364477+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
