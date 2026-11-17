@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:04:23.294089+00:00",
+  "updated_at_utc": "2026-11-17T14:06:26.701959+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-11-17T14:06:26.549352+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Paparazzi",
