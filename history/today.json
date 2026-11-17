@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:16:38.859720+00:00",
+  "updated_at_utc": "2026-11-17T14:17:42.221370+00:00",
   "stations": {
     "kis": [
       {
@@ -536,6 +536,11 @@
     ],
     "jak": [
       {
+        "artist": "Float",
+        "title": "3 Hari Untuk Selamanya (Live)",
+        "detected_at_utc": "2026-11-17T14:16:48.966308+00:00"
+      },
+      {
         "artist": "Omi",
         "title": "Hula Hoop",
         "detected_at_utc": "2026-11-17T14:13:42.670697+00:00"
@@ -1012,6 +1017,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Black Crowes",
+        "title": "Sister Luck",
+        "detected_at_utc": "2026-11-17T14:16:49.359482+00:00"
+      },
       {
         "artist": "Swing Out Sister",
         "title": "Somewhere In the World",
