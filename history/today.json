@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:55:54.214157+00:00",
+  "updated_at_utc": "2026-11-17T15:57:50.232546+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Roxette",
+        "title": "Vulnerable",
+        "detected_at_utc": "2026-11-17T15:57:50.140641+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "One In A Million",
