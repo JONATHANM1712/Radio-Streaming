@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:33:28.558913+00:00",
+  "updated_at_utc": "2026-11-17T17:35:29.342252+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dawin",
+        "title": "Dessert",
+        "detected_at_utc": "2026-11-17T17:35:29.247436+00:00"
+      },
       {
         "artist": "WILLOW",
         "title": "Wait a Minute!",
