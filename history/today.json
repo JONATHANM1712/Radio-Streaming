@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T13:22:00.409265+00:00",
+  "updated_at_utc": "2026-11-17T13:23:04.567003+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure & Sam Smith",
+        "title": "Latch",
+        "detected_at_utc": "2026-11-17T13:22:17.697304+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Ada titik-titik di ujung doa",
