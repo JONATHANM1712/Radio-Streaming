@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:43:48.022812+00:00",
+  "updated_at_utc": "2026-11-17T14:44:50.756456+00:00",
   "stations": {
     "kis": [
       {
@@ -566,6 +566,11 @@
     ],
     "jak": [
       {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-17T14:44:46.206653+00:00"
+      },
+      {
         "artist": "Glass Animals",
         "title": "Heat Waves",
         "detected_at_utc": "2026-11-17T14:32:22.290165+00:00"
@@ -1067,6 +1072,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "Love Games (Level Best Remix)",
+        "detected_at_utc": "2026-11-17T14:44:48.350350+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Love Games",
