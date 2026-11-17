@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:55:02.415355+00:00",
+  "updated_at_utc": "2026-11-17T06:57:03.675244+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-11-17T06:57:03.474272+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Too Little Too Late",
