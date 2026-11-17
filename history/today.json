@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T09:27:51.535985+00:00",
+  "updated_at_utc": "2026-11-17T09:28:54.027539+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "Adore You",
+        "detected_at_utc": "2026-11-17T09:28:49.800274+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
