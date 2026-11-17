@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:47:40.813308+00:00",
+  "updated_at_utc": "2026-11-17T14:49:58.260201+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Stronger (What Doesn't Kill You)",
+        "detected_at_utc": "2026-11-17T14:49:58.162369+00:00"
+      },
       {
         "artist": "Kuntoaji",
         "title": "Terlalu Lama Sendiri",
