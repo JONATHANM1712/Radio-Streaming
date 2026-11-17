@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:55:37.480206+00:00",
+  "updated_at_utc": "2026-11-17T04:57:38.624382+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-17T04:57:38.461585+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "21 Guns",
