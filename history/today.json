@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:11:03.429101+00:00",
+  "updated_at_utc": "2026-11-17T05:12:06.525487+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Kau Dan Aku",
+        "detected_at_utc": "2026-11-17T05:12:01.230238+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
