@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:27:21.647684+00:00",
+  "updated_at_utc": "2026-11-17T05:28:26.050717+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robin S.",
+        "title": "Show Me Love",
+        "detected_at_utc": "2026-11-17T05:28:23.813589+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Most Girls",
@@ -322,6 +327,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kool & The Gang",
+        "title": "Jungle Boogie",
+        "detected_at_utc": "2026-11-17T05:28:22.231128+00:00"
+      },
       {
         "artist": "Marvin Gaye",
         "title": "Let's Get It On",
