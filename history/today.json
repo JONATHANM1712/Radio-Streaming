@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:33:05.096414+00:00",
+  "updated_at_utc": "2026-11-17T16:34:07.674696+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "311",
+        "title": "Love Song",
+        "detected_at_utc": "2026-11-17T16:34:04.000031+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "NO",
