@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:46:22.110497+00:00",
+  "updated_at_utc": "2026-11-17T04:48:23.311937+00:00",
   "stations": {
     "kis": [
       {
@@ -126,6 +126,11 @@
     ],
     "jak": [
       {
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "detected_at_utc": "2026-11-17T04:48:23.207186+00:00"
+      },
+      {
         "artist": "Dua Lipa",
         "title": "IDGAF (Radio Edit)",
         "detected_at_utc": "2026-11-17T04:44:15.166901+00:00"
@@ -237,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "A Different Corner (Live)",
+        "detected_at_utc": "2026-11-17T04:48:23.158763+00:00"
+      },
       {
         "artist": "Portishead",
         "title": "Glory Box",
