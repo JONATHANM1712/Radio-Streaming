@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T07:05:02.119096+00:00",
+  "updated_at_utc": "2026-11-17T07:07:21.011106+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "2AM Club",
+        "title": "Worry About You",
+        "detected_at_utc": "2026-11-17T07:07:20.755366+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Underneath It All (feat. Lady Saw)",
