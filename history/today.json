@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:48:23.311937+00:00",
+  "updated_at_utc": "2026-11-17T04:51:31.039553+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Mraz",
+        "title": "Make It Mine",
+        "detected_at_utc": "2026-11-17T04:51:30.880452+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Denting",
