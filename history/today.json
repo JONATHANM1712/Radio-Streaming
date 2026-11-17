@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-16T17:13:37.563146+00:00",
+  "updated_at_utc": "2026-11-17T03:30:14.866544+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Don't You Worry Child (feat. John Martin)",
+        "detected_at_utc": "2026-11-17T03:30:14.753478+00:00"
+      },
       {
         "artist": "She",
         "title": "Slow Down Baby",
