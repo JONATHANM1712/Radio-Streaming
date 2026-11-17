@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:03:04.731998+00:00",
+  "updated_at_utc": "2026-11-17T06:05:30.623824+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lenka",
+        "title": "Trouble Is a Friend",
+        "detected_at_utc": "2026-11-17T06:05:30.523898+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Cool for the Summer",
