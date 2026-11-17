@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:29:54.342578+00:00",
+  "updated_at_utc": "2026-11-17T04:30:58.045694+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shakira",
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "detected_at_utc": "2026-11-17T04:30:57.525504+00:00"
+      },
       {
         "artist": "Marcell",
         "title": "Takkan Terganti",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Iyaz",
+        "title": "Solo",
+        "detected_at_utc": "2026-11-17T04:30:54.125402+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
