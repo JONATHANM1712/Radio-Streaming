@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T11:50:30.297832+00:00",
+  "updated_at_utc": "2026-11-17T11:54:36.896697+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Martin",
+        "title": "I Love the Way You Love Me",
+        "detected_at_utc": "2026-11-17T11:54:36.787505+00:00"
+      },
       {
         "artist": "Outkast",
         "title": "Hey Ya!",
