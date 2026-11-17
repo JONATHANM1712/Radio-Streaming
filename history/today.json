@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T03:31:18.049228+00:00",
+  "updated_at_utc": "2026-11-17T03:32:21.203104+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Roses (feat. ROZES)",
+        "detected_at_utc": "2026-11-17T03:32:18.143590+00:00"
+      },
       {
         "artist": "Swedish House Mafia",
         "title": "Don't You Worry Child (feat. John Martin)",
