@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:35:29.342252+00:00",
+  "updated_at_utc": "2026-11-17T17:36:41.223665+00:00",
   "stations": {
     "kis": [
       {
@@ -112,6 +112,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "T-Connection",
+        "title": "Disco Magic",
+        "detected_at_utc": "2026-11-17T17:36:41.128979+00:00"
+      },
       {
         "artist": "B.J. Thomas",
         "title": "As Long as We Got Each Other (with Dusty Springfield) [Theme from 'Growing Pains']",
