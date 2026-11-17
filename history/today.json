@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:08:39.582490+00:00",
+  "updated_at_utc": "2026-11-17T17:09:42.620978+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Everlasting Love",
+        "detected_at_utc": "2026-11-17T17:09:38.622034+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
