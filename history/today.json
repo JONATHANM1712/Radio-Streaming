@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:42:44.171672+00:00",
+  "updated_at_utc": "2026-11-17T05:44:04.911372+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Plain White T's",
+        "title": "1, 2, 3, 4",
+        "detected_at_utc": "2026-11-17T05:44:04.824823+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
