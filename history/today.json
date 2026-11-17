@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:44:50.756456+00:00",
+  "updated_at_utc": "2026-11-17T14:45:53.571923+00:00",
   "stations": {
     "kis": [
       {
@@ -566,6 +566,11 @@
     ],
     "jak": [
       {
+        "artist": "Kuntoaji",
+        "title": "Terlalu Lama Sendiri",
+        "detected_at_utc": "2026-11-17T14:45:48.046516+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "Risk It All",
         "detected_at_utc": "2026-11-17T14:44:46.206653+00:00"
@@ -1072,6 +1077,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blessid Union of Souls",
+        "title": "I Believe",
+        "detected_at_utc": "2026-11-17T14:45:52.321019+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Love Games (Level Best Remix)",
