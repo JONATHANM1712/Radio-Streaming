@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:23:13.248944+00:00",
+  "updated_at_utc": "2026-11-17T17:24:15.866347+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "My Chemical Romance",
+        "title": "I Don't Love You",
+        "detected_at_utc": "2026-11-17T17:23:57.827847+00:00"
+      },
       {
         "artist": "Dawin",
         "title": "Dessert",
@@ -35,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "5 Seconds of Summer",
+        "title": "She Looks So Perfect",
+        "detected_at_utc": "2026-11-17T17:24:08.827048+00:00"
+      },
       {
         "artist": "Camila Cabello, Anna Kendrick, Justin Timberlake, Eric Andre, Daveed Diggs & Kid Cudi",
         "title": "It Takes Two",
