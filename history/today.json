@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T04:13:29.199206+00:00",
+  "updated_at_utc": "2026-11-17T04:14:32.637167+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daya",
+        "title": "Hide Away",
+        "detected_at_utc": "2026-11-17T04:14:31.350366+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "Picture Of You",
