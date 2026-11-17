@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:46:07.049619+00:00",
+  "updated_at_utc": "2026-11-17T05:47:09.556534+00:00",
   "stations": {
     "kis": [
       {
@@ -191,6 +191,11 @@
     ],
     "jak": [
       {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-17T05:47:08.475443+00:00"
+      },
+      {
         "artist": "Plain White T's",
         "title": "1, 2, 3, 4",
         "detected_at_utc": "2026-11-17T05:44:04.824823+00:00"
@@ -367,6 +372,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Wild Is the Wind",
+        "detected_at_utc": "2026-11-17T05:46:44.729754+00:00"
+      },
       {
         "artist": "Chrisye",
         "title": "Sendiri",
