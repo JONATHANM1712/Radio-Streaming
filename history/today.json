@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:01:22.024325+00:00",
+  "updated_at_utc": "2026-11-17T17:02:25.895172+00:00",
   "stations": {
     "kis": [
       {
@@ -10,6 +10,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Too Good To Say Goodbye",
+        "detected_at_utc": "2026-11-17T17:02:25.814614+00:00"
+      },
       {
         "artist": "Mario Winans",
         "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
