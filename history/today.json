@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:39:56.711933+00:00",
+  "updated_at_utc": "2026-11-17T12:46:07.949127+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruben Studdard",
+        "title": "Sorry 2004",
+        "detected_at_utc": "2026-11-17T12:46:07.851964+00:00"
+      },
       {
         "artist": "Isyana Sarasvati",
         "title": "Kau Adalah (feat. Rayi Putra)",
