@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T14:17:42.221370+00:00",
+  "updated_at_utc": "2026-11-17T14:20:47.205743+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "So What",
+        "detected_at_utc": "2026-11-17T14:20:47.006133+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Hitamku",
