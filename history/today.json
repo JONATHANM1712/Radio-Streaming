@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:54:57.925094+00:00",
+  "updated_at_utc": "2026-11-17T16:58:12.061338+00:00",
   "stations": {
     "kis": [
       {
@@ -710,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Winans",
+        "title": "I Don't Wanna Know (feat. Enya and P. Diddy)",
+        "detected_at_utc": "2026-11-17T16:58:11.975303+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
