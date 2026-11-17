@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:28:11.977684+00:00",
+  "updated_at_utc": "2026-11-17T16:29:14.905419+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tangga",
+        "title": "Terbaik Untukmu",
+        "detected_at_utc": "2026-11-17T16:28:40.903404+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
