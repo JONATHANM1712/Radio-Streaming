@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T16:34:07.674696+00:00",
+  "updated_at_utc": "2026-11-17T16:37:16.009713+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SAMSONS",
+        "title": "Luluh",
+        "detected_at_utc": "2026-11-17T16:37:15.910304+00:00"
+      },
       {
         "artist": "311",
         "title": "Love Song",
