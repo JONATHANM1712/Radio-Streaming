@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T07:11:29.275997+00:00",
+  "updated_at_utc": "2026-11-17T07:12:32.475544+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-17T07:12:29.909696+00:00"
+      },
       {
         "artist": "Cardi B, Bad Bunny & J Balvin",
         "title": "I Like It",
