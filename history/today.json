@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T05:24:20.332839+00:00",
+  "updated_at_utc": "2026-11-17T05:27:21.647684+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "That Should Be Me",
+        "detected_at_utc": "2026-11-17T05:27:21.492932+00:00"
+      },
       {
         "artist": "Sia",
         "title": "Unstoppable",
