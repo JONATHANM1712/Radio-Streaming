@@ -1,8 +1,13 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T12:38:06.869981+00:00",
+  "updated_at_utc": "2026-11-17T12:39:56.711933+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-11-17T12:39:56.601338+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Yo (Excuse Me Miss)",
