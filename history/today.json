@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T06:57:03.675244+00:00",
+  "updated_at_utc": "2026-11-17T07:00:08.285543+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "No Doubt",
+        "title": "Underneath It All (feat. Lady Saw)",
+        "detected_at_utc": "2026-11-17T07:00:08.136830+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "With You (Main Version)",
