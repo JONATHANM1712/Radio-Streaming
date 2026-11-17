@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_at_utc": "2026-11-17T15:16:46.372088+00:00",
+  "updated_at_utc": "2026-11-17T15:17:57.987635+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADA Band",
+        "title": "Setengah Hati",
+        "detected_at_utc": "2026-11-17T15:17:03.998917+00:00"
+      },
       {
         "artist": "Far East Movement & Ryan Tedder",
         "title": "Rocketeer (feat. Ryan Tedder)",
