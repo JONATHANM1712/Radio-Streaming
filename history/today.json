@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:42:43.499417+00:00",
+  "updated_at_utc": "2026-11-18T04:43:46.813247+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "STROKEMANENT",
+        "title": "My City",
+        "detected_at_utc": "2026-11-18T04:43:45.635255+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "no song without you",
