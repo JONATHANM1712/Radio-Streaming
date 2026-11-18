@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:08:34.515163+00:00",
+  "updated_at_utc": "2026-11-18T13:09:38.504895+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hanson",
+        "title": "Mmmbop",
+        "detected_at_utc": "2026-11-18T13:08:46.972727+00:00"
+      },
       {
         "artist": "Hilary Duff",
         "title": "So Yesterday",
@@ -677,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Billy Joel",
+        "title": "The River of Dreams",
+        "detected_at_utc": "2026-11-18T13:08:41.673074+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Angel",
