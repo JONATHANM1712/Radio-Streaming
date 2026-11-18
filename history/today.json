@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:55:01.428949+00:00",
+  "updated_at_utc": "2026-11-18T13:56:05.101329+00:00",
   "stations": {
     "kis": [
       {
@@ -390,6 +390,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-18T13:55:50.328496+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Forever (Main Version)",
