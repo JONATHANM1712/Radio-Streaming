@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T07:36:35.891035+00:00",
+  "updated_at_utc": "2026-11-18T07:37:39.742598+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Omg (feat. will.i.am)",
+        "detected_at_utc": "2026-11-18T07:36:39.843665+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
