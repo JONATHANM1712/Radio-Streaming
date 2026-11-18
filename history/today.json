@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:09:14.161922+00:00",
+  "updated_at_utc": "2026-11-18T16:10:16.720773+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-18T16:09:14.938814+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Impossible",
