@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:25:13.140401+00:00",
+  "updated_at_utc": "2026-11-18T04:26:17.528389+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Troye Sivan",
+        "title": "YOUTH",
+        "detected_at_utc": "2026-11-18T04:25:14.107420+00:00"
+      },
       {
         "artist": "Junior Senior",
         "title": "Move Your Feet",
