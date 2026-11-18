@@ -1,9 +1,21 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:00:05.963820+00:00",
+  "updated_at_utc": "2026-11-18T17:01:08.700229+00:00",
   "stations": {
-    "kis": [],
+    "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-11-18T17:00:19.045920+00:00"
+      }
+    ],
     "jak": [],
-    "most": []
+    "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Music And Me",
+        "detected_at_utc": "2026-11-18T17:01:03.587209+00:00"
+      }
+    ]
   }
 }
