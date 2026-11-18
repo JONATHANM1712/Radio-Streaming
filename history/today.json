@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:03:15.062301+00:00",
+  "updated_at_utc": "2026-11-18T17:05:26.105460+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Corrs",
+        "title": "All the Love In the World",
+        "detected_at_utc": "2026-11-18T17:05:26.010822+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "A Sky Full of Stars",
