@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:56:58.816912+00:00",
+  "updated_at_utc": "2026-11-18T15:58:01.606471+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-11-18T15:57:59.229846+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
