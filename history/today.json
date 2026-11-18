@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:15:24.936870+00:00",
+  "updated_at_utc": "2026-11-18T17:16:28.098490+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "detected_at_utc": "2026-11-18T17:15:38.453823+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Rock DJ",
