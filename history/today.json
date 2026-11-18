@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:39:52.167102+00:00",
+  "updated_at_utc": "2026-11-18T16:40:55.231498+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-18T16:40:54.274565+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "How Do You Sleep?",
@@ -1177,6 +1182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wham!",
+        "title": "Everything She Wants (Remix)",
+        "detected_at_utc": "2026-11-18T16:40:37.668160+00:00"
+      },
       {
         "artist": "The Bangles",
         "title": "Eternal Flame",
