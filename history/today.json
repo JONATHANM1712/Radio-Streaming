@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:54:38.384430+00:00",
+  "updated_at_utc": "2026-11-18T15:55:55.848685+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pretenders",
+        "title": "I'll Stand By You",
+        "detected_at_utc": "2026-11-18T15:55:55.704876+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "So Sick",
