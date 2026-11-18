@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:25:38.917271+00:00",
+  "updated_at_utc": "2026-11-18T16:26:41.615565+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-11-18T16:26:35.527606+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "When You're Gone",
