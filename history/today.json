@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T07:20:06.174775+00:00",
+  "updated_at_utc": "2026-11-18T07:21:10.647024+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Adams",
+        "title": "Konservatif",
+        "detected_at_utc": "2026-11-18T07:21:08.408082+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
