@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:49:50.788463+00:00",
+  "updated_at_utc": "2026-11-18T05:50:54.025733+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-18T05:49:57.391848+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "XO",
