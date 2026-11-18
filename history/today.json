@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:14:24.036481+00:00",
+  "updated_at_utc": "2026-11-18T16:16:24.087426+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-11-18T16:16:24.005786+00:00"
+      },
       {
         "artist": "Bilal Indrajaya",
         "title": "Niscaya",
