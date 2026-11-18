@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:06:19.031555+00:00",
+  "updated_at_utc": "2026-11-18T15:07:22.245702+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Archuleta",
+        "title": "Crush",
+        "detected_at_utc": "2026-11-18T15:06:40.826241+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Moves Like Jagger (feat. Christina Aguilera)",
