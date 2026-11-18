@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:28:10.813036+00:00",
+  "updated_at_utc": "2026-11-18T05:29:14.146837+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-18T05:28:15.170247+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "I Lived",
