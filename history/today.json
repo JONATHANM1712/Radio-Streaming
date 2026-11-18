@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:54:06.562157+00:00",
+  "updated_at_utc": "2026-11-18T05:56:03.749396+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rossa",
+        "title": "Ku Menunggu",
+        "detected_at_utc": "2026-11-18T05:56:03.582633+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Drive",
