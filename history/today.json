@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:37:31.975406+00:00",
+  "updated_at_utc": "2026-11-18T15:38:34.633865+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "peterpan",
+        "title": "Jauh Mimpiku",
+        "detected_at_utc": "2026-11-18T15:38:32.610475+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Emotion",
