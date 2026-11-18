@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:31:15.793080+00:00",
+  "updated_at_utc": "2026-11-18T05:32:19.424123+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Marcell",
+        "title": "Takkan Terganti",
+        "detected_at_utc": "2026-11-18T05:31:16.490360+00:00"
+      },
       {
         "artist": "Faith Hill",
         "title": "There You'll Be",
@@ -175,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Flo Rida",
+        "title": "Good Feeling",
+        "detected_at_utc": "2026-11-18T05:31:21.421441+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
