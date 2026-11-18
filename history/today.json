@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-17T17:42:36.148852+00:00",
+  "updated_at_utc": "2026-11-18T03:59:25.374145+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "blink-182",
+        "title": "I Miss You",
+        "detected_at_utc": "2026-11-17T17:42:40.992535+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
