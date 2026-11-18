@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:32:29.133010+00:00",
+  "updated_at_utc": "2026-11-18T14:33:32.149197+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Diana Ross",
+        "title": "When You Tell Me That You Love Me",
+        "detected_at_utc": "2026-11-18T14:33:29.104328+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "I'm Not The Only One",
