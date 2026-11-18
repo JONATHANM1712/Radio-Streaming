@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:54:24.153593+00:00",
+  "updated_at_utc": "2026-11-18T06:56:23.705987+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore",
+        "title": "Cry",
+        "detected_at_utc": "2026-11-18T06:56:23.617679+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
