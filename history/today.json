@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:58:12.159972+00:00",
+  "updated_at_utc": "2026-11-18T04:59:16.110936+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Young Dumb & Broke",
+        "detected_at_utc": "2026-11-18T04:59:14.905815+00:00"
+      },
       {
         "artist": "Lady A",
         "title": "Need You Now",
