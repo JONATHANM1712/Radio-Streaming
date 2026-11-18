@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:57:26.191700+00:00",
+  "updated_at_utc": "2026-11-18T07:00:29.520749+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-11-18T07:00:29.427061+00:00"
+      },
       {
         "artist": "Mandy Moore",
         "title": "Cry",
