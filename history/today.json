@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:51:57.605452+00:00",
+  "updated_at_utc": "2026-11-18T05:53:03.293167+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-18T05:53:03.117282+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
