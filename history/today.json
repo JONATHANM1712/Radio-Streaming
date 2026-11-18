@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:21:28.070201+00:00",
+  "updated_at_utc": "2026-11-18T13:22:31.714618+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Keane",
+        "title": "Everybody's Changing",
+        "detected_at_utc": "2026-11-18T13:21:31.095184+00:00"
+      },
       {
         "artist": "Yovie Widianto & Rio Febrian",
         "title": "Salahi Aku (Ku Jatuh Cinta Lagi)",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-11-18T13:22:31.491577+00:00"
+      },
       {
         "artist": "Nidji",
         "title": "Ku Takkan Bisa",
