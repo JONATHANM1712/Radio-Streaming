@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:26:17.528389+00:00",
+  "updated_at_utc": "2026-11-18T04:27:20.990700+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Airplanes (feat. Hayley Williams of Paramore)",
+        "detected_at_utc": "2026-11-18T04:27:17.708404+00:00"
+      },
       {
         "artist": "Troye Sivan",
         "title": "YOUTH",
@@ -202,6 +207,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Quincy Jones",
+        "title": "Tomorrow (A Better You, Better Me) [feat. Tevin Campbell]",
+        "detected_at_utc": "2026-11-18T04:27:16.811413+00:00"
+      },
       {
         "artist": "Led Zeppelin",
         "title": "Stairway to Heaven",
