@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:14:15.211508+00:00",
+  "updated_at_utc": "2026-11-18T14:15:18.308482+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra And The Backbone",
+        "title": "Main Hati",
+        "detected_at_utc": "2026-11-18T14:14:51.510313+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
