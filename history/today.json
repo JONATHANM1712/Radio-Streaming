@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:38:09.909525+00:00",
+  "updated_at_utc": "2026-11-18T17:39:12.518222+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Flo Rida",
+        "title": "Good Feeling",
+        "detected_at_utc": "2026-11-18T17:39:08.598121+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Lovefool",
