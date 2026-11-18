@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:24:15.953765+00:00",
+  "updated_at_utc": "2026-11-18T14:26:16.150066+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & The Scene",
+        "title": "Who Says",
+        "detected_at_utc": "2026-11-18T14:26:16.004891+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "It's Gonna Be Me",
