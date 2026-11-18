@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:48:46.778906+00:00",
+  "updated_at_utc": "2026-11-18T15:49:49.483384+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Favorite Girl",
+        "detected_at_utc": "2026-11-18T15:48:47.065981+00:00"
+      },
       {
         "artist": "Loren Allred",
         "title": "Never Enough",
