@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:16:50.717199+00:00",
+  "updated_at_utc": "2026-11-18T05:18:52.281617+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andre Hehanussa",
+        "title": "Kkeb",
+        "detected_at_utc": "2026-11-18T05:18:52.122668+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Wide Awake",
