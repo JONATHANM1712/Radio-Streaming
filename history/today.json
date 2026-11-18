@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:07:28.856625+00:00",
+  "updated_at_utc": "2026-11-18T05:08:33.999661+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Paige",
+        "title": "Crush",
+        "detected_at_utc": "2026-11-18T05:07:28.983039+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "In My Head",
@@ -145,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Myles Smith",
+        "title": "Stargazing",
+        "detected_at_utc": "2026-11-18T05:08:33.711660+00:00"
+      },
       {
         "artist": "Far East Movement, The Cataracs & DEV",
         "title": "Like a G6",
