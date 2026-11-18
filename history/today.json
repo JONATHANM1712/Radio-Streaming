@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:14:58.475772+00:00",
+  "updated_at_utc": "2026-11-18T04:16:59.718721+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "CHANEL",
+        "detected_at_utc": "2026-11-18T04:16:59.520994+00:00"
+      },
       {
         "artist": "Sandhy Sondoro",
         "title": "Tak Pernah Padam",
