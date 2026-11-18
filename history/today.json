@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:28:59.708052+00:00",
+  "updated_at_utc": "2026-11-18T17:30:59.634892+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario",
+        "title": "Let Me Love You",
+        "detected_at_utc": "2026-11-18T17:30:59.541809+00:00"
+      },
       {
         "artist": "Dashboard Confessional",
         "title": "Belle of the Boulevard",
