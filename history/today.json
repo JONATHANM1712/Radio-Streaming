@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:37:15.944121+00:00",
+  "updated_at_utc": "2026-11-18T14:38:19.039552+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ratu",
+        "title": "Salahkah Aku Terlalu Mencintaimu",
+        "detected_at_utc": "2026-11-18T14:37:39.840612+00:00"
+      },
       {
         "artist": "Diana Ross",
         "title": "When You Tell Me That You Love Me",
