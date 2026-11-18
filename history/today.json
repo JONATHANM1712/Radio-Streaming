@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:12:51.989377+00:00",
+  "updated_at_utc": "2026-11-18T04:13:55.050995+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sandhy Sondoro",
+        "title": "Tak Pernah Padam",
+        "detected_at_utc": "2026-11-18T04:12:52.605772+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
