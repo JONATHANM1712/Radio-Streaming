@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:07:22.245702+00:00",
+  "updated_at_utc": "2026-11-18T15:08:25.797645+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "98°",
+        "title": "Was It Something I Didn't Say (Acoustic Version)",
+        "detected_at_utc": "2026-11-18T15:07:43.847358+00:00"
+      },
       {
         "artist": "Keyshia Cole",
         "title": "Love",
