@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:37:07.412775+00:00",
+  "updated_at_utc": "2026-11-18T17:38:09.909525+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Lovefool",
+        "detected_at_utc": "2026-11-18T17:38:07.359117+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "I Miss You",
@@ -102,6 +107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Kids On the Block",
+        "title": "I Remember When",
+        "detected_at_utc": "2026-11-18T17:37:51.476841+00:00"
+      },
       {
         "artist": "Michael Bolton",
         "title": "Said I Loved You...But I Lied",
