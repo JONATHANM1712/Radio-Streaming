@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:45:05.832303+00:00",
+  "updated_at_utc": "2026-11-18T06:46:08.573494+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "Rindu Ini",
+        "detected_at_utc": "2026-11-18T06:46:08.403343+00:00"
+      },
       {
         "artist": "Futronix",
         "title": "Neon Glow",
@@ -240,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-18T06:45:07.784561+00:00"
+      },
       {
         "artist": "MAX",
         "title": "Blueberry Eyes (feat. SUGA of BTS)",
