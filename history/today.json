@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:32:25.235508+00:00",
+  "updated_at_utc": "2026-11-18T04:35:31.955305+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "t.A.T.u.",
+        "title": "All The Things She Said",
+        "detected_at_utc": "2026-11-18T04:35:31.782963+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
