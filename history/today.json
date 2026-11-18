@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:10:16.972846+00:00",
+  "updated_at_utc": "2026-11-18T17:11:19.712727+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robbie Williams",
+        "title": "Rock DJ",
+        "detected_at_utc": "2026-11-18T17:10:32.217501+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Kita (Acoustic)",
@@ -20,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-18T17:10:32.655493+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "All the Love In the World",
