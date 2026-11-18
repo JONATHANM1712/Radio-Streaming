@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:21:57.817547+00:00",
+  "updated_at_utc": "2026-11-18T05:23:02.882491+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "It Ain't Over 'Til It's Over",
+        "detected_at_utc": "2026-11-18T05:23:00.132128+00:00"
+      },
       {
         "artist": "Andre Hehanussa",
         "title": "Kkeb",
