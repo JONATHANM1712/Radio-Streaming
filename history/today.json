@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:24:51.789056+00:00",
+  "updated_at_utc": "2026-11-18T17:26:54.210096+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dashboard Confessional",
+        "title": "Belle of the Boulevard",
+        "detected_at_utc": "2026-11-18T17:26:54.107258+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Water Under the Bridge",
