@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:41:27.220811+00:00",
+  "updated_at_utc": "2026-11-18T14:42:50.150334+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "Circles",
+        "detected_at_utc": "2026-11-18T14:42:49.970429+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
