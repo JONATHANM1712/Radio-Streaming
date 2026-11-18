@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:12:53.061779+00:00",
+  "updated_at_utc": "2026-11-18T15:13:56.191735+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Marvin Gaye (feat. Meghan Trainor)",
+        "detected_at_utc": "2026-11-18T15:13:55.281036+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
