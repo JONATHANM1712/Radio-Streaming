@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:06:43.569807+00:00",
+  "updated_at_utc": "2026-11-18T04:08:46.277934+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-18T04:08:46.142121+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Live While We're Young",
