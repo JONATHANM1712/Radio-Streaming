@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:24:33.492801+00:00",
+  "updated_at_utc": "2026-11-18T06:25:36.452418+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All-4-One",
+        "title": "I Can Love You Like That",
+        "detected_at_utc": "2026-11-18T06:25:34.981689+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
@@ -220,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lil Wayne",
+        "title": "Mrs. Officer (feat. Bobby V & Kidd Kidd) [feat. Bobby V & Kidd Kidd]",
+        "detected_at_utc": "2026-11-18T06:25:34.980132+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Team",
