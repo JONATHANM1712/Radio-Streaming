@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:46:08.573494+00:00",
+  "updated_at_utc": "2026-11-18T06:47:11.518694+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario",
+        "title": "How Do I Breathe",
+        "detected_at_utc": "2026-11-18T06:46:11.076800+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Mencuri Hati",
@@ -502,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Garbage",
+        "title": "Stupid Girl",
+        "detected_at_utc": "2026-11-18T06:46:09.781342+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Angie",
