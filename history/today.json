@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:50:09.345700+00:00",
+  "updated_at_utc": "2026-11-18T14:51:13.059657+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-18T14:51:06.442915+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Circles",
