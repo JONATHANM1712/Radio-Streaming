@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:47:53.517998+00:00",
+  "updated_at_utc": "2026-11-18T04:48:57.036358+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-18T04:48:56.709311+00:00"
+      },
       {
         "artist": "Natasha Bedingfield",
         "title": "Pocketful of Sunshine",
@@ -257,6 +262,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joey Scarbury",
+        "title": "Theme from \"Greatest American Hero\" (Believe It or Not)",
+        "detected_at_utc": "2026-11-18T04:48:54.568716+00:00"
+      },
       {
         "artist": "Europe",
         "title": "The Final Countdown",
