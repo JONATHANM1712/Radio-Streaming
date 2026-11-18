@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:18:03.253195+00:00",
+  "updated_at_utc": "2026-11-18T04:20:04.692473+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-11-18T04:20:04.464917+00:00"
+      },
       {
         "artist": "Tyla",
         "title": "CHANEL",
