@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:58:00.792735+00:00",
+  "updated_at_utc": "2026-11-18T16:59:03.426278+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Superhuman (feat. Keri Hilson)",
+        "detected_at_utc": "2026-11-18T16:58:16.507100+00:00"
+      },
       {
         "artist": "meja",
         "title": "I'm Missing You",
