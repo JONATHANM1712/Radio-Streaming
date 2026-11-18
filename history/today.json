@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:02:11.331431+00:00",
+  "updated_at_utc": "2026-11-18T17:03:15.062301+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "California Gurls (feat. Snoop Dogg)",
+        "detected_at_utc": "2026-11-18T17:02:22.112532+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Superhuman (feat. Keri Hilson)",
@@ -17,6 +22,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Police",
+        "title": "Be My Girl - Sally (Remastered 2003)",
+        "detected_at_utc": "2026-11-18T17:03:06.252085+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Music And Me",
