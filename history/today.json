@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:26:54.210096+00:00",
+  "updated_at_utc": "2026-11-18T17:27:57.176144+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Memes",
+        "title": "Pesawatku",
+        "detected_at_utc": "2026-11-18T17:27:54.026754+00:00"
+      },
       {
         "artist": "Michelle Branch",
         "title": "All You Wanted",
