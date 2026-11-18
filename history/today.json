@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:38:19.039552+00:00",
+  "updated_at_utc": "2026-11-18T14:39:43.185611+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-11-18T14:39:43.063976+00:00"
+      },
       {
         "artist": "Selena Gomez & The Scene",
         "title": "Who Says",
