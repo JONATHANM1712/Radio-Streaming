@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:24:51.695187+00:00",
+  "updated_at_utc": "2026-11-18T15:25:54.563435+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Sugar",
+        "detected_at_utc": "2026-11-18T15:25:11.828206+00:00"
+      },
       {
         "artist": "Tamia",
         "title": "Officially Missing You",
