@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:49:15.191378+00:00",
+  "updated_at_utc": "2026-11-18T06:51:16.930728+00:00",
   "stations": {
     "kis": [
       {
@@ -512,6 +512,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "GTR",
+        "title": "When the Heart Rules the Mind",
+        "detected_at_utc": "2026-11-18T06:51:16.845897+00:00"
+      },
       {
         "artist": "Garbage",
         "title": "Stupid Girl",
