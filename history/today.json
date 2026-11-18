@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:06:56.649461+00:00",
+  "updated_at_utc": "2026-11-18T16:09:14.161922+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheryl Crow",
+        "title": "The First Cut Is The Deepest",
+        "detected_at_utc": "2026-11-18T16:09:14.075161+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "When I Was Your Man",
