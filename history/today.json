@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T03:59:25.374145+00:00",
+  "updated_at_utc": "2026-11-18T04:00:31.817736+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Speed of Sound",
+        "detected_at_utc": "2026-11-18T04:00:30.566014+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
@@ -132,6 +137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Learn",
+        "detected_at_utc": "2026-11-18T04:00:30.571815+00:00"
+      },
       {
         "artist": "Keziah Jones",
         "title": "Million Miles From Home",
