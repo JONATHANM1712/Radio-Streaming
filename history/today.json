@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:27:20.990700+00:00",
+  "updated_at_utc": "2026-11-18T04:28:24.586065+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Richard Blackwood",
+        "title": "Someone There for Me",
+        "detected_at_utc": "2026-11-18T04:28:17.834510+00:00"
+      },
       {
         "artist": "Sixpence None the Richer",
         "title": "Kiss Me",
