@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:53:19.669930+00:00",
+  "updated_at_utc": "2026-11-18T14:54:22.818114+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Pretty Boy",
+        "detected_at_utc": "2026-11-18T14:54:15.305603+00:00"
+      },
       {
         "artist": "Keith Martin",
         "title": "Love of My Life",
@@ -932,6 +937,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Don't Cry (Alternate Lyrics)",
+        "detected_at_utc": "2026-11-18T14:53:55.007488+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Don't Cry (Original)",
