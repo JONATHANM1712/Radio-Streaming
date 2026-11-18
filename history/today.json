@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:26:41.615565+00:00",
+  "updated_at_utc": "2026-11-18T16:28:39.140586+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Where Is The Love?",
+        "detected_at_utc": "2026-11-18T16:28:39.044625+00:00"
+      },
       {
         "artist": "Owl City",
         "title": "Fireflies",
