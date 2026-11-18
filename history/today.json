@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:11:37.444750+00:00",
+  "updated_at_utc": "2026-11-18T05:12:42.290904+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fifth Harmony",
+        "title": "Worth It (feat. Kid Ink)",
+        "detected_at_utc": "2026-11-18T05:11:40.075748+00:00"
+      },
       {
         "artist": "Myles Smith",
         "title": "Stargazing",
