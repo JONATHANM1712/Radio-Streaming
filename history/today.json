@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:01:19.624897+00:00",
+  "updated_at_utc": "2026-11-18T06:24:33.492801+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sam Smith",
+        "title": "Like I Can",
+        "detected_at_utc": "2026-11-18T06:24:33.369782+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "My Humps",
@@ -215,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-11-18T06:24:33.409785+00:00"
+      },
       {
         "artist": "Disclosure",
         "title": "Omen (feat. Sam Smith)",
@@ -442,6 +452,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Man of Our Times (2007 Remaster)",
+        "detected_at_utc": "2026-11-18T06:24:33.369730+00:00"
+      },
       {
         "artist": "Milli Vanilli",
         "title": "Girl You Know It's True",
