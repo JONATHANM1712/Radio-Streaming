@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:24:36.236198+00:00",
+  "updated_at_utc": "2026-11-18T16:25:38.917271+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City",
+        "title": "Fireflies",
+        "detected_at_utc": "2026-11-18T16:25:35.325448+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Solo (feat. Demi Lovato)",
