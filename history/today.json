@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T07:05:38.161889+00:00",
+  "updated_at_utc": "2026-11-18T07:07:42.069858+00:00",
   "stations": {
     "kis": [
       {
@@ -547,6 +547,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Bangles",
+        "title": "Manic Monday",
+        "detected_at_utc": "2026-11-18T07:07:41.927743+00:00"
+      },
       {
         "artist": "Matt Bianco",
         "title": "Dancing In the Street",
