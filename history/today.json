@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T12:51:34.860630+00:00",
+  "updated_at_utc": "2026-11-18T12:52:38.686146+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tompi",
+        "title": "Sedari Dulu",
+        "detected_at_utc": "2026-11-18T12:51:35.222432+00:00"
+      },
       {
         "artist": "GAYLE",
         "title": "abc (nicer)",
