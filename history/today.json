@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:00:31.817736+00:00",
+  "updated_at_utc": "2026-11-18T04:02:32.987314+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "detected_at_utc": "2026-11-18T04:02:32.852738+00:00"
+      },
       {
         "artist": "Mandy Moore",
         "title": "Cry",
