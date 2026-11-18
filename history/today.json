@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:16:24.087426+00:00",
+  "updated_at_utc": "2026-11-18T16:18:25.603128+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anda Perdana",
+        "title": "Tentang Seseorang (Remastered 2024)",
+        "detected_at_utc": "2026-11-18T16:18:25.486071+00:00"
+      },
       {
         "artist": "Savage Garden",
         "title": "Truly Madly Deeply",
