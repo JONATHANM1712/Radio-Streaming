@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:20:37.049927+00:00",
+  "updated_at_utc": "2026-11-18T14:22:09.395298+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "*NSYNC",
+        "title": "It's Gonna Be Me",
+        "detected_at_utc": "2026-11-18T14:22:09.264379+00:00"
+      },
       {
         "artist": "Dave & Tems",
         "title": "Raindance",
