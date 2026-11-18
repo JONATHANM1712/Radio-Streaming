@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:18:30.190023+00:00",
+  "updated_at_utc": "2026-11-18T14:19:34.141713+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dave & Tems",
+        "title": "Raindance",
+        "detected_at_utc": "2026-11-18T14:19:02.513775+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Main Hati",
