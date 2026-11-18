@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:55:26.256659+00:00",
+  "updated_at_utc": "2026-11-18T14:57:20.124220+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Moves Like Jagger (feat. Christina Aguilera)",
+        "detected_at_utc": "2026-11-18T14:57:19.947709+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Go On Girl",
