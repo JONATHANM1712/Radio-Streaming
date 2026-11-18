@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:26:16.150066+00:00",
+  "updated_at_utc": "2026-11-18T14:27:19.413346+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Side To Side (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-18T14:27:17.730425+00:00"
+      },
       {
         "artist": "Selena Gomez & The Scene",
         "title": "Who Says",
@@ -867,6 +872,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "UDK",
+        "title": "Recalled to Life",
+        "detected_at_utc": "2026-11-18T14:26:52.506493+00:00"
+      },
       {
         "artist": "The Outfield",
         "title": "For You",
