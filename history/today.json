@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:00:17.795569+00:00",
+  "updated_at_utc": "2026-11-18T13:04:22.205281+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mêlée",
+        "title": "Built to Last",
+        "detected_at_utc": "2026-11-18T13:04:22.083655+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
