@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:38:35.398036+00:00",
+  "updated_at_utc": "2026-11-18T05:40:39.719870+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-11-18T05:40:39.586382+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
