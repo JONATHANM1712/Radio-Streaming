@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:36:55.066595+00:00",
+  "updated_at_utc": "2026-11-18T06:38:57.853918+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MAX",
+        "title": "Blueberry Eyes (feat. SUGA of BTS)",
+        "detected_at_utc": "2026-11-18T06:38:57.751242+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
