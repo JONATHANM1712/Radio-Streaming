@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T12:55:58.421723+00:00",
+  "updated_at_utc": "2026-11-18T12:57:58.414954+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-18T12:57:58.320971+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Sedari Dulu",
