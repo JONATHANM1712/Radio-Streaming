@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:19:29.042813+00:00",
+  "updated_at_utc": "2026-11-18T16:22:30.776858+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "When You're Gone",
+        "detected_at_utc": "2026-11-18T16:22:30.669288+00:00"
+      },
       {
         "artist": "Anda Perdana",
         "title": "Tentang Seseorang (Remastered 2024)",
