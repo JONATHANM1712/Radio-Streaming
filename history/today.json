@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:25:54.563435+00:00",
+  "updated_at_utc": "2026-11-18T15:26:58.374008+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "I Feel It Coming (feat. Daft Punk)",
+        "detected_at_utc": "2026-11-18T15:26:13.878674+00:00"
+      },
       {
         "artist": "Adrian Martadinata",
         "title": "Ajari Aku",
