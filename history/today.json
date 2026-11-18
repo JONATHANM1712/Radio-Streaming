@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:18:27.106262+00:00",
+  "updated_at_utc": "2026-11-18T17:19:43.650534+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tiffany",
+        "title": "If Love Is Blind",
+        "detected_at_utc": "2026-11-18T17:19:43.527417+00:00"
+      },
       {
         "artist": "Echosmith",
         "title": "Cool Kids",
