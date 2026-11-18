@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:46:18.955680+00:00",
+  "updated_at_utc": "2026-11-18T13:48:30.738858+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Splender",
+        "title": "I Think God Can Explain",
+        "detected_at_utc": "2026-11-18T13:47:31.322514+00:00"
+      },
       {
         "artist": "Shanice",
         "title": "I Love Your Smile",
@@ -375,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-11-18T13:48:30.434863+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Intuisi",
@@ -772,6 +782,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Cherish the Day",
+        "detected_at_utc": "2026-11-18T13:47:52.362960+00:00"
+      },
       {
         "artist": "Alphaville",
         "title": "Forever Young",
