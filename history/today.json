@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T06:47:11.518694+00:00",
+  "updated_at_utc": "2026-11-18T06:49:15.191378+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-18T06:49:15.102086+00:00"
+      },
       {
         "artist": "Mario",
         "title": "How Do I Breathe",
