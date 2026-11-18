@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:37:34.530522+00:00",
+  "updated_at_utc": "2026-11-18T04:38:38.207392+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-11-18T04:38:36.424819+00:00"
+      },
       {
         "artist": "Vierra",
         "title": "Seandainya",
