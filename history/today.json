@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:17:05.843924+00:00",
+  "updated_at_utc": "2026-11-18T13:18:08.715066+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Yovie Widianto & Rio Febrian",
+        "title": "Salahi Aku (Ku Jatuh Cinta Lagi)",
+        "detected_at_utc": "2026-11-18T13:17:12.649275+00:00"
+      },
       {
         "artist": "Nelly Furtado",
         "title": "Say It Right",
@@ -702,6 +707,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Radiohead",
+        "title": "High and Dry",
+        "detected_at_utc": "2026-11-18T13:17:07.311313+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "The Girl Is Mine (feat. Paul McCartney)",
