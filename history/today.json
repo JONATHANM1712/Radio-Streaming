@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:39:41.477633+00:00",
+  "updated_at_utc": "2026-11-18T04:42:43.499417+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Busta Rhymes & Mariah Carey",
+        "title": "I Know What You Want (feat. Flipmode Squad)",
+        "detected_at_utc": "2026-11-18T04:42:43.333718+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Say",
@@ -237,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Europe",
+        "title": "The Final Countdown",
+        "detected_at_utc": "2026-11-18T04:42:43.408902+00:00"
+      },
       {
         "artist": "Taylor Dayne",
         "title": "I'll Be Your Shelter",
