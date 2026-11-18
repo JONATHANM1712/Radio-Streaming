@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:34:02.078591+00:00",
+  "updated_at_utc": "2026-11-18T17:37:07.412775+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nadhif Basalamah",
+        "title": "penjaga hati",
+        "detected_at_utc": "2026-11-18T17:37:07.329487+00:00"
+      },
       {
         "artist": "Mario",
         "title": "Let Me Love You",
