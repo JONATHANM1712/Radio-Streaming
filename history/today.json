@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:44:42.521267+00:00",
+  "updated_at_utc": "2026-11-18T15:45:45.260154+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Loren Allred",
+        "title": "Never Enough",
+        "detected_at_utc": "2026-11-18T15:45:42.795994+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
@@ -1052,6 +1057,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Ozzy Osbourne",
+        "title": "Mama, I'm Coming Home",
+        "detected_at_utc": "2026-11-18T15:45:25.459103+00:00"
+      },
       {
         "artist": "Crowded House",
         "title": "Don't Dream It's Over",
