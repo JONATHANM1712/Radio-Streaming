@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:39:12.518222+00:00",
+  "updated_at_utc": "2026-11-18T17:41:12.790023+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "detected_at_utc": "2026-11-18T17:41:12.700133+00:00"
+      },
       {
         "artist": "Nadhif Basalamah",
         "title": "penjaga hati",
