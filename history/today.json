@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T04:55:06.165816+00:00",
+  "updated_at_utc": "2026-11-18T04:56:09.317243+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady A",
+        "title": "Need You Now",
+        "detected_at_utc": "2026-11-18T04:55:07.506017+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tears for Fears",
+        "title": "Shout",
+        "detected_at_utc": "2026-11-18T04:56:06.671586+00:00"
+      },
       {
         "artist": "Pink Floyd",
         "title": "The Great Gig In the Sky",
