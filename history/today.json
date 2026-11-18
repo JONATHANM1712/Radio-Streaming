@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:30:02.463772+00:00",
+  "updated_at_utc": "2026-11-18T14:31:26.103887+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-18T14:31:25.978929+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Side To Side (feat. Nicki Minaj)",
