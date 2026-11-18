@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:22:30.776858+00:00",
+  "updated_at_utc": "2026-11-18T16:23:33.585109+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Solo (feat. Demi Lovato)",
+        "detected_at_utc": "2026-11-18T16:22:31.702018+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
@@ -1137,6 +1142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Maximin Neustado",
+        "title": "Dark Matter Disco",
+        "detected_at_utc": "2026-11-18T16:23:16.308501+00:00"
+      },
       {
         "artist": "U2",
         "title": "Staring At The Sun",
