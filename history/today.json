@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:18:52.281617+00:00",
+  "updated_at_utc": "2026-11-18T05:19:55.622825+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "D’MASIV",
+        "title": "Apa Salahku",
+        "detected_at_utc": "2026-11-18T05:18:56.440727+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
