@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:48:30.738858+00:00",
+  "updated_at_utc": "2026-11-18T13:50:38.971407+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Selena Gomez & The Scene",
+        "title": "Love You Like A Love Song",
+        "detected_at_utc": "2026-11-18T13:50:38.894676+00:00"
+      },
       {
         "artist": "Splender",
         "title": "I Think God Can Explain",
