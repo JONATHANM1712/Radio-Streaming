@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T13:27:54.050342+00:00",
+  "updated_at_utc": "2026-11-18T13:30:12.575403+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Good Life",
+        "detected_at_utc": "2026-11-18T13:30:12.497413+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
