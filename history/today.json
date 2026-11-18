@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T05:58:05.687785+00:00",
+  "updated_at_utc": "2026-11-18T06:00:16.131336+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure",
+        "title": "Omen (feat. Sam Smith)",
+        "detected_at_utc": "2026-11-18T06:00:15.885833+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Little L",
