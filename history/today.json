@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:13:21.297919+00:00",
+  "updated_at_utc": "2026-11-18T16:14:24.036481+00:00",
   "stations": {
     "kis": [
       {
@@ -1122,6 +1122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Wishing On a Star",
+        "detected_at_utc": "2026-11-18T16:14:04.991036+00:00"
+      },
       {
         "artist": "Rick Astley",
         "title": "It Would Take a Strong Strong Man",
