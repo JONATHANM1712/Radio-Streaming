@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:46:02.496463+00:00",
+  "updated_at_utc": "2026-11-18T16:47:05.158950+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Bubbly",
+        "detected_at_utc": "2026-11-18T16:47:01.519756+00:00"
+      },
       {
         "artist": "Tangga",
         "title": "Hebat",
@@ -1187,6 +1192,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Meat Loaf",
+        "title": "I'd Lie for You (And That's the Truth)",
+        "detected_at_utc": "2026-11-18T16:46:45.430322+00:00"
+      },
       {
         "artist": "Good News",
         "title": "Breaking News",
