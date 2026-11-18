@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:55:55.848685+00:00",
+  "updated_at_utc": "2026-11-18T15:56:58.816912+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-18T15:55:56.350813+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Favorite Girl",
