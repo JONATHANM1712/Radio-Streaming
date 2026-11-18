@@ -1,8 +1,13 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T15:29:19.748350+00:00",
+  "updated_at_utc": "2026-11-18T15:30:23.024642+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Wet Wet Wet",
+        "title": "Goodnight Girl",
+        "detected_at_utc": "2026-11-18T15:30:21.139296+00:00"
+      },
       {
         "artist": "K-Ci & JoJo",
         "title": "All My Life",
@@ -500,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-18T15:30:22.000366+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
@@ -1012,6 +1022,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "Weave Your Spell",
+        "detected_at_utc": "2026-11-18T15:30:02.908265+00:00"
+      },
       {
         "artist": "Heatwave",
         "title": "Super Soul Sister",
