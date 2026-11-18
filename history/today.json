@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T07:28:21.907033+00:00",
+  "updated_at_utc": "2026-11-18T07:29:26.624936+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Thinking Out Loud",
+        "detected_at_utc": "2026-11-18T07:28:25.331176+00:00"
+      },
       {
         "artist": "The Adams",
         "title": "Konservatif",
@@ -592,6 +597,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rush",
+        "title": "Fly By Night",
+        "detected_at_utc": "2026-11-18T07:29:24.817567+00:00"
+      },
       {
         "artist": "Kate Bush",
         "title": "Running Up That Hill (A Deal With God)",
