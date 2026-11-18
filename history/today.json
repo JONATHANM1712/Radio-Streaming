@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T14:51:13.059657+00:00",
+  "updated_at_utc": "2026-11-18T14:52:16.414681+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Go On Girl",
+        "detected_at_utc": "2026-11-18T14:52:08.496558+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
@@ -927,6 +932,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Don't Cry (Alternate Lyrics)",
+        "detected_at_utc": "2026-11-18T14:51:49.030098+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Don't Cry (Original)",
