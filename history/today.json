@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at_utc": "2026-11-18T16:31:41.859475+00:00",
+  "updated_at_utc": "2026-11-18T16:32:44.591042+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "How Do You Sleep?",
+        "detected_at_utc": "2026-11-18T16:32:43.859106+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Where Is The Love?",
