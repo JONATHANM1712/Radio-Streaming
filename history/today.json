@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:28:38.888326+00:00",
+  "updated_at_utc": "2026-11-19T04:29:43.610668+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mark Morrison",
+        "title": "Return Of The Mack",
+        "detected_at_utc": "2026-11-19T04:29:40.124132+00:00"
+      },
       {
         "artist": "Five",
         "title": "Until the Time Is Through",
@@ -140,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-19T04:29:38.824198+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Shape of You",
