@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:36:14.523243+00:00",
+  "updated_at_utc": "2026-11-19T03:37:18.390977+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chrisye",
+        "title": "Cintaku",
+        "detected_at_utc": "2026-11-19T03:37:13.097130+00:00"
+      },
       {
         "artist": "Sugar Ray",
         "title": "When It's Over (David Kahne Main)",
