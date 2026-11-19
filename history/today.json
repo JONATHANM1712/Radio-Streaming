@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:47:19.202190+00:00",
+  "updated_at_utc": "2026-11-19T14:48:54.014192+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amy Winehouse",
+        "title": "Back To Black",
+        "detected_at_utc": "2026-11-19T14:48:53.920654+00:00"
+      },
       {
         "artist": "Nico & Vinz",
         "title": "Am I Wrong",
