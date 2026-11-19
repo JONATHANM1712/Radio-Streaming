@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:15:06.718356+00:00",
+  "updated_at_utc": "2026-11-19T17:16:09.466465+00:00",
   "stations": {
     "kis": [
       {
@@ -31,6 +31,11 @@
     ],
     "jak": [
       {
+        "artist": "Jung Kook & Jack Harlow",
+        "title": "3D",
+        "detected_at_utc": "2026-11-19T17:15:37.656663+00:00"
+      },
+      {
         "artist": "Modjo",
         "title": "Lady (Hear Me Tonight)",
         "detected_at_utc": "2026-11-19T17:11:30.147350+00:00"
@@ -57,6 +62,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Love Unlimited Orchestra",
+        "title": "Love's Theme",
+        "detected_at_utc": "2026-11-19T17:15:43.908934+00:00"
+      },
       {
         "artist": "Bad Company",
         "title": "How About That",
