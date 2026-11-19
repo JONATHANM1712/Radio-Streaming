@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:11:02.853920+00:00",
+  "updated_at_utc": "2026-11-19T17:12:05.814586+00:00",
   "stations": {
     "kis": [
       {
@@ -26,6 +26,11 @@
     ],
     "jak": [
       {
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "detected_at_utc": "2026-11-19T17:11:30.147350+00:00"
+      },
+      {
         "artist": "no na",
         "title": "honk!",
         "detected_at_utc": "2026-11-19T17:09:26.009632+00:00"
@@ -47,6 +52,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bad Company",
+        "title": "How About That",
+        "detected_at_utc": "2026-11-19T17:11:34.670761+00:00"
+      },
       {
         "artist": "Brian May",
         "title": "Too Much Love Will Kill You",
