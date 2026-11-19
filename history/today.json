@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:25:35.336719+00:00",
+  "updated_at_utc": "2026-11-19T04:26:39.958247+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "detected_at_utc": "2026-11-19T04:26:33.611156+00:00"
+      },
       {
         "artist": "Conor Maynard Vs. The Vamps",
         "title": "Shape Of You",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "You'll See",
+        "detected_at_utc": "2026-11-19T04:26:33.611565+00:00"
+      },
       {
         "artist": "Coolio",
         "title": "Fantastic Voyage",
