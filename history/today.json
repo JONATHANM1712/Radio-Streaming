@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:34:25.296843+00:00",
+  "updated_at_utc": "2026-11-19T14:35:28.090097+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "minoru",
+        "title": "Merindukanmu",
+        "detected_at_utc": "2026-11-19T14:35:08.669455+00:00"
+      },
       {
         "artist": "Hoobastank",
         "title": "The Reason",
