@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:05:19.654099+00:00",
+  "updated_at_utc": "2026-11-19T16:08:23.657567+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Idgitaf",
+        "title": "Sedia Aku Sebelum Hujan",
+        "detected_at_utc": "2026-11-19T16:08:23.559407+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
