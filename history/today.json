@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:18:32.735608+00:00",
+  "updated_at_utc": "2026-11-19T13:20:35.606997+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Bieber",
+        "title": "One Less Lonely Girl",
+        "detected_at_utc": "2026-11-19T13:20:35.418447+00:00"
+      },
       {
         "artist": "Andity",
         "title": "Semenjak Ada Dirimu",
