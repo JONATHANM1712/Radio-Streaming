@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:22:58.360984+00:00",
+  "updated_at_utc": "2026-11-19T16:24:01.409731+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "detected_at_utc": "2026-11-19T16:23:17.373198+00:00"
+      },
       {
         "artist": "Haven",
         "title": "Say Something",
@@ -660,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-19T16:23:58.015374+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Better Now",
