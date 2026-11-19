@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:16:22.503336+00:00",
+  "updated_at_utc": "2026-11-19T07:19:25.726187+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Soulmate",
+        "detected_at_utc": "2026-11-19T07:19:25.632879+00:00"
+      },
       {
         "artist": "Vitamin C",
         "title": "Graduation (Friends Forever)",
