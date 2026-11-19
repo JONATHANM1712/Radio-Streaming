@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:44:43.816464+00:00",
+  "updated_at_utc": "2026-11-19T14:46:16.077569+00:00",
   "stations": {
     "kis": [
       {
@@ -1092,6 +1092,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kris Kross",
+        "title": "Alright",
+        "detected_at_utc": "2026-11-19T14:46:15.975296+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "Dreams",
