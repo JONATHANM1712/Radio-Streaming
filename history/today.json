@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:56:25.303603+00:00",
+  "updated_at_utc": "2026-11-19T16:57:28.023762+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dido",
+        "title": "White Flag",
+        "detected_at_utc": "2026-11-19T16:56:59.306113+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
