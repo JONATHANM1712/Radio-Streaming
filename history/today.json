@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T06:44:29.474998+00:00",
+  "updated_at_utc": "2026-11-19T06:46:30.861340+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanice",
+        "title": "I Love Your Smile",
+        "detected_at_utc": "2026-11-19T06:46:30.690362+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Tunjukkan Cintamu",
@@ -477,6 +482,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bebi Romeo",
+        "title": "Bunga Terakhir",
+        "detected_at_utc": "2026-11-19T06:46:30.753939+00:00"
+      },
       {
         "artist": "Romeo",
         "title": "Bunga Terakhir (Remastered 2026)",
