@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:26:35.333759+00:00",
+  "updated_at_utc": "2026-11-19T17:28:01.837172+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zara Larsson & MNEK",
+        "title": "Never Forget You",
+        "detected_at_utc": "2026-11-19T17:28:01.739448+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "feelslikeimfallinginlove",
