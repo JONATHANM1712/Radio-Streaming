@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:51:35.990647+00:00",
+  "updated_at_utc": "2026-11-19T13:52:39.645771+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ali Campbell",
+        "title": "That Look in Your Eyes",
+        "detected_at_utc": "2026-11-19T13:51:43.262274+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Brown Eyes",
@@ -485,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mariah Carey",
+        "title": "Touch My Body",
+        "detected_at_utc": "2026-11-19T13:52:37.686367+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Daylight",
