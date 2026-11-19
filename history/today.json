@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T06:51:39.997503+00:00",
+  "updated_at_utc": "2026-11-19T06:52:45.611091+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-19T06:52:41.616944+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
