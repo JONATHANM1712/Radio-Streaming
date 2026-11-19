@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:51:18.084212+00:00",
+  "updated_at_utc": "2026-11-19T07:52:20.528084+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Rise & Fall (feat. Sting)",
+        "detected_at_utc": "2026-11-19T07:51:18.956306+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
