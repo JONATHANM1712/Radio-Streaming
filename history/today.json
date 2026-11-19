@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:41:33.523948+00:00",
+  "updated_at_utc": "2026-11-19T16:43:55.945985+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Marvin Gaye (feat. Meghan Trainor)",
+        "detected_at_utc": "2026-11-19T16:43:55.843997+00:00"
+      },
       {
         "artist": "Warna",
         "title": "Kisah Terindah",
