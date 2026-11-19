@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:11:28.219786+00:00",
+  "updated_at_utc": "2026-11-19T05:13:31.833642+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tyla",
+        "title": "PUSH 2 START",
+        "detected_at_utc": "2026-11-19T05:13:31.721062+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Hangover (feat. Flo Rida)",
