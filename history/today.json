@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T12:50:42.605293+00:00",
+  "updated_at_utc": "2026-11-19T12:52:53.601310+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kyrania",
+        "title": "Sepenuh Hati",
+        "detected_at_utc": "2026-11-19T12:52:53.466076+00:00"
+      },
       {
         "artist": "Fatih Erdemci",
         "title": "Suçum Değil",
