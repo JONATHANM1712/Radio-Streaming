@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:27:04.773893+00:00",
+  "updated_at_utc": "2026-11-19T05:28:07.443815+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "I Really Like You",
+        "detected_at_utc": "2026-11-19T05:28:04.429302+00:00"
+      },
       {
         "artist": "Ott",
         "title": "Let Me In",
