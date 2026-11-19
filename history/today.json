@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:09:11.349633+00:00",
+  "updated_at_utc": "2026-11-19T15:10:14.223341+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-19T15:09:29.652483+00:00"
+      },
       {
         "artist": "Naughty Boy & Sam Smith",
         "title": "La La La",
