@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:10:51.436570+00:00",
+  "updated_at_utc": "2026-11-19T13:13:02.417327+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Stronger",
+        "detected_at_utc": "2026-11-19T13:13:02.244207+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
