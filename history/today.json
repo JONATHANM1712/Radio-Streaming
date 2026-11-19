@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:26:47.671511+00:00",
+  "updated_at_utc": "2026-11-19T15:28:19.678971+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-11-19T15:28:19.582187+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
