@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:35:48.884088+00:00",
+  "updated_at_utc": "2026-11-19T04:36:52.503894+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-11-19T04:35:49.880260+00:00"
+      },
       {
         "artist": "Jamelia",
         "title": "Superstar",
@@ -307,6 +312,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pulp",
+        "title": "Common People",
+        "detected_at_utc": "2026-11-19T04:36:50.319861+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Stop Loving You",
