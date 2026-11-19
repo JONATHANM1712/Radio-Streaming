@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:36:21.017494+00:00",
+  "updated_at_utc": "2026-11-19T16:37:23.944150+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "Kisah Terindah",
+        "detected_at_utc": "2026-11-19T16:36:44.077117+00:00"
+      },
       {
         "artist": "Damien Rice",
         "title": "The Blower's Daughter",
@@ -1342,6 +1347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Roberta Flack",
+        "title": "Making Love",
+        "detected_at_utc": "2026-11-19T16:36:22.886958+00:00"
+      },
       {
         "artist": "Elton John",
         "title": "Nikita",
