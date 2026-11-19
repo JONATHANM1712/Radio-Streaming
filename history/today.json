@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T06:52:45.611091+00:00",
+  "updated_at_utc": "2026-11-19T06:54:45.568531+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-11-19T06:54:45.553334+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
@@ -251,6 +256,11 @@
     ],
     "jak": [
       {
+        "artist": "Coldplay",
+        "title": "Trouble",
+        "detected_at_utc": "2026-11-19T06:54:45.401052+00:00"
+      },
+      {
         "artist": "JENNIE",
         "title": "Less than a Lover",
         "detected_at_utc": "2026-11-19T06:52:41.616944+00:00"
@@ -492,6 +502,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cure",
+        "title": "In Between Days",
+        "detected_at_utc": "2026-11-19T06:54:45.514564+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "In the Air Tonight",
