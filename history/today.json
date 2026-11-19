@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:48:54.014192+00:00",
+  "updated_at_utc": "2026-11-19T14:49:57.339965+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-11-19T14:49:34.722171+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "be my forever (feat. Ed Sheeran)",
@@ -1102,6 +1107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wu-Tang Clan",
+        "title": "Wu-Tang Clan Ain't Nuthing Ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
+        "detected_at_utc": "2026-11-19T14:49:28.667209+00:00"
+      },
       {
         "artist": "Kris Kross",
         "title": "Alright",
