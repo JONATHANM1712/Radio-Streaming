@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:46:01.794020+00:00",
+  "updated_at_utc": "2026-11-19T16:47:04.587133+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Az Yet",
+        "title": "Last Night",
+        "detected_at_utc": "2026-11-19T16:47:01.315586+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Marvin Gaye (feat. Meghan Trainor)",
