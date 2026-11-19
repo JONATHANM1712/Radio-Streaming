@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:10:50.070638+00:00",
+  "updated_at_utc": "2026-11-19T16:12:34.343515+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MAGIC!",
+        "title": "Rude",
+        "detected_at_utc": "2026-11-19T16:12:34.247142+00:00"
+      },
       {
         "artist": "Idgitaf",
         "title": "Sedia Aku Sebelum Hujan",
