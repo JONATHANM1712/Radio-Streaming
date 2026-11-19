@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:35:11.443396+00:00",
+  "updated_at_utc": "2026-11-19T03:36:14.523243+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ari Lasso",
+        "title": "Mengejar Matahari",
+        "detected_at_utc": "2026-11-19T03:36:10.403138+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
