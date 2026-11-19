@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:44:36.447036+00:00",
+  "updated_at_utc": "2026-11-19T17:46:34.595115+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-19T17:46:34.502137+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "How Long",
