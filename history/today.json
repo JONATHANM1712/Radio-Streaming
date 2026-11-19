@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:28:42.007671+00:00",
+  "updated_at_utc": "2026-11-19T13:29:53.902537+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "American Authors",
+        "title": "Best Day of My Life",
+        "detected_at_utc": "2026-11-19T13:29:53.736182+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Take a Bow",
