@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:50:11.163485+00:00",
+  "updated_at_utc": "2026-11-19T04:51:14.623237+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-19T04:51:14.406222+00:00"
+      },
       {
         "artist": "Third Eye Blind",
         "title": "Semi-Charmed Life",
