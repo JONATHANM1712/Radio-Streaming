@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:34:29.369406+00:00",
+  "updated_at_utc": "2026-11-19T08:36:26.639447+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Ku Katakan Dengan Indah",
+        "detected_at_utc": "2026-11-19T08:36:26.537249+00:00"
+      },
       {
         "artist": "88rising & NIKI",
         "title": "La La Lost You",
