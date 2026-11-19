@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:52:34.918829+00:00",
+  "updated_at_utc": "2026-11-19T15:53:37.749246+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "A Great Big World",
+        "title": "Say Something",
+        "detected_at_utc": "2026-11-19T15:53:18.660696+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
