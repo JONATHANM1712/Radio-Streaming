@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:30:44.957941+00:00",
+  "updated_at_utc": "2026-11-19T07:31:47.997324+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Unconditionally",
+        "detected_at_utc": "2026-11-19T07:30:46.666477+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Beautiful Soul",
@@ -290,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kaipanta",
+        "title": "Gritando",
+        "detected_at_utc": "2026-11-19T07:30:46.939005+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
