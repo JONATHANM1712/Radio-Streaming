@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:43:55.945985+00:00",
+  "updated_at_utc": "2026-11-19T16:44:58.949935+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-19T16:44:35.235256+00:00"
+      },
       {
         "artist": "Noah",
         "title": "Separuh Aku",
