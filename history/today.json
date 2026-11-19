@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T12:22:46.938133+00:00",
+  "updated_at_utc": "2026-11-19T12:23:52.323741+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Look What You Made Me Do",
+        "detected_at_utc": "2026-11-19T12:22:47.441725+00:00"
+      },
       {
         "artist": "The Wonders",
         "title": "That Thing You Do!",
@@ -380,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "H.E.R.",
+        "title": "Best Part (feat. Daniel Caesar)",
+        "detected_at_utc": "2026-11-19T12:22:49.847204+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
