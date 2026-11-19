@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:59:58.625286+00:00",
+  "updated_at_utc": "2026-11-19T14:03:59.316984+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "Your Love Is My Drug",
+        "detected_at_utc": "2026-11-19T14:03:59.193947+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Daylight",
