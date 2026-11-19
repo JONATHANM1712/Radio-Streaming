@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:41:31.950954+00:00",
+  "updated_at_utc": "2026-11-19T08:43:47.751329+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Wonders",
+        "title": "That Thing You Do!",
+        "detected_at_utc": "2026-11-19T08:43:47.644993+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
