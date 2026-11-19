@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:47:29.898481+00:00",
+  "updated_at_utc": "2026-11-19T13:48:33.480358+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Brown Eyes",
+        "detected_at_utc": "2026-11-19T13:47:34.872076+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Talking to the Moon",
