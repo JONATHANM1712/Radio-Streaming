@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:24:01.409731+00:00",
+  "updated_at_utc": "2026-11-19T16:25:04.164046+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ten2Five",
+        "title": "Hanya Untuk mu",
+        "detected_at_utc": "2026-11-19T16:24:59.942269+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
