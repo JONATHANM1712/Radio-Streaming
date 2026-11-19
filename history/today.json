@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:03:00.391074+00:00",
+  "updated_at_utc": "2026-11-19T15:04:03.152886+00:00",
   "stations": {
     "kis": [
       {
@@ -1127,6 +1127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foreigner",
+        "title": "Waiting for a Girl Like You",
+        "detected_at_utc": "2026-11-19T15:03:57.491788+00:00"
+      },
       {
         "artist": "Tears for Fears",
         "title": "Sowing The Seeds Of Love",
