@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:32:48.356888+00:00",
+  "updated_at_utc": "2026-11-19T13:33:52.283467+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madison Avenue",
+        "title": "Don't Call Me Baby",
+        "detected_at_utc": "2026-11-19T13:33:00.771237+00:00"
+      },
       {
         "artist": "American Authors",
         "title": "Best Day of My Life",
