@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T06:57:50.874077+00:00",
+  "updated_at_utc": "2026-11-19T06:58:54.154634+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Benét",
+        "title": "Georgy Porgy (feat. Faith Evans)",
+        "detected_at_utc": "2026-11-19T06:58:52.750441+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I Will Be",
@@ -502,6 +507,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Because of You",
+        "detected_at_utc": "2026-11-19T06:58:52.264573+00:00"
+      },
       {
         "artist": "Kavinsky",
         "title": "Nightcall",
