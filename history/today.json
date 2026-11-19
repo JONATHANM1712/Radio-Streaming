@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:13:36.934029+00:00",
+  "updated_at_utc": "2026-11-19T16:14:59.557671+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Audy",
+        "title": "Dibalas Dengan Dusta (Remastered)",
+        "detected_at_utc": "2026-11-19T16:14:59.462859+00:00"
+      },
       {
         "artist": "Boyz II Men",
         "title": "I'll Make Love To You",
