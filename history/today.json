@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:51:23.751864+00:00",
+  "updated_at_utc": "2026-11-19T06:43:25.615944+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Tunjukkan Cintamu",
+        "detected_at_utc": "2026-11-19T06:43:25.464491+00:00"
+      },
       {
         "artist": "Seal",
         "title": "Prayer For The Dying (Live)",
@@ -472,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bebi Romeo",
+        "title": "Bunga Terakhir",
+        "detected_at_utc": "2026-11-19T06:43:25.564282+00:00"
+      },
       {
         "artist": "R.E.M.",
         "title": "It's The End Of The World As We Know It (And I Feel Fine)",
