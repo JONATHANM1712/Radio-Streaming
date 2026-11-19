@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:13:31.833642+00:00",
+  "updated_at_utc": "2026-11-19T05:15:37.989424+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Calling",
+        "title": "Wherever You Will Go",
+        "detected_at_utc": "2026-11-19T05:15:37.884143+00:00"
+      },
       {
         "artist": "Tyla",
         "title": "PUSH 2 START",
