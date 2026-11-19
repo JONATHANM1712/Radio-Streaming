@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:41:53.212187+00:00",
+  "updated_at_utc": "2026-11-19T15:42:56.077256+00:00",
   "stations": {
     "kis": [
       {
@@ -616,6 +616,11 @@
     ],
     "jak": [
       {
+        "artist": "Chris Brown",
+        "title": "With You (Main Version)",
+        "detected_at_utc": "2026-11-19T15:42:55.621783+00:00"
+      },
+      {
         "artist": "The Killers",
         "title": "Mr. Brightside",
         "detected_at_utc": "2026-11-19T15:41:53.113801+00:00"
@@ -1212,6 +1217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "White Lion",
+        "title": "You're All I Need",
+        "detected_at_utc": "2026-11-19T15:42:39.307024+00:00"
+      },
       {
         "artist": "Chicago",
         "title": "You're the Inspiration",
