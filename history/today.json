@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:04:16.998376+00:00",
+  "updated_at_utc": "2026-11-19T16:05:19.654099+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Secrets",
+        "detected_at_utc": "2026-11-19T16:05:14.936170+00:00"
+      },
       {
         "artist": "Mario Vazquez",
         "title": "Gallery",
