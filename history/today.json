@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:14:54.094828+00:00",
+  "updated_at_utc": "2026-11-19T08:15:56.715219+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Colbie Caillat",
+        "title": "Bubbly",
+        "detected_at_utc": "2026-11-19T08:14:54.424781+00:00"
+      },
       {
         "artist": "Ultra",
         "title": "Say You Do",
