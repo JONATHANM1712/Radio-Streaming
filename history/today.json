@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:45:27.922972+00:00",
+  "updated_at_utc": "2026-11-19T03:47:28.737757+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-19T03:47:28.576522+00:00"
+      },
       {
         "artist": "Jamie Miller",
         "title": "Here's Your Perfect",
