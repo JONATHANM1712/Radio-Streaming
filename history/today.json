@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:35:35.762843+00:00",
+  "updated_at_utc": "2026-11-19T05:36:38.740379+00:00",
   "stations": {
     "kis": [
       {
@@ -221,6 +221,11 @@
     ],
     "jak": [
       {
+        "artist": "Dua Lipa",
+        "title": "Levitating (feat. DaBaby)",
+        "detected_at_utc": "2026-11-19T05:35:36.502135+00:00"
+      },
+      {
         "artist": "LINKIN PARK",
         "title": "Somewhere I Belong",
         "detected_at_utc": "2026-11-19T05:32:20.852745+00:00"
@@ -437,6 +442,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mr. Big",
+        "title": "Take Cover",
+        "detected_at_utc": "2026-11-19T05:35:42.334661+00:00"
+      },
       {
         "artist": "Fan Club",
         "title": "I Never Gave Up On You",
