@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:12:15.550384+00:00",
+  "updated_at_utc": "2026-11-19T15:13:18.387088+00:00",
   "stations": {
     "kis": [
       {
@@ -586,6 +586,11 @@
     ],
     "jak": [
       {
+        "artist": "John Mayer",
+        "title": "Gravity",
+        "detected_at_utc": "2026-11-19T15:12:42.254571+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
         "detected_at_utc": "2026-11-19T15:09:29.652483+00:00"
@@ -1147,6 +1152,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Hard Day",
+        "detected_at_utc": "2026-11-19T15:13:13.526023+00:00"
+      },
       {
         "artist": "Basia",
         "title": "Baby You're Mine",
