@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:35:54.749830+00:00",
+  "updated_at_utc": "2026-11-19T07:36:57.552882+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "That's Hilarious",
+        "detected_at_utc": "2026-11-19T07:36:55.199857+00:00"
+      },
       {
         "artist": "Mary J. Blige",
         "title": "Be Without You (Kendu Mix)",
