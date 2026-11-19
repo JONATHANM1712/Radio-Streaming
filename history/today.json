@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:10:14.223341+00:00",
+  "updated_at_utc": "2026-11-19T15:12:15.550384+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jon Secada",
+        "title": "Just Another Day",
+        "detected_at_utc": "2026-11-19T15:12:15.465792+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Miss You",
