@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:08:13.425985+00:00",
+  "updated_at_utc": "2026-11-19T05:09:22.054707+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Hangover (feat. Flo Rida)",
+        "detected_at_utc": "2026-11-19T05:09:21.964323+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
