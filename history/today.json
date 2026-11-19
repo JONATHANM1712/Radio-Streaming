@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:31:17.869175+00:00",
+  "updated_at_utc": "2026-11-19T08:32:21.205691+00:00",
   "stations": {
     "kis": [
       {
@@ -742,6 +742,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dance Department",
+        "title": "Hypnotized (Extended Mix)",
+        "detected_at_utc": "2026-11-19T08:32:16.718141+00:00"
+      },
       {
         "artist": "Total Touch",
         "title": "Somebody Else's Lover",
