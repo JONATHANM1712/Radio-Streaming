@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:53:39.588732+00:00",
+  "updated_at_utc": "2026-11-19T03:55:42.614065+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "The Sweet Escape (feat. Akon)",
+        "detected_at_utc": "2026-11-19T03:55:42.426312+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
