@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:57:16.114004+00:00",
+  "updated_at_utc": "2026-11-19T15:58:18.792126+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Vazquez",
+        "title": "Gallery",
+        "detected_at_utc": "2026-11-19T15:57:59.664601+00:00"
+      },
       {
         "artist": "A Great Big World",
         "title": "Say Something",
