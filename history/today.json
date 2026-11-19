@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:20:35.606997+00:00",
+  "updated_at_utc": "2026-11-19T13:22:28.000300+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-19T13:22:27.777302+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
