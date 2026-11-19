@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:29:53.902537+00:00",
+  "updated_at_utc": "2026-11-19T13:30:57.399464+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-19T13:30:44.863493+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Insomnia",
