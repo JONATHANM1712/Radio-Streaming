@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:07:43.565300+00:00",
+  "updated_at_utc": "2026-11-19T08:08:46.460830+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SZA",
+        "title": "Kill Bill",
+        "detected_at_utc": "2026-11-19T08:08:44.670370+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
