@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:19:25.726187+00:00",
+  "updated_at_utc": "2026-11-19T07:20:28.244044+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Sunday Morning",
+        "detected_at_utc": "2026-11-19T07:19:26.291591+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Rabun Jauh",
