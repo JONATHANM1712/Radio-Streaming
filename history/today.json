@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:29:59.713684+00:00",
+  "updated_at_utc": "2026-11-19T03:31:03.386189+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "detected_at_utc": "2026-11-19T03:30:00.129347+00:00"
+      },
       {
         "artist": "Prince",
         "title": "The Most Beautiful Girl in the World",
@@ -137,6 +142,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eurythmics",
+        "title": "I Saved the World Today",
+        "detected_at_utc": "2026-11-19T03:30:00.148922+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "I Remember When",
