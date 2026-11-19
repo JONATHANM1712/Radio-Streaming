@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:16:54.286090+00:00",
+  "updated_at_utc": "2026-11-19T15:17:57.186876+00:00",
   "stations": {
     "kis": [
       {
@@ -1162,6 +1162,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Civil War",
+        "detected_at_utc": "2026-11-19T15:17:20.331052+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Hard Day",
