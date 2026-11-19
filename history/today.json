@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:04:03.152886+00:00",
+  "updated_at_utc": "2026-11-19T15:06:24.708323+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Naughty Boy & Sam Smith",
+        "title": "La La La",
+        "detected_at_utc": "2026-11-19T15:06:24.596906+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
