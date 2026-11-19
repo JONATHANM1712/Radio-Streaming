@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:47:40.696948+00:00",
+  "updated_at_utc": "2026-11-19T17:49:39.516599+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Budapest",
+        "title": "Is This the Best It Gets?",
+        "detected_at_utc": "2026-11-19T17:49:39.416271+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
