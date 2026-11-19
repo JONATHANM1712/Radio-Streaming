@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T12:23:52.323741+00:00",
+  "updated_at_utc": "2026-11-19T12:26:07.122083+00:00",
   "stations": {
     "kis": [
       {
@@ -787,6 +787,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rick Springfield",
+        "title": "Love Somebody",
+        "detected_at_utc": "2026-11-19T12:26:06.872237+00:00"
+      },
       {
         "artist": "John Travolta & Olivia Newton-John",
         "title": "You're the One That I Want",
