@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:34:52.183427+00:00",
+  "updated_at_utc": "2026-11-19T07:35:54.749830+00:00",
   "stations": {
     "kis": [
       {
@@ -607,6 +607,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Twisted Sister",
+        "title": "Leader of the Pack",
+        "detected_at_utc": "2026-11-19T07:35:51.441903+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "Hangin' Tough",
