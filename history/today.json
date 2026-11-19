@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:06:36.928072+00:00",
+  "updated_at_utc": "2026-11-19T13:07:49.627807+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Speed of Sound",
+        "detected_at_utc": "2026-11-19T13:07:49.451937+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Diamonds",
