@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:37:29.237994+00:00",
+  "updated_at_utc": "2026-11-19T08:38:31.768473+00:00",
   "stations": {
     "kis": [
       {
@@ -762,6 +762,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dire Straits",
+        "title": "Money For Nothing",
+        "detected_at_utc": "2026-11-19T08:38:29.377017+00:00"
+      },
       {
         "artist": "Dance Department",
         "title": "Hypnotized (Extended Mix)",
