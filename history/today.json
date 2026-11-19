@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:24:29.592024+00:00",
+  "updated_at_utc": "2026-11-19T17:25:32.512433+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "feelslikeimfallinginlove",
+        "detected_at_utc": "2026-11-19T17:24:56.060432+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Don't Stop The Music",
