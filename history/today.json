@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-18T17:41:12.790023+00:00",
+  "updated_at_utc": "2026-11-19T03:23:48.899827+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Sexy Love",
+        "detected_at_utc": "2026-11-19T03:23:48.564997+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
