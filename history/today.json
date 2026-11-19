@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:03:35.737918+00:00",
+  "updated_at_utc": "2026-11-19T05:07:10.658339+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Junior Senior",
+        "title": "Move Your Feet",
+        "detected_at_utc": "2026-11-19T05:07:10.565378+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Royals",
