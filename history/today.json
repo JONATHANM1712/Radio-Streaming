@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:45:54.063606+00:00",
+  "updated_at_utc": "2026-11-19T15:47:03.803208+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-19T15:47:03.717631+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "With You (Main Version)",
