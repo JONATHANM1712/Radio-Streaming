@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:08:13.969146+00:00",
+  "updated_at_utc": "2026-11-19T04:10:06.179875+00:00",
   "stations": {
     "kis": [
       {
@@ -116,6 +116,11 @@
     ],
     "jak": [
       {
+        "artist": "SZA",
+        "title": "BMF",
+        "detected_at_utc": "2026-11-19T04:10:05.994711+00:00"
+      },
+      {
         "artist": "Kings of Leon",
         "title": "Use Somebody",
         "detected_at_utc": "2026-11-19T04:07:00.910005+00:00"
@@ -227,6 +232,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Marilyn McCoo & Billy Davis Jr.",
+        "title": "Shine on Silver Moon",
+        "detected_at_utc": "2026-11-19T04:10:05.994016+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Rio (US Edit)",
