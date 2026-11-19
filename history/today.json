@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:38:28.364824+00:00",
+  "updated_at_utc": "2026-11-19T15:39:32.300852+00:00",
   "stations": {
     "kis": [
       {
@@ -1207,6 +1207,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Chicago",
+        "title": "You're the Inspiration",
+        "detected_at_utc": "2026-11-19T15:38:28.544527+00:00"
+      },
       {
         "artist": "Tevin Campbell",
         "title": "Can We Talk",
