@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:40:53.135981+00:00",
+  "updated_at_utc": "2026-11-19T05:42:52.613942+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Grenade",
+        "detected_at_utc": "2026-11-19T05:42:52.525458+00:00"
+      },
       {
         "artist": "Bening",
         "title": "Ada Cinta",
