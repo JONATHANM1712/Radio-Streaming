@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:54:17.501618+00:00",
+  "updated_at_utc": "2026-11-19T04:55:20.783916+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "I'm Gonna Be Around",
+        "detected_at_utc": "2026-11-19T04:55:20.721699+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
@@ -170,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Relish",
+        "title": "You I'm Thinking Of",
+        "detected_at_utc": "2026-11-19T04:55:18.755304+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Make You Feel My Love",
