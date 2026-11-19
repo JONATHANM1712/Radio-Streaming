@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:55:51.000180+00:00",
+  "updated_at_utc": "2026-11-19T13:56:53.930657+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Daylight",
+        "detected_at_utc": "2026-11-19T13:56:44.491067+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Touch My Body",
