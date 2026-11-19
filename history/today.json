@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:30:10.345012+00:00",
+  "updated_at_utc": "2026-11-19T17:31:13.204507+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso",
+        "title": "Cinta Sejati",
+        "detected_at_utc": "2026-11-19T17:30:39.622206+00:00"
+      },
       {
         "artist": "Fourplay",
         "title": "Let's Make Love",
