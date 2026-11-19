@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:33:19.212244+00:00",
+  "updated_at_utc": "2026-11-19T16:36:21.017494+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-19T16:36:20.862750+00:00"
+      },
       {
         "artist": "Mike Posner",
         "title": "Cooler Than Me (Single Mix)",
