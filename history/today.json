@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:29:08.037821+00:00",
+  "updated_at_utc": "2026-11-19T16:31:11.944182+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "Cooler Than Me (Single Mix)",
+        "detected_at_utc": "2026-11-19T16:31:11.820485+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
