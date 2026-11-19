@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:38:25.839433+00:00",
+  "updated_at_utc": "2026-11-19T17:39:56.534126+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Dangerous Woman",
+        "detected_at_utc": "2026-11-19T17:39:56.446675+00:00"
+      },
       {
         "artist": "Shaggy",
         "title": "Boombastic",
