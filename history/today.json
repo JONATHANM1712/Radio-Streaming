@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:12:23.905959+00:00",
+  "updated_at_utc": "2026-11-19T14:13:26.556024+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-19T14:13:21.575677+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "Thunder",
