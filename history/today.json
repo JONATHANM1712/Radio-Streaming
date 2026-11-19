@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:31:47.997324+00:00",
+  "updated_at_utc": "2026-11-19T07:32:50.460392+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mary J. Blige",
+        "title": "Be Without You (Kendu Mix)",
+        "detected_at_utc": "2026-11-19T07:32:49.638518+00:00"
+      },
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-19T07:31:48.356414+00:00"
+      },
       {
         "artist": "Kaipanta",
         "title": "Gritando",
