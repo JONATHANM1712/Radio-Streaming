@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T05:00:30.673028+00:00",
+  "updated_at_utc": "2026-11-19T05:02:32.501585+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
+        "detected_at_utc": "2026-11-19T05:02:32.337998+00:00"
+      },
       {
         "artist": "Relish",
         "title": "You I'm Thinking Of",
