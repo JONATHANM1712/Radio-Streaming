@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:37:23.291529+00:00",
+  "updated_at_utc": "2026-11-19T17:38:25.839433+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kaleb J",
+        "title": "It's Only Me (Studio Version)",
+        "detected_at_utc": "2026-11-19T17:38:19.714481+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "The Edge Of Glory",
