@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:28:12.315172+00:00",
+  "updated_at_utc": "2026-11-19T08:30:15.270883+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-11-19T08:30:15.179678+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
