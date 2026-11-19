@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T03:24:55.832089+00:00",
+  "updated_at_utc": "2026-11-19T03:25:58.671724+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-19T03:25:52.821328+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Sexy Love",
