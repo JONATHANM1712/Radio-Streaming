@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T15:17:57.186876+00:00",
+  "updated_at_utc": "2026-11-19T15:18:59.954787+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "So Sick",
+        "detected_at_utc": "2026-11-19T15:18:58.020520+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Man I Need",
