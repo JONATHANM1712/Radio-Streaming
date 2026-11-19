@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:09:02.380778+00:00",
+  "updated_at_utc": "2026-11-19T14:10:16.798561+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "detected_at_utc": "2026-11-19T14:10:16.701871+00:00"
+      },
       {
         "artist": "LAY & LAUV",
         "title": "Run Back To You",
