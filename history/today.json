@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T06:58:54.154634+00:00",
+  "updated_at_utc": "2026-11-19T06:59:57.835998+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "As Long As You Love Me (feat. Big Sean)",
+        "detected_at_utc": "2026-11-19T06:59:54.321551+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Trouble",
