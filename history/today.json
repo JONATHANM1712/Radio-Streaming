@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:42:21.674464+00:00",
+  "updated_at_utc": "2026-11-19T14:44:43.816464+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "detected_at_utc": "2026-11-19T14:44:43.724456+00:00"
+      },
       {
         "artist": "311",
         "title": "Love Song",
