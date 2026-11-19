@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:21:25.788991+00:00",
+  "updated_at_utc": "2026-11-19T04:24:31.014415+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Dear Future Husband",
+        "detected_at_utc": "2026-11-19T04:24:30.872486+00:00"
+      },
       {
         "artist": "Shaggy",
         "title": "It Wasn't Me (feat. Ricardo Ducent)",
