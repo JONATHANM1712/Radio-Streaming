@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T12:26:07.122083+00:00",
+  "updated_at_utc": "2026-11-19T12:27:11.981007+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Ordinary People",
+        "detected_at_utc": "2026-11-19T12:26:12.562108+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Look What You Made Me Do",
