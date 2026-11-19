@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:16:09.466465+00:00",
+  "updated_at_utc": "2026-11-19T17:18:15.167772+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Calvin Harris & Disciples",
+        "title": "How Deep Is Your Love",
+        "detected_at_utc": "2026-11-19T17:18:15.042353+00:00"
+      },
       {
         "artist": "Norah Jones",
         "title": "Don't Know Why",
