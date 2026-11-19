@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T07:05:03.374693+00:00",
+  "updated_at_utc": "2026-11-19T07:06:06.999580+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Style",
+        "detected_at_utc": "2026-11-19T07:05:03.597713+00:00"
+      },
       {
         "artist": "Eric Benét",
         "title": "Georgy Porgy (feat. Faith Evans)",
@@ -260,6 +265,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robin Thicke",
+        "title": "Blurred Lines (feat. T.I. & Pharrell)",
+        "detected_at_utc": "2026-11-19T07:06:05.495731+00:00"
+      },
+      {
+        "artist": "John Legend",
+        "title": "P.D.A. (We Just Don't Care)",
+        "detected_at_utc": "2026-11-19T07:05:03.553335+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "As Long As You Love Me (feat. Big Sean)",
