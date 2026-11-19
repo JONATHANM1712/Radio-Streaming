@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:14:06.001877+00:00",
+  "updated_at_utc": "2026-11-19T13:16:25.191102+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Andity",
+        "title": "Semenjak Ada Dirimu",
+        "detected_at_utc": "2026-11-19T13:16:25.028247+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Say You'll Be There",
