@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:14:59.557671+00:00",
+  "updated_at_utc": "2026-11-19T16:16:44.608311+00:00",
   "stations": {
     "kis": [
       {
@@ -655,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-19T16:16:44.511238+00:00"
+      },
       {
         "artist": "MAGIC!",
         "title": "Rude",
