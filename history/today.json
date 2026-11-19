@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:27:09.630934+00:00",
+  "updated_at_utc": "2026-11-19T08:28:12.315172+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJ Snake",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-19T08:27:11.386360+00:00"
+      },
       {
         "artist": "Imogen Heap",
         "title": "Goodnight and Go",
@@ -350,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-19T08:27:11.079454+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Scream",
