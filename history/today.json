@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:02:58.216185+00:00",
+  "updated_at_utc": "2026-11-19T17:05:18.550902+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rachel Platten",
+        "title": "Fight Song",
+        "detected_at_utc": "2026-11-19T17:05:18.447784+00:00"
+      },
       {
         "artist": "Jennifer Lopez & Pitbull",
         "title": "Dance Again",
