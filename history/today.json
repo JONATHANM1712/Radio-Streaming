@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:16:59.384737+00:00",
+  "updated_at_utc": "2026-11-19T08:18:01.921026+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Iwa K",
+        "title": "Kuingin Kembali",
+        "detected_at_utc": "2026-11-19T08:17:58.952075+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Bubbly",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marcell",
+        "title": "Takkan Terganti",
+        "detected_at_utc": "2026-11-19T08:17:58.579094+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
