@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:44:50.410271+00:00",
+  "updated_at_utc": "2026-11-19T12:21:39.628881+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-19T12:21:39.110800+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Ku Katakan Dengan Indah",
