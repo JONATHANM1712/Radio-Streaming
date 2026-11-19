@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T08:11:49.191315+00:00",
+  "updated_at_utc": "2026-11-19T08:12:52.379741+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Drag Me Down",
+        "detected_at_utc": "2026-11-19T08:11:49.362776+00:00"
+      },
       {
         "artist": "SZA",
         "title": "Kill Bill",
@@ -682,6 +687,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "La Isla Bonita",
+        "detected_at_utc": "2026-11-19T08:12:49.603136+00:00"
+      },
       {
         "artist": "Del Amitri",
         "title": "Roll To Me",
