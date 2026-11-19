@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T04:41:58.385850+00:00",
+  "updated_at_utc": "2026-11-19T04:43:01.433650+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Third Eye Blind",
+        "title": "Semi-Charmed Life",
+        "detected_at_utc": "2026-11-19T04:43:01.209505+00:00"
+      },
       {
         "artist": "Isyana Sarasvati",
         "title": "Kau Adalah (feat. Rayi Putra)",
@@ -160,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Gone, Gone, Gone",
+        "detected_at_utc": "2026-11-19T04:42:59.857731+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
