@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T16:28:05.239462+00:00",
+  "updated_at_utc": "2026-11-19T16:29:08.037821+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ricky Martin",
+        "title": "Private Emotion (feat. Meja)",
+        "detected_at_utc": "2026-11-19T16:28:28.583839+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Hello",
@@ -1322,6 +1327,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Got To Be There",
+        "detected_at_utc": "2026-11-19T16:28:07.794574+00:00"
+      },
       {
         "artist": "Tina Turner",
         "title": "Goldeneye",
