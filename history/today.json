@@ -1,8 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T14:20:21.514825+00:00",
+  "updated_at_utc": "2026-11-19T14:21:25.343619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Steps",
+        "title": "It's the Way You Make Me Feel",
+        "detected_at_utc": "2026-11-19T14:20:38.174508+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Kasih Putih",
@@ -520,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rizky Febian",
+        "title": "Kesempurnaan Cinta",
+        "detected_at_utc": "2026-11-19T14:20:35.101099+00:00"
+      },
       {
         "artist": "Timbaland, Keri Hilson & D.O.E.",
         "title": "The Way I Are",
