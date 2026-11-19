@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T13:24:44.162920+00:00",
+  "updated_at_utc": "2026-11-19T13:27:38.669979+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Insomnia",
+        "detected_at_utc": "2026-11-19T13:27:38.519370+00:00"
+      },
       {
         "artist": "R. City",
         "title": "Locked Away (feat. Adam Levine)",
