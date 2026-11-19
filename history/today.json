@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:39:56.534126+00:00",
+  "updated_at_utc": "2026-11-19T17:42:26.641511+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "How Long",
+        "detected_at_utc": "2026-11-19T17:42:26.552850+00:00"
+      },
       {
         "artist": "Kaleb J",
         "title": "It's Only Me (Studio Version)",
