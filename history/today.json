@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated_at_utc": "2026-11-19T12:38:57.316413+00:00",
+  "updated_at_utc": "2026-11-19T12:40:01.985595+00:00",
   "stations": {
     "kis": [
       {
@@ -807,6 +807,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Oppie Andaresta",
+        "title": "Cuma Khayalan",
+        "detected_at_utc": "2026-11-19T12:39:48.071555+00:00"
+      },
       {
         "artist": "Stone Temple Pilots",
         "title": "Interstate Love Song",
