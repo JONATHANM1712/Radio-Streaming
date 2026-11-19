@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:18:15.167772+00:00",
+  "updated_at_utc": "2026-11-19T17:19:46.147734+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Don't Stop The Music",
+        "detected_at_utc": "2026-11-19T17:19:46.057448+00:00"
+      },
       {
         "artist": "Jung Kook & Jack Harlow",
         "title": "3D",
