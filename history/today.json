@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:51:15.743852+00:00",
+  "updated_at_utc": "2026-11-20T17:53:16.692101+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-20T17:53:16.582077+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "TiK ToK",
