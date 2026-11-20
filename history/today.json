@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:24:37.289489+00:00",
+  "updated_at_utc": "2026-11-20T13:25:39.929946+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Little Mix",
+        "title": "Black Magic",
+        "detected_at_utc": "2026-11-20T13:25:26.705156+00:00"
+      },
       {
         "artist": "Rex Orange County",
         "title": "THE SHADE",
