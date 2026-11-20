@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:16:10.689510+00:00",
+  "updated_at_utc": "2026-11-20T14:17:29.598136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Benci Untuk Mencinta",
+        "detected_at_utc": "2026-11-20T14:17:29.511285+00:00"
+      },
       {
         "artist": "Brandy",
         "title": "Have You Ever",
