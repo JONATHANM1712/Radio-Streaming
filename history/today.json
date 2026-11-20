@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:28:32.726974+00:00",
+  "updated_at_utc": "2026-11-20T17:29:44.513080+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "I Kissed A Girl",
+        "detected_at_utc": "2026-11-20T17:29:44.423426+00:00"
+      },
       {
         "artist": "Adele",
         "title": "When We Were Young",
