@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:31:25.455404+00:00",
+  "updated_at_utc": "2026-11-20T13:32:46.434936+00:00",
   "stations": {
     "kis": [
       {
@@ -305,6 +305,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Timbaland",
+        "title": "Give It To Me (feat. Justin Timberlake & Nelly Furtado)",
+        "detected_at_utc": "2026-11-20T13:32:46.349356+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
