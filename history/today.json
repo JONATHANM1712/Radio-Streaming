@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:46:25.963671+00:00",
+  "updated_at_utc": "2026-11-20T16:47:29.672379+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael W. Smith",
+        "title": "Place In This World",
+        "detected_at_utc": "2026-11-20T16:46:39.785499+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Suara Hati Seorang Kekasih",
