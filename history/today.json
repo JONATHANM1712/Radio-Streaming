@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T06:23:59.015098+00:00",
+  "updated_at_utc": "2026-11-20T06:27:01.359228+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Gravity",
+        "detected_at_utc": "2026-11-20T06:27:01.268367+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "When I Need You",
