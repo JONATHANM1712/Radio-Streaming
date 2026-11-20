@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:19:17.812208+00:00",
+  "updated_at_utc": "2026-11-20T14:20:20.990915+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-11-20T14:19:42.622151+00:00"
+      },
       {
         "artist": "Chappell Roan",
         "title": "Pink Pony Club",
