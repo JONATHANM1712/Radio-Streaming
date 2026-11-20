@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:30:33.928210+00:00",
+  "updated_at_utc": "2026-11-20T04:32:05.721238+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-20T04:32:05.333282+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Take You There",
