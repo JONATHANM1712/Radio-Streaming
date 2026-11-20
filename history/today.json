@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:07:38.335283+00:00",
+  "updated_at_utc": "2026-11-20T13:08:40.929514+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MIKA",
+        "title": "Grace Kelly",
+        "detected_at_utc": "2026-11-20T13:07:41.405273+00:00"
+      },
       {
         "artist": "Jungle",
         "title": "Back On 74",
