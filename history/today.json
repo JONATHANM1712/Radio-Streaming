@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:36:34.863464+00:00",
+  "updated_at_utc": "2026-11-20T13:37:38.264060+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "THE SHADE",
+        "detected_at_utc": "2026-11-20T13:36:58.049129+00:00"
+      },
       {
         "artist": "Timbaland",
         "title": "Give It To Me (feat. Justin Timberlake & Nelly Furtado)",
