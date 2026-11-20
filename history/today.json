@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:41:14.478709+00:00",
+  "updated_at_utc": "2026-11-20T12:44:28.638303+00:00",
   "stations": {
     "kis": [
       {
@@ -547,6 +547,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alice Cooper",
+        "title": "Hey Stoopid",
+        "detected_at_utc": "2026-11-20T12:44:28.539574+00:00"
+      },
       {
         "artist": "Queen",
         "title": "Body Language",
