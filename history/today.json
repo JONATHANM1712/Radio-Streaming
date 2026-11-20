@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:15:07.856225+00:00",
+  "updated_at_utc": "2026-11-20T14:16:10.689510+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Pink Pony Club",
+        "detected_at_utc": "2026-11-20T14:15:30.561129+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "Make It Mine",
