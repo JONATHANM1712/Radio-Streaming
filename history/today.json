@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:23:27.898078+00:00",
+  "updated_at_utc": "2026-11-20T13:24:37.289489+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "THE SHADE",
+        "detected_at_utc": "2026-11-20T13:24:22.993532+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Never Say Never (feat. Jaden)",
