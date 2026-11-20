@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:42:38.020583+00:00",
+  "updated_at_utc": "2026-11-20T16:44:47.229108+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "BTS",
+        "title": "Boy With Luv (feat. Halsey)",
+        "detected_at_utc": "2026-11-20T16:44:47.138174+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "Can't Get You Out of My Head",
