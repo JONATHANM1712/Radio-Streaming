@@ -1,9 +1,21 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:00:02.450082+00:00",
+  "updated_at_utc": "2026-11-20T17:01:05.465451+00:00",
   "stations": {
-    "kis": [],
+    "kis": [
+      {
+        "artist": "After 7",
+        "title": "'Til You Do Me Right",
+        "detected_at_utc": "2026-11-20T17:00:57.628277+00:00"
+      }
+    ],
     "jak": [],
-    "most": []
+    "most": [
+      {
+        "artist": "SHAKATAK",
+        "title": "Easier Said Than Done",
+        "detected_at_utc": "2026-11-20T17:00:43.986297+00:00"
+      }
+    ]
   }
 }
