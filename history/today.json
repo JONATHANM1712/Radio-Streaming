@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:54:11.242235+00:00",
+  "updated_at_utc": "2026-11-20T04:55:15.443675+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Ruang Sendiri",
+        "detected_at_utc": "2026-11-20T04:54:20.382694+00:00"
+      },
       {
         "artist": "Olivia Dean",
         "title": "Dive",
