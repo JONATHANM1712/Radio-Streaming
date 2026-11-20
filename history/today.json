@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:52:36.127955+00:00",
+  "updated_at_utc": "2026-11-20T13:54:37.813374+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Save Room",
+        "detected_at_utc": "2026-11-20T13:54:37.718643+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Mata Ke Hati",
