@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:55:15.443675+00:00",
+  "updated_at_utc": "2026-11-20T04:56:33.855598+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "My Chemical Romance",
+        "title": "I Don't Love You",
+        "detected_at_utc": "2026-11-20T04:56:33.666046+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Ruang Sendiri",
