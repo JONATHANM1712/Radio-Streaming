@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:24:30.194405+00:00",
+  "updated_at_utc": "2026-11-20T04:25:33.991619+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "detected_at_utc": "2026-11-20T04:24:52.779973+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Januari",
