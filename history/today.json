@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:13:32.358503+00:00",
+  "updated_at_utc": "2026-11-20T12:14:40.609559+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hailee Steinfeld & Alesso",
+        "title": "Let Me Go (feat. Florida Georgia Line & watt)",
+        "detected_at_utc": "2026-11-20T12:14:40.475293+00:00"
+      },
       {
         "artist": "Vertical Horizon",
         "title": "You're a God",
