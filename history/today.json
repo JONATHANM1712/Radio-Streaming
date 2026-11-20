@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:05:04.265449+00:00",
+  "updated_at_utc": "2026-11-20T17:06:07.217965+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yura Yunita",
+        "title": "Dunia Tipu-Tipu",
+        "detected_at_utc": "2026-11-20T17:05:12.234647+00:00"
+      },
       {
         "artist": "American Authors",
         "title": "Best Day of My Life",
