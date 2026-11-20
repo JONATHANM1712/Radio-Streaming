@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:16:48.827572+00:00",
+  "updated_at_utc": "2026-11-20T16:19:12.543596+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Addison Rae",
+        "title": "Diet Pepsi",
+        "detected_at_utc": "2026-11-20T16:19:12.459477+00:00"
+      },
       {
         "artist": "Aditya",
         "title": "Be Mine",
