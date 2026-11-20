@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:18:30.736019+00:00",
+  "updated_at_utc": "2026-11-20T17:20:21.627466+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frankie J",
+        "title": "Obsesion (No Es Amor) [feat. Baby Bash]",
+        "detected_at_utc": "2026-11-20T17:20:21.539646+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Mantan Terindah",
