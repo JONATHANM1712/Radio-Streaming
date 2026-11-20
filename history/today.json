@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T03:44:00.686545+00:00",
+  "updated_at_utc": "2026-11-20T03:45:04.068807+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-11-20T03:44:23.412109+00:00"
+      },
       {
         "artist": "Ray J",
         "title": "One Wish",
