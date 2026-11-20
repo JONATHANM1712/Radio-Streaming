@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T06:09:42.859842+00:00",
+  "updated_at_utc": "2026-11-20T06:13:46.067673+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fort Minor",
+        "title": "Believe Me (feat. Bobo & Styles of Beyond)",
+        "detected_at_utc": "2026-11-20T06:13:45.976548+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
