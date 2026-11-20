@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:41:34.954526+00:00",
+  "updated_at_utc": "2026-11-20T16:42:38.020583+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Can't Get You Out of My Head",
+        "detected_at_utc": "2026-11-20T16:41:43.486357+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
