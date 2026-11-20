@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:28:32.566164+00:00",
+  "updated_at_utc": "2026-11-20T12:29:37.391813+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Satu Yang Tak Bisa Lepas",
+        "detected_at_utc": "2026-11-20T12:29:29.983826+00:00"
+      },
       {
         "artist": "Wet Wet Wet",
         "title": "Goodnight Girl",
@@ -250,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Westlife",
+        "title": "My Love",
+        "detected_at_utc": "2026-11-20T12:28:33.594206+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Paparazzi",
