@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:43:47.241591+00:00",
+  "updated_at_utc": "2026-11-20T17:45:57.552249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shanice",
+        "title": "I Love Your Smile",
+        "detected_at_utc": "2026-11-20T17:45:57.458089+00:00"
+      },
       {
         "artist": "FireHouse",
         "title": "Love of a Lifetime",
