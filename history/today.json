@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T03:53:23.536749+00:00",
+  "updated_at_utc": "2026-11-20T03:56:57.686498+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shakira",
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "detected_at_utc": "2026-11-20T03:56:57.524405+00:00"
+      },
       {
         "artist": "The 1975",
         "title": "The Sound",
