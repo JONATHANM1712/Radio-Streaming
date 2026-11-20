@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:27:24.201992+00:00",
+  "updated_at_utc": "2026-11-20T12:28:32.566164+00:00",
   "stations": {
     "kis": [
       {
@@ -522,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "John Travolta",
+        "title": "Greased Lightning",
+        "detected_at_utc": "2026-11-20T12:28:32.387776+00:00"
+      },
       {
         "artist": "Block & Crown",
         "title": "Greased",
