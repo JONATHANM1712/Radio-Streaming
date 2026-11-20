@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:15:44.151091+00:00",
+  "updated_at_utc": "2026-11-20T12:17:52.874544+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Spouse",
+        "title": "Kelam Malam (feat. Aimee Saras)",
+        "detected_at_utc": "2026-11-20T12:17:52.725499+00:00"
+      },
       {
         "artist": "Hailee Steinfeld & Alesso",
         "title": "Let Me Go (feat. Florida Georgia Line & watt)",
