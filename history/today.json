@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:04:04.075636+00:00",
+  "updated_at_utc": "2026-11-20T12:06:09.242388+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "One Last Cry",
+        "detected_at_utc": "2026-11-20T12:06:09.106969+00:00"
+      },
       {
         "artist": "Tere",
         "title": "Tak Ingin Usai",
