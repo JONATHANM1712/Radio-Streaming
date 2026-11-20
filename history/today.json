@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:41:47.547407+00:00",
+  "updated_at_utc": "2026-11-20T13:42:50.531774+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jiaduo",
+        "title": "忘川彼岸 (Dj版)",
+        "detected_at_utc": "2026-11-20T13:42:11.957823+00:00"
+      },
       {
         "artist": "Marcell",
         "title": "Jangan Pernah Berubah",
