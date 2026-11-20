@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:20:15.125000+00:00",
+  "updated_at_utc": "2026-11-20T16:21:18.018347+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "She Will Be Loved",
+        "detected_at_utc": "2026-11-20T16:21:16.828350+00:00"
+      },
       {
         "artist": "Addison Rae",
         "title": "Diet Pepsi",
