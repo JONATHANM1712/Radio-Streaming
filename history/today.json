@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:04:01.489595+00:00",
+  "updated_at_utc": "2026-11-20T17:05:04.265449+00:00",
   "stations": {
     "kis": [
       {
@@ -22,6 +22,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Electric Barbarella",
+        "detected_at_utc": "2026-11-20T17:04:53.798240+00:00"
+      },
       {
         "artist": "SHAKATAK",
         "title": "Easier Said Than Done",
