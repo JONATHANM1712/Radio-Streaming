@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:32:56.792188+00:00",
+  "updated_at_utc": "2026-11-20T12:34:57.008356+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maxwell",
+        "title": "Whenever Wherever Whatever",
+        "detected_at_utc": "2026-11-20T12:34:56.820496+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Satu Yang Tak Bisa Lepas",
