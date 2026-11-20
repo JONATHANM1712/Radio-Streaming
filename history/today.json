@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T06:22:56.505475+00:00",
+  "updated_at_utc": "2026-11-20T06:23:59.015098+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "detected_at_utc": "2026-11-20T06:22:58.052580+00:00"
+      },
       {
         "artist": "USHER",
         "title": "Burn",
