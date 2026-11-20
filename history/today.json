@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:38:54.380083+00:00",
+  "updated_at_utc": "2026-11-20T04:39:57.556664+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kunto Aji",
+        "title": "Rehat",
+        "detected_at_utc": "2026-11-20T04:39:18.147622+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "Feel",
@@ -297,6 +302,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Frente!",
+        "title": "Bizarre Love Triangle (2014 Remaster)",
+        "detected_at_utc": "2026-11-20T04:39:49.167566+00:00"
+      },
       {
         "artist": "Stone Temple Pilots",
         "title": "Plush",
