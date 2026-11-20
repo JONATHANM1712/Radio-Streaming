@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:15:48.508066+00:00",
+  "updated_at_utc": "2026-11-20T13:17:03.663545+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-20T13:17:03.587531+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Night Changes",
