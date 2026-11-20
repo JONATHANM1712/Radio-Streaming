@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T03:45:04.068807+00:00",
+  "updated_at_utc": "2026-11-20T03:46:09.093970+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Pussycat Dolls & Busta Rhymes",
+        "title": "Don't Cha",
+        "detected_at_utc": "2026-11-20T03:45:26.169938+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -172,6 +177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Amazing",
+        "detected_at_utc": "2026-11-20T03:46:06.780396+00:00"
+      },
       {
         "artist": "The Radios",
         "title": "She Goes Nana",
