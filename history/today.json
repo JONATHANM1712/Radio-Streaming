@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:35:31.912737+00:00",
+  "updated_at_utc": "2026-11-20T13:36:34.863464+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sting",
+        "title": "Fields Of Gold",
+        "detected_at_utc": "2026-11-20T13:35:57.874286+00:00"
+      },
       {
         "artist": "MYMP",
         "title": "Especially For You",
