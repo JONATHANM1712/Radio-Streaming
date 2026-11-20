@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:14:05.622553+00:00",
+  "updated_at_utc": "2026-11-20T17:15:08.195390+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-20T17:14:24.440509+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "You Are My Everything (feat. Red)",
