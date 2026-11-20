@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:39:02.315769+00:00",
+  "updated_at_utc": "2026-11-20T13:40:05.137958+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Marcell",
+        "title": "Jangan Pernah Berubah",
+        "detected_at_utc": "2026-11-20T13:40:04.886416+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Fields Of Gold",
