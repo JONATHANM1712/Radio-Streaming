@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:25:59.929544+00:00",
+  "updated_at_utc": "2026-11-20T16:27:03.097059+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "No One",
+        "detected_at_utc": "2026-11-20T16:26:23.525828+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "She Will Be Loved",
