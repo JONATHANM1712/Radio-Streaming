@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:10:30.700658+00:00",
+  "updated_at_utc": "2026-11-20T13:11:33.345105+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Born to Make You Happy",
+        "detected_at_utc": "2026-11-20T13:10:49.271657+00:00"
+      },
       {
         "artist": "3T",
         "title": "Anything",
@@ -280,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jungle",
+        "title": "Back On 74",
+        "detected_at_utc": "2026-11-20T13:10:48.170404+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Grace Kelly",
