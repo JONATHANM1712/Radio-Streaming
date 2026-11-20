@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:20:21.627466+00:00",
+  "updated_at_utc": "2026-11-20T17:21:34.006930+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Good Charlotte",
+        "title": "I Just Wanna Live",
+        "detected_at_utc": "2026-11-20T17:21:33.908245+00:00"
+      },
       {
         "artist": "Flo Rida",
         "title": "Wild Ones (feat. Sia)",
