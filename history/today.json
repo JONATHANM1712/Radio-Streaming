@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T06:08:40.053028+00:00",
+  "updated_at_utc": "2026-11-20T06:09:42.859842+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-20T06:09:40.515236+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "Want To Want Me",
