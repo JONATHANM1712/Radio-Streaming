@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:47:25.975148+00:00",
+  "updated_at_utc": "2026-11-20T04:49:48.775830+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "I Want To Know What Love Is",
+        "detected_at_utc": "2026-11-20T04:49:48.625622+00:00"
+      },
       {
         "artist": "Ahmad Dhani & Andra Ramadhan",
         "title": "Aku Cinta Kau & Dia (Accoustic Version )",
