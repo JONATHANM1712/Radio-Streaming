@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T11:52:39.398039+00:00",
+  "updated_at_utc": "2026-11-20T11:53:46.839880+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-20T11:53:42.290993+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Cheating on You",
