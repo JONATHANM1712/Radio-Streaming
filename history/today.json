@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:00:55.582127+00:00",
+  "updated_at_utc": "2026-11-20T14:05:00.746240+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-20T14:05:00.643393+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
