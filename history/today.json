@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-19T17:49:39.516599+00:00",
+  "updated_at_utc": "2026-11-20T03:33:08.457659+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande & Justin Bieber",
+        "title": "Stuck with U",
+        "detected_at_utc": "2026-11-20T03:32:27.085172+00:00"
+      },
       {
         "artist": "Budapest",
         "title": "Is This the Best It Gets?",
@@ -142,6 +147,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blondie",
+        "title": "Accidents Never Happen",
+        "detected_at_utc": "2026-11-20T03:32:52.139701+00:00"
+      },
       {
         "artist": "Soul II Soul",
         "title": "Keep On Movin'",
