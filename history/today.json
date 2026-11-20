@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:56:44.324549+00:00",
+  "updated_at_utc": "2026-11-20T13:58:49.530093+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-11-20T13:58:49.428215+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Save Room",
