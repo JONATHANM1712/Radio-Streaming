@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:08:06.397783+00:00",
+  "updated_at_utc": "2026-11-20T17:09:09.261227+00:00",
   "stations": {
     "kis": [
       {
@@ -21,6 +21,11 @@
     ],
     "jak": [
       {
+        "artist": "Glenn Fredly",
+        "title": "You Are My Everything (feat. Red)",
+        "detected_at_utc": "2026-11-20T17:08:16.096961+00:00"
+      },
+      {
         "artist": "Yura Yunita",
         "title": "Dunia Tipu-Tipu",
         "detected_at_utc": "2026-11-20T17:05:12.234647+00:00"
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jamiroquai",
+        "title": "If I Like It, I Do It",
+        "detected_at_utc": "2026-11-20T17:08:59.007963+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "Electric Barbarella",
