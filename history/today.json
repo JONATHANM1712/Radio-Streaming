@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:23:39.783526+00:00",
+  "updated_at_utc": "2026-11-20T17:24:42.284313+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "When We Were Young",
+        "detected_at_utc": "2026-11-20T17:24:37.826839+00:00"
+      },
       {
         "artist": "Good Charlotte",
         "title": "I Just Wanna Live",
