@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:58:41.743024+00:00",
+  "updated_at_utc": "2026-11-20T05:00:53.535117+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frente!",
+        "title": "Bizarre Love Triangle (2014 Remaster)",
+        "detected_at_utc": "2026-11-20T05:00:53.403226+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
