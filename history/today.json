@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:36:45.851621+00:00",
+  "updated_at_utc": "2026-11-20T17:38:58.716256+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Crash Adams",
+        "title": "Good Side",
+        "detected_at_utc": "2026-11-20T17:38:58.629629+00:00"
+      },
       {
         "artist": "U2",
         "title": "Stuck In a Moment You Can't Get Out Of",
