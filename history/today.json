@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T06:28:04.047966+00:00",
+  "updated_at_utc": "2026-11-20T06:30:07.531676+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-20T06:30:07.433114+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Love Today",
