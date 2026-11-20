@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:12:19.023896+00:00",
+  "updated_at_utc": "2026-11-20T14:13:21.577654+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Mraz",
+        "title": "Make It Mine",
+        "detected_at_utc": "2026-11-20T14:12:21.465556+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
@@ -742,6 +747,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "musiment",
+        "title": "Groovy Skies",
+        "detected_at_utc": "2026-11-20T14:13:04.075351+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "New Moon On Monday",
