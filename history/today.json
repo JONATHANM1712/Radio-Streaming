@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:55:40.833717+00:00",
+  "updated_at_utc": "2026-11-20T13:56:44.324549+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "The Only Exception",
+        "detected_at_utc": "2026-11-20T13:55:43.609256+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Steal My Girl",
