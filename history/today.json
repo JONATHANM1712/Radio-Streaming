@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:33:33.911357+00:00",
+  "updated_at_utc": "2026-11-20T17:34:36.494796+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "U2",
+        "title": "Stuck In a Moment You Can't Get Out Of",
+        "detected_at_utc": "2026-11-20T17:33:51.410715+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "I Kissed A Girl",
