@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T12:21:06.665853+00:00",
+  "updated_at_utc": "2026-11-20T12:23:10.904430+00:00",
   "stations": {
     "kis": [
       {
@@ -512,6 +512,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Effcee",
+        "title": "What's On Your Mind (Pure Energy)",
+        "detected_at_utc": "2026-11-20T12:23:10.721706+00:00"
+      },
       {
         "artist": "Billy Idol",
         "title": "White Wedding, Pt. 1",
