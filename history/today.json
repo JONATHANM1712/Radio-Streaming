@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:15:45.375263+00:00",
+  "updated_at_utc": "2026-11-20T16:16:48.827572+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dave Koz",
+        "title": "Careless Whisper",
+        "detected_at_utc": "2026-11-20T16:15:59.869542+00:00"
+      },
       {
         "artist": "Timbaland & OneRepublic",
         "title": "Apologize",
@@ -375,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Aditya",
+        "title": "Be Mine",
+        "detected_at_utc": "2026-11-20T16:16:07.703302+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "All In My Head (Flex) [feat. Fetty Wap]",
