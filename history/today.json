@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:05:00.746240+00:00",
+  "updated_at_utc": "2026-11-20T14:06:03.698458+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Hall of Fame (feat. will.i.am)",
+        "detected_at_utc": "2026-11-20T14:06:02.190008+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
@@ -722,6 +727,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "New Moon On Monday",
+        "detected_at_utc": "2026-11-20T14:05:44.210380+00:00"
+      },
       {
         "artist": "Jon & Vangelis",
         "title": "Deborah",
