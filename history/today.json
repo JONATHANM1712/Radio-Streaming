@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:50:05.251501+00:00",
+  "updated_at_utc": "2026-11-20T13:51:07.711600+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HIVI!",
+        "title": "Mata Ke Hati",
+        "detected_at_utc": "2026-11-20T13:50:24.759694+00:00"
+      },
       {
         "artist": "Five for Fighting",
         "title": "Superman (It's Not Easy)",
