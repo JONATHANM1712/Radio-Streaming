@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:49:48.775830+00:00",
+  "updated_at_utc": "2026-11-20T04:50:52.943474+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-20T04:50:03.513553+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
