@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:23:21.025182+00:00",
+  "updated_at_utc": "2026-11-20T04:24:30.194405+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruce Roberts & Donna Summer",
+        "title": "Whenever There Is Love",
+        "detected_at_utc": "2026-11-20T04:24:30.003380+00:00"
+      },
       {
         "artist": "Shanty",
         "title": "Jatuh Cinta",
