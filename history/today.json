@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T13:06:35.840790+00:00",
+  "updated_at_utc": "2026-11-20T13:07:38.335283+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jungle",
+        "title": "Back On 74",
+        "detected_at_utc": "2026-11-20T13:06:39.530843+00:00"
+      },
       {
         "artist": "Bakar",
         "title": "Hell N Back",
