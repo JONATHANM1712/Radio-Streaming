@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T03:41:57.657090+00:00",
+  "updated_at_utc": "2026-11-20T03:44:00.686545+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rod Stewart",
+        "title": "Have I Told You Lately (Unplugged Version)",
+        "detected_at_utc": "2026-11-20T03:44:00.521825+00:00"
+      },
       {
         "artist": "Ecoutez",
         "title": "Percayalah",
