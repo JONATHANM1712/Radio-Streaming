@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T16:36:27.176871+00:00",
+  "updated_at_utc": "2026-11-20T16:37:29.995248+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-20T16:36:37.007840+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
