@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:53:04.944696+00:00",
+  "updated_at_utc": "2026-11-20T04:54:11.242235+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kenny G",
+        "title": "How Could an Angel Break My Heart (feat. Toni Braxton)",
+        "detected_at_utc": "2026-11-20T04:53:13.011563+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "I Want To Know What Love Is",
@@ -155,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Dean",
+        "title": "Dive",
+        "detected_at_utc": "2026-11-20T04:53:17.741880+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
