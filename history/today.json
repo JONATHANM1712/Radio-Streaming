@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T03:46:09.093970+00:00",
+  "updated_at_utc": "2026-11-20T03:47:13.095694+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "She",
+        "title": "Jomblowati",
+        "detected_at_utc": "2026-11-20T03:46:29.114888+00:00"
+      },
       {
         "artist": "The Pussycat Dolls & Busta Rhymes",
         "title": "Don't Cha",
