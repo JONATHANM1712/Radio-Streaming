@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:15:13.984550+00:00",
+  "updated_at_utc": "2026-11-20T04:16:17.250932+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Feather",
+        "detected_at_utc": "2026-11-20T04:15:37.757385+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "One In A Million",
