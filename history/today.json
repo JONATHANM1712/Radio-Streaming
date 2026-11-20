@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T14:07:09.498862+00:00",
+  "updated_at_utc": "2026-11-20T14:09:13.399333+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-20T14:09:13.295016+00:00"
+      },
       {
         "artist": "The Script",
         "title": "Hall of Fame (feat. will.i.am)",
