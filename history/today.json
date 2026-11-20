@@ -1,8 +1,13 @@
 {
   "date": "2026-11-20",
-  "updated_at_utc": "2026-11-20T04:39:57.556664+00:00",
+  "updated_at_utc": "2026-11-20T04:42:05.337851+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ahmad Dhani & Andra Ramadhan",
+        "title": "Aku Cinta Kau & Dia (Accoustic Version )",
+        "detected_at_utc": "2026-11-20T04:42:05.187945+00:00"
+      },
       {
         "artist": "B*Witched",
         "title": "To You I Belong",
