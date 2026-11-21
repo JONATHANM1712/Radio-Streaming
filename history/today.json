@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:19:49.158647+00:00",
+  "updated_at_utc": "2026-11-21T04:21:50.078083+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "title": "Get Lucky",
+        "detected_at_utc": "2026-11-21T04:21:49.856805+00:00"
+      },
       {
         "artist": "meja",
         "title": "All 'Bout the Money",
