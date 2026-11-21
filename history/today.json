@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:34:12.488532+00:00",
+  "updated_at_utc": "2026-11-21T04:35:15.941827+00:00",
   "stations": {
     "kis": [
       {
@@ -121,6 +121,11 @@
     ],
     "jak": [
       {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "detected_at_utc": "2026-11-21T04:34:14.471383+00:00"
+      },
+      {
         "artist": "India.Arie",
         "title": "Can I Walk With You",
         "detected_at_utc": "2026-11-21T04:31:08.016260+00:00"
@@ -232,6 +237,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Tonight (We Need A Lover)",
+        "detected_at_utc": "2026-11-21T04:35:14.462861+00:00"
+      },
       {
         "artist": "Sacred Reich",
         "title": "The American Way",
