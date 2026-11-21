@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:52:28.324218+00:00",
+  "updated_at_utc": "2026-11-21T09:35:45.426037+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso",
+        "title": "Rahasia Perempuan",
+        "detected_at_utc": "2026-11-21T09:35:45.012482+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Girlfriend",
@@ -752,6 +757,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mr. Big",
+        "title": "Colorado Bulldog",
+        "detected_at_utc": "2026-11-21T09:35:45.056388+00:00"
+      },
       {
         "artist": "Stone Temple Pilots",
         "title": "Big Empty",
