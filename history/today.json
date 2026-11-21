@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:38:29.908176+00:00",
+  "updated_at_utc": "2026-11-21T15:39:40.195575+00:00",
   "stations": {
     "kis": [
       {
@@ -1182,6 +1182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fugazi",
+        "title": "Bad Mouth",
+        "detected_at_utc": "2026-11-21T15:39:40.106363+00:00"
+      },
       {
         "artist": "Loudness",
         "title": "SOLDIER OF FORTUNE (2020 Remastered)",
