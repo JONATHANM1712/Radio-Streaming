@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:02:48.387290+00:00",
+  "updated_at_utc": "2026-11-21T14:03:53.246101+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shakira",
+        "title": "Can't Remember to Forget You (feat. Rihanna)",
+        "detected_at_utc": "2026-11-21T14:03:33.115337+00:00"
+      },
       {
         "artist": "Vertical Horizon",
         "title": "Everything You Want",
@@ -937,6 +942,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "311",
+        "title": "Down",
+        "detected_at_utc": "2026-11-21T14:03:42.662636+00:00"
+      },
       {
         "artist": "The Misfits",
         "title": "Last Caress",
