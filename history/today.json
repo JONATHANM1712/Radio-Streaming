@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-21T17:15:40.092061+00:00",
+  "updated_at_utc": "2026-11-21T17:16:42.367189+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Temper Trap",
+        "title": "Sweet Disposition",
+        "detected_at_utc": "2026-11-21T17:16:31.567809+00:00"
+      },
       {
         "artist": "CAKE",
         "title": "I Will Survive",
