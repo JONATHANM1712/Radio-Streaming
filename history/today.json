@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:28:33.130900+00:00",
+  "updated_at_utc": "2026-11-21T14:29:36.241243+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-21T14:28:35.755547+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Stronger (What Doesn't Kill You)",
