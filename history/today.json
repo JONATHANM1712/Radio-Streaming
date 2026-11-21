@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:27:12.346061+00:00",
+  "updated_at_utc": "2026-11-21T15:29:26.658307+00:00",
   "stations": {
     "kis": [
       {
@@ -1157,6 +1157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Order",
+        "title": "Regret",
+        "detected_at_utc": "2026-11-21T15:29:26.547612+00:00"
+      },
       {
         "artist": "Mötley Crüe",
         "title": "You're All I Need",
