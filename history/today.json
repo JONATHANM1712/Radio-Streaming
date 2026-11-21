@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:53:34.535227+00:00",
+  "updated_at_utc": "2026-11-21T06:54:38.415082+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jonas Blue & JP Cooper",
+        "title": "Perfect Strangers",
+        "detected_at_utc": "2026-11-21T06:54:11.479362+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "How To Touch A Girl",
