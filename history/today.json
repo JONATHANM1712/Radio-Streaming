@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T09:37:53.432322+00:00",
+  "updated_at_utc": "2026-11-21T09:38:56.523924+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lauryn Hill",
+        "title": "Doo Wop (That Thing)",
+        "detected_at_utc": "2026-11-21T09:38:49.427875+00:00"
+      },
       {
         "artist": "Ari Lasso",
         "title": "Rahasia Perempuan",
