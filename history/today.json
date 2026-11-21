@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:49:45.476272+00:00",
+  "updated_at_utc": "2026-11-21T15:50:56.162312+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lenka",
+        "title": "The Show",
+        "detected_at_utc": "2026-11-21T15:50:56.079880+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "IDGAF (Radio Edit)",
