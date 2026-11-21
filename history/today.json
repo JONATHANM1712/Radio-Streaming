@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-21T17:16:42.367189+00:00",
+  "updated_at_utc": "2026-11-21T17:17:44.865701+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-21T17:17:42.808795+00:00"
+      },
       {
         "artist": "Macklemore & Ryan Lewis",
         "title": "Can't Hold Us (feat. Ray Dalton)",
