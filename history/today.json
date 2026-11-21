@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T09:51:11.239441+00:00",
+  "updated_at_utc": "2026-11-21T09:52:14.130103+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Buffalo Springfield",
+        "title": "For What It's Worth",
+        "detected_at_utc": "2026-11-21T09:52:09.008930+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Shut Up and Drive",
