@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:47:17.456137+00:00",
+  "updated_at_utc": "2026-11-21T07:50:21.707267+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-21T07:50:21.521952+00:00"
+      },
       {
         "artist": "The Click Five",
         "title": "Empty",
