@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:18:26.000581+00:00",
+  "updated_at_utc": "2026-11-21T07:20:30.540427+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "WALK THE MOON",
+        "title": "Shut Up and Dance",
+        "detected_at_utc": "2026-11-21T07:20:30.288449+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "One Less Lonely Girl",
@@ -672,6 +677,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Ramones",
+        "title": "Pet Sematary",
+        "detected_at_utc": "2026-11-21T07:20:30.288575+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "Spinning Around Over You",
