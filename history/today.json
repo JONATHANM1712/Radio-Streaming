@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:04:01.209101+00:00",
+  "updated_at_utc": "2026-11-21T06:05:54.812755+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-21T06:05:54.705210+00:00"
+      },
       {
         "artist": "DNCE",
         "title": "Toothbrush",
