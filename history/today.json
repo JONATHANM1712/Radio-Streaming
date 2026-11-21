@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:36:21.507945+00:00",
+  "updated_at_utc": "2026-11-21T07:37:58.119798+00:00",
   "stations": {
     "kis": [
       {
@@ -717,6 +717,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Raise Your Hands To Rock",
+        "detected_at_utc": "2026-11-21T07:37:57.956739+00:00"
+      },
       {
         "artist": "Led Zeppelin",
         "title": "The Song Remains the Same",
