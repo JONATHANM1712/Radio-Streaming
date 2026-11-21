@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:38:19.425772+00:00",
+  "updated_at_utc": "2026-11-21T04:39:23.261087+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Suede",
+        "title": "Positivity",
+        "detected_at_utc": "2026-11-21T04:39:21.754962+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
@@ -237,6 +242,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "ラウドネス",
+        "title": "YOU SHOOK ME",
+        "detected_at_utc": "2026-11-21T04:39:22.517192+00:00"
+      },
       {
         "artist": "Rockin' For Decades",
         "title": "Even Harder Now",
