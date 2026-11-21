@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:27:03.412631+00:00",
+  "updated_at_utc": "2026-11-21T13:28:07.318507+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-21T13:28:07.237290+00:00"
+      },
       {
         "artist": "LANY",
         "title": "ILYSB (Stripped)",
