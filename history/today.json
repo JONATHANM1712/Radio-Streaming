@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:16:19.626226+00:00",
+  "updated_at_utc": "2026-11-21T07:17:22.990280+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "One Less Lonely Girl",
+        "detected_at_utc": "2026-11-21T07:16:19.735859+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
@@ -662,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Spinning Around Over You",
+        "detected_at_utc": "2026-11-21T07:17:22.252172+00:00"
+      },
       {
         "artist": "Rockin' For Decades",
         "title": "Even Harder Now",
