@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:58:59.471159+00:00",
+  "updated_at_utc": "2026-11-21T05:02:02.374057+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Walking Away",
+        "detected_at_utc": "2026-11-21T05:02:02.228742+00:00"
+      },
       {
         "artist": "Mulan Jameela",
         "title": "Cinta Mati, Pt. 3",
@@ -150,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-11-21T05:02:02.227918+00:00"
+      },
       {
         "artist": "Echosmith",
         "title": "Cool Kids",
