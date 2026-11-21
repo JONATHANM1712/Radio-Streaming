@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:53:16.508928+00:00",
+  "updated_at_utc": "2026-11-21T14:55:17.255746+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Arthur",
+        "title": "Impossible",
+        "detected_at_utc": "2026-11-21T14:55:17.122418+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "The Sweet Escape (feat. Akon)",
