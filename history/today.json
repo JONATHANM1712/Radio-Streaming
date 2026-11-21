@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:10:20.509876+00:00",
+  "updated_at_utc": "2026-11-21T05:12:20.451305+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-21T05:12:20.270721+00:00"
+      },
       {
         "artist": "Omi",
         "title": "Cheerleader (Felix Jaehn Remix Radio Edit)",
