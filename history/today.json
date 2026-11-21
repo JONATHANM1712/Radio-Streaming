@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:42:07.474940+00:00",
+  "updated_at_utc": "2026-11-21T07:43:33.213768+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Barenaked Ladies",
+        "title": "It's All Been Done",
+        "detected_at_utc": "2026-11-21T07:43:33.073515+00:00"
+      },
       {
         "artist": "GIGI",
         "title": "Perihal Cinta",
