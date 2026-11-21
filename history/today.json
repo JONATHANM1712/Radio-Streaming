@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:50:21.707267+00:00",
+  "updated_at_utc": "2026-11-21T07:51:25.012229+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Girlfriend",
+        "detected_at_utc": "2026-11-21T07:50:44.457416+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Dangerous Woman",
