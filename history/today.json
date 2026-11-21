@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:33:10.082226+00:00",
+  "updated_at_utc": "2026-11-21T05:36:07.185552+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fly",
+        "title": "Terbang",
+        "detected_at_utc": "2026-11-21T05:36:07.012363+00:00"
+      },
       {
         "artist": "Lady Gaga & Bradley Cooper",
         "title": "Shallow",
