@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:45:30.900642+00:00",
+  "updated_at_utc": "2026-11-21T05:46:34.357336+00:00",
   "stations": {
     "kis": [
       {
@@ -221,6 +221,11 @@
     ],
     "jak": [
       {
+        "artist": "Adele",
+        "title": "Make You Feel My Love",
+        "detected_at_utc": "2026-11-21T05:46:26.638496+00:00"
+      },
+      {
         "artist": "One Direction",
         "title": "Steal My Girl",
         "detected_at_utc": "2026-11-21T05:42:18.153945+00:00"
@@ -427,6 +432,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Locomotive (Complicity)",
+        "detected_at_utc": "2026-11-21T05:46:32.314038+00:00"
+      },
       {
         "artist": "Pearl Jam",
         "title": "Last Kiss",
