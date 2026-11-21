@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:34:34.463050+00:00",
+  "updated_at_utc": "2026-11-21T15:35:37.104155+00:00",
   "stations": {
     "kis": [
       {
@@ -1172,6 +1172,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Loudness",
+        "title": "SOLDIER OF FORTUNE (2020 Remastered)",
+        "detected_at_utc": "2026-11-21T15:35:34.601317+00:00"
+      },
       {
         "artist": "The Presidents of the United States of America",
         "title": "Lump",
