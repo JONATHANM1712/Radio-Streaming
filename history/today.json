@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:12:03.400636+00:00",
+  "updated_at_utc": "2026-11-21T06:13:06.167110+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chynna Phillips",
+        "title": "Naked And Sacred",
+        "detected_at_utc": "2026-11-21T06:12:14.314740+00:00"
+      },
       {
         "artist": "Mýa",
         "title": "Case of the Ex (Whatcha Gonna Do)",
@@ -246,6 +251,11 @@
     ],
     "jak": [
       {
+        "artist": "Shaboozey",
+        "title": "A Bar Song (Tipsy)",
+        "detected_at_utc": "2026-11-21T06:13:04.587150+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
         "detected_at_utc": "2026-11-21T06:12:03.288583+00:00"
@@ -487,6 +497,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "A Flock of Seagulls",
+        "title": "Modern Love Is Automatic",
+        "detected_at_utc": "2026-11-21T06:12:13.888038+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "Longview",
