@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:25:59.181695+00:00",
+  "updated_at_utc": "2026-11-21T04:27:03.809208+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-21T04:27:01.327364+00:00"
+      },
       {
         "artist": "Gwen Stefani",
         "title": "The Sweet Escape (feat. Akon)",
