@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:55:01.060687+00:00",
+  "updated_at_utc": "2026-11-21T15:56:03.436750+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Suede",
+        "title": "She's In Fashion",
+        "detected_at_utc": "2026-11-21T15:55:51.471964+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Nothin' On You (feat. Bruno Mars)",
@@ -595,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-21T15:55:01.077978+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
