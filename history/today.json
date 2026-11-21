@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:14:03.222455+00:00",
+  "updated_at_utc": "2026-11-21T14:15:06.944036+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Donne Maula",
+        "title": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "detected_at_utc": "2026-11-21T14:15:04.629249+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
