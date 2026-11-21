@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:59:51.449745+00:00",
+  "updated_at_utc": "2026-11-21T07:00:55.544109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lonestar",
+        "title": "Amazed",
+        "detected_at_utc": "2026-11-21T07:00:55.398521+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Birthday",
