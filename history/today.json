@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:48:05.809176+00:00",
+  "updated_at_utc": "2026-11-21T16:49:58.113916+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "If I Were a Boy",
+        "detected_at_utc": "2026-11-21T16:49:58.015858+00:00"
+      },
       {
         "artist": "Chantal Kreviazuk",
         "title": "Leaving On A Jet Plane",
