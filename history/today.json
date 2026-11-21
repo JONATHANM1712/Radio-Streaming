@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:25:58.916104+00:00",
+  "updated_at_utc": "2026-11-21T13:27:03.412631+00:00",
   "stations": {
     "kis": [
       {
@@ -426,6 +426,11 @@
     ],
     "jak": [
       {
+        "artist": "LANY",
+        "title": "ILYSB (Stripped)",
+        "detected_at_utc": "2026-11-21T13:26:01.758277+00:00"
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
         "detected_at_utc": "2026-11-21T10:09:42.308282+00:00"
@@ -847,6 +852,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Infectious Grooves",
+        "title": "Infectious Grooves",
+        "detected_at_utc": "2026-11-21T13:26:00.833887+00:00"
+      },
       {
         "artist": "Beastie Boys",
         "title": "Fight for Your Right",
