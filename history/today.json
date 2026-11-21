@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:17:09.497935+00:00",
+  "updated_at_utc": "2026-11-21T15:19:00.914249+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Daughters",
+        "detected_at_utc": "2026-11-21T15:19:00.786031+00:00"
+      },
       {
         "artist": "Anggun",
         "title": "Mimpi",
