@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:25:23.303132+00:00",
+  "updated_at_utc": "2026-11-21T15:27:12.346061+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Goo Goo Dolls",
+        "title": "Iris",
+        "detected_at_utc": "2026-11-21T15:27:12.197005+00:00"
+      },
       {
         "artist": "Fifth Harmony",
         "title": "Worth It (feat. Kid Ink)",
