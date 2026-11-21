@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:06:38.914705+00:00",
+  "updated_at_utc": "2026-11-21T14:07:42.483041+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-21T14:06:49.310437+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors",
@@ -947,6 +952,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Marilyn Manson",
+        "title": "Sweet Dreams (Are Made of This)",
+        "detected_at_utc": "2026-11-21T14:06:48.047345+00:00"
+      },
       {
         "artist": "311",
         "title": "Down",
