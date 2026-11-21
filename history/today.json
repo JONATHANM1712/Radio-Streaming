@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:37:27.125897+00:00",
+  "updated_at_utc": "2026-11-21T15:38:29.908176+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Soegi Bornean",
+        "title": "Asmalibrasi",
+        "detected_at_utc": "2026-11-21T15:37:39.589683+00:00"
+      },
       {
         "artist": "Dashboard Confessional",
         "title": "Stolen",
