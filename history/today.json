@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T10:01:30.591733+00:00",
+  "updated_at_utc": "2026-11-21T10:03:30.926858+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JAŸ-Z",
+        "title": "Holy Grail (feat. Justin Timberlake)",
+        "detected_at_utc": "2026-11-21T10:03:30.802309+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Telephone (feat. Beyoncé)",
