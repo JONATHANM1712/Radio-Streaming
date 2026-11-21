@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:59:34.248122+00:00",
+  "updated_at_utc": "2026-11-21T15:00:40.673323+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Matchbox Twenty",
+        "title": "Unwell",
+        "detected_at_utc": "2026-11-21T15:00:39.230388+00:00"
+      },
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-21T14:59:34.653433+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Magic",
