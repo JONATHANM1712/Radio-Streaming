@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:03:00.378555+00:00",
+  "updated_at_utc": "2026-11-21T16:04:02.885572+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Newman",
+        "title": "Love Me Again",
+        "detected_at_utc": "2026-11-21T16:03:11.141253+00:00"
+      },
       {
         "artist": "Dido",
         "title": "Thank You",
