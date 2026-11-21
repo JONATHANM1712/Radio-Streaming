@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:33:17.638761+00:00",
+  "updated_at_utc": "2026-11-21T13:35:22.356234+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran & Justin Bieber",
+        "title": "I Don't Care",
+        "detected_at_utc": "2026-11-21T13:35:22.266833+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Rehab",
