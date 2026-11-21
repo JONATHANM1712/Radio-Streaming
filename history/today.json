@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:47:17.293133+00:00",
+  "updated_at_utc": "2026-11-21T13:49:17.845971+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "detected_at_utc": "2026-11-21T13:49:17.651329+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "Ain't It Fun",
