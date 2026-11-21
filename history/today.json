@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:05:07.591979+00:00",
+  "updated_at_utc": "2026-11-21T05:06:10.876832+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tame Impala",
+        "title": "Dracula",
+        "detected_at_utc": "2026-11-21T05:06:10.191584+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
