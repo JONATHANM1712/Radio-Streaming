@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:34:49.519267+00:00",
+  "updated_at_utc": "2026-11-21T16:35:52.149809+00:00",
   "stations": {
     "kis": [
       {
@@ -1332,6 +1332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "Animal Nitrate",
+        "detected_at_utc": "2026-11-21T16:35:49.689516+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Otherside",
