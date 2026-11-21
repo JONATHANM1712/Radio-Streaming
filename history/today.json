@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:48:42.934330+00:00",
+  "updated_at_utc": "2026-11-21T15:49:45.476272+00:00",
   "stations": {
     "kis": [
       {
@@ -1202,6 +1202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Metallica",
+        "title": "Hero of the Day (Live)",
+        "detected_at_utc": "2026-11-21T15:48:51.931519+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Dance on a Volcano (2007 Remaster)",
