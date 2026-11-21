@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:21:50.078083+00:00",
+  "updated_at_utc": "2026-11-21T04:22:53.264305+00:00",
   "stations": {
     "kis": [
       {
@@ -202,6 +202,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kid Rock",
+        "title": "Only God Knows Why",
+        "detected_at_utc": "2026-11-21T04:21:51.482722+00:00"
+      },
       {
         "artist": "The Doors",
         "title": "Riders On The Storm",
