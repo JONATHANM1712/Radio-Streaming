@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:07:05.144124+00:00",
+  "updated_at_utc": "2026-11-21T16:08:07.785216+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-21T16:07:16.115773+00:00"
+      },
       {
         "artist": "John Newman",
         "title": "Love Me Again",
