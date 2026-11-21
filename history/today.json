@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:13:23.737104+00:00",
+  "updated_at_utc": "2026-11-21T05:14:27.353134+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Jera",
+        "detected_at_utc": "2026-11-21T05:14:25.408352+00:00"
+      },
       {
         "artist": "Tanti",
         "title": "El Soundsystem Ska",
@@ -342,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Faith No More",
+        "title": "Midlife Crisis",
+        "detected_at_utc": "2026-11-21T05:13:24.207668+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Forever Yellow Skies",
