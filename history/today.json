@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:30:05.206634+00:00",
+  "updated_at_utc": "2026-11-21T04:31:08.634805+00:00",
   "stations": {
     "kis": [
       {
@@ -116,6 +116,11 @@
     ],
     "jak": [
       {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-11-21T04:31:08.016260+00:00"
+      },
+      {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
         "detected_at_utc": "2026-11-21T04:27:01.327364+00:00"
@@ -222,6 +227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sacred Reich",
+        "title": "The American Way",
+        "detected_at_utc": "2026-11-21T04:31:06.961557+00:00"
+      },
       {
         "artist": "Blind Melon",
         "title": "No Rain",
