@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:21:41.838381+00:00",
+  "updated_at_utc": "2026-11-21T05:24:44.227324+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-21T05:24:44.048428+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "She Looks So Perfect",
