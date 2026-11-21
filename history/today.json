@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:21:15.391416+00:00",
+  "updated_at_utc": "2026-11-21T14:22:18.703215+00:00",
   "stations": {
     "kis": [
       {
@@ -485,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "detected_at_utc": "2026-11-21T14:21:19.485173+00:00"
+      },
       {
         "artist": "LINKIN PARK",
         "title": "In the End",
