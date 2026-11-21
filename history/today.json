@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:03:43.029459+00:00",
+  "updated_at_utc": "2026-11-21T15:04:46.915742+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Eminem",
+        "title": "Love The Way You Lie (feat. Rihanna)",
+        "detected_at_utc": "2026-11-21T15:04:46.764516+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "Unwell",
