@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:46:33.884823+00:00",
+  "updated_at_utc": "2026-11-21T04:47:38.575218+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-11-21T04:47:38.430944+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
