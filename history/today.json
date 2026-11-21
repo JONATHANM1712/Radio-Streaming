@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:08:59.932943+00:00",
+  "updated_at_utc": "2026-11-21T06:12:03.400636+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-21T06:12:03.288583+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Till the World Ends",
