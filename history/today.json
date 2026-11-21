@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:23:58.257640+00:00",
+  "updated_at_utc": "2026-11-21T07:25:01.987475+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MKTO",
+        "title": "Classic",
+        "detected_at_utc": "2026-11-21T07:24:59.967071+00:00"
+      },
       {
         "artist": "Junior Senior",
         "title": "Move Your Feet",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-21T07:24:38.144246+00:00"
+      },
       {
         "artist": "WALK THE MOON",
         "title": "Shut Up and Dance",
@@ -682,6 +692,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Aerosmith",
+        "title": "Blind Man",
+        "detected_at_utc": "2026-11-21T07:24:37.220549+00:00"
+      },
       {
         "artist": "Ramones",
         "title": "Pet Sematary",
