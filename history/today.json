@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:39:23.261087+00:00",
+  "updated_at_utc": "2026-11-21T04:40:27.054217+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sammy Simorangkir",
+        "title": "Dia",
+        "detected_at_utc": "2026-11-21T04:40:26.139353+00:00"
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-21T04:39:24.440347+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
