@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:40:53.538085+00:00",
+  "updated_at_utc": "2026-11-21T13:44:07.240681+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Ain't It Fun",
+        "detected_at_utc": "2026-11-21T13:44:07.056559+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Hey Baby",
