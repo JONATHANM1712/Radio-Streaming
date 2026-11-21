@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:25:44.864955+00:00",
+  "updated_at_utc": "2026-11-21T06:28:01.117123+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-21T06:28:01.027105+00:00"
+      },
       {
         "artist": "Rooney",
         "title": "When Did Your Heart Go Missing?",
