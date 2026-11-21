@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T09:35:45.426037+00:00",
+  "updated_at_utc": "2026-11-21T09:36:50.705756+00:00",
   "stations": {
     "kis": [
       {
@@ -381,6 +381,11 @@
     ],
     "jak": [
       {
+        "artist": "5 Seconds of Summer",
+        "title": "Easier",
+        "detected_at_utc": "2026-11-21T09:35:45.463528+00:00"
+      },
+      {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
         "detected_at_utc": "2026-11-21T07:50:21.521952+00:00"
@@ -757,6 +762,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mad Season",
+        "title": "River Of Deceit",
+        "detected_at_utc": "2026-11-21T09:36:46.225973+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Colorado Bulldog",
