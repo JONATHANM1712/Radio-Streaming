@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:46:52.616414+00:00",
+  "updated_at_utc": "2026-11-21T06:48:58.657004+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-21T06:48:58.569154+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
