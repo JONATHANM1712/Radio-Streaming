@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T04:47:38.575218+00:00",
+  "updated_at_utc": "2026-11-21T04:49:39.967182+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "We Are Never Ever Getting Back Together",
+        "detected_at_utc": "2026-11-21T04:49:39.791541+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Just a Feeling",
