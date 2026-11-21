@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:33:43.276506+00:00",
+  "updated_at_utc": "2026-11-21T14:37:54.357338+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Never Gonna Not Dance Again",
+        "detected_at_utc": "2026-11-21T14:37:54.206188+00:00"
+      },
       {
         "artist": "Daniel Powter",
         "title": "Bad Day",
