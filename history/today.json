@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:53:58.466286+00:00",
+  "updated_at_utc": "2026-11-21T15:55:01.060687+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-21T15:53:59.876474+00:00"
+      },
       {
         "artist": "Lenka",
         "title": "The Show",
