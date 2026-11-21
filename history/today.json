@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T13:55:31.728075+00:00",
+  "updated_at_utc": "2026-11-21T13:57:32.503634+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "This Love",
+        "detected_at_utc": "2026-11-21T13:57:32.371692+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
