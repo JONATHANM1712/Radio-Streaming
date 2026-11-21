@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:29:53.772764+00:00",
+  "updated_at_utc": "2026-11-21T06:31:08.546991+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "If I Ain't Got You",
+        "detected_at_utc": "2026-11-21T06:31:08.456999+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
