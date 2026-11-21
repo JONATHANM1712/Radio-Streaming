@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:13:08.763941+00:00",
+  "updated_at_utc": "2026-11-21T07:14:11.717945+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-21T07:14:11.588657+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
