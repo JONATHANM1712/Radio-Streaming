@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-20T17:55:21.693057+00:00",
+  "updated_at_utc": "2026-11-21T04:05:25.835233+00:00",
   "stations": {
     "kis": [
       {
@@ -81,6 +81,11 @@
     ],
     "jak": [
       {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-21T04:05:24.742970+00:00"
+      },
+      {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
         "detected_at_utc": "2026-11-20T17:53:16.582077+00:00"
@@ -152,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Motörhead",
+        "title": "Killed By Death",
+        "detected_at_utc": "2026-11-21T04:05:24.848969+00:00"
+      },
       {
         "artist": "Candlebox",
         "title": "Far Behind",
