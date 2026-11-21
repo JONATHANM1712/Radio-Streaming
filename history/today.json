@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:09:10.422563+00:00",
+  "updated_at_utc": "2026-11-21T16:10:19.942417+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+        "detected_at_utc": "2026-11-21T16:10:19.849736+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
