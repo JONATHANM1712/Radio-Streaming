@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:00:58.651473+00:00",
+  "updated_at_utc": "2026-11-21T06:02:01.443731+00:00",
   "stations": {
     "kis": [
       {
@@ -236,6 +236,11 @@
     ],
     "jak": [
       {
+        "artist": "DNCE",
+        "title": "Toothbrush",
+        "detected_at_utc": "2026-11-21T06:01:48.249530+00:00"
+      },
+      {
         "artist": "Coldplay",
         "title": "Sparks",
         "detected_at_utc": "2026-11-21T05:56:41.582505+00:00"
@@ -457,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Judas Priest",
+        "title": "You've Got Another Thing Comin'",
+        "detected_at_utc": "2026-11-21T06:01:56.769753+00:00"
+      },
       {
         "artist": "Sound Ideas",
         "title": "Large Concert Crowd: Applause with Cheering and Whistling 2",
