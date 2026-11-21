@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T09:54:12.595278+00:00",
+  "updated_at_utc": "2026-11-21T09:55:15.442112+00:00",
   "stations": {
     "kis": [
       {
@@ -406,6 +406,11 @@
     ],
     "jak": [
       {
+        "artist": "50 Cent",
+        "title": "In Da Club",
+        "detected_at_utc": "2026-11-21T09:54:14.898840+00:00"
+      },
+      {
         "artist": "Adrian Khalif",
         "title": "2001x",
         "detected_at_utc": "2026-11-21T09:51:10.424944+00:00"
@@ -807,6 +812,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Megadeth",
+        "title": "No More Mr. Nice Guy",
+        "detected_at_utc": "2026-11-21T09:54:13.500941+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Monkey Wrench",
