@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:32:05.972408+00:00",
+  "updated_at_utc": "2026-11-21T05:33:10.082226+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "Shallow",
+        "detected_at_utc": "2026-11-21T05:33:01.768785+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Forever (Main Version)",
