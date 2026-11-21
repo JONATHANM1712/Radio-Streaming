@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:51:10.016693+00:00",
+  "updated_at_utc": "2026-11-21T14:52:13.205989+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Wish You Were Here",
+        "detected_at_utc": "2026-11-21T14:51:20.089794+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
