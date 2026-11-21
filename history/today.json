@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:21:34.740652+00:00",
+  "updated_at_utc": "2026-11-21T06:22:37.724974+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "2AM Club",
+        "title": "Worry About You",
+        "detected_at_utc": "2026-11-21T06:22:34.897955+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Sedari Dulu",
@@ -255,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fun.",
+        "title": "Carry On",
+        "detected_at_utc": "2026-11-21T06:21:43.313379+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Don't Phunk With My Heart",
