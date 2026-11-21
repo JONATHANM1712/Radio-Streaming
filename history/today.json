@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-21T17:05:28.444126+00:00",
+  "updated_at_utc": "2026-11-21T17:06:30.978263+00:00",
   "stations": {
     "kis": [
       {
@@ -32,6 +32,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury & Montserrat Caballé",
+        "title": "Barcelona",
+        "detected_at_utc": "2026-11-21T17:06:27.918907+00:00"
+      },
       {
         "artist": "Freddie Mercury & Montserrat Caballé",
         "title": "Barcelona (New Orchestrated Version)",
