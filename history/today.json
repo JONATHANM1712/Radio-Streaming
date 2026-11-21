@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T15:35:37.104155+00:00",
+  "updated_at_utc": "2026-11-21T15:37:27.125897+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "Andai",
+        "detected_at_utc": "2026-11-21T15:37:27.023405+00:00"
+      },
       {
         "artist": "Lara Fabian",
         "title": "Broken Vow",
