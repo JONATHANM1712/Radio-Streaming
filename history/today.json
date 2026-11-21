@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:41:47.713658+00:00",
+  "updated_at_utc": "2026-11-21T16:42:50.330385+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "34+35",
+        "detected_at_utc": "2026-11-21T16:41:58.030859+00:00"
+      },
       {
         "artist": "Fort Minor",
         "title": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
