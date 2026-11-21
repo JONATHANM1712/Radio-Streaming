@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:41:03.082523+00:00",
+  "updated_at_utc": "2026-11-21T07:42:07.474940+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "What About Us",
+        "detected_at_utc": "2026-11-21T07:42:07.325846+00:00"
+      },
       {
         "artist": "Sugababes",
         "title": "Push The Button",
