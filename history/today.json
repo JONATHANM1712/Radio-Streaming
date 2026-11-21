@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T06:43:43.458536+00:00",
+  "updated_at_utc": "2026-11-21T06:45:49.711021+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-21T06:45:49.604093+00:00"
+      },
       {
         "artist": "Paula DeAnda",
         "title": "Walk Away (Remember Me)",
