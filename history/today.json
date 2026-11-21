@@ -1,8 +1,13 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T14:18:10.168764+00:00",
+  "updated_at_utc": "2026-11-21T14:19:12.972163+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Stronger (What Doesn't Kill You)",
+        "detected_at_utc": "2026-11-21T14:19:03.687632+00:00"
+      },
       {
         "artist": "Audy & Nindy Olay",
         "title": "Untuk Sahabat",
@@ -480,6 +485,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LINKIN PARK",
+        "title": "In the End",
+        "detected_at_utc": "2026-11-21T14:18:11.551014+00:00"
+      },
       {
         "artist": "Donne Maula",
         "title": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
