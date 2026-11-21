@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T05:26:53.891679+00:00",
+  "updated_at_utc": "2026-11-21T05:27:57.059527+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Forever (Main Version)",
+        "detected_at_utc": "2026-11-21T05:27:49.835603+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
