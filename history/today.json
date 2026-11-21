@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T16:45:58.087762+00:00",
+  "updated_at_utc": "2026-11-21T16:48:05.809176+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-21T16:48:05.712849+00:00"
+      },
       {
         "artist": "The Script",
         "title": "We Cry",
