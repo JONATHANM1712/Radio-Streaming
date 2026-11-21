@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated_at_utc": "2026-11-21T07:43:33.213768+00:00",
+  "updated_at_utc": "2026-11-21T07:46:14.094792+00:00",
   "stations": {
     "kis": [
       {
@@ -365,6 +365,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Click Five",
+        "title": "Empty",
+        "detected_at_utc": "2026-11-21T07:46:13.944326+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "What About Us",
