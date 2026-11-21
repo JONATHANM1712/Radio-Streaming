@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-21T17:04:25.539208+00:00",
+  "updated_at_utc": "2026-11-21T17:05:28.444126+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamie Cullum",
+        "title": "Everlasting Love",
+        "detected_at_utc": "2026-11-21T17:05:17.500088+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "The Heart Wants What It Wants",
@@ -16,12 +21,22 @@
     ],
     "jak": [
       {
+        "artist": "The Fray",
+        "title": "Never Say Never",
+        "detected_at_utc": "2026-11-21T17:05:26.834752+00:00"
+      },
+      {
         "artist": "Britney Spears",
         "title": "Oops!...I Did It Again",
         "detected_at_utc": "2026-11-21T17:00:20.756053+00:00"
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury & Montserrat Caballé",
+        "title": "Barcelona (New Orchestrated Version)",
+        "detected_at_utc": "2026-11-21T17:05:26.709541+00:00"
+      },
       {
         "artist": "Freddie Mercury & Montserrat Caballé",
         "title": "Barcelona",
