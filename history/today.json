@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:17:04.995386+00:00",
+  "updated_at_utc": "2026-11-22T11:18:08.074330+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "L O V E",
+        "detected_at_utc": "2026-11-22T11:17:46.397117+00:00"
+      },
       {
         "artist": "Memes",
         "title": "Terlanjur Sayang",
