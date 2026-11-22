@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:54:38.725590+00:00",
+  "updated_at_utc": "2026-11-22T10:56:50.563820+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-22T10:56:42.484233+00:00"
+      },
       {
         "artist": "Charles & Eddie",
         "title": "Would I Lie To You?",
