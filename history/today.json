@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:45:54.898134+00:00",
+  "updated_at_utc": "2026-11-22T11:46:57.533361+00:00",
   "stations": {
     "kis": [
       {
@@ -477,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wham!",
+        "title": "Last Christmas (Single Version)",
+        "detected_at_utc": "2026-11-22T11:46:26.990618+00:00"
+      },
       {
         "artist": "Itsuwa Mayumi",
         "title": "Amayadori",
