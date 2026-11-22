@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:14:31.046759+00:00",
+  "updated_at_utc": "2026-11-22T06:15:34.499129+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-22T06:15:05.328993+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
