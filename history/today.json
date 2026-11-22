@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:25:25.556366+00:00",
+  "updated_at_utc": "2026-11-22T11:27:58.245324+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Baby (feat. Ludacris)",
+        "detected_at_utc": "2026-11-22T11:27:58.156997+00:00"
+      },
       {
         "artist": "DJ Snake",
         "title": "Middle (feat. Bipolar Sunshine)",
