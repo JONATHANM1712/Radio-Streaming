@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T07:03:29.471570+00:00",
+  "updated_at_utc": "2026-11-22T07:04:33.863365+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-11-22T07:03:55.672151+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Already Gone",
