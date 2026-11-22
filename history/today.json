@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:12:33.076980+00:00",
+  "updated_at_utc": "2026-11-22T16:14:33.742476+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-22T16:14:33.651394+00:00"
+      },
       {
         "artist": "Passenger",
         "title": "Let Her Go",
