@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:09:00.310088+00:00",
+  "updated_at_utc": "2026-11-22T11:10:04.237683+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "F**kin' Perfect",
+        "detected_at_utc": "2026-11-22T11:10:04.155560+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
