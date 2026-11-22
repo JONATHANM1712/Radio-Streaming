@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:52:35.056346+00:00",
+  "updated_at_utc": "2026-11-22T06:53:39.016272+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Rasmus",
+        "title": "In the Shadows",
+        "detected_at_utc": "2026-11-22T06:53:35.164384+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
