@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:03:01.747480+00:00",
+  "updated_at_utc": "2026-11-22T11:04:04.606424+00:00",
   "stations": {
     "kis": [
       {
@@ -191,6 +191,11 @@
     ],
     "jak": [
       {
+        "artist": "Shawn Mendes",
+        "title": "Lost in Japan",
+        "detected_at_utc": "2026-11-22T11:03:44.830961+00:00"
+      },
+      {
         "artist": "Pia Mia",
         "title": "Do It Again (feat. Chris Brown & Tyga)",
         "detected_at_utc": "2026-11-22T10:59:26.822129+00:00"
@@ -372,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Paula Abdul",
+        "title": "Rush Rush",
+        "detected_at_utc": "2026-11-22T11:03:28.275206+00:00"
+      },
       {
         "artist": "Nazareth",
         "title": "Love Hurts",
