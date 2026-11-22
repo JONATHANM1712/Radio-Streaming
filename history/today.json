@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:57:57.909563+00:00",
+  "updated_at_utc": "2026-11-22T11:59:00.584345+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Troye Sivan",
+        "title": "YOUTH",
+        "detected_at_utc": "2026-11-22T11:58:00.457797+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Love Hurts",
