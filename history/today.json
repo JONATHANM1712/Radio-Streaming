@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:37:48.205731+00:00",
+  "updated_at_utc": "2026-11-22T10:38:51.057006+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "HIVI!",
+        "title": "Pelangi",
+        "detected_at_utc": "2026-11-22T10:38:49.445223+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Don't Love You No More (I'm Sorry)",
