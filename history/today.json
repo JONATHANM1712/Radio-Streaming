@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:08:25.102685+00:00",
+  "updated_at_utc": "2026-11-22T16:10:27.355810+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "detected_at_utc": "2026-11-22T16:10:27.270058+00:00"
+      },
       {
         "artist": "Rizky Febian & Adrian Khalif",
         "title": "Alamak",
