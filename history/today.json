@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:54:43.881349+00:00",
+  "updated_at_utc": "2026-11-22T12:55:48.181708+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "All The Right Moves",
+        "detected_at_utc": "2026-11-22T12:55:48.090669+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
