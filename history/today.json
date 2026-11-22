@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:08:40.990859+00:00",
+  "updated_at_utc": "2026-11-22T12:09:44.273845+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disclosure",
+        "title": "Omen (feat. Sam Smith)",
+        "detected_at_utc": "2026-11-22T12:09:28.568283+00:00"
+      },
       {
         "artist": "Kendrick Lamar",
         "title": "luther",
