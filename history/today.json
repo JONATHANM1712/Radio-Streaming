@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:15:56.195464+00:00",
+  "updated_at_utc": "2026-11-22T12:17:03.986867+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Miss Independent",
+        "detected_at_utc": "2026-11-22T12:17:03.899317+00:00"
+      },
       {
         "artist": "Reza Artamevia",
         "title": "Cintakan Membawamu Kembali",
