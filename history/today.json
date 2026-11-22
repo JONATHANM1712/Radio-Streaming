@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:55:00.730903+00:00",
+  "updated_at_utc": "2026-11-22T15:56:03.460489+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "1979",
+        "detected_at_utc": "2026-11-22T15:55:58.237617+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "What Do You Mean?",
