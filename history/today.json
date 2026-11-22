@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T05:55:19.176576+00:00",
+  "updated_at_utc": "2026-11-22T05:57:19.627848+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cranberries",
+        "title": "Free to Decide (Live in Madrid)",
+        "detected_at_utc": "2026-11-22T05:57:19.419355+00:00"
+      },
       {
         "artist": "Little Mix",
         "title": "Black Magic",
