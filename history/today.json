@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:03:14.270209+00:00",
+  "updated_at_utc": "2026-11-22T16:04:17.059710+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DLT & Che-Fu",
+        "title": "Chains",
+        "detected_at_utc": "2026-11-22T16:04:12.084425+00:00"
+      },
       {
         "artist": "Lingua",
         "title": "Jangan Kau Henti (Remastered)",
@@ -530,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "Please Don't Go",
+        "detected_at_utc": "2026-11-22T16:03:16.031011+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Cayman Islands",
