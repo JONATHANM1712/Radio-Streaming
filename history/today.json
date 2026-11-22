@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:22:42.191743+00:00",
+  "updated_at_utc": "2026-11-22T16:24:06.187516+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Marshmello & Bastille",
+        "title": "Happier",
+        "detected_at_utc": "2026-11-22T16:24:06.106148+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "We Are Young (feat. Janelle Monáe)",
