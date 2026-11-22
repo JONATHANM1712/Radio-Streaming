@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:16:48.385164+00:00",
+  "updated_at_utc": "2026-11-22T13:19:45.164136+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Deja Vu (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-11-22T13:19:44.979673+00:00"
+      },
       {
         "artist": "Whitney Houston",
         "title": "I Believe In You And Me (Film Version)",
