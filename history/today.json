@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:14:48.460838+00:00",
+  "updated_at_utc": "2026-11-22T12:15:56.195464+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Phoenix",
+        "title": "Lisztomania",
+        "detected_at_utc": "2026-11-22T12:15:56.109012+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
