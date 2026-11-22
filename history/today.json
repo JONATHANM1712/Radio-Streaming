@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:09:10.558773+00:00",
+  "updated_at_utc": "2026-11-22T14:10:13.896582+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "One Way or Another (Teenage Kicks)",
+        "detected_at_utc": "2026-11-22T14:10:12.545849+00:00"
+      },
       {
         "artist": "Alex Warren",
         "title": "Ordinary",
@@ -837,6 +842,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rita Coolidge",
+        "title": "All Time High",
+        "detected_at_utc": "2026-11-22T14:09:35.293832+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "Something About You",
