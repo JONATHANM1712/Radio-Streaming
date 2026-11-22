@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:03:05.233019+00:00",
+  "updated_at_utc": "2026-11-22T17:04:33.078284+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rob Thomas",
+        "title": "Lonely No More",
+        "detected_at_utc": "2026-11-22T17:04:32.982376+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Someday (From the August Rush Soundtrack)",
