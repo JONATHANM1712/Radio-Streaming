@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:05:20.270094+00:00",
+  "updated_at_utc": "2026-11-22T15:08:23.420024+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-22T15:08:23.328603+00:00"
+      },
       {
         "artist": "Imagine Dragons",
         "title": "Radioactive",
