@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:49:02.122035+00:00",
+  "updated_at_utc": "2026-11-22T16:52:07.204038+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-22T16:52:07.132359+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Big Girls Don't Cry (Personal)",
@@ -1252,6 +1257,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Christopher Cross",
+        "title": "Arthur's Theme (Best That You Can Do) [Live]",
+        "detected_at_utc": "2026-11-22T16:52:07.105398+00:00"
+      },
       {
         "artist": "Rod Stewart",
         "title": "Sailing",
