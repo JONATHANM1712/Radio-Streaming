@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:14:39.680864+00:00",
+  "updated_at_utc": "2026-11-22T13:15:44.145714+00:00",
   "stations": {
     "kis": [
       {
@@ -340,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ardhito Pramono",
+        "title": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
+        "detected_at_utc": "2026-11-22T13:15:42.069795+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
