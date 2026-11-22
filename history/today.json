@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:00:59.633732+00:00",
+  "updated_at_utc": "2026-11-22T17:02:02.456679+00:00",
   "stations": {
     "kis": [
       {
@@ -9,7 +9,19 @@
         "detected_at_utc": "2026-11-22T17:00:20.899267+00:00"
       }
     ],
-    "jak": [],
-    "most": []
+    "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-22T17:01:24.836958+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Aswad",
+        "title": "Don't Turn Around",
+        "detected_at_utc": "2026-11-22T17:01:27.635459+00:00"
+      }
+    ]
   }
 }
