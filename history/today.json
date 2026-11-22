@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:04:17.059710+00:00",
+  "updated_at_utc": "2026-11-22T16:05:19.736777+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pet Shop Boys, Straight Dave, Original Cast Of Closer To Heaven & Jonathan Harvey",
+        "title": "Something Special",
+        "detected_at_utc": "2026-11-22T16:05:13.648994+00:00"
+      },
       {
         "artist": "DLT & Che-Fu",
         "title": "Chains",
