@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:33:02.907699+00:00",
+  "updated_at_utc": "2026-11-22T11:34:06.016439+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Sampai Kapan",
+        "detected_at_utc": "2026-11-22T11:33:27.116609+00:00"
+      },
       {
         "artist": "Lisa \"Left Eye\" Lopes",
         "title": "The Block Party",
