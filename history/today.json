@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:26:16.003431+00:00",
+  "updated_at_utc": "2026-11-22T17:27:18.974738+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "Chemical",
+        "detected_at_utc": "2026-11-22T17:27:13.121182+00:00"
+      },
       {
         "artist": "David Archuleta",
         "title": "Crush",
