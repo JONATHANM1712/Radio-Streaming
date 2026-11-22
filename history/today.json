@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:25:22.450569+00:00",
+  "updated_at_utc": "2026-11-22T13:27:53.186668+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shakira & Beyoncé",
+        "title": "Beautiful Liar",
+        "detected_at_utc": "2026-11-22T13:27:53.041967+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Team",
