@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:12:16.406742+00:00",
+  "updated_at_utc": "2026-11-22T14:13:20.585118+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-22T14:13:18.149478+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -847,6 +852,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Counting Crows",
+        "title": "A Long December",
+        "detected_at_utc": "2026-11-22T14:12:42.075191+00:00"
+      },
       {
         "artist": "Rita Coolidge",
         "title": "All Time High",
