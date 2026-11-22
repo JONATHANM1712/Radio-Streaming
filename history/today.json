@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:00:23.008715+00:00",
+  "updated_at_utc": "2026-11-22T15:04:17.723256+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Look What You Made Me Do",
+        "detected_at_utc": "2026-11-22T15:04:17.645874+00:00"
+      },
       {
         "artist": "The Underdog Project",
         "title": "Summer Jam (Unplugged)",
