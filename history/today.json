@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:15:53.779107+00:00",
+  "updated_at_utc": "2026-11-22T17:17:56.232801+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blu Cantrell",
+        "title": "Hit 'Em Up Style (Oops!)",
+        "detected_at_utc": "2026-11-22T17:17:56.129173+00:00"
+      },
       {
         "artist": "Padi",
         "title": "Seperti Kekasihku",
