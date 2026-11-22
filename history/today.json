@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:11:43.105656+00:00",
+  "updated_at_utc": "2026-11-22T15:12:45.830696+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Learns to Rock",
+        "title": "That's Why (You Go Away)",
+        "detected_at_utc": "2026-11-22T15:12:30.583220+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Look What You Made Me Do",
@@ -470,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paris Hilton",
+        "title": "Stars Are Blind",
+        "detected_at_utc": "2026-11-22T15:12:29.749432+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
