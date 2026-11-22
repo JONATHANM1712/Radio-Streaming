@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:41:16.917230+00:00",
+  "updated_at_utc": "2026-11-22T14:42:20.609085+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Lovefool",
+        "detected_at_utc": "2026-11-22T14:42:20.511004+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Melompat Lebih Tinggi",
