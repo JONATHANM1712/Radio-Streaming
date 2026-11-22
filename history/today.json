@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:18:59.023117+00:00",
+  "updated_at_utc": "2026-11-22T17:20:02.029322+00:00",
   "stations": {
     "kis": [
       {
@@ -35,6 +35,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pamungkas",
+        "title": "I Love You but I'm Letting Go",
+        "detected_at_utc": "2026-11-22T17:20:01.340663+00:00"
+      },
       {
         "artist": "Jamelia",
         "title": "Superstar",
