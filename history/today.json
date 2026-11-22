@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:30:21.140141+00:00",
+  "updated_at_utc": "2026-11-22T17:31:23.803583+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kungs & Cookin' On 3 Burners",
+        "title": "This Girl",
+        "detected_at_utc": "2026-11-22T17:31:19.294617+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Chemical",
