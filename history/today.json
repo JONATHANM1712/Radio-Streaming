@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:39:52.287608+00:00",
+  "updated_at_utc": "2026-11-22T12:42:19.757655+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "I Gotta Feeling",
+        "detected_at_utc": "2026-11-22T12:42:19.659774+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Solo (feat. Demi Lovato)",
