@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:29:13.165981+00:00",
+  "updated_at_utc": "2026-11-22T16:30:33.272082+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Hangover (feat. Flo Rida)",
+        "detected_at_utc": "2026-11-22T16:30:33.183411+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
