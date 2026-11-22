@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:32:52.525249+00:00",
+  "updated_at_utc": "2026-11-22T06:34:41.671570+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Coba Katakan",
+        "detected_at_utc": "2026-11-22T06:34:41.503026+00:00"
+      },
       {
         "artist": "Daniel Powter",
         "title": "Bad Day",
