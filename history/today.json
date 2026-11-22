@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:55:48.181708+00:00",
+  "updated_at_utc": "2026-11-22T12:56:51.212096+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Just Like a Pill",
+        "detected_at_utc": "2026-11-22T12:56:29.098465+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "I Will Be Right Here",
