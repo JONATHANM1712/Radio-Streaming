@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:29:56.177292+00:00",
+  "updated_at_utc": "2026-11-22T14:31:59.496385+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Interaksi",
+        "detected_at_utc": "2026-11-22T14:31:59.322059+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
