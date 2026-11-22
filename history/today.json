@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:26:15.741322+00:00",
+  "updated_at_utc": "2026-11-22T14:28:52.742159+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-22T14:28:52.600904+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
