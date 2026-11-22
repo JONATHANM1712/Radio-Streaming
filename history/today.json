@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:56:39.703924+00:00",
+  "updated_at_utc": "2026-11-22T06:57:43.123010+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-22T06:57:42.942042+00:00"
+      },
       {
         "artist": "The Rasmus",
         "title": "In the Shadows",
