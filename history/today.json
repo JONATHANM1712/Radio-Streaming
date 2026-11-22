@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:12:49.442336+00:00",
+  "updated_at_utc": "2026-11-22T17:13:52.248154+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Seperti Kekasihku",
+        "detected_at_utc": "2026-11-22T17:13:48.124895+00:00"
+      },
       {
         "artist": "Dashboard Confessional",
         "title": "Stolen",
@@ -52,6 +57,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Journey",
+        "title": "Never Walk Away",
+        "detected_at_utc": "2026-11-22T17:12:53.388839+00:00"
+      },
       {
         "artist": "Whitney Houston",
         "title": "I'm Your Baby Tonight",
