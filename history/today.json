@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:53:35.695846+00:00",
+  "updated_at_utc": "2026-11-22T10:54:38.725590+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charles & Eddie",
+        "title": "Would I Lie To You?",
+        "detected_at_utc": "2026-11-22T10:54:34.667759+00:00"
+      },
       {
         "artist": "BOYS LIKE GIRLS",
         "title": "Two Is Better Than One (feat. Taylor Swift)",
