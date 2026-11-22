@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:17:56.232801+00:00",
+  "updated_at_utc": "2026-11-22T17:18:59.023117+00:00",
   "stations": {
     "kis": [
       {
@@ -67,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Trammps",
+        "title": "Disco Inferno",
+        "detected_at_utc": "2026-11-22T17:18:03.755578+00:00"
+      },
       {
         "artist": "Journey",
         "title": "Never Walk Away",
