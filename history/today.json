@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:58:46.290077+00:00",
+  "updated_at_utc": "2026-11-22T10:59:49.226298+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pia Mia",
+        "title": "Do It Again (feat. Chris Brown & Tyga)",
+        "detected_at_utc": "2026-11-22T10:59:26.822129+00:00"
+      },
       {
         "artist": "Christian Bautista",
         "title": "The Way You Look At Me (Acoustic)",
