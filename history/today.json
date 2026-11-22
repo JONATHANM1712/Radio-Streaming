@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:39:54.618923+00:00",
+  "updated_at_utc": "2026-11-22T10:40:59.333623+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-22T10:40:56.921785+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
