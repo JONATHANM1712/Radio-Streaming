@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:39:29.623303+00:00",
+  "updated_at_utc": "2026-11-22T15:40:32.215826+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Khalid",
+        "title": "Talk (feat. Disclosure)",
+        "detected_at_utc": "2026-11-22T15:39:36.135163+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Fallin'",
