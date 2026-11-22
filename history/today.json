@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:40:59.333623+00:00",
+  "updated_at_utc": "2026-11-22T10:43:02.114694+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gin Blossoms",
+        "title": "Til I Hear It From You (From \"Empire Records\" Soundtrack)",
+        "detected_at_utc": "2026-11-22T10:43:01.965790+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Pelangi",
