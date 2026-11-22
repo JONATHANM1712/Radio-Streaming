@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:22:45.819645+00:00",
+  "updated_at_utc": "2026-11-22T11:24:22.501389+00:00",
   "stations": {
     "kis": [
       {
@@ -427,6 +427,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Saigon Kick",
+        "title": "Love Is On the Way",
+        "detected_at_utc": "2026-11-22T11:24:22.403023+00:00"
+      },
       {
         "artist": "Peter Cetera",
         "title": "Glory of Love",
