@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:56:03.460489+00:00",
+  "updated_at_utc": "2026-11-22T15:57:05.977720+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Superheroes",
+        "detected_at_utc": "2026-11-22T15:56:04.568773+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Great DJ",
