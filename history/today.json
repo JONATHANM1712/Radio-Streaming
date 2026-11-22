@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:25:19.344348+00:00",
+  "updated_at_utc": "2026-11-22T10:26:22.336691+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In The World)",
+        "detected_at_utc": "2026-11-22T10:26:21.593235+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Stitches",
@@ -135,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-22T10:26:21.675870+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Send My Love (To Your New Lover)",
@@ -272,6 +282,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "Take A Look",
+        "detected_at_utc": "2026-11-22T10:26:21.325440+00:00"
+      },
       {
         "artist": "The Doobie Brothers",
         "title": "Long Train Runnin'",
