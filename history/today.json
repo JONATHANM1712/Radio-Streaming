@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:27:53.186668+00:00",
+  "updated_at_utc": "2026-11-22T13:28:57.481763+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-11-22T13:28:53.833871+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Secret",
@@ -742,6 +747,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Shakin' Stevens",
+        "title": "Because I Love You (Extended Version)",
+        "detected_at_utc": "2026-11-22T13:27:59.808275+00:00"
+      },
       {
         "artist": "Lighthouse Family",
         "title": "Ocean Drive",
