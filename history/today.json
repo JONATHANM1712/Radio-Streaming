@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:37:11.607977+00:00",
+  "updated_at_utc": "2026-11-22T11:40:43.349851+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "Omg (feat. will.i.am)",
+        "detected_at_utc": "2026-11-22T11:40:43.252426+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Sampai Kapan",
