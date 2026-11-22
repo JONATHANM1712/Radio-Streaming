@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:34:06.016439+00:00",
+  "updated_at_utc": "2026-11-22T11:35:13.656224+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "In Your Eyes",
+        "detected_at_utc": "2026-11-22T11:35:13.567308+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
