@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:23:04.081973+00:00",
+  "updated_at_utc": "2026-11-22T15:24:54.237545+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-11-22T15:24:54.127646+00:00"
+      },
       {
         "artist": "Tony Hadley",
         "title": "Save a Prayer",
