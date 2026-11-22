@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:44:51.370537+00:00",
+  "updated_at_utc": "2026-11-22T11:45:54.898134+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Nothing",
+        "detected_at_utc": "2026-11-22T11:45:35.962784+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "everything i wanted",
