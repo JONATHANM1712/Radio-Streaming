@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:09:18.324771+00:00",
+  "updated_at_utc": "2026-11-22T06:10:21.949931+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-11-22T06:09:49.462006+00:00"
+      },
       {
         "artist": "Brandy",
         "title": "Have You Ever",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Niall Horan",
+        "title": "This Town",
+        "detected_at_utc": "2026-11-22T06:09:53.004124+00:00"
+      },
       {
         "artist": "Adikara",
         "title": "Primadona",
@@ -112,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Black Machine",
+        "title": "Funky Funky People",
+        "detected_at_utc": "2026-11-22T06:10:20.591315+00:00"
+      },
       {
         "artist": "Sandi Jave",
         "title": "Meduza (Deep house)",
