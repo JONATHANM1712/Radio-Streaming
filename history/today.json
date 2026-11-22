@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:27:59.256709+00:00",
+  "updated_at_utc": "2026-11-22T15:29:02.796048+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheryl Crow",
+        "title": "The First Cut Is The Deepest",
+        "detected_at_utc": "2026-11-22T15:29:02.701925+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Kiss It Better",
