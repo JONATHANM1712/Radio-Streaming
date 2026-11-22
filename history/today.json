@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:56:03.431678+00:00",
+  "updated_at_utc": "2026-11-22T14:57:06.808552+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mandy Moore",
+        "title": "Candy",
+        "detected_at_utc": "2026-11-22T14:57:06.727206+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "Butterfly",
