@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:07:31.457981+00:00",
+  "updated_at_utc": "2026-11-22T14:09:10.558773+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "Heaven Knows",
+        "detected_at_utc": "2026-11-22T14:09:10.354635+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Lucky",
