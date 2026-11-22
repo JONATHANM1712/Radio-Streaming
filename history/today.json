@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T05:58:23.990400+00:00",
+  "updated_at_utc": "2026-11-22T05:59:27.800504+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charli xcx",
+        "title": "Boom Clap",
+        "detected_at_utc": "2026-11-22T05:58:26.271655+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Mantan Terindah",
