@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:38:25.021421+00:00",
+  "updated_at_utc": "2026-11-22T16:39:27.760978+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "Hidden Agenda",
+        "detected_at_utc": "2026-11-22T16:38:46.122811+00:00"
+      },
       {
         "artist": "Dhruv",
         "title": "double take",
@@ -1222,6 +1227,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Ozzy Osbourne",
+        "title": "Mama, I'm Coming Home",
+        "detected_at_utc": "2026-11-22T16:38:46.689779+00:00"
+      },
       {
         "artist": "Queen",
         "title": "Somebody To Love",
