@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:13:27.337103+00:00",
+  "updated_at_utc": "2026-11-22T06:14:31.046759+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso & Ariel Tatum",
+        "title": "Karena Aku T'lah Denganmu",
+        "detected_at_utc": "2026-11-22T06:13:57.680163+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
@@ -60,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-22T06:14:02.892233+00:00"
+      },
       {
         "artist": "Niall Horan",
         "title": "This Town",
