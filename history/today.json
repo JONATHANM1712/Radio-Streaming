@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:49:33.382506+00:00",
+  "updated_at_utc": "2026-11-22T12:50:36.251132+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Talking to the Moon",
+        "detected_at_utc": "2026-11-22T12:50:11.790288+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Photograph",
@@ -305,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Survivor",
+        "detected_at_utc": "2026-11-22T12:50:34.927183+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
@@ -637,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Taylor Dayne",
+        "title": "Love Will Lead You Back",
+        "detected_at_utc": "2026-11-22T12:49:43.023335+00:00"
+      },
       {
         "artist": "Procol Harum",
         "title": "A Whiter Shade of Pale (Original Single Version)",
