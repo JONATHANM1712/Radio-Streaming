@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:34:42.159934+00:00",
+  "updated_at_utc": "2026-11-22T12:35:45.460243+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Groove",
+        "title": "Satu Mimpiku",
+        "detected_at_utc": "2026-11-22T12:34:46.163600+00:00"
+      },
       {
         "artist": "LEN",
         "title": "Steal My Sunshine",
