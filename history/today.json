@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:09:43.347781+00:00",
+  "updated_at_utc": "2026-11-22T17:11:46.682311+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-22T17:11:46.595779+00:00"
+      },
       {
         "artist": "Lukas Graham",
         "title": "7 Years",
