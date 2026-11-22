@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:39:16.606533+00:00",
+  "updated_at_utc": "2026-11-22T14:41:16.917230+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Happier",
+        "detected_at_utc": "2026-11-22T14:41:16.819118+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "All I Have (feat. LL Cool J)",
