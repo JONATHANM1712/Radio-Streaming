@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:04:17.723256+00:00",
+  "updated_at_utc": "2026-11-22T15:05:20.270094+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Radioactive",
+        "detected_at_utc": "2026-11-22T15:05:18.729908+00:00"
+      },
       {
         "artist": "Keala Settle & The Greatest Showman Ensemble",
         "title": "This Is Me",
@@ -982,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eagles",
+        "title": "Hotel California",
+        "detected_at_utc": "2026-11-22T15:04:30.297532+00:00"
+      },
       {
         "artist": "Aerosmith",
         "title": "What It Takes",
