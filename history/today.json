@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:44:58.804224+00:00",
+  "updated_at_utc": "2026-11-22T16:46:59.205732+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fergie",
+        "title": "Big Girls Don't Cry (Personal)",
+        "detected_at_utc": "2026-11-22T16:46:59.140677+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
@@ -1242,6 +1247,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rod Stewart",
+        "title": "Sailing",
+        "detected_at_utc": "2026-11-22T16:46:59.114782+00:00"
+      },
       {
         "artist": "ABBA",
         "title": "Fernando",
