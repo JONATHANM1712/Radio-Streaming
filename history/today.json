@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:53:05.693788+00:00",
+  "updated_at_utc": "2026-11-22T11:54:08.482975+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Incubus",
+        "title": "Love Hurts",
+        "detected_at_utc": "2026-11-22T11:53:52.732479+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
