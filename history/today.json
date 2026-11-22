@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:35:45.460243+00:00",
+  "updated_at_utc": "2026-11-22T12:38:49.642710+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Solo (feat. Demi Lovato)",
+        "detected_at_utc": "2026-11-22T12:38:49.552199+00:00"
+      },
       {
         "artist": "Outkast",
         "title": "Ms. Jackson",
