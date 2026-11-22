@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:54:09.964118+00:00",
+  "updated_at_utc": "2026-11-22T16:56:15.377784+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Lose My Breath",
+        "detected_at_utc": "2026-11-22T16:56:15.225893+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
