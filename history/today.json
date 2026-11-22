@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:13:57.943958+00:00",
+  "updated_at_utc": "2026-11-22T11:15:01.610889+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kehlani",
+        "title": "Folded",
+        "detected_at_utc": "2026-11-22T11:14:16.510478+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
