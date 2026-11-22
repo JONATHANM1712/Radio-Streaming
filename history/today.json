@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:57:43.204709+00:00",
+  "updated_at_utc": "2026-11-22T13:58:46.812257+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "detected_at_utc": "2026-11-22T13:58:45.516114+00:00"
+      },
       {
         "artist": "Kings of Leon",
         "title": "Use Somebody",
