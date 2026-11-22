@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:01:12.207092+00:00",
+  "updated_at_utc": "2026-11-22T16:03:14.270209+00:00",
   "stations": {
     "kis": [
       {
@@ -1117,6 +1117,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kool & The Gang",
+        "title": "Cherish",
+        "detected_at_utc": "2026-11-22T16:03:14.177238+00:00"
+      },
       {
         "artist": "Alan Sorrenti",
         "title": "Non so che darei",
