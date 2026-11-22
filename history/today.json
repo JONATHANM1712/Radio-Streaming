@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:06:55.892165+00:00",
+  "updated_at_utc": "2026-11-22T13:08:17.095003+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-22T13:08:17.006090+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "Amnesia",
