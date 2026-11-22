@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:11:51.630269+00:00",
+  "updated_at_utc": "2026-11-22T11:12:54.586688+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Memes",
+        "title": "Terlanjur Sayang",
+        "detected_at_utc": "2026-11-22T11:12:32.563924+00:00"
+      },
       {
         "artist": "Total Touch",
         "title": "Somebody Else's Lover",
