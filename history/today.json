@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:49:56.743949+00:00",
+  "updated_at_utc": "2026-11-22T14:51:00.902006+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Complicated",
+        "detected_at_utc": "2026-11-22T14:50:47.948040+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
