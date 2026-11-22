@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:45:15.649314+00:00",
+  "updated_at_utc": "2026-11-22T13:46:19.768495+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "E.T.",
+        "detected_at_utc": "2026-11-22T13:46:14.348386+00:00"
+      },
       {
         "artist": "Bruno Mars, Anderson .Paak & Silk Sonic",
         "title": "After Last Night (with Thundercat & Bootsy Collins)",
