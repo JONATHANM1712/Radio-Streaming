@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:13:20.585118+00:00",
+  "updated_at_utc": "2026-11-22T14:14:24.005617+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-22T14:13:20.745164+00:00"
+      },
       {
         "artist": "Rick Price",
         "title": "Heaven Knows",
