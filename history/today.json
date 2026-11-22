@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:18:46.427606+00:00",
+  "updated_at_utc": "2026-11-22T06:21:19.055196+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sun Rai",
+        "title": "San Francisco Street",
+        "detected_at_utc": "2026-11-22T06:21:18.893578+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Shut Up and Drive",
