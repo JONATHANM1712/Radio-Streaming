@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T10:44:05.878079+00:00",
+  "updated_at_utc": "2026-11-22T10:45:10.236066+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Sensual Seduction",
+        "detected_at_utc": "2026-11-22T10:45:10.034757+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
