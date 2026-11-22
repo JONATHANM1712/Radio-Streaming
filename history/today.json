@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:47:37.989049+00:00",
+  "updated_at_utc": "2026-11-22T14:48:41.702758+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-22T14:48:41.035572+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "My Life Would Suck Without You",
