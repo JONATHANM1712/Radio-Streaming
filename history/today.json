@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:27:18.974738+00:00",
+  "updated_at_utc": "2026-11-22T17:28:21.709978+00:00",
   "stations": {
     "kis": [
       {
@@ -97,6 +97,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mick Jagger",
+        "title": "Lucky In Love",
+        "detected_at_utc": "2026-11-22T17:27:21.606217+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Me and Sarah Jane",
