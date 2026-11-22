@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T06:05:39.817182+00:00",
+  "updated_at_utc": "2026-11-22T06:06:44.172309+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adikara",
+        "title": "Primadona",
+        "detected_at_utc": "2026-11-22T06:05:44.631274+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Just a Feeling",
