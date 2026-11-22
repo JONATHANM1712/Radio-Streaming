@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T13:24:17.250114+00:00",
+  "updated_at_utc": "2026-11-22T13:25:22.450569+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-11-22T13:24:22.247837+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Like I Love You",
@@ -732,6 +737,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lighthouse Family",
+        "title": "Ocean Drive",
+        "detected_at_utc": "2026-11-22T13:24:35.511290+00:00"
+      },
       {
         "artist": "The Beach Boys",
         "title": "Kokomo",
