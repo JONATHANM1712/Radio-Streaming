@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T14:54:07.257814+00:00",
+  "updated_at_utc": "2026-11-22T14:56:03.431678+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rita Ora",
+        "title": "How We Do (Party)",
+        "detected_at_utc": "2026-11-22T14:56:03.340671+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Complicated",
