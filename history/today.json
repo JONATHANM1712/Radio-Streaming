@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T15:12:45.830696+00:00",
+  "updated_at_utc": "2026-11-22T15:16:36.514991+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Whoops",
+        "detected_at_utc": "2026-11-22T15:16:36.428658+00:00"
+      },
       {
         "artist": "Paris Hilton",
         "title": "Stars Are Blind",
