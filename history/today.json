@@ -1,8 +1,13 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T16:33:38.546058+00:00",
+  "updated_at_utc": "2026-11-22T16:34:42.254397+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dido",
+        "title": "Here With Me",
+        "detected_at_utc": "2026-11-22T16:34:18.583839+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Stand By Me",
@@ -575,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dhruv",
+        "title": "double take",
+        "detected_at_utc": "2026-11-22T16:34:39.388850+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Hangover (feat. Flo Rida)",
