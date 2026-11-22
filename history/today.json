@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T11:40:43.349851+00:00",
+  "updated_at_utc": "2026-11-22T11:41:46.582066+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Billie Eilish",
+        "title": "everything i wanted",
+        "detected_at_utc": "2026-11-22T11:41:27.163959+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "In Your Eyes",
@@ -462,6 +467,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Itsuwa Mayumi",
+        "title": "Amayadori",
+        "detected_at_utc": "2026-11-22T11:41:18.231017+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Fragile",
