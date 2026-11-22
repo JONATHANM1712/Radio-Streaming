@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated_at_utc": "2026-11-22T12:02:09.718024+00:00",
+  "updated_at_utc": "2026-11-22T12:03:12.658536+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charice",
+        "title": "Pyramid (feat. Iyaz)",
+        "detected_at_utc": "2026-11-22T12:02:09.970047+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
@@ -517,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Elton John",
+        "title": "Sacrifice",
+        "detected_at_utc": "2026-11-22T12:03:09.738842+00:00"
+      },
       {
         "artist": "Shalamar",
         "title": "A Night to Remember",
