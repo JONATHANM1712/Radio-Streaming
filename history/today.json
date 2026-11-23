@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:02:45.394630+00:00",
+  "updated_at_utc": "2026-11-23T14:05:56.495529+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kygo",
+        "title": "Stargazing (feat. Justin Jesso)",
+        "detected_at_utc": "2026-11-23T14:05:56.342777+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Don't Wanna Try",
