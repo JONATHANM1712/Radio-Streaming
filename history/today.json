@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:57:20.680437+00:00",
+  "updated_at_utc": "2026-11-23T06:58:24.293001+00:00",
   "stations": {
     "kis": [
       {
@@ -345,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Stop And Stare",
+        "detected_at_utc": "2026-11-23T06:58:22.300063+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
