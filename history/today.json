@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:09:25.736386+00:00",
+  "updated_at_utc": "2026-11-23T14:10:29.759891+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Verve",
+        "title": "Bitter Sweet Symphony",
+        "detected_at_utc": "2026-11-23T14:10:20.310924+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Don't Love You No More (I'm Sorry)",
@@ -625,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-23T14:10:17.381212+00:00"
+      },
       {
         "artist": "Kygo",
         "title": "Stargazing (feat. Justin Jesso)",
