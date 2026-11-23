@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:27:30.126358+00:00",
+  "updated_at_utc": "2026-11-23T13:28:32.836096+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-23T13:27:31.731402+00:00"
+      },
       {
         "artist": "DJ Snake",
         "title": "Let Me Love You (feat. Justin Bieber)",
