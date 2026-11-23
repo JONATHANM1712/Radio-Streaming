@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:34:46.373169+00:00",
+  "updated_at_utc": "2026-11-23T05:36:43.068368+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Cinta Mati (feat. Ahmad Dhani)",
+        "detected_at_utc": "2026-11-23T05:36:42.974016+00:00"
+      },
       {
         "artist": "blink-182",
         "title": "I Miss You",
