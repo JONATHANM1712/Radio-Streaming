@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:08:17.736419+00:00",
+  "updated_at_utc": "2026-11-23T17:09:20.750812+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-23T17:09:18.388730+00:00"
+      },
       {
         "artist": "Keith Martin",
         "title": "Love of My Life",
