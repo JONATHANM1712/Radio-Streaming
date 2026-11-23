@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:24:32.242873+00:00",
+  "updated_at_utc": "2026-11-23T17:27:41.516471+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Brian McKnight",
+        "title": "Shoulda, Woulda, Coulda",
+        "detected_at_utc": "2026-11-23T17:27:41.430770+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Break Your Heart (feat. Ludacris)",
