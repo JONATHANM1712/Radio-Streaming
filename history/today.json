@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T03:11:01.587623+00:00",
+  "updated_at_utc": "2026-11-23T03:12:05.423328+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady Gaga",
+        "title": "The Edge Of Glory",
+        "detected_at_utc": "2026-11-23T03:11:18.329722+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "As Long as You Love Me",
@@ -145,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "detected_at_utc": "2026-11-23T03:11:22.624854+00:00"
+      },
       {
         "artist": "Iyaz",
         "title": "Solo",
