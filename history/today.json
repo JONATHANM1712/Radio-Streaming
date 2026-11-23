@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:50:04.661401+00:00",
+  "updated_at_utc": "2026-11-23T14:52:06.433597+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-23T14:52:06.309797+00:00"
+      },
       {
         "artist": "2AM Club",
         "title": "Worry About You",
