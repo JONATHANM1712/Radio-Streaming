@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:13:16.505109+00:00",
+  "updated_at_utc": "2026-11-23T01:14:22.194690+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston & Justin Bieber",
+        "title": "Eenie Meenie",
+        "detected_at_utc": "2026-11-23T01:14:22.018760+00:00"
+      },
       {
         "artist": "Alan Menken, Howard Ashman, Benj Pasek & Justin Noble Paul",
         "title": "Arabian Nights (2019) [Instrumental]",
