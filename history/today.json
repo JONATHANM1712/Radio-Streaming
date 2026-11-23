@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:05:07.028984+00:00",
+  "updated_at_utc": "2026-11-23T04:06:11.102882+00:00",
   "stations": {
     "kis": [
       {
@@ -166,6 +166,11 @@
     ],
     "jak": [
       {
+        "artist": "John Legend",
+        "title": "All of Me",
+        "detected_at_utc": "2026-11-23T04:05:10.375390+00:00"
+      },
+      {
         "artist": "*NSYNC",
         "title": "It's Gonna Be Me",
         "detected_at_utc": "2026-11-23T03:57:57.188086+00:00"
@@ -327,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Prince",
+        "title": "Hot Thing",
+        "detected_at_utc": "2026-11-23T04:05:10.375194+00:00"
+      },
       {
         "artist": "The Cranberries",
         "title": "Just My Imagination",
