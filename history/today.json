@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:31:46.781987+00:00",
+  "updated_at_utc": "2026-11-23T17:32:49.471505+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Untungnya, Hidup Harus Tetap Berjalan",
+        "detected_at_utc": "2026-11-23T17:32:48.651180+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "Shoulda, Woulda, Coulda",
