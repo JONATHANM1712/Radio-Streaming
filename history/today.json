@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:48:17.534827+00:00",
+  "updated_at_utc": "2026-11-23T15:49:22.809712+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jessie J",
+        "title": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
+        "detected_at_utc": "2026-11-23T15:48:21.985138+00:00"
+      },
       {
         "artist": "Crash Test Dummies",
         "title": "Mmm Mmm Mmm Mmm",
@@ -735,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-23T15:48:31.459588+00:00"
+      },
       {
         "artist": "Green Day",
         "title": "Wake Me Up When September Ends",
