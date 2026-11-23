@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:24:05.168477+00:00",
+  "updated_at_utc": "2026-11-23T10:15:32.917183+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Menanti Sebuah Jawaban",
+        "detected_at_utc": "2026-11-23T10:15:32.752206+00:00"
+      },
       {
         "artist": "Haley Bennett & Hugh Grant",
         "title": "Way Back Into Love",
