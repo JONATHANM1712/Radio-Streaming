@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:50:06.482507+00:00",
+  "updated_at_utc": "2026-11-23T06:51:10.524240+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rizky Febian",
+        "title": "Kesempurnaan Cinta",
+        "detected_at_utc": "2026-11-23T06:51:08.555610+00:00"
+      },
       {
         "artist": "Sarah McLachlan",
         "title": "Adia",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City",
+        "title": "Vanilla Twilight",
+        "detected_at_utc": "2026-11-23T06:51:08.424959+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
