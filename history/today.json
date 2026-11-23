@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:23:10.089126+00:00",
+  "updated_at_utc": "2026-11-23T16:24:12.923483+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Loyal (feat. Lil Wayne & Tyga)",
+        "detected_at_utc": "2026-11-23T16:23:16.852229+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
