@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:31:43.494874+00:00",
+  "updated_at_utc": "2026-11-23T12:32:46.207891+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Di Balik Awan",
+        "detected_at_utc": "2026-11-23T12:32:34.991975+00:00"
+      },
       {
         "artist": "Muse",
         "title": "Starlight",
