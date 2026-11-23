@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:11:07.172555+00:00",
+  "updated_at_utc": "2026-11-23T12:12:10.122572+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kaleb J",
+        "title": "It's Only Me (Studio Version)",
+        "detected_at_utc": "2026-11-23T12:11:56.371000+00:00"
+      },
       {
         "artist": "Mario",
         "title": "How Do I Breathe",
