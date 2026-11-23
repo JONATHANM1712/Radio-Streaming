@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:59:53.706261+00:00",
+  "updated_at_utc": "2026-11-23T05:03:24.756037+00:00",
   "stations": {
     "kis": [
       {
@@ -457,6 +457,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "Suburbia",
+        "detected_at_utc": "2026-11-23T05:03:24.660854+00:00"
+      },
       {
         "artist": "The Smashing Pumpkins",
         "title": "1979",
