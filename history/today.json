@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:04:11.201455+00:00",
+  "updated_at_utc": "2026-11-23T17:05:13.938054+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Keith Martin",
+        "title": "Love of My Life",
+        "detected_at_utc": "2026-11-23T17:04:11.997999+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Story Of My Life",
