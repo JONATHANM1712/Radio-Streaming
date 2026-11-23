@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:06:00.897939+00:00",
+  "updated_at_utc": "2026-11-23T02:07:04.574710+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-23T02:06:09.556110+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Flowers",
