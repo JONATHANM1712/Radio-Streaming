@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:20:22.023634+00:00",
+  "updated_at_utc": "2026-11-23T13:21:24.871184+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy (From \"Despicable Me 2\")",
+        "detected_at_utc": "2026-11-23T13:21:16.668724+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
