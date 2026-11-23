@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:25:28.791595+00:00",
+  "updated_at_utc": "2026-11-23T12:30:40.133740+00:00",
   "stations": {
     "kis": [
       {
@@ -932,6 +932,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Sembello",
+        "title": "Maniac",
+        "detected_at_utc": "2026-11-23T12:30:40.037617+00:00"
+      },
       {
         "artist": "Kenny Loggins",
         "title": "Footloose",
