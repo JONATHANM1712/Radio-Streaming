@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:06:58.900559+00:00",
+  "updated_at_utc": "2026-11-23T01:09:06.922589+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alan Menken, Howard Ashman, Benj Pasek & Justin Noble Paul",
+        "title": "Arabian Nights (2019) [Instrumental]",
+        "detected_at_utc": "2026-11-23T01:09:06.777248+00:00"
+      },
       {
         "artist": "Sentient Forge",
         "title": "Landspeeder",
