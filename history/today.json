@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:35:24.264679+00:00",
+  "updated_at_utc": "2026-11-23T16:36:27.181421+00:00",
   "stations": {
     "kis": [
       {
@@ -795,6 +795,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pink Sweat$",
+        "title": "At My Worst",
+        "detected_at_utc": "2026-11-23T16:35:32.826013+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
