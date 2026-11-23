@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:08:29.511981+00:00",
+  "updated_at_utc": "2026-11-23T15:09:37.361588+00:00",
   "stations": {
     "kis": [
       {
@@ -695,6 +695,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muni Long",
+        "title": "Made For Me",
+        "detected_at_utc": "2026-11-23T15:09:37.167336+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Nothin' On You (feat. Bruno Mars)",
