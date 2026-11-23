@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:04:48.620892+00:00",
+  "updated_at_utc": "2026-11-23T07:05:52.012347+00:00",
   "stations": {
     "kis": [
       {
@@ -351,6 +351,11 @@
     ],
     "jak": [
       {
+        "artist": "BOYS LIKE GIRLS",
+        "title": "Two Is Better Than One (feat. Taylor Swift)",
+        "detected_at_utc": "2026-11-23T07:05:27.255912+00:00"
+      },
+      {
         "artist": "OneRepublic",
         "title": "Stop And Stare",
         "detected_at_utc": "2026-11-23T06:58:22.300063+00:00"
@@ -697,6 +702,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Whitney Houston",
+        "title": "I Wanna Dance with Somebody (Who Loves Me)",
+        "detected_at_utc": "2026-11-23T07:05:26.810271+00:00"
+      },
       {
         "artist": "Wham!",
         "title": "Wham Rap! (Enjoy What You Do?)",
