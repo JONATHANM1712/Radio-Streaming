@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:16:50.178390+00:00",
+  "updated_at_utc": "2026-11-23T07:17:53.692480+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ALEXA",
+        "title": "Wajahmu Indahkan Duniaku",
+        "detected_at_utc": "2026-11-23T07:17:52.960101+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
