@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:06:47.987895+00:00",
+  "updated_at_utc": "2026-11-23T16:07:56.117141+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "G-Eazy & Kehlani",
+        "title": "Good Life",
+        "detected_at_utc": "2026-11-23T16:07:56.028809+00:00"
+      },
       {
         "artist": "The Calling",
         "title": "Wherever You Will Go",
