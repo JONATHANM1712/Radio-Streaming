@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:00:09.242915+00:00",
+  "updated_at_utc": "2026-11-23T15:03:11.165014+00:00",
   "stations": {
     "kis": [
       {
@@ -1272,6 +1272,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "New Edition",
+        "title": "Earth Angel",
+        "detected_at_utc": "2026-11-23T15:03:11.030648+00:00"
+      },
       {
         "artist": "The Smiths",
         "title": "How Soon Is Now? (12\" Version)",
