@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:39:20.810377+00:00",
+  "updated_at_utc": "2026-11-23T14:40:23.955314+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. I",
+        "detected_at_utc": "2026-11-23T14:39:41.186479+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
