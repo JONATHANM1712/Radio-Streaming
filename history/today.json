@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:01:40.837116+00:00",
+  "updated_at_utc": "2026-11-23T16:05:44.891545+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-23T16:05:44.756133+00:00"
+      },
       {
         "artist": "Atomic Kitten",
         "title": "Whole Again",
