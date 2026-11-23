@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:12:06.400844+00:00",
+  "updated_at_utc": "2026-11-23T05:13:09.100936+00:00",
   "stations": {
     "kis": [
       {
@@ -246,6 +246,11 @@
     ],
     "jak": [
       {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-23T05:12:10.530428+00:00"
+      },
+      {
         "artist": "Myles Smith",
         "title": "Stargazing",
         "detected_at_utc": "2026-11-23T05:09:05.991472+00:00"
@@ -482,6 +487,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Echo & The Bunnymen",
+        "title": "The Killing Moon",
+        "detected_at_utc": "2026-11-23T05:12:38.581592+00:00"
+      },
       {
         "artist": "Evans & Fisher",
         "title": "You Set My Heart On Fire (Mix Version)",
