@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:42:53.560609+00:00",
+  "updated_at_utc": "2026-11-23T04:44:23.041663+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Miss Independent",
+        "detected_at_utc": "2026-11-23T04:44:22.944589+00:00"
+      },
       {
         "artist": "D’MASIV",
         "title": "Diam Tanpa Kata",
