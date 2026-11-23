@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:32:12.560186+00:00",
+  "updated_at_utc": "2026-11-23T15:33:15.612022+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Duncan James & Keedie",
+        "title": "I Believe My Heart",
+        "detected_at_utc": "2026-11-23T15:33:02.846457+00:00"
+      },
       {
         "artist": "Chicago",
         "title": "You Come to My Senses",
