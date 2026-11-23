@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:03:11.165014+00:00",
+  "updated_at_utc": "2026-11-23T15:05:18.690974+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Beautiful Soul",
+        "detected_at_utc": "2026-11-23T15:05:18.509757+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Say You Won't Let Go",
