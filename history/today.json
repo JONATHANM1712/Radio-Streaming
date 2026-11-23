@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:58:24.293001+00:00",
+  "updated_at_utc": "2026-11-23T07:04:48.620892+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Again",
+        "detected_at_utc": "2026-11-23T07:04:24.773166+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Kesempurnaan Cinta",
