@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:22:14.646589+00:00",
+  "updated_at_utc": "2026-11-23T06:24:47.899148+00:00",
   "stations": {
     "kis": [
       {
@@ -642,6 +642,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "It's Gonna Get Better",
+        "detected_at_utc": "2026-11-23T06:24:47.802714+00:00"
+      },
       {
         "artist": "Garbage",
         "title": "Milk",
