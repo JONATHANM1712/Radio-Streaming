@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T11:59:48.908413+00:00",
+  "updated_at_utc": "2026-11-23T12:02:43.978779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Style",
+        "detected_at_utc": "2026-11-23T12:02:43.885489+00:00"
+      },
       {
         "artist": "Erykah Badu",
         "title": "Bag Lady (Cheeba Sac Radio Edit)",
