@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:42:57.304071+00:00",
+  "updated_at_utc": "2026-11-23T12:44:00.416771+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris, Charlie Puth & Shenseea",
+        "title": "Obsessed",
+        "detected_at_utc": "2026-11-23T12:43:58.817761+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
