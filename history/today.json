@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T03:12:05.423328+00:00",
+  "updated_at_utc": "2026-11-23T03:54:52.173171+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-23T03:54:52.157842+00:00"
+      },
       {
         "artist": "RAYE",
         "title": "WHERE IS MY HUSBAND!",
@@ -302,6 +307,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Poison",
+        "title": "Something to Believe In",
+        "detected_at_utc": "2026-11-23T03:54:51.959232+00:00"
+      },
       {
         "artist": "Swing Out Sister",
         "title": "Am I The Same Girl?",
