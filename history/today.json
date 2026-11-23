@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:55:39.181099+00:00",
+  "updated_at_utc": "2026-11-23T02:58:46.435774+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Girlfriend",
+        "detected_at_utc": "2026-11-23T02:58:46.340815+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Sepatu",
