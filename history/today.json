@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T11:52:26.031912+00:00",
+  "updated_at_utc": "2026-11-23T11:54:35.732607+00:00",
   "stations": {
     "kis": [
       {
@@ -882,6 +882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "C+C Music Factory",
+        "title": "Gonna Make You Sweat (Everybody Dance Now) [feat. Freedom Williams]",
+        "detected_at_utc": "2026-11-23T11:54:35.642715+00:00"
+      },
       {
         "artist": "The Doors",
         "title": "Light My Fire",
