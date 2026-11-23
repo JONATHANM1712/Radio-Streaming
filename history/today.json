@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:37:27.085379+00:00",
+  "updated_at_utc": "2026-11-23T01:38:35.040541+00:00",
   "stations": {
     "kis": [
       {
@@ -157,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blair",
+        "title": "Have Fun, Go Mad",
+        "detected_at_utc": "2026-11-23T01:38:34.858707+00:00"
+      },
       {
         "artist": "LaBelle",
         "title": "Lady Marmalade",
