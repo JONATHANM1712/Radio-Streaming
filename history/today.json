@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:31:19.111860+00:00",
+  "updated_at_utc": "2026-11-23T16:32:22.101053+00:00",
   "stations": {
     "kis": [
       {
@@ -791,6 +791,11 @@
     ],
     "jak": [
       {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-23T16:31:26.767251+00:00"
+      },
+      {
         "artist": "Britney Spears",
         "title": "Criminal",
         "detected_at_utc": "2026-11-23T16:28:23.068944+00:00"
@@ -1477,6 +1482,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Basia",
+        "title": "Astrud",
+        "detected_at_utc": "2026-11-23T16:32:15.984664+00:00"
+      },
       {
         "artist": "George Michael",
         "title": "Careless Whisper",
