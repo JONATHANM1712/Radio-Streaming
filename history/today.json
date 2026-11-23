@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:53:21.768398+00:00",
+  "updated_at_utc": "2026-11-23T12:56:32.153342+00:00",
   "stations": {
     "kis": [
       {
@@ -987,6 +987,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Elastica",
+        "title": "Connection",
+        "detected_at_utc": "2026-11-23T12:56:32.053533+00:00"
+      },
       {
         "artist": "Sting",
         "title": "Love Is Stronger Than Justice (The Munificent Seven)",
