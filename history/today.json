@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:11:41.072031+00:00",
+  "updated_at_utc": "2026-11-23T07:12:44.624514+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-11-23T07:11:41.753570+00:00"
+      },
       {
         "artist": "BTS",
         "title": "SWIM",
