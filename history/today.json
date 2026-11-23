@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:17:36.145584+00:00",
+  "updated_at_utc": "2026-11-23T04:18:40.098310+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Guy Sebastian",
+        "title": "Angels Brought Me Here",
+        "detected_at_utc": "2026-11-23T04:17:40.938966+00:00"
+      },
       {
         "artist": "3 Composers",
         "title": "Salah Benar",
