@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:11:29.277818+00:00",
+  "updated_at_utc": "2026-11-23T06:12:59.803785+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jesse McCartney",
+        "title": "Leavin'",
+        "detected_at_utc": "2026-11-23T06:12:59.713973+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
