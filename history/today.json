@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:56:56.163590+00:00",
+  "updated_at_utc": "2026-11-23T05:57:58.983020+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-23T05:57:23.792308+00:00"
+      },
       {
         "artist": "Sara Bareilles",
         "title": "Gravity",
