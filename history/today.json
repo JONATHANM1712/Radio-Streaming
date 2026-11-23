@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:30:50.661854+00:00",
+  "updated_at_utc": "2026-11-23T13:33:44.731921+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Padi",
+        "title": "Mahadewi",
+        "detected_at_utc": "2026-11-23T13:33:44.638037+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Wake Up Call",
