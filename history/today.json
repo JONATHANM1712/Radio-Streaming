@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:21:24.871184+00:00",
+  "updated_at_utc": "2026-11-23T13:23:22.753441+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DJ Snake",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "detected_at_utc": "2026-11-23T13:23:22.657648+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Kulakukan Semua Untukmu",
