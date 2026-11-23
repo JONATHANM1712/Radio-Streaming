@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:09:55.439096+00:00",
+  "updated_at_utc": "2026-11-23T13:10:58.106168+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Irreplaceable",
+        "detected_at_utc": "2026-11-23T13:10:55.459366+00:00"
+      },
       {
         "artist": "Coolio & L.V.",
         "title": "Gangsta's Paradise",
