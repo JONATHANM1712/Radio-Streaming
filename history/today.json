@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:09:23.839666+00:00",
+  "updated_at_utc": "2026-11-23T06:10:26.476133+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-23T06:09:54.201624+00:00"
+      },
       {
         "artist": "Olly Murs",
         "title": "Up (feat. Demi Lovato)",
