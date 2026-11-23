@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:06:50.485011+00:00",
+  "updated_at_utc": "2026-11-23T12:08:50.275142+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario",
+        "title": "How Do I Breathe",
+        "detected_at_utc": "2026-11-23T12:08:50.186196+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
