@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:16:13.465430+00:00",
+  "updated_at_utc": "2026-11-23T14:17:18.911577+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Good Luck, Babe!",
+        "detected_at_utc": "2026-11-23T14:17:13.877978+00:00"
+      },
       {
         "artist": "Naif",
         "title": "Karena Kamu Cuma Satu",
