@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:50:06.570076+00:00",
+  "updated_at_utc": "2026-11-23T05:51:09.717144+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "detected_at_utc": "2026-11-23T05:50:10.657290+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "All the Love In the World",
