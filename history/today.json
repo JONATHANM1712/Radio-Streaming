@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:21:45.313396+00:00",
+  "updated_at_utc": "2026-11-23T15:22:47.992151+00:00",
   "stations": {
     "kis": [
       {
@@ -710,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "D’MASIV",
+        "title": "Merindukanmu",
+        "detected_at_utc": "2026-11-23T15:21:57.714948+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
