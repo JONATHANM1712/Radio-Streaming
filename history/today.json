@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:26:07.201263+00:00",
+  "updated_at_utc": "2026-11-23T06:27:22.825669+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "I Took A Pill In Ibiza (Seeb Remix)",
+        "detected_at_utc": "2026-11-23T06:27:22.739119+00:00"
+      },
       {
         "artist": "Keyshia Cole",
         "title": "Love",
