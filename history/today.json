@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:03:24.756037+00:00",
+  "updated_at_utc": "2026-11-23T05:04:27.586317+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Brown Eyes",
+        "detected_at_utc": "2026-11-23T05:03:54.615654+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
