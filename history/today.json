@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:26:02.161998+00:00",
+  "updated_at_utc": "2026-11-23T14:27:09.088929+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Icona Pop",
+        "title": "All Night",
+        "detected_at_utc": "2026-11-23T14:27:08.948988+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
