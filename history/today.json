@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:00:51.490710+00:00",
+  "updated_at_utc": "2026-11-23T02:02:59.741095+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "detected_at_utc": "2026-11-23T02:02:59.533342+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Love Today",
