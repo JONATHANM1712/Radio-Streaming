@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:49:22.809712+00:00",
+  "updated_at_utc": "2026-11-23T15:50:26.108088+00:00",
   "stations": {
     "kis": [
       {
@@ -740,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Better In Time",
+        "detected_at_utc": "2026-11-23T15:49:32.658600+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
