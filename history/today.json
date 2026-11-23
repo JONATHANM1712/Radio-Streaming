@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T11:15:15.391273+00:00",
+  "updated_at_utc": "2026-11-23T11:18:22.728630+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Labrinth",
+        "title": "Beneath Your Beautiful (feat. Emeli Sande)",
+        "detected_at_utc": "2026-11-23T11:18:22.583060+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Grace Kelly",
