@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T10:26:49.680849+00:00",
+  "updated_at_utc": "2026-11-23T10:33:00.840821+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nelly Furtado",
+        "title": "Say It Right",
+        "detected_at_utc": "2026-11-23T10:33:00.706872+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "No Matter What",
