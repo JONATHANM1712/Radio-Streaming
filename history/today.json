@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:14:22.194690+00:00",
+  "updated_at_utc": "2026-11-23T01:16:19.853156+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "detected_at_utc": "2026-11-23T01:16:19.645503+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "I Gotta Feeling",
