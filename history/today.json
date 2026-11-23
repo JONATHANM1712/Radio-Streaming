@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:06:47.196561+00:00",
+  "updated_at_utc": "2026-11-23T13:07:49.833990+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coolio & L.V.",
+        "title": "Gangsta's Paradise",
+        "detected_at_utc": "2026-11-23T13:06:49.530094+00:00"
+      },
       {
         "artist": "Norah Jones",
         "title": "Come Away With Me",
