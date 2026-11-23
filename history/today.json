@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:12:31.006624+00:00",
+  "updated_at_utc": "2026-11-23T04:13:34.898777+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "3 Composers",
+        "title": "Salah Benar",
+        "detected_at_utc": "2026-11-23T04:13:29.229652+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
