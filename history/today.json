@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:12:44.624514+00:00",
+  "updated_at_utc": "2026-11-23T07:14:43.253261+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Haley Bennett & Hugh Grant",
+        "title": "Way Back Into Love",
+        "detected_at_utc": "2026-11-23T07:14:43.111826+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "To Love You More (Live)",
