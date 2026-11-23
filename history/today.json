@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:19:22.587267+00:00",
+  "updated_at_utc": "2026-11-23T17:20:25.172682+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Inner Circle",
+        "title": "Sweat (A La La La La Long)",
+        "detected_at_utc": "2026-11-23T17:19:30.955687+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Party In the U.S.A.",
