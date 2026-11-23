@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T03:00:32.004602+00:00",
+  "updated_at_utc": "2026-11-23T03:01:34.859919+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Lapang Dada",
+        "detected_at_utc": "2026-11-23T03:00:54.050545+00:00"
+      },
       {
         "artist": "Peter Bjorn and John",
         "title": "Young Folks",
