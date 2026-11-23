@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:18:40.098310+00:00",
+  "updated_at_utc": "2026-11-23T04:20:39.697896+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenka",
+        "title": "The Show",
+        "detected_at_utc": "2026-11-23T04:20:39.503682+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Bila Saya",
