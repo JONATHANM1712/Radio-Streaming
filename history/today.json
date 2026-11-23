@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:16:19.853156+00:00",
+  "updated_at_utc": "2026-11-23T01:18:30.908487+00:00",
   "stations": {
     "kis": [
       {
@@ -137,6 +137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Twisted Sister",
+        "title": "I Wanna Rock",
+        "detected_at_utc": "2026-11-23T01:18:30.642742+00:00"
+      },
       {
         "artist": "The Knack",
         "title": "My Sharona",
