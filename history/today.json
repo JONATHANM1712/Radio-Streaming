@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:03:42.309590+00:00",
+  "updated_at_utc": "2026-11-23T13:05:44.137483+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In The World)",
+        "detected_at_utc": "2026-11-23T13:05:44.048359+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Unconditionally",
