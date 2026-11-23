@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:16:07.372729+00:00",
+  "updated_at_utc": "2026-11-23T13:17:10.100289+00:00",
   "stations": {
     "kis": [
       {
@@ -1032,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "So Fine",
+        "detected_at_utc": "2026-11-23T13:16:12.516580+00:00"
+      },
       {
         "artist": "Erasure",
         "title": "A Little Respect",
