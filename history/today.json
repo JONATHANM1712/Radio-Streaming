@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:13:09.100936+00:00",
+  "updated_at_utc": "2026-11-23T05:15:10.809307+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Singiku",
+        "title": "Kebebasan",
+        "detected_at_utc": "2026-11-23T05:15:10.721219+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
