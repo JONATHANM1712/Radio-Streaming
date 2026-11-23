@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:06:34.646600+00:00",
+  "updated_at_utc": "2026-11-23T06:07:37.360384+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olly Murs",
+        "title": "Up (feat. Demi Lovato)",
+        "detected_at_utc": "2026-11-23T06:06:48.800260+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
