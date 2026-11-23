@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:12:10.122572+00:00",
+  "updated_at_utc": "2026-11-23T12:13:12.677520+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Setapak Sriwedari",
+        "detected_at_utc": "2026-11-23T12:13:02.323172+00:00"
+      },
       {
         "artist": "*NSYNC",
         "title": "Pop",
