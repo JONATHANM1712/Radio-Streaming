@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:51:05.393910+00:00",
+  "updated_at_utc": "2026-11-23T04:52:08.321725+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-23T04:51:38.077879+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Yeah 3X",
