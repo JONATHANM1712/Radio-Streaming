@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:41:28.653236+00:00",
+  "updated_at_utc": "2026-11-23T16:43:44.169409+00:00",
   "stations": {
     "kis": [
       {
@@ -800,6 +800,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-23T16:43:44.083758+00:00"
+      },
       {
         "artist": "Pink Sweat$",
         "title": "At My Worst",
