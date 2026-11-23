@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:14:53.601103+00:00",
+  "updated_at_utc": "2026-11-23T16:15:56.276378+00:00",
   "stations": {
     "kis": [
       {
@@ -770,6 +770,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Leon Thomas & Freddie Gibbs",
+        "title": "MUTT (REMIX)",
+        "detected_at_utc": "2026-11-23T16:15:05.183273+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
