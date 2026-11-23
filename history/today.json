@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:59:02.321780+00:00",
+  "updated_at_utc": "2026-11-23T06:00:39.810300+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-23T06:00:39.704281+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
