@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:47:00.278393+00:00",
+  "updated_at_utc": "2026-11-23T04:48:03.033744+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "Yeah 3X",
+        "detected_at_utc": "2026-11-23T04:47:32.029652+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
