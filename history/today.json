@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:45:20.225893+00:00",
+  "updated_at_utc": "2026-11-23T15:48:17.534827+00:00",
   "stations": {
     "kis": [
       {
@@ -1367,6 +1367,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "Can We Find a Reason?",
+        "detected_at_utc": "2026-11-23T15:48:17.444774+00:00"
+      },
       {
         "artist": "Debbie Gibson",
         "title": "Lost In Your Eyes",
