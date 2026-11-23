@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:32:54.671081+00:00",
+  "updated_at_utc": "2026-11-23T02:35:03.205062+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Burn",
+        "detected_at_utc": "2026-11-23T02:35:03.097539+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
