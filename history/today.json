@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:18:13.062909+00:00",
+  "updated_at_utc": "2026-11-23T13:19:16.181893+00:00",
   "stations": {
     "kis": [
       {
@@ -560,6 +560,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Kulakukan Semua Untukmu",
+        "detected_at_utc": "2026-11-23T13:19:11.301432+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
