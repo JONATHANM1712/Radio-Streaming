@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:15:05.591515+00:00",
+  "updated_at_utc": "2026-11-23T06:17:06.531620+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hindia",
+        "title": "Kita Ke Sana",
+        "detected_at_utc": "2026-11-23T06:17:06.439385+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Leavin'",
