@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:18:00.895804+00:00",
+  "updated_at_utc": "2026-11-23T16:19:03.884840+00:00",
   "stations": {
     "kis": [
       {
@@ -776,6 +776,11 @@
     ],
     "jak": [
       {
+        "artist": "Melly Goeslaw",
+        "title": "Gantung",
+        "detected_at_utc": "2026-11-23T16:18:09.662941+00:00"
+      },
+      {
         "artist": "Leon Thomas & Freddie Gibbs",
         "title": "MUTT (REMIX)",
         "detected_at_utc": "2026-11-23T16:15:05.183273+00:00"
@@ -1442,6 +1447,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Steelheart",
+        "title": "Mama Don't You Cry",
+        "detected_at_utc": "2026-11-23T16:18:58.083181+00:00"
+      },
       {
         "artist": "Air Supply",
         "title": "Making Love Out Of Nothing At All (Live)",
