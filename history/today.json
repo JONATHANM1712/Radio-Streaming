@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:49:26.396585+00:00",
+  "updated_at_utc": "2026-11-23T02:50:33.626026+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Peter Bjorn and John",
+        "title": "Young Folks",
+        "detected_at_utc": "2026-11-23T02:50:33.538532+00:00"
+      },
       {
         "artist": "Kendrick Lamar & SZA",
         "title": "All The Stars",
