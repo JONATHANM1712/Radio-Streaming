@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:18:30.908487+00:00",
+  "updated_at_utc": "2026-11-23T01:21:32.324899+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Destiny's Child",
+        "title": "Independent Women, Pt. I",
+        "detected_at_utc": "2026-11-23T01:21:32.113210+00:00"
+      },
       {
         "artist": "New Radicals",
         "title": "You Get What You Give",
