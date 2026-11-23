@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T02:25:44.032283+00:00",
+  "updated_at_utc": "2026-11-23T02:26:46.912006+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Raisa",
+        "title": "Serba Salah",
+        "detected_at_utc": "2026-11-23T02:26:45.495527+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
