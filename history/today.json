@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:05:54.289394+00:00",
+  "updated_at_utc": "2026-11-23T01:06:58.900559+00:00",
   "stations": {
     "kis": [
       {
@@ -60,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sentient Forge",
+        "title": "Landspeeder",
+        "detected_at_utc": "2026-11-23T01:05:57.455185+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
