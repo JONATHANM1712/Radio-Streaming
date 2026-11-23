@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:10:26.476133+00:00",
+  "updated_at_utc": "2026-11-23T06:11:29.277818+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "R. City",
+        "title": "Locked Away (feat. Adam Levine)",
+        "detected_at_utc": "2026-11-23T06:10:41.089563+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Bootylicious",
