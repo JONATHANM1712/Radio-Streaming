@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:04:27.586317+00:00",
+  "updated_at_utc": "2026-11-23T05:05:30.343546+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Dynamite",
+        "detected_at_utc": "2026-11-23T05:05:00.158585+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Heartless",
