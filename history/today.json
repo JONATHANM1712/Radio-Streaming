@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:55:26.632708+00:00",
+  "updated_at_utc": "2026-11-23T15:56:32.322227+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Duran Duran",
+        "title": "Ordinary World",
+        "detected_at_utc": "2026-11-23T15:56:32.236801+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Bleeding Love",
