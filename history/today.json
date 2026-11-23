@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-22T17:31:23.803583+00:00",
+  "updated_at_utc": "2026-11-23T01:02:41.968543+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-23T01:02:41.672426+00:00"
+      },
       {
         "artist": "Kungs & Cookin' On 3 Burners",
         "title": "This Girl",
