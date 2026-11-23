@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:15:10.809307+00:00",
+  "updated_at_utc": "2026-11-23T05:16:13.489122+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-23T05:15:14.868826+00:00"
+      },
       {
         "artist": "The Chainsmokers",
         "title": "Closer (feat. Halsey)",
