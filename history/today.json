@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T11:26:37.769418+00:00",
+  "updated_at_utc": "2026-11-23T11:27:40.768412+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Janet Jackson",
+        "title": "Someone To Call My Lover",
+        "detected_at_utc": "2026-11-23T11:27:39.093217+00:00"
+      },
       {
         "artist": "America",
         "title": "Ventura Highway",
