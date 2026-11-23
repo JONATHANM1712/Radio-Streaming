@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T06:27:22.825669+00:00",
+  "updated_at_utc": "2026-11-23T06:30:13.817584+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenka",
+        "title": "Trouble Is a Friend",
+        "detected_at_utc": "2026-11-23T06:30:13.720171+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Monokrom",
