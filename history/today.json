@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:14:43.253261+00:00",
+  "updated_at_utc": "2026-11-23T07:15:46.616627+00:00",
   "stations": {
     "kis": [
       {
@@ -722,6 +722,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Manic Street Preachers",
+        "title": "A Design for Life",
+        "detected_at_utc": "2026-11-23T07:14:43.646585+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Hungry for You (J'Aurais Toujours Faim De Toi)",
