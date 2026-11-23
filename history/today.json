@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:28:23.164766+00:00",
+  "updated_at_utc": "2026-11-23T16:31:19.111860+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paloma Faith",
+        "title": "Only Love Can Hurt Like This",
+        "detected_at_utc": "2026-11-23T16:31:19.001077+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "She's the One",
