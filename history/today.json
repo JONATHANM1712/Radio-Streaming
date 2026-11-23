@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T10:24:46.658798+00:00",
+  "updated_at_utc": "2026-11-23T10:26:49.680849+00:00",
   "stations": {
     "kis": [
       {
@@ -380,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-23T10:26:49.551855+00:00"
+      },
       {
         "artist": "John Newman",
         "title": "Love Me Again",
