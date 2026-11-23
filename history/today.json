@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:13:50.818649+00:00",
+  "updated_at_utc": "2026-11-23T16:14:53.601103+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bolton",
+        "title": "Go the Distance",
+        "detected_at_utc": "2026-11-23T16:13:55.028206+00:00"
+      },
       {
         "artist": "Anggun",
         "title": "In Your Mind",
