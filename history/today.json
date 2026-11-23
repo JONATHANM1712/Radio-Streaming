@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T07:05:52.012347+00:00",
+  "updated_at_utc": "2026-11-23T07:08:33.132128+00:00",
   "stations": {
     "kis": [
       {
@@ -350,6 +350,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "detected_at_utc": "2026-11-23T07:08:32.991798+00:00"
+      },
       {
         "artist": "BOYS LIKE GIRLS",
         "title": "Two Is Better Than One (feat. Taylor Swift)",
