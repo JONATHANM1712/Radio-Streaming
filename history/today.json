@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:10:49.407977+00:00",
+  "updated_at_utc": "2026-11-23T16:12:01.124012+00:00",
   "stations": {
     "kis": [
       {
@@ -765,6 +765,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-23T16:12:01.024179+00:00"
+      },
       {
         "artist": "G-Eazy & Kehlani",
         "title": "Good Life",
