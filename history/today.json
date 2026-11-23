@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:47:32.337425+00:00",
+  "updated_at_utc": "2026-11-23T13:50:36.127862+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frankie J",
+        "title": "Don't Wanna Try",
+        "detected_at_utc": "2026-11-23T13:50:35.996872+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Poker Face",
