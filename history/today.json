@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:20:39.697896+00:00",
+  "updated_at_utc": "2026-11-23T04:22:50.505810+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "That’s What I Like",
+        "detected_at_utc": "2026-11-23T04:22:50.363476+00:00"
+      },
       {
         "artist": "Guy Sebastian",
         "title": "Angels Brought Me Here",
