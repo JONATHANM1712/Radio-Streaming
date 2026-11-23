@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:41:03.235345+00:00",
+  "updated_at_utc": "2026-11-23T13:44:12.539636+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "detected_at_utc": "2026-11-23T13:44:12.399668+00:00"
+      },
       {
         "artist": "Padi",
         "title": "Mahadewi",
