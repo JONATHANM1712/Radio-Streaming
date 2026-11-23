@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:33:38.108746+00:00",
+  "updated_at_utc": "2026-11-23T04:36:14.059625+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Troye Sivan",
+        "title": "Angel Baby",
+        "detected_at_utc": "2026-11-23T04:36:13.923988+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
