@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T14:10:29.759891+00:00",
+  "updated_at_utc": "2026-11-23T14:12:28.980650+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Naif",
+        "title": "Karena Kamu Cuma Satu",
+        "detected_at_utc": "2026-11-23T14:12:28.831745+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
