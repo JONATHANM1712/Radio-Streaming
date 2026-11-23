@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:22:07.472322+00:00",
+  "updated_at_utc": "2026-11-23T16:23:10.089126+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-23T16:22:15.621827+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Gantung",
