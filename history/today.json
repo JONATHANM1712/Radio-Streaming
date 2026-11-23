@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:52:43.949091+00:00",
+  "updated_at_utc": "2026-11-23T13:55:01.464819+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-23T13:55:01.331871+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Don't Wanna Try",
