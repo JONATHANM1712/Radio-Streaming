@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:25:53.222083+00:00",
+  "updated_at_utc": "2026-11-23T01:26:57.868152+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "BENEE",
+        "title": "Supalonely (feat. Gus Dapperton)",
+        "detected_at_utc": "2026-11-23T01:26:57.615530+00:00"
+      },
       {
         "artist": "Sean Kingston & Justin Bieber",
         "title": "Eenie Meenie",
