@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:36:01.810814+00:00",
+  "updated_at_utc": "2026-11-23T15:38:09.340619+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Karena Ku Sanggup",
+        "detected_at_utc": "2026-11-23T15:38:09.242407+00:00"
+      },
       {
         "artist": "Duncan James & Keedie",
         "title": "I Believe My Heart",
