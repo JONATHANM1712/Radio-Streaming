@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:16:32.106757+00:00",
+  "updated_at_utc": "2026-11-23T04:17:36.145584+00:00",
   "stations": {
     "kis": [
       {
@@ -357,6 +357,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rainbow",
+        "title": "The Temple of the King",
+        "detected_at_utc": "2026-11-23T04:17:03.257908+00:00"
+      },
       {
         "artist": "Chic",
         "title": "I Want Your Love",
