@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T10:15:32.917183+00:00",
+  "updated_at_utc": "2026-11-23T10:16:36.745789+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "My Favourite Game",
+        "detected_at_utc": "2026-11-23T10:16:34.165619+00:00"
+      },
       {
         "artist": "Padi",
         "title": "Menanti Sebuah Jawaban",
