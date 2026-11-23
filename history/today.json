@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T01:50:16.037062+00:00",
+  "updated_at_utc": "2026-11-23T01:51:20.210160+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MIKA",
+        "title": "Love Today",
+        "detected_at_utc": "2026-11-23T01:50:16.166704+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
