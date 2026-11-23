@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:19:03.884840+00:00",
+  "updated_at_utc": "2026-11-23T16:22:07.472322+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "Viva La Vida",
+        "detected_at_utc": "2026-11-23T16:22:07.368753+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Engga Ngerti",
