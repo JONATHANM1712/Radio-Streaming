@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:36:14.059625+00:00",
+  "updated_at_utc": "2026-11-23T04:37:17.150591+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "D’MASIV",
+        "title": "Diam Tanpa Kata",
+        "detected_at_utc": "2026-11-23T04:37:11.526135+00:00"
+      },
       {
         "artist": "Darren Hayes",
         "title": "Insatiable",
@@ -402,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alice Cooper",
+        "title": "Poison",
+        "detected_at_utc": "2026-11-23T04:36:41.073879+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Where's the Party",
