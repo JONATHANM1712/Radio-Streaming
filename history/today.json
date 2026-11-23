@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T16:56:52.488759+00:00",
+  "updated_at_utc": "2026-11-23T16:57:55.250106+00:00",
   "stations": {
     "kis": [
       {
@@ -815,6 +815,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Try Sleeping With a Broken Heart",
+        "detected_at_utc": "2026-11-23T16:57:03.307304+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
