@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:16:13.489122+00:00",
+  "updated_at_utc": "2026-11-23T05:19:17.311801+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "7 Days",
+        "detected_at_utc": "2026-11-23T05:19:17.225425+00:00"
+      },
       {
         "artist": "Singiku",
         "title": "Kebebasan",
