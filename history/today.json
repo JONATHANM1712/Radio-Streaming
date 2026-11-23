@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T15:07:25.969708+00:00",
+  "updated_at_utc": "2026-11-23T15:08:29.511981+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Texas",
+        "title": "Say What You Want",
+        "detected_at_utc": "2026-11-23T15:08:25.562377+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Beautiful Soul",
