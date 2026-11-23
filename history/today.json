@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T03:57:54.382390+00:00",
+  "updated_at_utc": "2026-11-23T03:58:58.073621+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "*NSYNC",
+        "title": "It's Gonna Be Me",
+        "detected_at_utc": "2026-11-23T03:57:57.188086+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
