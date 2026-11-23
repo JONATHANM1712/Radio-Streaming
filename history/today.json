@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:29:32.756251+00:00",
+  "updated_at_utc": "2026-11-23T05:30:35.465936+00:00",
   "stations": {
     "kis": [
       {
@@ -522,6 +522,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alphaville",
+        "title": "Universal Daddy",
+        "detected_at_utc": "2026-11-23T05:30:05.816732+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Paradise",
