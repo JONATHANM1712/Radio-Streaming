@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T13:33:44.731921+00:00",
+  "updated_at_utc": "2026-11-23T13:34:47.506476+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "TOFU",
+        "title": "Hidup Cuma Sekali",
+        "detected_at_utc": "2026-11-23T13:33:46.202161+00:00"
+      },
       {
         "artist": "Blue",
         "title": "Best In Me (2004)",
@@ -1077,6 +1082,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Arkarna",
+        "title": "So Little Time",
+        "detected_at_utc": "2026-11-23T13:33:55.161265+00:00"
+      },
       {
         "artist": "John Paul Young",
         "title": "Love Is in the Air",
