@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T11:51:14.208007+00:00",
+  "updated_at_utc": "2026-11-23T11:52:26.031912+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blur",
+        "title": "Tender",
+        "detected_at_utc": "2026-11-23T11:52:25.941240+00:00"
+      },
       {
         "artist": "Rossa",
         "title": "Terlalu Cinta",
