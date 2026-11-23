@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T12:39:59.556790+00:00",
+  "updated_at_utc": "2026-11-23T12:41:02.364347+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Hari Bersamanya",
+        "detected_at_utc": "2026-11-23T12:40:55.560878+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "What the Hell",
@@ -510,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Headhunterz",
+        "title": "Still Standin'",
+        "detected_at_utc": "2026-11-23T12:40:48.954093+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Di Balik Awan",
