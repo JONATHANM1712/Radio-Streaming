@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:29:58.879143+00:00",
+  "updated_at_utc": "2026-11-23T04:31:05.358135+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-23T04:31:05.210859+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "The Edge Of Glory",
