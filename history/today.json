@@ -1,8 +1,13 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T04:06:11.102882+00:00",
+  "updated_at_utc": "2026-11-23T04:08:12.951981+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Blue",
+        "title": "All Rise",
+        "detected_at_utc": "2026-11-23T04:08:12.758800+00:00"
+      },
       {
         "artist": "Jason Derulo",
         "title": "Want To Want Me",
