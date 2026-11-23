@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:23:23.769839+00:00",
+  "updated_at_utc": "2026-11-23T05:24:58.019603+00:00",
   "stations": {
     "kis": [
       {
@@ -512,6 +512,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Paradise",
+        "detected_at_utc": "2026-11-23T05:24:57.920615+00:00"
+      },
       {
         "artist": "P.M. Dawn",
         "title": "I'd Die Without You",
