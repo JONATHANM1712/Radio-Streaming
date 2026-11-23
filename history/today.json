@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated_at_utc": "2026-11-23T05:19:17.311801+00:00",
+  "updated_at_utc": "2026-11-23T05:20:19.858829+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kerispatih",
+        "title": "Tak Lekang Oleh Waktu",
+        "detected_at_utc": "2026-11-23T05:19:21.264351+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
