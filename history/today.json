@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:31:46.687108+00:00",
+  "updated_at_utc": "2026-11-24T15:32:51.146577+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "no song without you",
+        "detected_at_utc": "2026-11-24T15:32:40.303580+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
