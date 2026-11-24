@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:39:09.993672+00:00",
+  "updated_at_utc": "2026-11-24T15:40:13.056932+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Efek Rumah Kaca",
+        "title": "Desember",
+        "detected_at_utc": "2026-11-24T15:39:59.454628+00:00"
+      },
       {
         "artist": "Babyface & Gwyneth Paltrow",
         "title": "Just My Imagination (Running Away With Me)",
@@ -680,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-24T15:39:51.629316+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "no song without you",
