@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:57:16.658793+00:00",
+  "updated_at_utc": "2026-11-24T17:58:19.757769+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feel So Close (Radio Edit)",
+        "detected_at_utc": "2026-11-24T17:57:48.236853+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
