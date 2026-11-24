@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:58:19.757769+00:00",
+  "updated_at_utc": "2026-11-24T17:59:22.645311+00:00",
   "stations": {
     "kis": [
       {
@@ -182,6 +182,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cranberries",
+        "title": "(They Long To Be) Close To You",
+        "detected_at_utc": "2026-11-24T17:59:18.131776+00:00"
+      },
       {
         "artist": "Bryan Adams",
         "title": "Summer Of '69",
