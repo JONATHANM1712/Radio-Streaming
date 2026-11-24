@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:17:20.340091+00:00",
+  "updated_at_utc": "2026-11-24T03:18:23.831582+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "Luxurious (feat. Slim Thug) [Remix featuring Slim Thug]",
+        "detected_at_utc": "2026-11-24T03:17:29.075606+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Lapang Dada",
@@ -70,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fly",
+        "title": "Terbang",
+        "detected_at_utc": "2026-11-24T03:17:37.491091+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Made You Look",
