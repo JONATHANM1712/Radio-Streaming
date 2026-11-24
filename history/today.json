@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:34:39.716034+00:00",
+  "updated_at_utc": "2026-11-24T04:36:05.941279+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Train",
+        "title": "Hey, Soul Sister",
+        "detected_at_utc": "2026-11-24T04:36:05.820469+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
