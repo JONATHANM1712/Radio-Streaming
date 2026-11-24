@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:44:06.349273+00:00",
+  "updated_at_utc": "2026-11-24T04:45:09.708335+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sia",
+        "title": "Snowman",
+        "detected_at_utc": "2026-11-24T04:44:17.813807+00:00"
+      },
       {
         "artist": "Jesse McCartney",
         "title": "Beautiful Soul",
