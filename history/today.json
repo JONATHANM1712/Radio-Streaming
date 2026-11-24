@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:07:16.477570+00:00",
+  "updated_at_utc": "2026-11-24T13:08:27.110234+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-11-24T13:08:27.004223+00:00"
+      },
       {
         "artist": "Moony",
         "title": "I Don't Know Why (Viale, Dj Ross New Radio Mix)",
