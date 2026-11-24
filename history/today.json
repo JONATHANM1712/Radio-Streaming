@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:09:22.069224+00:00",
+  "updated_at_utc": "2026-11-24T15:12:04.282914+00:00",
   "stations": {
     "kis": [
       {
@@ -645,6 +645,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Farrel Hilal",
+        "title": "Keliling",
+        "detected_at_utc": "2026-11-24T15:12:04.192930+00:00"
+      },
       {
         "artist": "Nick Jonas",
         "title": "Jealous",
