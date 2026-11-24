@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:57:50.606348+00:00",
+  "updated_at_utc": "2026-11-24T03:59:07.434398+00:00",
   "stations": {
     "kis": [
       {
@@ -120,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez",
+        "title": "Hands To Myself",
+        "detected_at_utc": "2026-11-24T03:59:07.299808+00:00"
+      },
       {
         "artist": "Elliott Yamin",
         "title": "Wait for You",
