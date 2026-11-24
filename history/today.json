@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:28:54.778184+00:00",
+  "updated_at_utc": "2026-11-24T04:30:45.656116+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Gloria Estefan",
+        "title": "Hold Me, Thrill Me, Kiss Me",
+        "detected_at_utc": "2026-11-24T04:30:45.527398+00:00"
+      },
       {
         "artist": "Jonas Blue & JP Cooper",
         "title": "Perfect Strangers",
