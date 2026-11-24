@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:28:46.712978+00:00",
+  "updated_at_utc": "2026-11-24T06:30:37.301511+00:00",
   "stations": {
     "kis": [
       {
@@ -582,6 +582,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Howard Jones",
+        "title": "Things Can Only Get Better",
+        "detected_at_utc": "2026-11-24T06:30:37.164264+00:00"
+      },
       {
         "artist": "UB40 featuring Ali, Astro & Mickey",
         "title": "The Way You Do The Things You Do",
