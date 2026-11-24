@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:29:36.833469+00:00",
+  "updated_at_utc": "2026-11-24T11:31:38.458335+00:00",
   "stations": {
     "kis": [
       {
@@ -792,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "ADA Band",
+        "title": "Ough!!",
+        "detected_at_utc": "2026-11-24T11:31:38.346380+00:00"
+      },
       {
         "artist": "The Rah Band",
         "title": "Clouds Across the Moon",
