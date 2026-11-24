@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:18:09.174843+00:00",
+  "updated_at_utc": "2026-11-24T07:20:09.095102+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Craig David",
+        "title": "What's Your Flava? (Radio Edit)",
+        "detected_at_utc": "2026-11-24T07:20:08.923768+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
