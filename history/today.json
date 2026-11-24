@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:26:33.824640+00:00",
+  "updated_at_utc": "2026-11-24T06:27:37.358481+00:00",
   "stations": {
     "kis": [
       {
@@ -285,6 +285,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-24T06:26:55.347981+00:00"
+      },
       {
         "artist": "Sheppard",
         "title": "Geronimo",
