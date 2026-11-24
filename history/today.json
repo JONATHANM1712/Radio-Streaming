@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T18:00:25.892129+00:00",
+  "updated_at_utc": "2026-11-24T18:01:54.907979+00:00",
   "stations": {
     "kis": [
       {
@@ -90,6 +90,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "detected_at_utc": "2026-11-24T18:01:54.810872+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feel So Close (Radio Edit)",
