@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:19:37.516739+00:00",
+  "updated_at_utc": "2026-11-24T15:20:40.440522+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-11-24T15:20:16.885342+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
