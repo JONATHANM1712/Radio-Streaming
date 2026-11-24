@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:48:18.381430+00:00",
+  "updated_at_utc": "2026-11-24T03:49:30.453348+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frankie J",
+        "title": "Don't Wanna Try",
+        "detected_at_utc": "2026-11-24T03:49:30.323427+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Stronger (What Doesn't Kill You)",
