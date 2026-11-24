@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:40:13.056932+00:00",
+  "updated_at_utc": "2026-11-24T15:41:16.404331+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Misery",
+        "detected_at_utc": "2026-11-24T15:40:53.205120+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
