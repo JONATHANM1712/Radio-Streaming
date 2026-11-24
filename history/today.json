@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:46:09.947103+00:00",
+  "updated_at_utc": "2026-11-24T15:48:04.921093+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "detected_at_utc": "2026-11-24T15:48:04.827790+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
