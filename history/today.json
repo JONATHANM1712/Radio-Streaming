@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:54:56.992842+00:00",
+  "updated_at_utc": "2026-11-24T06:56:18.957721+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Sorry Not Sorry",
+        "detected_at_utc": "2026-11-24T06:56:18.818230+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Daughters",
