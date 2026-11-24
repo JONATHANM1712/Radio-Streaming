@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:38:36.926856+00:00",
+  "updated_at_utc": "2026-11-24T16:40:39.140051+00:00",
   "stations": {
     "kis": [
       {
@@ -755,6 +755,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DRIZZZ",
+        "title": "VENTIN",
+        "detected_at_utc": "2026-11-24T16:40:39.054121+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "Something About Us",
