@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:00:56.755356+00:00",
+  "updated_at_utc": "2026-11-24T15:02:00.117227+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Zayn Frost",
+        "title": "Never Comes",
+        "detected_at_utc": "2026-11-24T15:01:57.033616+00:00"
+      },
       {
         "artist": "Cool Colours",
         "title": "Tataplah",
@@ -630,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "My Humps (Radio Edit)",
+        "detected_at_utc": "2026-11-24T15:01:48.449867+00:00"
+      },
       {
         "artist": "Good Ringtones",
         "title": "My Humps (Black Eyed Peas-Fergie;Explicit)",
