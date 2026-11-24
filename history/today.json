@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:28:02.555274+00:00",
+  "updated_at_utc": "2026-11-24T17:30:04.765121+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Juicy Luicy",
+        "title": "HAHAHA",
+        "detected_at_utc": "2026-11-24T17:30:04.662131+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Teenage Love Affair",
