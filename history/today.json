@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:22:09.572987+00:00",
+  "updated_at_utc": "2026-11-24T07:26:16.578363+00:00",
   "stations": {
     "kis": [
       {
@@ -682,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "Kissing a Fool",
+        "detected_at_utc": "2026-11-24T07:26:16.414039+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "She's the One",
