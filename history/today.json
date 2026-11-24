@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:13:41.707572+00:00",
+  "updated_at_utc": "2026-11-24T17:14:44.692035+00:00",
   "stations": {
     "kis": [
       {
@@ -36,6 +36,11 @@
     ],
     "jak": [
       {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-24T17:14:39.618598+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
         "detected_at_utc": "2026-11-24T17:13:38.049612+00:00"
@@ -62,6 +67,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wings",
+        "title": "Goodnight Tonight",
+        "detected_at_utc": "2026-11-24T17:14:06.967651+00:00"
+      },
       {
         "artist": "Incognito",
         "title": "Positivity",
