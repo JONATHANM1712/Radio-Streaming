@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:12:57.236091+00:00",
+  "updated_at_utc": "2026-11-24T16:15:58.508855+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-24T16:15:58.411438+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "Treat You Better",
