@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:35:53.427866+00:00",
+  "updated_at_utc": "2026-11-24T16:37:34.017813+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daft Punk",
+        "title": "Something About Us",
+        "detected_at_utc": "2026-11-24T16:37:33.904634+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Tutur Batin",
