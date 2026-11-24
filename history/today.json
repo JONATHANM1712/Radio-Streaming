@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:03:28.990273+00:00",
+  "updated_at_utc": "2026-11-24T06:04:31.667140+00:00",
   "stations": {
     "kis": [
       {
@@ -260,6 +260,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "detected_at_utc": "2026-11-24T06:03:58.016584+00:00"
+      },
       {
         "artist": "Jonas Blue & JP Cooper",
         "title": "Perfect Strangers",
