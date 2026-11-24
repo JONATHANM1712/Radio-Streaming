@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:31:41.329137+00:00",
+  "updated_at_utc": "2026-11-24T06:34:15.191078+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Cardi B & Bruno Mars",
+        "title": "Please Me",
+        "detected_at_utc": "2026-11-24T06:34:15.036098+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
