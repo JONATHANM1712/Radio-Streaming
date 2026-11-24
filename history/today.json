@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:34:15.191078+00:00",
+  "updated_at_utc": "2026-11-24T06:35:18.919659+00:00",
   "stations": {
     "kis": [
       {
@@ -592,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dire Straits",
+        "title": "Sultans Of Swing",
+        "detected_at_utc": "2026-11-24T06:34:50.005220+00:00"
+      },
       {
         "artist": "Howard Jones",
         "title": "Things Can Only Get Better",
