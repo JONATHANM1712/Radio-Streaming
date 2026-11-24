@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:40:12.012048+00:00",
+  "updated_at_utc": "2026-11-24T04:41:45.040077+00:00",
   "stations": {
     "kis": [
       {
@@ -342,6 +342,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Cool Cat",
+        "detected_at_utc": "2026-11-24T04:41:44.733978+00:00"
+      },
       {
         "artist": "Van Halen",
         "title": "Can't Stop Lovin' You",
