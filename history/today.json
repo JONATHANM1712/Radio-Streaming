@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:24:19.822535+00:00",
+  "updated_at_utc": "2026-11-24T12:26:18.294107+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Hall of Fame (feat. will.i.am)",
+        "detected_at_utc": "2026-11-24T12:26:18.205119+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Lea",
