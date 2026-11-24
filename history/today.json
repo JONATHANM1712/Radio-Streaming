@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:29:45.429469+00:00",
+  "updated_at_utc": "2026-11-24T15:31:46.687108+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
+        "detected_at_utc": "2026-11-24T15:31:46.598068+00:00"
+      },
       {
         "artist": "Lauryn Hill",
         "title": "Can't Take My Eyes Off of You (I Love You Baby)",
