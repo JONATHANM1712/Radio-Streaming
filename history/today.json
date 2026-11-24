@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:34:38.571800+00:00",
+  "updated_at_utc": "2026-11-24T17:37:15.758759+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-11-24T17:37:15.670468+00:00"
+      },
       {
         "artist": "Deorro & Chris Brown",
         "title": "Five More Hours",
