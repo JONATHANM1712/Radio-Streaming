@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:26:39.886544+00:00",
+  "updated_at_utc": "2026-11-24T14:27:43.144593+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-24T14:27:28.300493+00:00"
+      },
       {
         "artist": "Antonio George",
         "title": "Back to Galway",
