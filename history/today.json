@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:25:18.318946+00:00",
+  "updated_at_utc": "2026-11-24T16:26:21.624792+00:00",
   "stations": {
     "kis": [
       {
@@ -740,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "detected_at_utc": "2026-11-24T16:26:16.233063+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Tak Pernah Setengah Hati",
