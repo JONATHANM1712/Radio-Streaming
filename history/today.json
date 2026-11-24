@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:43:07.057707+00:00",
+  "updated_at_utc": "2026-11-24T14:46:18.652803+00:00",
   "stations": {
     "kis": [
       {
@@ -610,6 +610,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-24T14:46:18.541965+00:00"
+      },
       {
         "artist": "peterpan",
         "title": "Mungkin Nanti (From \"Alexandria\" Soundtrack)",
