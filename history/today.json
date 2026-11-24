@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:33:53.972731+00:00",
+  "updated_at_utc": "2026-11-24T15:35:52.960952+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babyface & Gwyneth Paltrow",
+        "title": "Just My Imagination (Running Away With Me)",
+        "detected_at_utc": "2026-11-24T15:35:52.879196+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "One Call Away",
