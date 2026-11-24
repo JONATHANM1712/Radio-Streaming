@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:12:59.207725+00:00",
+  "updated_at_utc": "2026-11-24T12:15:00.792523+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "NIKI",
+        "title": "You'll Be In My Heart",
+        "detected_at_utc": "2026-11-24T12:15:00.699506+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Just the Way You Are",
