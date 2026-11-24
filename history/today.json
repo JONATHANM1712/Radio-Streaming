@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:17:57.757441+00:00",
+  "updated_at_utc": "2026-11-24T12:21:10.416853+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Toto",
+        "title": "Africa",
+        "detected_at_utc": "2026-11-24T12:21:10.335082+00:00"
+      },
       {
         "artist": "NIKI",
         "title": "You'll Be In My Heart",
