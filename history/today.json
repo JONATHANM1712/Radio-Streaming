@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:29:23.220074+00:00",
+  "updated_at_utc": "2026-11-24T07:30:26.549162+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Level 42",
+        "title": "Love In a Peaceful World",
+        "detected_at_utc": "2026-11-24T07:29:34.351347+00:00"
+      },
       {
         "artist": "Yovie Widianto & Rio Febrian",
         "title": "Salahi Aku (Ku Jatuh Cinta Lagi)",
