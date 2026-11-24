@@ -1,8 +1,18 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:47:49.123279+00:00",
+  "updated_at_utc": "2026-11-24T11:02:14.897946+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-24T10:56:28.230166+00:00"
+      },
+      {
+        "artist": "98°",
+        "title": "Because of You",
+        "detected_at_utc": "2026-11-24T10:52:17.890668+00:00"
+      },
       {
         "artist": "Britney Spears",
         "title": "Criminal",
@@ -345,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "detected_at_utc": "2026-11-24T10:52:18.032696+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
@@ -727,6 +742,21 @@
       }
     ],
     "most": [
+      {
+        "artist": "Peabo Bryson",
+        "title": "Why Goodbye",
+        "detected_at_utc": "2026-11-24T10:58:29.666033+00:00"
+      },
+      {
+        "artist": "The Police",
+        "title": "Spirits In the Material World",
+        "detected_at_utc": "2026-11-24T10:54:21.342392+00:00"
+      },
+      {
+        "artist": "Tracy Chapman",
+        "title": "Give Me One Reason",
+        "detected_at_utc": "2026-11-24T10:52:17.551362+00:00"
+      },
       {
         "artist": "Java Jive",
         "title": "Permataku",
