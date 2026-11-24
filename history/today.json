@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:59:53.947911+00:00",
+  "updated_at_utc": "2026-11-24T15:00:56.755356+00:00",
   "stations": {
     "kis": [
       {
@@ -630,6 +630,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Good Ringtones",
+        "title": "My Humps (Black Eyed Peas-Fergie;Explicit)",
+        "detected_at_utc": "2026-11-24T15:00:46.839618+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
