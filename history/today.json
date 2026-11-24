@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:06:37.764663+00:00",
+  "updated_at_utc": "2026-11-24T06:08:03.231235+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "benny blanco, BTS & Snoop Dogg",
+        "title": "Bad Decisions",
+        "detected_at_utc": "2026-11-24T06:08:03.122965+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Set Fire to the Rain",
