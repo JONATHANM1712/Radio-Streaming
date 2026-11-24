@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:08:27.110234+00:00",
+  "updated_at_utc": "2026-11-24T13:09:30.730249+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-24T13:09:26.534870+00:00"
+      },
       {
         "artist": "Bastille",
         "title": "Pompeii",
