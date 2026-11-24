@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:13:14.045038+00:00",
+  "updated_at_utc": "2026-11-24T03:14:24.779782+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheila On 7",
+        "title": "Lapang Dada",
+        "detected_at_utc": "2026-11-24T03:14:24.657344+00:00"
+      },
       {
         "artist": "Robyn",
         "title": "Do You Really Want Me (Show Respect)",
