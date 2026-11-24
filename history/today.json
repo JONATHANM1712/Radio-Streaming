@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:22:41.037457+00:00",
+  "updated_at_utc": "2026-11-24T15:23:44.086992+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Teenage Dream",
+        "detected_at_utc": "2026-11-24T15:23:24.667863+00:00"
+      },
       {
         "artist": "Frank Ocean",
         "title": "Thinkin Bout You",
