@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:47:55.314028+00:00",
+  "updated_at_utc": "2026-11-24T12:49:55.456855+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain't Worried",
+        "detected_at_utc": "2026-11-24T12:49:55.371205+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "Blurred Lines (feat. T.I. & Pharrell)",
