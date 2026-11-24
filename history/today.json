@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:41:04.234817+00:00",
+  "updated_at_utc": "2026-11-24T03:43:39.535394+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-24T03:43:39.412407+00:00"
+      },
       {
         "artist": "Katy Perry",
         "title": "Harleys In Hawaii",
