@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:52:53.238362+00:00",
+  "updated_at_utc": "2026-11-24T12:56:58.368130+00:00",
   "stations": {
     "kis": [
       {
@@ -927,6 +927,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "September",
+        "detected_at_utc": "2026-11-24T12:56:58.285727+00:00"
+      },
       {
         "artist": "Def Leppard",
         "title": "Animal",
