@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:10:33.556187+00:00",
+  "updated_at_utc": "2026-11-24T13:13:32.835073+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Empire Of The Sun",
+        "title": "Walking On A Dream",
+        "detected_at_utc": "2026-11-24T13:13:32.742903+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
