@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:55:38.721020+00:00",
+  "updated_at_utc": "2026-11-24T05:58:40.602302+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Halo",
+        "detected_at_utc": "2026-11-24T05:58:40.500155+00:00"
+      },
       {
         "artist": "Duncan Sheik",
         "title": "Barely Breathing",
