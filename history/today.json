@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:46:04.546354+00:00",
+  "updated_at_utc": "2026-11-24T06:47:08.751240+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Yura Yunita",
+        "title": "Cinta Dan Rahasia (feat. Glenn Fredly)",
+        "detected_at_utc": "2026-11-24T06:47:07.020955+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Since U Been Gone",
