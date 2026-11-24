@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:27:19.831872+00:00",
+  "updated_at_utc": "2026-11-24T07:29:23.220074+00:00",
   "stations": {
     "kis": [
       {
@@ -330,6 +330,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Everything",
+        "detected_at_utc": "2026-11-24T07:29:23.083266+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Let It Go (Single Version)",
