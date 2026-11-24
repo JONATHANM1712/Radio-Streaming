@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:31:07.587426+00:00",
+  "updated_at_utc": "2026-11-24T17:33:09.575094+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Deorro & Chris Brown",
+        "title": "Five More Hours",
+        "detected_at_utc": "2026-11-24T17:33:09.482973+00:00"
+      },
       {
         "artist": "Juicy Luicy",
         "title": "HAHAHA",
