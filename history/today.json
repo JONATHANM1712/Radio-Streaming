@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:12:59.900024+00:00",
+  "updated_at_utc": "2026-11-24T07:14:03.492054+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "This Love",
+        "detected_at_utc": "2026-11-24T07:13:07.478031+00:00"
+      },
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "I Know What You Did Last Summer",
