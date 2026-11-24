@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:08:03.231235+00:00",
+  "updated_at_utc": "2026-11-24T06:09:06.255666+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
+        "detected_at_utc": "2026-11-24T06:08:53.149990+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
