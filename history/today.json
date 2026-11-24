@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:15:00.792523+00:00",
+  "updated_at_utc": "2026-11-24T12:16:05.178156+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Lagu Cinta",
+        "detected_at_utc": "2026-11-24T12:16:05.073241+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "Everybody (Backstreet's Back) [Radio Edit]",
