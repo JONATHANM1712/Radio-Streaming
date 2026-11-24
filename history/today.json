@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:37:35.078100+00:00",
+  "updated_at_utc": "2026-11-24T07:40:40.052783+00:00",
   "stations": {
     "kis": [
       {
@@ -335,6 +335,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "detected_at_utc": "2026-11-24T07:40:39.891655+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Because of You",
