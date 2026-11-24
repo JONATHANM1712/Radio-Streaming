@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:57:01.370586+00:00",
+  "updated_at_utc": "2026-11-24T14:58:04.422609+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-24T14:57:42.232922+00:00"
+      },
       {
         "artist": "Train",
         "title": "Marry Me",
