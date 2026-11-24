@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:45:47.524125+00:00",
+  "updated_at_utc": "2026-11-24T03:47:15.220833+00:00",
   "stations": {
     "kis": [
       {
@@ -212,6 +212,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Madonna",
+        "title": "Papa Don't Preach",
+        "detected_at_utc": "2026-11-24T03:47:15.095865+00:00"
+      },
       {
         "artist": "Guns N' Roses",
         "title": "Sweet Child O' Mine",
