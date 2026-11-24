@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:20:52.712548+00:00",
+  "updated_at_utc": "2026-11-24T05:21:55.637708+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "She Will Be Loved",
+        "detected_at_utc": "2026-11-24T05:21:03.759335+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Sementara",
