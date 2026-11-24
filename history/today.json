@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:41:59.721115+00:00",
+  "updated_at_utc": "2026-11-24T11:43:06.691362+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Parkdrive",
+        "title": "Biarkan",
+        "detected_at_utc": "2026-11-24T11:43:06.565030+00:00"
+      },
       {
         "artist": "Sara Bareilles",
         "title": "Brave",
