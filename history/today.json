@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:45:35.598046+00:00",
+  "updated_at_utc": "2026-11-24T05:46:38.300623+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Plain White T's",
+        "title": "Hey There Delilah",
+        "detected_at_utc": "2026-11-24T05:46:24.642508+00:00"
+      },
       {
         "artist": "Kris Dayanti",
         "title": "Mencintaimu",
@@ -240,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-24T05:46:36.896269+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
