@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:43:31.127953+00:00",
+  "updated_at_utc": "2026-11-24T13:45:30.294209+00:00",
   "stations": {
     "kis": [
       {
@@ -1032,6 +1032,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "L.A. Guns",
+        "title": "The Ballad of Jayne",
+        "detected_at_utc": "2026-11-24T13:45:30.195304+00:00"
+      },
       {
         "artist": "Emilia",
         "title": "Big Big World",
