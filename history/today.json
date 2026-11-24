@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:18:13.908470+00:00",
+  "updated_at_utc": "2026-11-24T17:19:17.019877+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Howie Day",
+        "title": "Collide (Chris Lord-Alge Mix aka Radio Edit)",
+        "detected_at_utc": "2026-11-24T17:18:45.743116+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "MORNING DEW (DONK)",
