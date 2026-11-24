@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:42:28.384345+00:00",
+  "updated_at_utc": "2026-11-24T13:43:31.127953+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Lonely",
+        "detected_at_utc": "2026-11-24T13:43:29.784698+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
