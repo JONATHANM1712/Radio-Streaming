@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:04:40.686791+00:00",
+  "updated_at_utc": "2026-11-24T07:05:47.947718+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "I Know What You Did Last Summer",
+        "detected_at_utc": "2026-11-24T07:05:47.824994+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Lonely",
