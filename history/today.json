@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:12:58.296365+00:00",
+  "updated_at_utc": "2026-11-24T06:14:10.766919+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-24T06:14:10.637302+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Like I Can",
