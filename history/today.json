@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:48:38.371728+00:00",
+  "updated_at_utc": "2026-11-24T17:51:04.487113+00:00",
   "stations": {
     "kis": [
       {
@@ -157,6 +157,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mike Reno",
+        "title": "Almost Paradise (Love Theme \"Footloose\")",
+        "detected_at_utc": "2026-11-24T17:51:04.384408+00:00"
+      },
       {
         "artist": "Peaches & Herb",
         "title": "Reunited",
