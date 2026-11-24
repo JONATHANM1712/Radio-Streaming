@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:46:35.226392+00:00",
+  "updated_at_utc": "2026-11-24T13:47:38.368079+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-24T13:46:35.840796+00:00"
+      },
       {
         "artist": "Akon",
         "title": "Lonely",
