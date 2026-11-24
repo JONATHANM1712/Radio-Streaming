@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:05:54.984658+00:00",
+  "updated_at_utc": "2026-11-24T11:06:57.872944+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-24T11:06:56.562156+00:00"
+      },
       {
         "artist": "Afgan",
         "title": "Sadis",
