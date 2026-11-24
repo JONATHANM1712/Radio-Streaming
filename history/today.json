@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:21:10.416853+00:00",
+  "updated_at_utc": "2026-11-24T12:22:13.261303+00:00",
   "stations": {
     "kis": [
       {
@@ -450,6 +450,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Toto",
+        "title": "Lea",
+        "detected_at_utc": "2026-11-24T12:22:11.890325+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Africa",
