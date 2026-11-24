@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:07:45.894311+00:00",
+  "updated_at_utc": "2026-11-24T07:08:52.081653+00:00",
   "stations": {
     "kis": [
       {
@@ -315,6 +315,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-24T07:08:51.961308+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Everglow",
