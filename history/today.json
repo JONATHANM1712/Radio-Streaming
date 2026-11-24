@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:22:53.070373+00:00",
+  "updated_at_utc": "2026-11-24T13:23:55.939459+00:00",
   "stations": {
     "kis": [
       {
@@ -992,6 +992,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Warren G",
+        "title": "What's Love Got to Do With It (feat. Adina Howard)",
+        "detected_at_utc": "2026-11-24T13:23:43.299810+00:00"
+      },
       {
         "artist": "REO Speedwagon",
         "title": "Can't Fight This Feeling",
