@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:06:51.288581+00:00",
+  "updated_at_utc": "2026-11-24T12:11:56.203597+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Just the Way You Are",
+        "detected_at_utc": "2026-11-24T12:11:56.106158+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Won't Go Home Without You",
