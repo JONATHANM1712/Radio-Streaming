@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T07:14:03.492054+00:00",
+  "updated_at_utc": "2026-11-24T07:16:02.661402+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "detected_at_utc": "2026-11-24T07:16:02.508196+00:00"
+      },
       {
         "artist": "ALEXA",
         "title": "Jangan Kau Lepas",
