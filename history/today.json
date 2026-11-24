@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:37:09.211003+00:00",
+  "updated_at_utc": "2026-11-24T06:38:12.870458+00:00",
   "stations": {
     "kis": [
       {
@@ -295,6 +295,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "3 Doors Down",
+        "title": "Here Without You (Acoustic)",
+        "detected_at_utc": "2026-11-24T06:37:28.279444+00:00"
+      },
       {
         "artist": "Cardi B & Bruno Mars",
         "title": "Please Me",
