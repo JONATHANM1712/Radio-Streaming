@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:09:06.255666+00:00",
+  "updated_at_utc": "2026-11-24T06:11:06.878237+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sam Smith",
+        "title": "Like I Can",
+        "detected_at_utc": "2026-11-24T06:11:06.771538+00:00"
+      },
       {
         "artist": "benny blanco, BTS & Snoop Dogg",
         "title": "Bad Decisions",
