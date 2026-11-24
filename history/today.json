@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:15:13.448820+00:00",
+  "updated_at_utc": "2026-11-24T15:16:16.400846+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Guys Next Door",
+        "title": "I've Been Waiting for You",
+        "detected_at_utc": "2026-11-24T15:15:20.074569+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Fallin'",
