@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:55:01.721813+00:00",
+  "updated_at_utc": "2026-11-24T03:56:47.136376+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-11-24T03:56:47.021162+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Carnival",
