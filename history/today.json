@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:20:53.632265+00:00",
+  "updated_at_utc": "2026-11-24T17:22:19.901322+00:00",
   "stations": {
     "kis": [
       {
@@ -82,6 +82,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Verve",
+        "title": "Lucky Man",
+        "detected_at_utc": "2026-11-24T17:22:19.811665+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Fantasy",
