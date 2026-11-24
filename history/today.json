@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:40:27.802992+00:00",
+  "updated_at_utc": "2026-11-24T17:41:30.668813+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "detected_at_utc": "2026-11-24T17:41:22.227990+00:00"
+      },
       {
         "artist": "Alcino Wonder",
         "title": "Não Dá Mais",
