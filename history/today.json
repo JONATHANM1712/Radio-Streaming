@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:16:05.178156+00:00",
+  "updated_at_utc": "2026-11-24T12:17:57.757441+00:00",
   "stations": {
     "kis": [
       {
@@ -862,6 +862,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Skid Row",
+        "title": "Youth Gone Wild",
+        "detected_at_utc": "2026-11-24T12:17:57.672271+00:00"
+      },
       {
         "artist": "Tower Of Power",
         "title": "Soul With A Capital \"S\" (Live)",
