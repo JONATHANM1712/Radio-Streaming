@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:08:50.803270+00:00",
+  "updated_at_utc": "2026-11-24T16:09:53.750859+00:00",
   "stations": {
     "kis": [
       {
@@ -715,6 +715,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dave & Tems",
+        "title": "Raindance",
+        "detected_at_utc": "2026-11-24T16:09:41.440426+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Heartbreak Warfare",
