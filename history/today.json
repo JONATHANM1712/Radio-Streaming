@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:59:33.634417+00:00",
+  "updated_at_utc": "2026-11-24T07:00:37.269241+00:00",
   "stations": {
     "kis": [
       {
@@ -642,6 +642,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Collective Soul",
+        "title": "Shine",
+        "detected_at_utc": "2026-11-24T07:00:24.237209+00:00"
+      },
       {
         "artist": "ABBA",
         "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
