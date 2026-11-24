@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:29:23.177466+00:00",
+  "updated_at_utc": "2026-11-24T16:30:26.056162+00:00",
   "stations": {
     "kis": [
       {
@@ -745,6 +745,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-24T16:30:22.609403+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
