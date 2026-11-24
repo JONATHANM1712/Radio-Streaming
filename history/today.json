@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:27:37.358481+00:00",
+  "updated_at_utc": "2026-11-24T06:28:46.712978+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "detected_at_utc": "2026-11-24T06:28:46.587727+00:00"
+      },
       {
         "artist": "Gareth Gates",
         "title": "Anyone of Us (Stupid Mistake)",
