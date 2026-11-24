@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:04:46.806224+00:00",
+  "updated_at_utc": "2026-11-24T11:05:54.984658+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Afgan",
+        "title": "Sadis",
+        "detected_at_utc": "2026-11-24T11:05:54.892146+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Just Give Me a Reason (feat. Nate Ruess)",
