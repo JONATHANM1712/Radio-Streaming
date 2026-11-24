@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:33:57.765164+00:00",
+  "updated_at_utc": "2026-11-24T14:35:00.578120+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Vierra",
+        "title": "Perih",
+        "detected_at_utc": "2026-11-24T14:34:45.910707+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "We Belong Together",
@@ -595,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "peterpan",
+        "title": "Mungkin Nanti (From \"Alexandria\" Soundtrack)",
+        "detected_at_utc": "2026-11-24T14:34:59.518613+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Because of You",
