@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:28:49.798287+00:00",
+  "updated_at_utc": "2026-11-24T03:29:53.226583+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-24T03:28:59.613906+00:00"
+      },
       {
         "artist": "James Morrison",
         "title": "You Give Me Something (Refreshed)",
@@ -172,6 +177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Headhunterz",
+        "title": "Still Standin'",
+        "detected_at_utc": "2026-11-24T03:29:43.156236+00:00"
+      },
       {
         "artist": "Bruce Dickinson",
         "title": "Tears of the Dragon (Live At The Marquee)",
