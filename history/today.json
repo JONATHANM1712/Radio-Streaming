@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:59:22.645311+00:00",
+  "updated_at_utc": "2026-11-24T18:00:25.892129+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Padi",
+        "title": "Kasih Tak Sampai",
+        "detected_at_utc": "2026-11-24T17:59:55.670847+00:00"
+      },
       {
         "artist": "K-Ci & JoJo",
         "title": "Crazy",
