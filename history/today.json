@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:22:13.261303+00:00",
+  "updated_at_utc": "2026-11-24T12:23:16.534574+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "No Doubt",
+        "title": "Just a Girl",
+        "detected_at_utc": "2026-11-24T12:23:16.429105+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Lagu Cinta",
