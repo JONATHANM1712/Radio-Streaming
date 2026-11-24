@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:18:31.728876+00:00",
+  "updated_at_utc": "2026-11-24T05:20:52.712548+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-11-24T05:20:52.621761+00:00"
+      },
       {
         "artist": "Sherina Munaf",
         "title": "Cinta Pertama Dan Terakhir",
