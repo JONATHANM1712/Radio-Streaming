@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:59:29.044386+00:00",
+  "updated_at_utc": "2026-11-24T12:02:43.092899+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fergie",
+        "title": "Big Girls Don't Cry (Personal)",
+        "detected_at_utc": "2026-11-24T12:02:42.992213+00:00"
+      },
       {
         "artist": "Lighthouse Family",
         "title": "Postcard From Heaven",
