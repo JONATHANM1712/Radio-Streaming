@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:50:52.987223+00:00",
+  "updated_at_utc": "2026-11-24T13:55:56.208745+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Willie Williams",
+        "title": "Armagideon Time",
+        "detected_at_utc": "2026-11-24T13:55:56.119053+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "Can't Get You Out of My Head",
