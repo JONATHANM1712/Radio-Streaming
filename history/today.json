@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:37:16.643586+00:00",
+  "updated_at_utc": "2026-11-24T13:39:21.677805+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Halmahera",
+        "title": "Khayalanku",
+        "detected_at_utc": "2026-11-24T13:39:21.591448+00:00"
+      },
       {
         "artist": "Kelly Clarkson",
         "title": "Breakaway",
