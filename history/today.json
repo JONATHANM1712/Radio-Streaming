@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-23T17:41:01.042573+00:00",
+  "updated_at_utc": "2026-11-24T03:11:50.326218+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robyn",
+        "title": "Do You Really Want Me (Show Respect)",
+        "detected_at_utc": "2026-11-24T03:10:59.689389+00:00"
+      },
       {
         "artist": "Mandy Moore",
         "title": "Cry",
@@ -61,6 +66,16 @@
     ],
     "jak": [
       {
+        "artist": "Fall Out Boy",
+        "title": "Thnks Fr Th Mmrs",
+        "detected_at_utc": "2026-11-24T03:11:48.494384+00:00"
+      },
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-24T03:11:07.321315+00:00"
+      },
+      {
         "artist": "Khalid",
         "title": "Softest Touch",
         "detected_at_utc": "2026-11-23T17:39:58.160548+00:00"
@@ -117,6 +132,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bon Jovi",
+        "title": "Let It Rock",
+        "detected_at_utc": "2026-11-24T03:10:51.513350+00:00"
+      },
       {
         "artist": "Club Nouveau",
         "title": "Why You Treat Me so Bad",
