@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:36:05.941279+00:00",
+  "updated_at_utc": "2026-11-24T04:37:09.116374+00:00",
   "stations": {
     "kis": [
       {
@@ -332,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van Halen",
+        "title": "Can't Stop Lovin' You",
+        "detected_at_utc": "2026-11-24T04:36:37.156658+00:00"
+      },
       {
         "artist": "Paula Abdul",
         "title": "Knocked Out",
