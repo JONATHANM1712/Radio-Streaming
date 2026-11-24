@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:23:22.239007+00:00",
+  "updated_at_utc": "2026-11-24T06:24:27.020093+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sheppard",
+        "title": "Geronimo",
+        "detected_at_utc": "2026-11-24T06:23:47.652549+00:00"
+      },
       {
         "artist": "Hot Chelle Rae",
         "title": "Tonight Tonight",
