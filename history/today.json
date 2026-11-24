@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:50:52.678874+00:00",
+  "updated_at_utc": "2026-11-24T14:51:56.271573+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Train",
+        "title": "Marry Me",
+        "detected_at_utc": "2026-11-24T14:51:32.174357+00:00"
+      },
       {
         "artist": "Sia",
         "title": "Chandelier",
