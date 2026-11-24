@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:15:57.730437+00:00",
+  "updated_at_utc": "2026-11-24T05:17:00.641533+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sherina Munaf",
+        "title": "Cinta Pertama Dan Terakhir",
+        "detected_at_utc": "2026-11-24T05:16:47.886150+00:00"
+      },
       {
         "artist": "Oasis",
         "title": "Wonderwall",
