@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:27:22.156713+00:00",
+  "updated_at_utc": "2026-11-24T04:28:54.778184+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande & The Weeknd",
+        "title": "Love Me Harder",
+        "detected_at_utc": "2026-11-24T04:28:54.636470+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "I Know You Want Me (Calle Ocho)",
