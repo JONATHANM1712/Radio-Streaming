@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:05:22.219239+00:00",
+  "updated_at_utc": "2026-11-24T17:06:25.237020+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Mirror Mirror",
+        "detected_at_utc": "2026-11-24T17:05:24.465317+00:00"
+      },
       {
         "artist": "Plus One",
         "title": "Last Flight Out",
@@ -32,6 +37,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "I Want to Wake Up",
+        "detected_at_utc": "2026-11-24T17:05:53.357788+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Can't Stand It Any Longer",
