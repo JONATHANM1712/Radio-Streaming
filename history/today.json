@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:03:14.359763+00:00",
+  "updated_at_utc": "2026-11-24T05:04:17.187972+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Labrinth",
+        "title": "Jealous",
+        "detected_at_utc": "2026-11-24T05:03:42.679443+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
