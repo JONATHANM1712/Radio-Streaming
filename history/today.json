@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:04:37.118945+00:00",
+  "updated_at_utc": "2026-11-24T12:06:51.288581+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Hate That I Love You (feat. Ne-Yo)",
+        "detected_at_utc": "2026-11-24T12:06:51.178574+00:00"
+      },
       {
         "artist": "Fergie",
         "title": "Big Girls Don't Cry (Personal)",
