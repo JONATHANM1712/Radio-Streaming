@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:24:52.471077+00:00",
+  "updated_at_utc": "2026-11-24T04:27:22.156713+00:00",
   "stations": {
     "kis": [
       {
@@ -307,6 +307,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daryl Hall & John Oates",
+        "title": "Maneater",
+        "detected_at_utc": "2026-11-24T04:27:22.025480+00:00"
+      },
       {
         "artist": "Lighthouse Family",
         "title": "Loving Every Minute",
