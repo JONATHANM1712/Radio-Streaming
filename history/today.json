@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:48:13.401401+00:00",
+  "updated_at_utc": "2026-11-24T16:49:16.191001+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lorde",
+        "title": "Royals",
+        "detected_at_utc": "2026-11-24T16:48:57.929652+00:00"
+      },
       {
         "artist": "Let Loose",
         "title": "Make It With You",
