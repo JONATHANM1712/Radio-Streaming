@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:15:13.881813+00:00",
+  "updated_at_utc": "2026-11-24T06:16:24.442698+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "RAN",
+        "title": "Tunjukkan Cintamu",
+        "detected_at_utc": "2026-11-24T06:16:24.320334+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
