@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:37:20.550046+00:00",
+  "updated_at_utc": "2026-11-24T03:38:24.128875+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "GIGI",
+        "title": "Ku Ingin",
+        "detected_at_utc": "2026-11-24T03:38:10.956206+00:00"
+      },
       {
         "artist": "John Mayer",
         "title": "Clarity",
