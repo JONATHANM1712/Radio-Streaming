@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:41:30.668813+00:00",
+  "updated_at_utc": "2026-11-24T17:43:29.360729+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adam Levine",
+        "title": "Lost Stars",
+        "detected_at_utc": "2026-11-24T17:43:29.269596+00:00"
+      },
       {
         "artist": "Savage Garden",
         "title": "Truly Madly Deeply",
