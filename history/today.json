@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:04:17.187972+00:00",
+  "updated_at_utc": "2026-11-24T05:05:20.006336+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "WALK THE MOON",
+        "title": "Shut Up and Dance",
+        "detected_at_utc": "2026-11-24T05:04:32.434068+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Summer Sunshine",
