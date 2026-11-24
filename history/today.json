@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:18:34.574519+00:00",
+  "updated_at_utc": "2026-11-24T15:19:37.516739+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Titi DJ",
+        "title": "Separuh Hidupku",
+        "detected_at_utc": "2026-11-24T15:19:26.848569+00:00"
+      },
       {
         "artist": "Guys Next Door",
         "title": "I've Been Waiting for You",
@@ -655,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-24T15:19:15.285138+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "We Belong Together",
