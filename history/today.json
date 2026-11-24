@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:02:01.076967+00:00",
+  "updated_at_utc": "2026-11-24T17:03:04.803490+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "What Makes You Beautiful",
+        "detected_at_utc": "2026-11-24T17:02:17.460510+00:00"
+      },
       {
         "artist": "Moloko",
         "title": "Sing It Back (Boris Dlugosch Musical Mix)",
