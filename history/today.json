@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:02:14.897946+00:00",
+  "updated_at_utc": "2026-11-24T11:03:17.914509+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Just Give Me a Reason (feat. Nate Ruess)",
+        "detected_at_utc": "2026-11-24T11:02:47.519795+00:00"
+      },
       {
         "artist": "Mishari Rashid Alafasy",
         "title": "Recitation 1",
