@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:42:42.572347+00:00",
+  "updated_at_utc": "2026-11-24T16:43:45.571461+00:00",
   "stations": {
     "kis": [
       {
@@ -756,6 +756,11 @@
     ],
     "jak": [
       {
+        "artist": "The Chainsmokers",
+        "title": "Roses (feat. ROZES)",
+        "detected_at_utc": "2026-11-24T16:43:44.073831+00:00"
+      },
+      {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
         "detected_at_utc": "2026-11-24T16:42:42.477869+00:00"
@@ -1472,6 +1477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "FireHouse",
+        "title": "I Live My Life for You",
+        "detected_at_utc": "2026-11-24T16:43:04.305006+00:00"
+      },
       {
         "artist": "U.S.A. for Africa",
         "title": "We Are The World (feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson) [Remastered]",
