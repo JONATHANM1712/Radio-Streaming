@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:23:22.332882+00:00",
+  "updated_at_utc": "2026-11-24T14:24:25.239969+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "detected_at_utc": "2026-11-24T14:24:20.011442+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Every Teardrop Is a Waterfall",
