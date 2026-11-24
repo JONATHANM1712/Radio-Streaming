@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:21:31.113895+00:00",
+  "updated_at_utc": "2026-11-24T04:22:45.978302+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "I Know You Want Me (Calle Ocho)",
+        "detected_at_utc": "2026-11-24T04:22:45.845376+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
