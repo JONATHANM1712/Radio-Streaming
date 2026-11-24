@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:09:26.729064+00:00",
+  "updated_at_utc": "2026-11-24T04:11:28.191849+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
+        "detected_at_utc": "2026-11-24T04:11:28.060970+00:00"
+      },
       {
         "artist": "Owl City & Carly Rae Jepsen",
         "title": "Good Time",
