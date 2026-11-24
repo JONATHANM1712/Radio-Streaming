@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:37:34.017813+00:00",
+  "updated_at_utc": "2026-11-24T16:38:36.926856+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Geisha",
+        "title": "Lumpuhkan Ingatanku",
+        "detected_at_utc": "2026-11-24T16:37:36.491994+00:00"
+      },
       {
         "artist": "Budapest",
         "title": "Is This the Best It Gets?",
