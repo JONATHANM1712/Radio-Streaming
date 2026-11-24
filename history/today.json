@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:25:36.792312+00:00",
+  "updated_at_utc": "2026-11-24T14:26:39.886544+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paul Carrack",
+        "title": "Eyes of Blue (2014 Remaster)",
+        "detected_at_utc": "2026-11-24T14:26:24.146348+00:00"
+      },
       {
         "artist": "Hailee Steinfeld & Grey",
         "title": "Starving (feat. Zedd)",
