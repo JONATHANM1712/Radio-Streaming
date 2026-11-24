@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:43:45.571461+00:00",
+  "updated_at_utc": "2026-11-24T16:44:49.624466+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Let Loose",
+        "title": "Make It With You",
+        "detected_at_utc": "2026-11-24T16:44:49.535264+00:00"
+      },
       {
         "artist": "Geisha",
         "title": "Lumpuhkan Ingatanku",
