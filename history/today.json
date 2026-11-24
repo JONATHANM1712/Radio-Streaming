@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T03:52:24.407597+00:00",
+  "updated_at_utc": "2026-11-24T03:53:58.311256+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Elliott Yamin",
+        "title": "Wait for You",
+        "detected_at_utc": "2026-11-24T03:53:58.176792+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
