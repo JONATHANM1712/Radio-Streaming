@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:11:54.271198+00:00",
+  "updated_at_utc": "2026-11-24T16:12:57.236091+00:00",
   "stations": {
     "kis": [
       {
@@ -721,6 +721,11 @@
     ],
     "jak": [
       {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "detected_at_utc": "2026-11-24T16:12:46.274843+00:00"
+      },
+      {
         "artist": "Dave & Tems",
         "title": "Raindance",
         "detected_at_utc": "2026-11-24T16:09:41.440426+00:00"
@@ -1392,6 +1397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Police",
+        "title": "Don't Stand So Close to Me (Remastered 2003)",
+        "detected_at_utc": "2026-11-24T16:12:13.610923+00:00"
+      },
       {
         "artist": "Chantal Kreviazuk",
         "title": "Leaving On a Jet Plane",
