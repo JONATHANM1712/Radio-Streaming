@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:21:50.223898+00:00",
+  "updated_at_utc": "2026-11-24T13:22:53.070373+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "A Thousand Years",
+        "detected_at_utc": "2026-11-24T13:22:48.691854+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Kisah Romantis",
