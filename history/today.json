@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T13:57:00.164383+00:00",
+  "updated_at_utc": "2026-11-24T13:58:03.160319+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Listen (From the Motion Picture \"Dreamgirls\")",
+        "detected_at_utc": "2026-11-24T13:58:00.473238+00:00"
+      },
       {
         "artist": "Willie Williams",
         "title": "Armagideon Time",
@@ -550,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Muse",
+        "title": "Supermassive Black Hole",
+        "detected_at_utc": "2026-11-24T13:57:13.400731+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
