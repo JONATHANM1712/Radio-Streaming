@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:10:36.757377+00:00",
+  "updated_at_utc": "2026-11-24T17:12:38.378402+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ari Lasso",
+        "title": "Misteri Illahi",
+        "detected_at_utc": "2026-11-24T17:12:38.240508+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I'm Yours",
