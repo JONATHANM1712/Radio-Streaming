@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:52:00.607352+00:00",
+  "updated_at_utc": "2026-11-24T04:53:03.576024+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-24T04:52:28.784328+00:00"
+      },
       {
         "artist": "Sia",
         "title": "Snowman",
