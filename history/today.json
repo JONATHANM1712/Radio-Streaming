@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:03:04.803490+00:00",
+  "updated_at_utc": "2026-11-24T17:05:22.219239+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Aguilera, Lil' Kim, Mýa & P!nk",
+        "title": "Lady Marmalade",
+        "detected_at_utc": "2026-11-24T17:05:22.115865+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "What Makes You Beautiful",
