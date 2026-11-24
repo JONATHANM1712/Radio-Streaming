@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T05:26:42.220910+00:00",
+  "updated_at_utc": "2026-11-24T05:29:13.797111+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Julia Michaels",
+        "title": "Issues",
+        "detected_at_utc": "2026-11-24T05:29:13.707303+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "She Will Be Loved",
