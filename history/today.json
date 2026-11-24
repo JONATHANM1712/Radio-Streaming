@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:20:07.734439+00:00",
+  "updated_at_utc": "2026-11-24T14:21:10.667798+00:00",
   "stations": {
     "kis": [
       {
@@ -581,6 +581,11 @@
     ],
     "jak": [
       {
+        "artist": "Coldplay",
+        "title": "Every Teardrop Is a Waterfall",
+        "detected_at_utc": "2026-11-24T14:20:09.433696+00:00"
+      },
+      {
         "artist": "Payung Teduh",
         "title": "Akad",
         "detected_at_utc": "2026-11-24T14:13:53.916133+00:00"
@@ -1107,6 +1112,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Love Is Strong",
+        "detected_at_utc": "2026-11-24T14:20:11.696889+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Nothing Can Come Between Us",
