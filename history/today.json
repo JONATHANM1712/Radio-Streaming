@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:51:19.138102+00:00",
+  "updated_at_utc": "2026-11-24T16:52:22.324960+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Mayer",
+        "title": "Say",
+        "detected_at_utc": "2026-11-24T16:52:02.590639+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Royals",
