@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:06:38.973409+00:00",
+  "updated_at_utc": "2026-11-24T16:07:47.625250+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "98°",
+        "title": "My Everything",
+        "detected_at_utc": "2026-11-24T16:07:47.536614+00:00"
+      },
       {
         "artist": "Kings of Convenience",
         "title": "Cayman Islands",
