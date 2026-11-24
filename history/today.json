@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:16:37.836292+00:00",
+  "updated_at_utc": "2026-11-24T04:17:42.348002+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rossa & Afgan",
+        "title": "Kamu Yang Kutunggu",
+        "detected_at_utc": "2026-11-24T04:17:24.405551+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Sexy Love",
