@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:30:37.301511+00:00",
+  "updated_at_utc": "2026-11-24T06:31:41.329137+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hot Chelle Rae",
+        "title": "Tonight Tonight",
+        "detected_at_utc": "2026-11-24T06:31:04.593249+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
