@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T12:43:48.859314+00:00",
+  "updated_at_utc": "2026-11-24T12:47:55.314028+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "detected_at_utc": "2026-11-24T12:47:55.224961+00:00"
+      },
       {
         "artist": "Boyzone",
         "title": "All That I Need (Edit)",
