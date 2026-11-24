@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T14:36:03.481091+00:00",
+  "updated_at_utc": "2026-11-24T14:37:06.937386+00:00",
   "stations": {
     "kis": [
       {
@@ -1167,6 +1167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Prince & The Revolution",
+        "title": "Raspberry Beret",
+        "detected_at_utc": "2026-11-24T14:36:18.922482+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Frozen",
