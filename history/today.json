@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T11:32:41.734335+00:00",
+  "updated_at_utc": "2026-11-24T11:33:45.030493+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-24T11:33:35.882963+00:00"
+      },
       {
         "artist": "twenty one pilots",
         "title": "Stressed Out",
