@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:06:49.552221+00:00",
+  "updated_at_utc": "2026-11-24T04:08:23.493620+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Owl City & Carly Rae Jepsen",
+        "title": "Good Time",
+        "detected_at_utc": "2026-11-24T04:08:23.366147+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Free Falling",
