@@ -1,8 +1,13 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T16:15:58.508855+00:00",
+  "updated_at_utc": "2026-11-24T16:17:01.782782+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ruth Sahanaya",
+        "title": "Ingin Kumiliki",
+        "detected_at_utc": "2026-11-24T16:16:01.448441+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "One Less Lonely Girl",
@@ -1402,6 +1407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dire Straits",
+        "title": "So Far Away (Remastered 1996)",
+        "detected_at_utc": "2026-11-24T16:16:20.360712+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Don't Stand So Close to Me (Remastered 2003)",
