@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T15:43:16.331221+00:00",
+  "updated_at_utc": "2026-11-24T15:44:59.963937+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "honk!",
+        "detected_at_utc": "2026-11-24T15:44:59.871149+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Misery",
