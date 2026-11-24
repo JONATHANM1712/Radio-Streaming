@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T04:32:30.799198+00:00",
+  "updated_at_utc": "2026-11-24T04:33:35.454487+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-24T04:33:01.300954+00:00"
+      },
       {
         "artist": "Ariana Grande & The Weeknd",
         "title": "Love Me Harder",
