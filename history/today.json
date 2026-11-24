@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-24T17:19:17.019877+00:00",
+  "updated_at_utc": "2026-11-24T17:20:53.632265+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "We Are Never Ever Getting Back Together",
+        "detected_at_utc": "2026-11-24T17:20:53.547198+00:00"
+      },
       {
         "artist": "Blue",
         "title": "One Love",
