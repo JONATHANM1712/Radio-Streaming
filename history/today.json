@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:49:42.871607+00:00",
+  "updated_at_utc": "2026-11-24T06:51:23.483064+00:00",
   "stations": {
     "kis": [
       {
@@ -300,6 +300,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "How To Save A Life",
+        "detected_at_utc": "2026-11-24T06:51:23.364096+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Cinta Dan Rahasia (feat. Glenn Fredly)",
