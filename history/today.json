@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at_utc": "2026-11-24T06:22:17.894706+00:00",
+  "updated_at_utc": "2026-11-24T06:23:22.239007+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hot Chelle Rae",
+        "title": "Tonight Tonight",
+        "detected_at_utc": "2026-11-24T06:22:45.747368+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Tunjukkan Cintamu",
