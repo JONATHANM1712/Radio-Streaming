@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:05:18.523045+00:00",
+  "updated_at_utc": "2026-11-25T15:06:21.384885+00:00",
   "stations": {
     "kis": [
       {
@@ -495,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "Viva La Vida",
+        "detected_at_utc": "2026-11-25T15:05:18.584186+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Die For You",
