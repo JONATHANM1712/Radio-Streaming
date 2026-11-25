@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:09:45.280137+00:00",
+  "updated_at_utc": "2026-11-25T14:10:52.527779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "All I Have",
+        "detected_at_utc": "2026-11-25T14:10:03.676373+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
@@ -822,6 +827,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Style Council",
+        "title": "Shout to the Top",
+        "detected_at_utc": "2026-11-25T14:10:25.467184+00:00"
+      },
       {
         "artist": "Spargo",
         "title": "Just for You",
