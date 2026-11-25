@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:29:52.337551+00:00",
+  "updated_at_utc": "2026-11-25T15:30:55.134290+00:00",
   "stations": {
     "kis": [
       {
@@ -1017,6 +1017,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Alphaville",
+        "title": "Jerusalem (2021 Remaster)",
+        "detected_at_utc": "2026-11-25T15:30:46.606030+00:00"
+      },
       {
         "artist": "Workshy",
         "title": "Love Is the Place to Be (Unforgettable Mix)",
