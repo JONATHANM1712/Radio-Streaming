@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T03:39:24.963782+00:00",
+  "updated_at_utc": "2026-11-25T03:40:28.146114+00:00",
   "stations": {
     "kis": [
       {
@@ -95,6 +95,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vinayak",
+        "title": "Cartoon network",
+        "detected_at_utc": "2026-11-25T03:40:27.036579+00:00"
+      },
       {
         "artist": "Sean Paul & Keyshia Cole",
         "title": "(When You Gonna) Give It Up to Me [Radio Version] [feat. Keyshia Cole]",
