@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:08:27.358538+00:00",
+  "updated_at_utc": "2026-11-25T13:09:30.217339+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All Saints",
+        "title": "Pure Shores",
+        "detected_at_utc": "2026-11-25T13:09:01.113242+00:00"
+      },
       {
         "artist": "3 Doors Down",
         "title": "Here Without You",
