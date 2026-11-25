@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T11:20:28.387949+00:00",
+  "updated_at_utc": "2026-11-25T11:21:32.863043+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JoJo",
+        "title": "Too Little Too Late",
+        "detected_at_utc": "2026-11-25T11:20:43.210471+00:00"
+      },
       {
         "artist": "Secondhand Serenade",
         "title": "Fall For You",
