@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:12:23.681148+00:00",
+  "updated_at_utc": "2026-11-25T15:13:26.777023+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Back To December",
+        "detected_at_utc": "2026-11-25T15:12:53.549389+00:00"
+      },
       {
         "artist": "3T",
         "title": "Anything",
@@ -500,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Drake",
+        "title": "Hotline Bling",
+        "detected_at_utc": "2026-11-25T15:12:29.570624+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "yes, and?",
