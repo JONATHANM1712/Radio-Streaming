@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:36:42.819228+00:00",
+  "updated_at_utc": "2026-11-25T14:37:47.360785+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "detected_at_utc": "2026-11-25T14:36:43.720646+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
