@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:12:55.310575+00:00",
+  "updated_at_utc": "2026-11-25T06:15:56.371824+00:00",
   "stations": {
     "kis": [
       {
@@ -267,6 +267,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van Halen",
+        "title": "Love Walks In",
+        "detected_at_utc": "2026-11-25T06:15:56.264464+00:00"
+      },
       {
         "artist": "Blondie",
         "title": "Rapture",
