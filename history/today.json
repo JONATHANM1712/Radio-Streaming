@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:00:11.075508+00:00",
+  "updated_at_utc": "2026-11-25T17:01:13.857060+00:00",
   "stations": {
     "kis": [
       {
@@ -9,7 +9,19 @@
         "detected_at_utc": "2026-11-25T17:00:07.609220+00:00"
       }
     ],
-    "jak": [],
-    "most": []
+    "jak": [
+      {
+        "artist": "Phillip Phillips",
+        "title": "Home",
+        "detected_at_utc": "2026-11-25T17:00:45.608082+00:00"
+      }
+    ],
+    "most": [
+      {
+        "artist": "Sting",
+        "title": "Fields Of Gold",
+        "detected_at_utc": "2026-11-25T17:00:38.245132+00:00"
+      }
+    ]
   }
 }
