@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:17:44.885242+00:00",
+  "updated_at_utc": "2026-11-25T16:18:48.193820+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Cinta 'Kan Membawamu Kembali (Remastered 2022)",
+        "detected_at_utc": "2026-11-25T16:18:16.872132+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Erase/Rewind",
