@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:08:17.693335+00:00",
+  "updated_at_utc": "2026-11-25T15:09:20.441561+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "3T",
+        "title": "Anything",
+        "detected_at_utc": "2026-11-25T15:08:47.770230+00:00"
+      },
       {
         "artist": "Lemar",
         "title": "I Believe In a Thing Called Love",
@@ -495,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "yes, and?",
+        "detected_at_utc": "2026-11-25T15:08:23.600750+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Viva La Vida",
