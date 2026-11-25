@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:04:02.491318+00:00",
+  "updated_at_utc": "2026-11-25T18:06:01.884633+00:00",
   "stations": {
     "kis": [
       {
@@ -177,6 +177,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Texas",
+        "title": "Say What You Want",
+        "detected_at_utc": "2026-11-25T18:06:01.796583+00:00"
+      },
       {
         "artist": "Bonnie Tyler",
         "title": "Total Eclipse of the Heart",
