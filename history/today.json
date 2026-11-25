@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:50:28.338130+00:00",
+  "updated_at_utc": "2026-11-25T13:52:13.755343+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "detected_at_utc": "2026-11-25T13:52:13.479073+00:00"
+      },
       {
         "artist": "ZAYN",
         "title": "Let Me",
