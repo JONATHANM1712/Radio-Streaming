@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:13:02.169415+00:00",
+  "updated_at_utc": "2026-11-25T14:14:30.997969+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Roxette",
+        "title": "Wish I Could Fly",
+        "detected_at_utc": "2026-11-25T14:14:30.870811+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "All I Have",
