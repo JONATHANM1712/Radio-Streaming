@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:15:56.371824+00:00",
+  "updated_at_utc": "2026-11-25T06:16:59.355343+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OKAAY",
+        "title": "Peneman Malam Sepi",
+        "detected_at_utc": "2026-11-25T06:15:56.690182+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Favorite Girl",
