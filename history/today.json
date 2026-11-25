@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:29:01.234161+00:00",
+  "updated_at_utc": "2026-11-25T16:31:07.626183+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-25T16:31:07.534848+00:00"
+      },
       {
         "artist": "B.o.B",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
