@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:28:50.358763+00:00",
+  "updated_at_utc": "2026-11-25T14:30:11.092772+00:00",
   "stations": {
     "kis": [
       {
@@ -867,6 +867,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pet Shop Boys",
+        "title": "To Face the Truth (2018 Remaster)",
+        "detected_at_utc": "2026-11-25T14:30:10.962687+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
