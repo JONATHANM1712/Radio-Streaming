@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:55:51.617523+00:00",
+  "updated_at_utc": "2026-11-25T15:58:26.974933+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-25T15:58:26.880304+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Never Knew I Needed",
