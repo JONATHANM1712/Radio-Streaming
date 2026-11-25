@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T03:51:49.419948+00:00",
+  "updated_at_utc": "2026-11-25T06:05:40.533836+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "On Top of the World",
+        "detected_at_utc": "2026-11-25T06:05:40.418003+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Give Your Heart a Break",
@@ -227,6 +232,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kajagoogoo",
+        "title": "Big Apple",
+        "detected_at_utc": "2026-11-25T06:05:40.480016+00:00"
+      },
       {
         "artist": "Player",
         "title": "Baby Come Back",
