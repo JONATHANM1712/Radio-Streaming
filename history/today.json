@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:14:44.433251+00:00",
+  "updated_at_utc": "2026-11-25T13:17:15.220009+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bening",
+        "title": "Ada Cinta",
+        "detected_at_utc": "2026-11-25T13:17:15.132222+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "Shoulda, Woulda, Coulda",
