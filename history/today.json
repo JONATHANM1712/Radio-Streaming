@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:18:03.487042+00:00",
+  "updated_at_utc": "2026-11-25T06:20:04.766706+00:00",
   "stations": {
     "kis": [
       {
@@ -135,6 +135,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "detected_at_utc": "2026-11-25T06:20:04.639563+00:00"
+      },
       {
         "artist": "OKAAY",
         "title": "Peneman Malam Sepi",
