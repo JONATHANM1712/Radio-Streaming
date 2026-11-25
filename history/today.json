@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:17:15.220009+00:00",
+  "updated_at_utc": "2026-11-25T13:18:18.025755+00:00",
   "stations": {
     "kis": [
       {
@@ -376,6 +376,11 @@
     ],
     "jak": [
       {
+        "artist": "Andra And The Backbone",
+        "title": "Sempurna",
+        "detected_at_utc": "2026-11-25T13:17:52.333309+00:00"
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
         "detected_at_utc": "2026-11-25T13:14:44.340523+00:00"
@@ -697,6 +702,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Toto",
+        "title": "I Will Remember",
+        "detected_at_utc": "2026-11-25T13:17:35.979329+00:00"
+      },
       {
         "artist": "Robbie Williams",
         "title": "No Regrets",
