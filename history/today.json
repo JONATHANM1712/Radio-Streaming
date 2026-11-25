@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:01:06.772426+00:00",
+  "updated_at_utc": "2026-11-25T13:02:09.430346+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "sombr",
+        "title": "back to friends",
+        "detected_at_utc": "2026-11-25T13:01:12.603508+00:00"
+      },
       {
         "artist": "RAN",
         "title": "Salah Tingkah",
