@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:07:04.731820+00:00",
+  "updated_at_utc": "2026-11-25T18:08:07.506848+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sweetbox",
+        "title": "Everything's Gonna Be Alright",
+        "detected_at_utc": "2026-11-25T18:07:33.699459+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Where Is The Love?",
