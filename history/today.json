@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:01:27.837700+00:00",
+  "updated_at_utc": "2026-11-25T18:02:59.173783+00:00",
   "stations": {
     "kis": [
       {
@@ -85,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lenka",
+        "title": "The Show",
+        "detected_at_utc": "2026-11-25T18:02:59.083824+00:00"
+      },
       {
         "artist": "U2",
         "title": "Stuck In a Moment You Can't Get Out Of",
