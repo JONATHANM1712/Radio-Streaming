@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:27:58.075813+00:00",
+  "updated_at_utc": "2026-11-25T16:29:01.234161+00:00",
   "stations": {
     "kis": [
       {
@@ -590,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "B.o.B",
+        "title": "Airplanes (feat. Hayley Williams of Paramore)",
+        "detected_at_utc": "2026-11-25T16:28:03.757370+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "You da One",
