@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:52:34.690805+00:00",
+  "updated_at_utc": "2026-11-25T16:53:37.425391+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Enrique Iglesias",
+        "title": "Héroe (Spanish)",
+        "detected_at_utc": "2026-11-25T16:52:59.103839+00:00"
+      },
       {
         "artist": "Enrique Iglesias",
         "title": "Hero",
@@ -620,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-25T16:52:35.970600+00:00"
+      },
       {
         "artist": "Dashboard Confessional",
         "title": "Belle of the Boulevard",
