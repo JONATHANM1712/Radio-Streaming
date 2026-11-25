@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:12:27.460875+00:00",
+  "updated_at_utc": "2026-11-25T13:13:31.990940+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "Shoulda, Woulda, Coulda",
+        "detected_at_utc": "2026-11-25T13:13:08.412344+00:00"
+      },
       {
         "artist": "All Saints",
         "title": "Pure Shores",
