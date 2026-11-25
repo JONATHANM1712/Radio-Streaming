@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:22:44.921553+00:00",
+  "updated_at_utc": "2026-11-25T13:23:47.694122+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Chainsmokers",
+        "title": "Closer (feat. Halsey)",
+        "detected_at_utc": "2026-11-25T13:23:30.186565+00:00"
+      },
       {
         "artist": "The Chainsmokers & Halsey",
         "title": "Closer",
@@ -380,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gareth Gates",
+        "title": "Anyone of Us (Stupid Mistake)",
+        "detected_at_utc": "2026-11-25T13:23:04.156537+00:00"
+      },
       {
         "artist": "Andra And The Backbone",
         "title": "Sempurna",
