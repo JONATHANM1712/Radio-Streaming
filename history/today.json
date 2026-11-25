@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:43:16.444515+00:00",
+  "updated_at_utc": "2026-11-25T16:45:27.123970+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lydia France",
+        "title": "Without You",
+        "detected_at_utc": "2026-11-25T16:45:27.041334+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
