@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:05:56.220396+00:00",
+  "updated_at_utc": "2026-11-25T13:07:15.299771+00:00",
   "stations": {
     "kis": [
       {
@@ -667,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams (Are Made of This)",
+        "detected_at_utc": "2026-11-25T13:07:15.201462+00:00"
+      },
       {
         "artist": "Club Nouveau",
         "title": "Lean on Me",
