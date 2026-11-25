@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:57:06.110727+00:00",
+  "updated_at_utc": "2026-11-25T07:00:06.764391+00:00",
   "stations": {
     "kis": [
       {
@@ -367,6 +367,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Diana Ross",
+        "title": "Upside Down",
+        "detected_at_utc": "2026-11-25T07:00:06.643106+00:00"
+      },
       {
         "artist": "Dire Straits",
         "title": "Money For Nothing (Remastered 1996)",
