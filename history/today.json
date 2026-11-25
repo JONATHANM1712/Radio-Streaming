@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:18:02.088979+00:00",
+  "updated_at_utc": "2026-11-25T15:19:39.180350+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dewa 19",
+        "title": "Dewi",
+        "detected_at_utc": "2026-11-25T15:19:39.086862+00:00"
+      },
       {
         "artist": "ROSÉ",
         "title": "new trick",
