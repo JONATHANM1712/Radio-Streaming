@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:50:29.114597+00:00",
+  "updated_at_utc": "2026-11-25T16:51:31.867745+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Enrique Iglesias",
+        "title": "Hero",
+        "detected_at_utc": "2026-11-25T16:50:56.573173+00:00"
+      },
       {
         "artist": "Enrique Iglesias",
         "title": "Héroe (Spanish)",
