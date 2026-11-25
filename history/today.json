@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:55:56.292821+00:00",
+  "updated_at_utc": "2026-11-25T13:00:03.878792+00:00",
   "stations": {
     "kis": [
       {
@@ -647,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Club Nouveau",
+        "title": "Lean on Me",
+        "detected_at_utc": "2026-11-25T13:00:03.787798+00:00"
+      },
       {
         "artist": "ABBA",
         "title": "Dancing Queen",
