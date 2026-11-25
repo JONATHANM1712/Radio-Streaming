@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:56:51.732586+00:00",
+  "updated_at_utc": "2026-11-25T17:57:54.358528+00:00",
   "stations": {
     "kis": [
       {
@@ -80,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "U2",
+        "title": "Stuck In a Moment You Can't Get Out Of",
+        "detected_at_utc": "2026-11-25T17:57:53.086274+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
