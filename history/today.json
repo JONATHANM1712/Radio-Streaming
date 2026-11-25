@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:39:31.737063+00:00",
+  "updated_at_utc": "2026-11-25T17:40:34.492356+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Lovefool",
+        "detected_at_utc": "2026-11-25T17:39:59.088034+00:00"
+      },
       {
         "artist": "702",
         "title": "Where My Girls At?",
