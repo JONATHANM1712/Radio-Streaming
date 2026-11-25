@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:40:44.350226+00:00",
+  "updated_at_utc": "2026-11-25T14:41:48.266962+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Abhijeet & Shah Rukh Khan",
+        "title": "Main To Hoon Pagal",
+        "detected_at_utc": "2026-11-25T14:41:24.458333+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Easy On Me",
