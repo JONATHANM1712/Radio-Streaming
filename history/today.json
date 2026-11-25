@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:40:41.603667+00:00",
+  "updated_at_utc": "2026-11-25T13:42:24.846100+00:00",
   "stations": {
     "kis": [
       {
@@ -762,6 +762,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Joan Jett & The Blackhearts",
+        "title": "I Hate Myself for Loving You",
+        "detected_at_utc": "2026-11-25T13:42:24.761784+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "World Machine",
