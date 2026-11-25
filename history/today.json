@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:46:31.742946+00:00",
+  "updated_at_utc": "2026-11-25T15:47:34.994188+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jaz",
+        "title": "Kasmaran",
+        "detected_at_utc": "2026-11-25T15:47:13.475948+00:00"
+      },
       {
         "artist": "Bernadya",
         "title": "Kita Buat Menyenangkan",
