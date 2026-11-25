@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:55:49.110578+00:00",
+  "updated_at_utc": "2026-11-25T17:56:51.732586+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "detected_at_utc": "2026-11-25T17:56:20.301502+00:00"
+      },
       {
         "artist": "Jay Sean",
         "title": "Down (feat. Lil Wayne)",
@@ -75,6 +80,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dominic Fike",
+        "title": "Babydoll",
+        "detected_at_utc": "2026-11-25T17:55:50.740521+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "That Should Be Me",
