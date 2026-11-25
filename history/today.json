@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:26:49.814609+00:00",
+  "updated_at_utc": "2026-11-25T15:27:52.763137+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frank Ocean",
+        "title": "Thinkin Bout You",
+        "detected_at_utc": "2026-11-25T15:27:14.764663+00:00"
+      },
       {
         "artist": "O-Town",
         "title": "All or Nothing",
