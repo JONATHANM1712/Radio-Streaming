@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:50:56.856240+00:00",
+  "updated_at_utc": "2026-11-25T06:52:00.305187+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adele",
+        "title": "Rolling In the Deep",
+        "detected_at_utc": "2026-11-25T06:52:00.137251+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "We Belong Together",
