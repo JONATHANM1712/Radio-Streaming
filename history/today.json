@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T10:55:45.471007+00:00",
+  "updated_at_utc": "2026-11-25T10:57:48.169223+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-25T10:57:48.073971+00:00"
+      },
       {
         "artist": "Adam Sandler",
         "title": "Grow Old With You",
