@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:00:40.852266+00:00",
+  "updated_at_utc": "2026-11-25T14:04:19.269493+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Zedd",
+        "title": "Clarity (feat. Foxes)",
+        "detected_at_utc": "2026-11-25T14:04:19.101181+00:00"
+      },
       {
         "artist": "Adrian Khalif",
         "title": "2001x",
