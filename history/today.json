@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:10:48.675998+00:00",
+  "updated_at_utc": "2026-11-25T06:11:51.812751+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl? (Karaoke)",
+        "detected_at_utc": "2026-11-25T06:10:49.427060+00:00"
+      },
       {
         "artist": "Eve",
         "title": "Who's That Girl?",
@@ -115,6 +120,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Favorite Girl",
+        "detected_at_utc": "2026-11-25T06:11:51.012265+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
