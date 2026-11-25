@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:32:25.328001+00:00",
+  "updated_at_utc": "2026-11-25T06:34:26.392973+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-25T06:34:26.268144+00:00"
+      },
       {
         "artist": "Fun.",
         "title": "We Are Young (feat. Janelle Monáe)",
