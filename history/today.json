@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:37:47.360785+00:00",
+  "updated_at_utc": "2026-11-25T14:39:40.148752+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Groove",
+        "title": "Satu Mimpiku",
+        "detected_at_utc": "2026-11-25T14:39:40.012054+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Home",
