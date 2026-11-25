@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:10:07.166779+00:00",
+  "updated_at_utc": "2026-11-25T18:11:11.386557+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Craig David",
+        "title": "Insomnia",
+        "detected_at_utc": "2026-11-25T18:10:37.500580+00:00"
+      },
       {
         "artist": "Sweetbox",
         "title": "Everything's Gonna Be Alright",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "title": "Thrift Shop (feat. Wanz)",
+        "detected_at_utc": "2026-11-25T18:11:09.359130+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "My Love (Radio Edit)",
