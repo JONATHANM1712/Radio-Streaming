@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:25:01.650289+00:00",
+  "updated_at_utc": "2026-11-25T16:26:26.863809+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "FireHouse",
+        "title": "When I Look Into Your Eyes",
+        "detected_at_utc": "2026-11-25T16:26:26.783525+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "No One",
