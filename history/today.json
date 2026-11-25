@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:36:15.271282+00:00",
+  "updated_at_utc": "2026-11-25T13:37:18.577632+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Naif",
+        "title": "Benci Untuk Mencinta",
+        "detected_at_utc": "2026-11-25T13:36:58.459182+00:00"
+      },
       {
         "artist": "Robbie Williams & Nicole Kidman",
         "title": "Somethin' Stupid",
@@ -400,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gareth Gates",
+        "title": "Anyone of Us (Stupid Mistake)",
+        "detected_at_utc": "2026-11-25T13:36:32.080852+00:00"
+      },
       {
         "artist": "Gym Class Heroes",
         "title": "Stereo Hearts (feat. Adam Levine)",
