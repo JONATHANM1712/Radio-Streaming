@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:07:15.299771+00:00",
+  "updated_at_utc": "2026-11-25T13:08:27.358538+00:00",
   "stations": {
     "kis": [
       {
@@ -360,6 +360,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Disco Lines & Tinashe",
+        "title": "No Broke Boys",
+        "detected_at_utc": "2026-11-25T13:08:27.265938+00:00"
+      },
       {
         "artist": "Two Door Cinema Club",
         "title": "What You Know",
