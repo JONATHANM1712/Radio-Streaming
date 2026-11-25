@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T10:53:55.870916+00:00",
+  "updated_at_utc": "2026-11-25T10:55:45.471007+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Adam Sandler",
+        "title": "Grow Old With You",
+        "detected_at_utc": "2026-11-25T10:55:45.381888+00:00"
+      },
       {
         "artist": "Lara Fabian",
         "title": "Broken Vow",
