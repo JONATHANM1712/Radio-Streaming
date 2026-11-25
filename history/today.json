@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:40:17.322164+00:00",
+  "updated_at_utc": "2026-11-25T16:41:20.367377+00:00",
   "stations": {
     "kis": [
       {
@@ -605,6 +605,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "detected_at_utc": "2026-11-25T16:40:19.357617+00:00"
+      },
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved (Sollos Relax Mix)",
