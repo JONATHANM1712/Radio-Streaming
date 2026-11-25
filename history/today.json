@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:41:37.154027+00:00",
+  "updated_at_utc": "2026-11-25T17:42:39.846325+00:00",
   "stations": {
     "kis": [
       {
@@ -61,6 +61,11 @@
     ],
     "jak": [
       {
+        "artist": "Fun.",
+        "title": "Carry On",
+        "detected_at_utc": "2026-11-25T17:42:35.187209+00:00"
+      },
+      {
         "artist": "Nicky Youre & hey daisy",
         "title": "Sunroof (Manuel Turizo Remix)",
         "detected_at_utc": "2026-11-25T17:39:31.646193+00:00"
@@ -117,6 +122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Wyclef Jean",
+        "title": "Gone Till November (feat. New York Philharmonic)",
+        "detected_at_utc": "2026-11-25T17:42:31.664265+00:00"
+      },
       {
         "artist": "Orbital",
         "title": "The Saint",
