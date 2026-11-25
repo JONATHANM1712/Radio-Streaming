@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:18:21.937976+00:00",
+  "updated_at_utc": "2026-11-25T14:19:27.077230+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Billie Eilish",
+        "title": "WILDFLOWER",
+        "detected_at_utc": "2026-11-25T14:18:31.088272+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
