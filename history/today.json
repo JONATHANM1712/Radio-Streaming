@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:37:18.577632+00:00",
+  "updated_at_utc": "2026-11-25T13:40:41.603667+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Good Charlotte",
+        "title": "I Just Wanna Live",
+        "detected_at_utc": "2026-11-25T13:40:41.466933+00:00"
+      },
       {
         "artist": "Gareth Gates",
         "title": "Anyone of Us (Stupid Mistake)",
