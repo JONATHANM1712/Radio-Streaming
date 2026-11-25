@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:31:07.626183+00:00",
+  "updated_at_utc": "2026-11-25T16:32:10.258955+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "It Will Rain",
+        "detected_at_utc": "2026-11-25T16:31:32.801551+00:00"
+      },
       {
         "artist": "FireHouse",
         "title": "When I Look Into Your Eyes",
