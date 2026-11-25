@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:30:20.952213+00:00",
+  "updated_at_utc": "2026-11-25T17:31:23.930746+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "702",
+        "title": "Where My Girls At?",
+        "detected_at_utc": "2026-11-25T17:30:47.424545+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "Problem (feat. Iggy Azalea)",
