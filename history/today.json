@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:37:15.311257+00:00",
+  "updated_at_utc": "2026-11-25T12:40:23.538726+00:00",
   "stations": {
     "kis": [
       {
@@ -622,6 +622,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Collective Soul",
+        "title": "Smashing Young Man",
+        "detected_at_utc": "2026-11-25T12:40:23.433292+00:00"
+      },
       {
         "artist": "Tears for Fears",
         "title": "Change (Radio Edit)",
