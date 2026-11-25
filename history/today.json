@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:40:42.163379+00:00",
+  "updated_at_utc": "2026-11-25T06:41:45.404119+00:00",
   "stations": {
     "kis": [
       {
@@ -327,6 +327,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Freddie Mercury",
+        "title": "Made in Heaven (Special Edition)",
+        "detected_at_utc": "2026-11-25T06:41:38.048538+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "My Hero",
