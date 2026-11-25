@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T07:13:41.704150+00:00",
+  "updated_at_utc": "2026-11-25T07:14:44.967962+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "detected_at_utc": "2026-11-25T07:14:36.456768+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Kesempurnaan Cinta",
