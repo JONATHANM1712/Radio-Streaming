@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:33:24.048416+00:00",
+  "updated_at_utc": "2026-11-25T15:34:52.393430+00:00",
   "stations": {
     "kis": [
       {
@@ -1027,6 +1027,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eric Carmen",
+        "title": "Hungry Eyes",
+        "detected_at_utc": "2026-11-25T15:34:52.293125+00:00"
+      },
       {
         "artist": "Alphaville",
         "title": "Jerusalem (2021 Remaster)",
