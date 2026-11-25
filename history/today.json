@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:13:07.526090+00:00",
+  "updated_at_utc": "2026-11-25T12:14:10.329214+00:00",
   "stations": {
     "kis": [
       {
@@ -572,6 +572,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Sunday Bloody Sunday",
+        "detected_at_utc": "2026-11-25T12:13:25.472157+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Deeper Underground (Full Version)",
