@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T11:14:33.120650+00:00",
+  "updated_at_utc": "2026-11-25T11:17:38.217874+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Secondhand Serenade",
+        "title": "Fall For You",
+        "detected_at_utc": "2026-11-25T11:17:38.123844+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Up&Up",
