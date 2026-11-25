@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:14:01.485677+00:00",
+  "updated_at_utc": "2026-11-25T17:15:04.740350+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Aku Punya Hati",
+        "detected_at_utc": "2026-11-25T17:14:25.330090+00:00"
+      },
       {
         "artist": "Fumiya Fujii",
         "title": "TRUE LOVE",
