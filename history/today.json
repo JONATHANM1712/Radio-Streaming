@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:22:53.750593+00:00",
+  "updated_at_utc": "2026-11-25T16:23:58.918581+00:00",
   "stations": {
     "kis": [
       {
@@ -585,6 +585,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Powter",
+        "title": "Bad Day",
+        "detected_at_utc": "2026-11-25T16:23:58.831332+00:00"
+      },
       {
         "artist": "Jikustik",
         "title": "Untuk Dikenang",
