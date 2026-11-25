@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:18:18.025755+00:00",
+  "updated_at_utc": "2026-11-25T13:21:25.204001+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Chainsmokers & Halsey",
+        "title": "Closer",
+        "detected_at_utc": "2026-11-25T13:21:25.117270+00:00"
+      },
       {
         "artist": "Bening",
         "title": "Ada Cinta",
