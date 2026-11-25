@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:49:26.470701+00:00",
+  "updated_at_utc": "2026-11-25T16:50:29.114597+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Enrique Iglesias",
+        "title": "Héroe (Spanish)",
+        "detected_at_utc": "2026-11-25T16:49:55.192937+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Best Thing I Never Had",
@@ -610,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dashboard Confessional",
+        "title": "Belle of the Boulevard",
+        "detected_at_utc": "2026-11-25T16:49:32.279433+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
