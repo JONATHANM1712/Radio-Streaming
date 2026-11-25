@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:08:33.492181+00:00",
+  "updated_at_utc": "2026-11-25T16:09:37.307161+00:00",
   "stations": {
     "kis": [
       {
@@ -566,6 +566,11 @@
     ],
     "jak": [
       {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-25T16:08:39.348555+00:00"
+      },
+      {
         "artist": "HONNE",
         "title": "Crying Over You ◐ (feat. BEKA)",
         "detected_at_utc": "2026-11-25T16:04:34.456697+00:00"
@@ -1102,6 +1107,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Björk",
+        "title": "Human Behaviour",
+        "detected_at_utc": "2026-11-25T16:09:34.591241+00:00"
+      },
       {
         "artist": "Marvin Gaye",
         "title": "Sexual Healing (Alternate Vocal Mix)",
