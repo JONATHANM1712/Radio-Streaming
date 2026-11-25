@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:36:32.978347+00:00",
+  "updated_at_utc": "2026-11-25T06:37:37.383070+00:00",
   "stations": {
     "kis": [
       {
@@ -317,6 +317,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Foo Fighters",
+        "title": "My Hero",
+        "detected_at_utc": "2026-11-25T06:37:31.929543+00:00"
+      },
       {
         "artist": "Jody Watley",
         "title": "Don't You Want Me",
