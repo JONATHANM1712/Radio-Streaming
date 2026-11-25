@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:34:07.082547+00:00",
+  "updated_at_utc": "2026-11-25T12:35:09.915666+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Let's Get Loud",
+        "detected_at_utc": "2026-11-25T12:34:47.639753+00:00"
+      },
       {
         "artist": "98°",
         "title": "Invisible Man",
@@ -607,6 +612,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Tears for Fears",
+        "title": "Change (Radio Edit)",
+        "detected_at_utc": "2026-11-25T12:35:09.508508+00:00"
+      },
       {
         "artist": "Tears for Fears",
         "title": "Change",
