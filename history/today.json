@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T03:48:43.863782+00:00",
+  "updated_at_utc": "2026-11-25T03:49:47.453132+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Little Mix",
+        "title": "Black Magic",
+        "detected_at_utc": "2026-11-25T03:49:36.121304+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "Larger Than Life",
