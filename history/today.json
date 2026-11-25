@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:35:37.679127+00:00",
+  "updated_at_utc": "2026-11-25T16:36:40.252297+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Powter",
+        "title": "Bad Day",
+        "detected_at_utc": "2026-11-25T16:36:14.291509+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
