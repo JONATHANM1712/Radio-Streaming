@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:40:31.780882+00:00",
+  "updated_at_utc": "2026-11-25T15:45:04.893181+00:00",
   "stations": {
     "kis": [
       {
@@ -1042,6 +1042,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Smooth Operator (Single Version)",
+        "detected_at_utc": "2026-11-25T15:45:04.795407+00:00"
+      },
       {
         "artist": "Tesla",
         "title": "Paradise (Live)",
