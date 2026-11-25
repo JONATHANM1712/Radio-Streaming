@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:00:25.139008+00:00",
+  "updated_at_utc": "2026-11-25T18:01:27.837700+00:00",
   "stations": {
     "kis": [
       {
@@ -167,6 +167,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bonnie Tyler",
+        "title": "Total Eclipse of the Heart",
+        "detected_at_utc": "2026-11-25T18:00:55.717567+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Mama",
