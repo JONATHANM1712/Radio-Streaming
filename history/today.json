@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T03:46:32.239308+00:00",
+  "updated_at_utc": "2026-11-25T03:48:43.863782+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Give Your Heart a Break",
+        "detected_at_utc": "2026-11-25T03:48:43.674621+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Stay With Me",
@@ -217,6 +222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Lady Jane (Stereo Version)",
+        "detected_at_utc": "2026-11-25T03:48:43.674736+00:00"
+      },
       {
         "artist": "Annie Lennox",
         "title": "Why",
