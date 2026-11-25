@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T07:05:23.955213+00:00",
+  "updated_at_utc": "2026-11-25T07:07:20.825713+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ravyn Lenae",
+        "title": "Love Me Not",
+        "detected_at_utc": "2026-11-25T07:07:20.679980+00:00"
+      },
       {
         "artist": "Travie McCoy",
         "title": "Billionaire (feat. Bruno Mars)",
