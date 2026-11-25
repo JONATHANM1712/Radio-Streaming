@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:58:26.974933+00:00",
+  "updated_at_utc": "2026-11-25T15:59:55.052088+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brandy",
+        "title": "Sittin' Up In My Room",
+        "detected_at_utc": "2026-11-25T15:59:54.964781+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Sexy Love",
