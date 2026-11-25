@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:02:16.522772+00:00",
+  "updated_at_utc": "2026-11-25T17:03:19.268182+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "I Know What You Did Last Summer",
+        "detected_at_utc": "2026-11-25T17:02:48.052937+00:00"
+      },
       {
         "artist": "Phillip Phillips",
         "title": "Home",
