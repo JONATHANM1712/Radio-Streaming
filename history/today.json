@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:18:39.814595+00:00",
+  "updated_at_utc": "2026-11-25T12:21:26.621508+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tompi",
+        "title": "Menghujam Jantungku",
+        "detected_at_utc": "2026-11-25T12:21:26.526607+00:00"
+      },
       {
         "artist": "Sia",
         "title": "Chandelier",
