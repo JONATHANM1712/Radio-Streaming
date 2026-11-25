@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:16:34.742065+00:00",
+  "updated_at_utc": "2026-11-25T15:18:02.088979+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Geisha",
+        "title": "Cinta Dan Benci",
+        "detected_at_utc": "2026-11-25T15:18:01.988270+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Back To December",
