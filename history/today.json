@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:09:49.591995+00:00",
+  "updated_at_utc": "2026-11-25T17:10:52.468827+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fumiya Fujii",
+        "title": "TRUE LOVE",
+        "detected_at_utc": "2026-11-25T17:10:19.710017+00:00"
+      },
       {
         "artist": "LeAnn Rimes",
         "title": "I Need You",
@@ -20,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "Fighter",
+        "detected_at_utc": "2026-11-25T17:09:56.507155+00:00"
+      },
       {
         "artist": "Surfaces",
         "title": "Sunday Best",
