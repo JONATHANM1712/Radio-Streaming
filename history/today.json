@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:21:04.204178+00:00",
+  "updated_at_utc": "2026-11-25T17:22:07.070900+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Moonpools & Caterpillars",
+        "title": "Soon",
+        "detected_at_utc": "2026-11-25T17:21:36.495197+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "The Sweetest Love",
