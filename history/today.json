@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T16:14:12.103252+00:00",
+  "updated_at_utc": "2026-11-25T16:15:15.551880+00:00",
   "stations": {
     "kis": [
       {
@@ -576,6 +576,11 @@
     ],
     "jak": [
       {
+        "artist": "Lola Young",
+        "title": "Messy",
+        "detected_at_utc": "2026-11-25T16:14:46.661950+00:00"
+      },
+      {
         "artist": "Ne-Yo",
         "title": "Never Knew I Needed",
         "detected_at_utc": "2026-11-25T16:10:41.855939+00:00"
@@ -1122,6 +1127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Barry Manilow",
+        "title": "I Write the Songs",
+        "detected_at_utc": "2026-11-25T16:14:40.834233+00:00"
+      },
       {
         "artist": "Björk",
         "title": "Human Behaviour",
