@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:16:59.355343+00:00",
+  "updated_at_utc": "2026-11-25T06:18:03.487042+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "98°",
+        "title": "The Hardest Thing",
+        "detected_at_utc": "2026-11-25T06:17:02.473807+00:00"
+      },
       {
         "artist": "Stacie Orrico",
         "title": "Stuck",
