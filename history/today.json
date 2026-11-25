@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T07:10:26.366543+00:00",
+  "updated_at_utc": "2026-11-25T07:12:37.503642+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Babyface, Mariah Carey, Kenny G & Sheila E.",
+        "title": "Every Time I Close My Eyes",
+        "detected_at_utc": "2026-11-25T07:12:37.370723+00:00"
+      },
       {
         "artist": "Aaliyah",
         "title": "Try Again",
