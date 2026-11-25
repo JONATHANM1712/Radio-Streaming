@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:33:20.016257+00:00",
+  "updated_at_utc": "2026-11-25T17:34:25.754302+00:00",
   "stations": {
     "kis": [
       {
@@ -50,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Audioslave",
+        "title": "Like a Stone",
+        "detected_at_utc": "2026-11-25T17:34:25.662933+00:00"
+      },
       {
         "artist": "David Guetta",
         "title": "Titanium (feat. Sia)",
