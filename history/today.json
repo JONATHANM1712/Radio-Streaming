@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:17:20.000855+00:00",
+  "updated_at_utc": "2026-11-25T12:18:39.814595+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Five for Fighting",
+        "title": "Superman (It's Not Easy)",
+        "detected_at_utc": "2026-11-25T12:18:39.724770+00:00"
+      },
       {
         "artist": "Karmin",
         "title": "Brokenhearted",
