@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:34:52.393430+00:00",
+  "updated_at_utc": "2026-11-25T15:35:59.823945+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Simple Plan",
+        "title": "Perfect",
+        "detected_at_utc": "2026-11-25T15:35:59.734370+00:00"
+      },
       {
         "artist": "Lizzo",
         "title": "Good As Hell",
