@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:54:59.264535+00:00",
+  "updated_at_utc": "2026-11-25T06:56:02.630414+00:00",
   "stations": {
     "kis": [
       {
@@ -165,6 +165,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-25T06:55:01.525593+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Paradise",
@@ -357,6 +362,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dire Straits",
+        "title": "Money For Nothing (Remastered 1996)",
+        "detected_at_utc": "2026-11-25T06:56:00.594298+00:00"
+      },
       {
         "artist": "Deep Dish featuring Anousheh Khalili",
         "title": "Flashing for Money (Club Mix)",
