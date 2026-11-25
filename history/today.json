@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T11:40:16.998880+00:00",
+  "updated_at_utc": "2026-11-25T11:41:19.829757+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "CAKE",
+        "title": "I Will Survive",
+        "detected_at_utc": "2026-11-25T11:41:08.034918+00:00"
+      },
       {
         "artist": "Whitney Houston",
         "title": "Run to You",
@@ -527,6 +532,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Babybird",
+        "title": "You're Gorgeous",
+        "detected_at_utc": "2026-11-25T11:40:18.880112+00:00"
+      },
       {
         "artist": "Sheila Majid",
         "title": "Warna",
