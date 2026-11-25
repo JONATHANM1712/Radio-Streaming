@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:33:30.201469+00:00",
+  "updated_at_utc": "2026-11-25T14:35:38.419067+00:00",
   "stations": {
     "kis": [
       {
@@ -882,6 +882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Carl Carlton",
+        "title": "She's A Bad Mama Jama (She's Built, She's Stacked) [Single Version]",
+        "detected_at_utc": "2026-11-25T14:35:38.264481+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "To Face the Truth (2018 Remaster)",
