@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:14:12.796685+00:00",
+  "updated_at_utc": "2026-11-25T18:15:15.835484+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dygta",
+        "title": "Tak Mungkin Ku Melepasmu (feat. Andina)",
+        "detected_at_utc": "2026-11-25T18:14:42.495847+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Insomnia",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bernadya",
+        "title": "Kita Buat Menyenangkan",
+        "detected_at_utc": "2026-11-25T18:15:14.482196+00:00"
+      },
       {
         "artist": "Macklemore & Ryan Lewis",
         "title": "Thrift Shop (feat. Wanz)",
