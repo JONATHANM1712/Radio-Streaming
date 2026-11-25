@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T06:52:00.305187+00:00",
+  "updated_at_utc": "2026-11-25T06:54:59.264535+00:00",
   "stations": {
     "kis": [
       {
@@ -357,6 +357,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Deep Dish featuring Anousheh Khalili",
+        "title": "Flashing for Money (Club Mix)",
+        "detected_at_utc": "2026-11-25T06:54:59.132177+00:00"
+      },
       {
         "artist": "Lenny Kravitz",
         "title": "Sugar",
