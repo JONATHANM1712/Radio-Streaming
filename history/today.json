@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:49:39.496763+00:00",
+  "updated_at_utc": "2026-11-25T15:50:42.733047+00:00",
   "stations": {
     "kis": [
       {
@@ -540,6 +540,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jordin Sparks",
+        "title": "No Air Duet With Chris Brown (feat. Chris Brown & Chris Brown)",
+        "detected_at_utc": "2026-11-25T15:50:17.129252+00:00"
+      },
       {
         "artist": "Jaz",
         "title": "Kasmaran",
