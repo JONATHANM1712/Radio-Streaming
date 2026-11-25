@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:40:34.492356+00:00",
+  "updated_at_utc": "2026-11-25T17:41:37.154027+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ashlee Simpson",
+        "title": "Boys",
+        "detected_at_utc": "2026-11-25T17:41:00.668002+00:00"
+      },
       {
         "artist": "The Cardigans",
         "title": "Lovefool",
