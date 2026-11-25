@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T15:32:21.323724+00:00",
+  "updated_at_utc": "2026-11-25T15:33:24.048416+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lizzo",
+        "title": "Good As Hell",
+        "detected_at_utc": "2026-11-25T15:32:56.079615+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
