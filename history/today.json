@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T17:50:42.438816+00:00",
+  "updated_at_utc": "2026-11-25T17:51:46.115072+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "That Should Be Me",
+        "detected_at_utc": "2026-11-25T17:51:45.805842+00:00"
+      },
       {
         "artist": "*NSYNC & Justin Timberlake",
         "title": "Better Place (From TROLLS Band Together)",
