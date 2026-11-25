@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T12:23:46.721686+00:00",
+  "updated_at_utc": "2026-11-25T12:25:34.012610+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-25T12:25:33.930739+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Menghujam Jantungku",
