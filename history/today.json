@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T14:07:13.508737+00:00",
+  "updated_at_utc": "2026-11-25T14:09:45.280137+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-25T14:09:45.137582+00:00"
+      },
       {
         "artist": "Zedd",
         "title": "Clarity (feat. Foxes)",
