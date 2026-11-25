@@ -1,8 +1,13 @@
 {
   "date": "2026-11-25",
-  "updated_at_utc": "2026-11-25T13:55:10.437389+00:00",
+  "updated_at_utc": "2026-11-25T13:56:15.051869+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "A1",
+        "title": "Like a Rose",
+        "detected_at_utc": "2026-11-25T13:55:58.860050+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
@@ -787,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suede",
+        "title": "So Young",
+        "detected_at_utc": "2026-11-25T13:56:13.935584+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Will You Be There",
