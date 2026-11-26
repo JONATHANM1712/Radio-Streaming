@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T12:37:26.073245+00:00",
+  "updated_at_utc": "2026-11-26T12:38:29.585786+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ahmad Band",
+        "title": "Sudah",
+        "detected_at_utc": "2026-11-26T12:38:06.257624+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "World of Our Own",
@@ -585,6 +590,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KOKORISA",
+        "title": "Feels so Good",
+        "detected_at_utc": "2026-11-26T12:38:22.229070+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Heartless",
