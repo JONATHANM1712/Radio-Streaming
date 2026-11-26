@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:35:30.232799+00:00",
+  "updated_at_utc": "2026-11-26T04:37:29.436900+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "No Doubt",
+        "title": "Hey Baby",
+        "detected_at_utc": "2026-11-26T04:37:29.302236+00:00"
+      },
       {
         "artist": "Jordin Sparks",
         "title": "Tattoo",
