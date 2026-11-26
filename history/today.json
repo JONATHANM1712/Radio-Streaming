@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:08:08.761026+00:00",
+  "updated_at_utc": "2026-11-26T17:09:11.578239+00:00",
   "stations": {
     "kis": [
       {
@@ -20,6 +20,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Heard 'Em Say (feat. Maroon 5 & Adam Levine)",
+        "detected_at_utc": "2026-11-26T17:08:59.718510+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "The Only Exception",
