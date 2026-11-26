@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:05:43.896308+00:00",
+  "updated_at_utc": "2026-11-26T11:06:47.184057+00:00",
   "stations": {
     "kis": [
       {
@@ -511,6 +511,11 @@
     ],
     "jak": [
       {
+        "artist": "Matchbox Twenty",
+        "title": "If You're Gone",
+        "detected_at_utc": "2026-11-26T11:05:58.231145+00:00"
+      },
+      {
         "artist": "Akon",
         "title": "Right Now (Na Na Na)",
         "detected_at_utc": "2026-11-26T10:54:28.739407+00:00"
@@ -977,6 +982,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daryl Hall & John Oates",
+        "title": "One on One",
+        "detected_at_utc": "2026-11-26T11:05:52.897164+00:00"
+      },
       {
         "artist": "Kathy Troccoli",
         "title": "Tell Me Where It Hurts",
