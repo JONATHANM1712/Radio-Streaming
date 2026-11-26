@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:52:09.447383+00:00",
+  "updated_at_utc": "2026-11-26T13:53:12.565925+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Fergie",
+        "title": "Glamorous (feat. Ludacris)",
+        "detected_at_utc": "2026-11-26T13:52:53.880040+00:00"
+      },
       {
         "artist": "Gin Blossoms",
         "title": "Follow You Down",
