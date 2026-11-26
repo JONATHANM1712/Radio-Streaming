@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:17:17.539155+00:00",
+  "updated_at_utc": "2026-11-26T17:18:20.296409+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-26T17:18:11.590053+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades (Instrumental)",
