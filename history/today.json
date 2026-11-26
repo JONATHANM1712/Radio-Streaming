@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:45:29.387599+00:00",
+  "updated_at_utc": "2026-11-26T16:46:32.408963+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Onda del Futuro",
+        "title": "Terra (Extended Version)",
+        "detected_at_utc": "2026-11-26T16:46:11.023958+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Suara Hati Seorang Kekasih",
@@ -1367,6 +1372,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Peterson Okopi",
+        "title": "Atmosphere of Worship",
+        "detected_at_utc": "2026-11-26T16:45:34.399410+00:00"
+      },
       {
         "artist": "Marvin Gaye",
         "title": "Let's Get It On",
