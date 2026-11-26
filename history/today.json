@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:51:03.576170+00:00",
+  "updated_at_utc": "2026-11-26T13:52:09.447383+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-26T13:52:09.329896+00:00"
+      },
       {
         "artist": "Tiket",
         "title": "Hanya Kamu Yang Bisa",
