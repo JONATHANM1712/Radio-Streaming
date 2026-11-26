@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:36:17.887245+00:00",
+  "updated_at_utc": "2026-11-26T17:37:21.231813+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Melly Goeslaw",
+        "title": "Suara Hati Seorang Kekasih",
+        "detected_at_utc": "2026-11-26T17:37:14.804714+00:00"
+      },
       {
         "artist": "Daft Punk",
         "title": "Something About Us",
@@ -55,6 +60,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "Problem (feat. Iggy Azalea)",
+        "detected_at_utc": "2026-11-26T17:36:33.687793+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "American Town",
@@ -117,6 +127,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Way Out West",
+        "title": "The Gift (feat. Joanna Law)",
+        "detected_at_utc": "2026-11-26T17:36:44.288735+00:00"
+      },
       {
         "artist": "Diva DJs Vs Nicki French",
         "title": "Total Eclipse of the Heart Spit & Polish Radio Mix",
