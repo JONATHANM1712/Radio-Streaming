@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:06:42.174816+00:00",
+  "updated_at_utc": "2026-11-26T13:08:00.382010+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "detected_at_utc": "2026-11-26T13:08:00.178285+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
