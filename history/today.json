@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T08:04:29.847673+00:00",
+  "updated_at_utc": "2026-11-26T08:05:32.629525+00:00",
   "stations": {
     "kis": [
       {
@@ -440,6 +440,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "detected_at_utc": "2026-11-26T08:04:33.787177+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Grenade",
