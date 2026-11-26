@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:24:41.844547+00:00",
+  "updated_at_utc": "2026-11-26T05:25:44.627875+00:00",
   "stations": {
     "kis": [
       {
@@ -251,6 +251,11 @@
     ],
     "jak": [
       {
+        "artist": "The Ting Tings",
+        "title": "Shut Up and Let Me Go",
+        "detected_at_utc": "2026-11-26T05:25:43.125650+00:00"
+      },
+      {
         "artist": "Chrisye",
         "title": "Andai Aku Bisa",
         "detected_at_utc": "2026-11-26T05:19:35.311499+00:00"
@@ -467,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Holly Johnson",
+        "title": "Americanos",
+        "detected_at_utc": "2026-11-26T05:25:44.517471+00:00"
+      },
       {
         "artist": "Bill Withers",
         "title": "Ain't No Sunshine",
