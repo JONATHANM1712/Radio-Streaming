@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:35:18.296648+00:00",
+  "updated_at_utc": "2026-11-26T13:36:29.179798+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "If You Come Back",
+        "detected_at_utc": "2026-11-26T13:36:29.063262+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
