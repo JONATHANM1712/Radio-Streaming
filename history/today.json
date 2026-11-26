@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:28:32.175707+00:00",
+  "updated_at_utc": "2026-11-26T10:30:31.600489+00:00",
   "stations": {
     "kis": [
       {
@@ -460,6 +460,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-26T10:30:31.430540+00:00"
+      },
       {
         "artist": "Vinayak",
         "title": "Cartoon network",
