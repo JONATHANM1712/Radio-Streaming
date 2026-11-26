@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:11:41.315447+00:00",
+  "updated_at_utc": "2026-11-26T06:12:44.483088+00:00",
   "stations": {
     "kis": [
       {
@@ -306,6 +306,11 @@
     ],
     "jak": [
       {
+        "artist": "Jeremy Zucker",
+        "title": "comethru",
+        "detected_at_utc": "2026-11-26T06:12:43.215452+00:00"
+      },
+      {
         "artist": "Hozier",
         "title": "Too Sweet",
         "detected_at_utc": "2026-11-26T06:08:38.210924+00:00"
@@ -587,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "White Lion",
+        "title": "Til Death do Us Part",
+        "detected_at_utc": "2026-11-26T06:12:44.255305+00:00"
+      },
       {
         "artist": "DJ Jazzy Jeff & The Fresh Prince",
         "title": "Parents Just Don't Understand (Edit)",
