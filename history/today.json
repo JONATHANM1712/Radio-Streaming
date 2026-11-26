@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:04:36.195828+00:00",
+  "updated_at_utc": "2026-11-26T14:05:39.147950+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "International Love (feat. Chris Brown)",
+        "detected_at_utc": "2026-11-26T14:05:35.917762+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "stupid song",
