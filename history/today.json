@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:36:22.915448+00:00",
+  "updated_at_utc": "2026-11-26T16:38:00.256612+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "All-4-One",
+        "title": "Smile Like Mona Lisa",
+        "detected_at_utc": "2026-11-26T16:38:00.135177+00:00"
+      },
       {
         "artist": "Tamia",
         "title": "Officially Missing You",
