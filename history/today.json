@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:25:44.627875+00:00",
+  "updated_at_utc": "2026-11-26T05:28:47.223218+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Let Me Love You (Until You Learn to Love Yourself)",
+        "detected_at_utc": "2026-11-26T05:28:47.117924+00:00"
+      },
       {
         "artist": "The Ting Tings",
         "title": "Shut Up and Let Me Go",
