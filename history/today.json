@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:30:30.460360+00:00",
+  "updated_at_utc": "2026-11-26T06:31:34.276736+00:00",
   "stations": {
     "kis": [
       {
@@ -632,6 +632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Edwin Geninatti",
+        "title": "My Thing",
+        "detected_at_utc": "2026-11-26T06:30:32.348730+00:00"
+      },
       {
         "artist": "Bon Jovi",
         "title": "Living In Sin",
