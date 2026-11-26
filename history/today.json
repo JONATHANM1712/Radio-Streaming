@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:29:50.024972+00:00",
+  "updated_at_utc": "2026-11-26T05:32:52.516269+00:00",
   "stations": {
     "kis": [
       {
@@ -255,6 +255,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-26T05:32:52.408799+00:00"
+      },
       {
         "artist": "Ne-Yo",
         "title": "Let Me Love You (Until You Learn to Love Yourself)",
