@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:47:20.152184+00:00",
+  "updated_at_utc": "2026-11-26T06:48:24.267923+00:00",
   "stations": {
     "kis": [
       {
@@ -346,6 +346,11 @@
     ],
     "jak": [
       {
+        "artist": "Isyana Sarasvati",
+        "title": "Kau Adalah (feat. Rayi Putra)",
+        "detected_at_utc": "2026-11-26T06:48:20.558658+00:00"
+      },
+      {
         "artist": "The Killers",
         "title": "Mr. Brightside",
         "detected_at_utc": "2026-11-26T06:47:18.568624+00:00"
@@ -677,6 +682,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Dave Matthews Band",
+        "title": "Satellite",
+        "detected_at_utc": "2026-11-26T06:48:24.020793+00:00"
+      },
       {
         "artist": "Stryper",
         "title": "I Believe In You",
