@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:25:13.191773+00:00",
+  "updated_at_utc": "2026-11-26T04:26:16.574746+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Maps",
+        "detected_at_utc": "2026-11-26T04:26:09.482019+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Me, Myself and I",
@@ -180,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "NO",
+        "detected_at_utc": "2026-11-26T04:26:12.220164+00:00"
+      },
       {
         "artist": "Craig David",
         "title": "Insomnia",
