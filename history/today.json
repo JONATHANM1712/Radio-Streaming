@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T12:42:28.627526+00:00",
+  "updated_at_utc": "2026-11-26T12:43:36.909513+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-26T12:43:36.757920+00:00"
+      },
       {
         "artist": "KOKORISA",
         "title": "Feels so Good",
