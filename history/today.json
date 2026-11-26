@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:01:55.468970+00:00",
+  "updated_at_utc": "2026-11-26T17:04:03.739268+00:00",
   "stations": {
     "kis": [
       {
@@ -27,6 +27,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Duran Duran",
+        "title": "Serious",
+        "detected_at_utc": "2026-11-26T17:04:03.638575+00:00"
+      },
       {
         "artist": "Warrant",
         "title": "Heaven",
