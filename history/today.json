@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:56:23.664797+00:00",
+  "updated_at_utc": "2026-11-26T05:57:26.277832+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Keep Holding On",
+        "detected_at_utc": "2026-11-26T05:57:23.836742+00:00"
+      },
       {
         "artist": "Bravo All Stars",
         "title": "Let the Music Heal Your Soul",
@@ -285,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hozier",
+        "title": "Too Sweet",
+        "detected_at_utc": "2026-11-26T05:57:24.381526+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
