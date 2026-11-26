@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:15:14.904720+00:00",
+  "updated_at_utc": "2026-11-26T07:16:18.497069+00:00",
   "stations": {
     "kis": [
       {
@@ -385,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Cheb Rami",
+        "title": "خسارة فيك عشقي",
+        "detected_at_utc": "2026-11-26T07:15:18.728994+00:00"
+      },
       {
         "artist": "Ello, Barry, Ipank & Lala Karmela",
         "title": "Buka Semangat Baru",
