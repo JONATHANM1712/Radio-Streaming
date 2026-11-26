@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:47:35.204035+00:00",
+  "updated_at_utc": "2026-11-26T16:48:37.929303+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "One Direction",
+        "title": "Perfect",
+        "detected_at_utc": "2026-11-26T16:48:13.552910+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Suara Hati Seorang Kekasih",
@@ -735,6 +740,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Back To December",
+        "detected_at_utc": "2026-11-26T16:48:34.153327+00:00"
+      },
       {
         "artist": "Astropa",
         "title": "7 Years",
