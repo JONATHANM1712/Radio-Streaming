@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:27:43.194216+00:00",
+  "updated_at_utc": "2026-11-26T07:28:46.917177+00:00",
   "stations": {
     "kis": [
       {
@@ -792,6 +792,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Laura Branigan",
+        "title": "Self Control",
+        "detected_at_utc": "2026-11-26T07:27:43.211397+00:00"
+      },
       {
         "artist": "Blessid Union of Souls",
         "title": "I Believe",
