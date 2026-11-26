@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:46:51.735351+00:00",
+  "updated_at_utc": "2026-11-26T13:47:56.621212+00:00",
   "stations": {
     "kis": [
       {
@@ -670,6 +670,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-26T13:46:57.225081+00:00"
+      },
       {
         "artist": "WILLOW",
         "title": "Wait a Minute!",
