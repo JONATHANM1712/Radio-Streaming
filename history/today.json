@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-25T18:16:19.074275+00:00",
+  "updated_at_utc": "2026-11-26T03:37:28.291007+00:00",
   "stations": {
     "kis": [
       {
@@ -105,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SAMSONS",
+        "title": "Dengan Nafasmu",
+        "detected_at_utc": "2026-11-26T03:37:27.794572+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
@@ -212,6 +217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Michael Jackson",
+        "title": "Give In to Me",
+        "detected_at_utc": "2026-11-26T03:37:27.945478+00:00"
+      },
       {
         "artist": "St. Paul",
         "title": "Only Reminds Me of You",
