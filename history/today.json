@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:57:27.461371+00:00",
+  "updated_at_utc": "2026-11-26T07:58:30.478028+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Grenade",
+        "detected_at_utc": "2026-11-26T07:58:25.610174+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
