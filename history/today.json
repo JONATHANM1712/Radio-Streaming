@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:38:59.317498+00:00",
+  "updated_at_utc": "2026-11-26T06:40:04.954736+00:00",
   "stations": {
     "kis": [
       {
@@ -336,6 +336,11 @@
     ],
     "jak": [
       {
+        "artist": "Beyoncé",
+        "title": "Crazy in Love (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-11-26T06:40:04.335101+00:00"
+      },
+      {
         "artist": "Khalid",
         "title": "Talk (feat. Disclosure)",
         "detected_at_utc": "2026-11-26T06:36:51.741505+00:00"
@@ -652,6 +657,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Carpenters",
+        "title": "(They Long To Be) Close To You",
+        "detected_at_utc": "2026-11-26T06:39:05.872479+00:00"
+      },
       {
         "artist": "Lynyrd Skynyrd",
         "title": "Free Bird",
