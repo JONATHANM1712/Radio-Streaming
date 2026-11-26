@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:55:32.358698+00:00",
+  "updated_at_utc": "2026-11-26T10:57:24.390078+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-26T10:57:24.236880+00:00"
+      },
       {
         "artist": "Frente!",
         "title": "Bizarre Love Triangle (2014 remaster)",
