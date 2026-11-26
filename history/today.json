@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:47:07.201595+00:00",
+  "updated_at_utc": "2026-11-26T07:48:10.125855+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
+        "detected_at_utc": "2026-11-26T07:47:11.558208+00:00"
+      },
       {
         "artist": "Harry Styles",
         "title": "Watermelon Sugar",
