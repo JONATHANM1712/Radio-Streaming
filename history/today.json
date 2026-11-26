@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:17:38.816163+00:00",
+  "updated_at_utc": "2026-11-26T05:19:35.413225+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chrisye",
+        "title": "Andai Aku Bisa",
+        "detected_at_utc": "2026-11-26T05:19:35.311499+00:00"
+      },
       {
         "artist": "Chappell Roan",
         "title": "Pink Pony Club",
