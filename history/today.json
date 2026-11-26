@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:16:14.437493+00:00",
+  "updated_at_utc": "2026-11-26T17:17:17.539155+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades (Instrumental)",
+        "detected_at_utc": "2026-11-26T17:17:10.271808+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "I Just Might",
