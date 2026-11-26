@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:14:28.555828+00:00",
+  "updated_at_utc": "2026-11-26T05:15:32.338232+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chappell Roan",
+        "title": "Pink Pony Club",
+        "detected_at_utc": "2026-11-26T05:15:29.787775+00:00"
+      },
       {
         "artist": "Lena Jims",
         "title": "Pink Pony Club",
