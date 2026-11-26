@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:46:16.471044+00:00",
+  "updated_at_utc": "2026-11-26T06:47:20.152184+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mariah Carey",
+        "title": "I Still Believe",
+        "detected_at_utc": "2026-11-26T06:47:16.559428+00:00"
+      },
       {
         "artist": "Shade K",
         "title": "Funk the Police",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-26T06:47:18.568624+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
