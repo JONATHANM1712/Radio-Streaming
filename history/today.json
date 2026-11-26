@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:53:22.128306+00:00",
+  "updated_at_utc": "2026-11-26T07:55:18.464578+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "I Hate This Part",
+        "detected_at_utc": "2026-11-26T07:55:18.357626+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Virtual Insanity (Remastered)",
