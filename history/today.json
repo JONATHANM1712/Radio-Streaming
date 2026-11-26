@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:18:20.296409+00:00",
+  "updated_at_utc": "2026-11-26T17:19:23.041185+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "detected_at_utc": "2026-11-26T17:18:51.511306+00:00"
+      },
       {
         "artist": "Bunga Citra Lestari",
         "title": "Cinta Pertama (Sunny)",
@@ -72,6 +77,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Chicago",
+        "title": "Will You Still Love Me?",
+        "detected_at_utc": "2026-11-26T17:19:22.455768+00:00"
+      },
       {
         "artist": "Gloria Estefan & Gloria Estefan & Miami Sound Machine",
         "title": "Conga (Single Version)",
