@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:19:52.172254+00:00",
+  "updated_at_utc": "2026-11-26T06:20:54.950568+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-11-26T06:20:52.606054+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Risalah Hati",
@@ -607,6 +612,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sade",
+        "title": "Cherish the Day",
+        "detected_at_utc": "2026-11-26T06:19:53.072336+00:00"
+      },
       {
         "artist": "Shade K",
         "title": "Funk the Police",
