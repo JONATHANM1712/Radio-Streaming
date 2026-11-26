@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:16:15.936324+00:00",
+  "updated_at_utc": "2026-11-26T11:21:16.487055+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Halo",
+        "detected_at_utc": "2026-11-26T11:21:16.373471+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Kasih Putih",
