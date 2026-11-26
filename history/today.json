@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:51:12.892557+00:00",
+  "updated_at_utc": "2026-11-26T07:52:15.762869+00:00",
   "stations": {
     "kis": [
       {
@@ -425,6 +425,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-26T07:51:16.735039+00:00"
+      },
       {
         "artist": "John Legend",
         "title": "Someday (From the August Rush Soundtrack)",
