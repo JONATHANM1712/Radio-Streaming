@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:36:59.197226+00:00",
+  "updated_at_utc": "2026-11-26T05:38:02.464986+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Anggun",
+        "title": "La rose des vents",
+        "detected_at_utc": "2026-11-26T05:37:58.038746+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "Lost Without U",
