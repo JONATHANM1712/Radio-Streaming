@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:47:11.240851+00:00",
+  "updated_at_utc": "2026-11-26T05:48:13.983366+00:00",
   "stations": {
     "kis": [
       {
@@ -276,6 +276,11 @@
     ],
     "jak": [
       {
+        "artist": "Akon",
+        "title": "Don't Matter",
+        "detected_at_utc": "2026-11-26T05:48:12.909211+00:00"
+      },
+      {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
         "detected_at_utc": "2026-11-26T05:47:10.507237+00:00"
@@ -527,6 +532,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Moby",
+        "title": "Porcelain (Single Version)",
+        "detected_at_utc": "2026-11-26T05:47:11.491953+00:00"
+      },
       {
         "artist": "Dewa 19",
         "title": "Aku Disini Untukmu",
