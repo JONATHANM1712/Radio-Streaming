@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:16:54.106932+00:00",
+  "updated_at_utc": "2026-11-26T14:17:56.889296+00:00",
   "stations": {
     "kis": [
       {
@@ -1327,6 +1327,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Under the Bridge",
+        "detected_at_utc": "2026-11-26T14:16:57.519257+00:00"
+      },
       {
         "artist": "REO Speedwagon",
         "title": "One Lonely Night",
