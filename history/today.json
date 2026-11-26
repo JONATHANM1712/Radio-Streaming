@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:10:48.667644+00:00",
+  "updated_at_utc": "2026-11-26T14:13:50.024827+00:00",
   "stations": {
     "kis": [
       {
@@ -700,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "One Direction",
+        "title": "Kiss You",
+        "detected_at_utc": "2026-11-26T14:13:49.902198+00:00"
+      },
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
