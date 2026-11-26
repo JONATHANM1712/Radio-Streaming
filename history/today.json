@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:37:32.041875+00:00",
+  "updated_at_utc": "2026-11-26T13:39:33.988648+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "WILLOW",
+        "title": "Wait a Minute!",
+        "detected_at_utc": "2026-11-26T13:39:33.866059+00:00"
+      },
       {
         "artist": "Blue",
         "title": "If You Come Back",
