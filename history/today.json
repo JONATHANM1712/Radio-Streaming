@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:37:02.999703+00:00",
+  "updated_at_utc": "2026-11-26T07:39:01.203507+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Harry Styles",
+        "title": "Watermelon Sugar",
+        "detected_at_utc": "2026-11-26T07:39:00.675867+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Don't Phunk With My Heart",
