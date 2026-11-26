@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:54:28.912693+00:00",
+  "updated_at_utc": "2026-11-26T10:55:32.358698+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Frente!",
+        "title": "Bizarre Love Triangle (2014 remaster)",
+        "detected_at_utc": "2026-11-26T10:55:18.921776+00:00"
+      },
       {
         "artist": "SAMSONS",
         "title": "Naluri Lelaki",
@@ -947,6 +952,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "A Flock of Seagulls",
+        "title": "I Ran (So Far Away)",
+        "detected_at_utc": "2026-11-26T10:55:29.838534+00:00"
+      },
       {
         "artist": "New Kids On the Block",
         "title": "Please Don't Go Girl",
