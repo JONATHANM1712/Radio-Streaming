@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:13:48.539862+00:00",
+  "updated_at_utc": "2026-11-26T04:15:50.946049+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SAMSONS",
+        "title": "Kisah Tak Sempurna",
+        "detected_at_utc": "2026-11-26T04:15:50.814680+00:00"
+      },
       {
         "artist": "Ronan Keating",
         "title": "When You Say Nothing At All",
