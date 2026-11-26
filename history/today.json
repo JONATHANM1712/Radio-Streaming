@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:42:40.357703+00:00",
+  "updated_at_utc": "2026-11-26T04:45:45.253718+00:00",
   "stations": {
     "kis": [
       {
@@ -377,6 +377,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jewel",
+        "title": "Hands",
+        "detected_at_utc": "2026-11-26T04:45:45.108596+00:00"
+      },
       {
         "artist": "Nirvana",
         "title": "Polly",
