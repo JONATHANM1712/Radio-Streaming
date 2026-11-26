@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:28:57.216079+00:00",
+  "updated_at_utc": "2026-11-26T13:30:08.905438+00:00",
   "stations": {
     "kis": [
       {
@@ -650,6 +650,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "UnderWHAT?",
+        "title": "Smack That (feat. Ddrop) [Remix]",
+        "detected_at_utc": "2026-11-26T13:30:08.709030+00:00"
+      },
       {
         "artist": "Imogen Heap",
         "title": "Goodnight and Go",
