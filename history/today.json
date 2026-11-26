@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:14:08.196654+00:00",
+  "updated_at_utc": "2026-11-26T17:15:10.946533+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bunga Citra Lestari",
+        "title": "Cinta Pertama (Sunny)",
+        "detected_at_utc": "2026-11-26T17:14:46.107928+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "What Goes Around...Comes Around (Radio Edit)",
