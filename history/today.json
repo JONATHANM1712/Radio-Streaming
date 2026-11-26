@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:44:26.688153+00:00",
+  "updated_at_utc": "2026-11-26T16:45:29.387599+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Melly Goeslaw",
+        "title": "Suara Hati Seorang Kekasih",
+        "detected_at_utc": "2026-11-26T16:45:09.843253+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "Smile Like Mona Lisa",
