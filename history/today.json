@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:29:36.621289+00:00",
+  "updated_at_utc": "2026-11-26T17:33:09.623574+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Daft Punk",
+        "title": "Something About Us",
+        "detected_at_utc": "2026-11-26T17:33:09.520788+00:00"
+      },
       {
         "artist": "Total Touch",
         "title": "Somebody Else's Lover",
