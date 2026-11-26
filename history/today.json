@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:45:12.828270+00:00",
+  "updated_at_utc": "2026-11-26T06:46:16.471044+00:00",
   "stations": {
     "kis": [
       {
@@ -341,6 +341,11 @@
     ],
     "jak": [
       {
+        "artist": "CTID",
+        "title": "Haaland (Ha Ha Ha)",
+        "detected_at_utc": "2026-11-26T06:45:14.453119+00:00"
+      },
+      {
         "artist": "Beyoncé",
         "title": "Crazy in Love (feat. JAŸ-Z)",
         "detected_at_utc": "2026-11-26T06:40:04.335101+00:00"
@@ -662,6 +667,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stryper",
+        "title": "I Believe In You",
+        "detected_at_utc": "2026-11-26T06:45:18.241776+00:00"
+      },
       {
         "artist": "Carpenters",
         "title": "(They Long To Be) Close To You",
