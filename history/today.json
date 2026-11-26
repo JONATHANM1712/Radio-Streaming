@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:55:59.612309+00:00",
+  "updated_at_utc": "2026-11-26T04:57:03.031189+00:00",
   "stations": {
     "kis": [
       {
@@ -397,6 +397,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kid Creole & The Coconuts",
+        "title": "My Male Curiousity",
+        "detected_at_utc": "2026-11-26T04:57:02.705822+00:00"
+      },
       {
         "artist": "AC/DC",
         "title": "Thunderstruck",
