@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:38:02.464986+00:00",
+  "updated_at_utc": "2026-11-26T05:39:05.296634+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "88rising, Stephanie Poetri & Jackson Wang",
+        "title": "I Love You 3000 II",
+        "detected_at_utc": "2026-11-26T05:39:00.049229+00:00"
+      },
       {
         "artist": "Jack Johnson",
         "title": "Upside Down",
