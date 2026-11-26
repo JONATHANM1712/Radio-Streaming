@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:15:13.296279+00:00",
+  "updated_at_utc": "2026-11-26T13:16:17.451756+00:00",
   "stations": {
     "kis": [
       {
@@ -631,6 +631,11 @@
     ],
     "jak": [
       {
+        "artist": "CeeLo Green",
+        "title": "F**k You",
+        "detected_at_utc": "2026-11-26T13:15:22.325021+00:00"
+      },
+      {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
         "detected_at_utc": "2026-11-26T13:12:12.223389+00:00"
@@ -1167,6 +1172,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Level 42",
+        "title": "The Sun Goes Down (Living It Up) [7\" Version / Remastered]",
+        "detected_at_utc": "2026-11-26T13:15:22.324920+00:00"
+      },
       {
         "artist": "Pet Shop Boys",
         "title": "Being Boring (2018 Remaster)",
