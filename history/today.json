@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:42:05.185362+00:00",
+  "updated_at_utc": "2026-11-26T05:43:08.171179+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Noize Audio",
+        "title": "Work Love Balance (Official In-Ear Cinema)",
+        "detected_at_utc": "2026-11-26T05:43:05.425116+00:00"
+      },
       {
         "artist": "88rising, Stephanie Poetri & Jackson Wang",
         "title": "I Love You 3000 II",
