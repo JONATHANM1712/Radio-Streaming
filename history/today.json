@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:41:28.774556+00:00",
+  "updated_at_utc": "2026-11-26T16:44:26.688153+00:00",
   "stations": {
     "kis": [
       {
@@ -720,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lukas Graham",
+        "title": "7 Years",
+        "detected_at_utc": "2026-11-26T16:44:26.593410+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I'm with You",
