@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:57:03.031189+00:00",
+  "updated_at_utc": "2026-11-26T04:58:06.570809+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jewel",
+        "title": "Intuition",
+        "detected_at_utc": "2026-11-26T04:58:02.496875+00:00"
+      },
       {
         "artist": "David Cook",
         "title": "Always Be My Baby (American Idol Studio Version)",
