@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:57:26.277832+00:00",
+  "updated_at_utc": "2026-11-26T06:00:28.429707+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KOKORISA",
+        "title": "Feels so Good",
+        "detected_at_utc": "2026-11-26T06:00:28.306102+00:00"
+      },
       {
         "artist": "Hozier",
         "title": "Too Sweet",
