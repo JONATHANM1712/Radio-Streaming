@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:26:39.692135+00:00",
+  "updated_at_utc": "2026-11-26T07:27:43.194216+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full of Stars",
+        "detected_at_utc": "2026-11-26T07:27:37.939558+00:00"
+      },
       {
         "artist": "Caught In the Act",
         "title": "Babe",
