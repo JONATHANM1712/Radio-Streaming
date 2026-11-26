@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:56:46.343807+00:00",
+  "updated_at_utc": "2026-11-26T16:58:47.229509+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "King of Bass",
+        "title": "Bass Scientist",
+        "detected_at_utc": "2026-11-26T16:58:47.144178+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
