@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:49:12.971720+00:00",
+  "updated_at_utc": "2026-11-26T07:51:12.892557+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Virtual Insanity (Remastered)",
+        "detected_at_utc": "2026-11-26T07:51:12.768047+00:00"
+      },
       {
         "artist": "Kandi",
         "title": "Don't Think I'm Not",
