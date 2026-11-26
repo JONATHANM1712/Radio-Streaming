@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:13:50.024827+00:00",
+  "updated_at_utc": "2026-11-26T14:14:53.280728+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewi Sandra",
+        "title": "Buktikan",
+        "detected_at_utc": "2026-11-26T14:14:33.778193+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
@@ -1317,6 +1322,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "REO Speedwagon",
+        "title": "One Lonely Night",
+        "detected_at_utc": "2026-11-26T14:13:51.394656+00:00"
+      },
       {
         "artist": "Salt-N-Pepa",
         "title": "Whatta Man (feat. En Vogue)",
