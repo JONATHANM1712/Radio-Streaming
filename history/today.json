@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:59:10.026729+00:00",
+  "updated_at_utc": "2026-11-26T05:03:12.387755+00:00",
   "stations": {
     "kis": [
       {
@@ -407,6 +407,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Bangles",
+        "title": "Walk Like an Egyptian",
+        "detected_at_utc": "2026-11-26T05:03:12.187947+00:00"
+      },
       {
         "artist": "Kid Creole & The Coconuts",
         "title": "My Male Curiousity",
