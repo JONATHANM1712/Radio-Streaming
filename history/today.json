@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:48:29.201664+00:00",
+  "updated_at_utc": "2026-11-26T17:49:32.405313+00:00",
   "stations": {
     "kis": [
       {
@@ -75,6 +75,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "detected_at_utc": "2026-11-26T17:48:53.140770+00:00"
+      },
       {
         "artist": "BTS",
         "title": "Dynamite",
