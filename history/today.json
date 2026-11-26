@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:33:51.695873+00:00",
+  "updated_at_utc": "2026-11-26T07:34:55.118018+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Don't Phunk With My Heart",
+        "detected_at_utc": "2026-11-26T07:34:54.462779+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
