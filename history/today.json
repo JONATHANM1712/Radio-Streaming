@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:06:47.184057+00:00",
+  "updated_at_utc": "2026-11-26T11:07:50.532873+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Cleopatra",
+        "title": "Life Ain'T Easy",
+        "detected_at_utc": "2026-11-26T11:07:41.928600+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Attention (Remix) [feat. Kyle]",
