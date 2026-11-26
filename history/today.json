@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:46:32.408963+00:00",
+  "updated_at_utc": "2026-11-26T16:47:35.204035+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Melly Goeslaw",
+        "title": "Suara Hati Seorang Kekasih",
+        "detected_at_utc": "2026-11-26T16:47:12.336715+00:00"
+      },
       {
         "artist": "Onda del Futuro",
         "title": "Terra (Extended Version)",
@@ -731,6 +736,11 @@
     ],
     "jak": [
       {
+        "artist": "Astropa",
+        "title": "7 Years",
+        "detected_at_utc": "2026-11-26T16:47:32.938896+00:00"
+      },
+      {
         "artist": "Lukas Graham",
         "title": "7 Years",
         "detected_at_utc": "2026-11-26T16:44:26.593410+00:00"
@@ -1372,6 +1382,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Oasis",
+        "title": "Talk Tonight",
+        "detected_at_utc": "2026-11-26T16:46:36.695457+00:00"
+      },
       {
         "artist": "Peterson Okopi",
         "title": "Atmosphere of Worship",
