@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:40:38.966118+00:00",
+  "updated_at_utc": "2026-11-26T17:41:41.693013+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Fly",
+        "title": "Terbang",
+        "detected_at_utc": "2026-11-26T17:41:20.056880+00:00"
+      },
       {
         "artist": "Melly Goeslaw",
         "title": "Suara Hati Seorang Kekasih",
@@ -132,6 +137,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Inner City",
+        "title": "Good Life (Inner City Edit of Carl Craig Remix)",
+        "detected_at_utc": "2026-11-26T17:40:49.509594+00:00"
+      },
       {
         "artist": "Way Out West",
         "title": "The Gift (feat. Joanna Law)",
