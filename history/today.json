@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:12:44.483088+00:00",
+  "updated_at_utc": "2026-11-26T06:15:46.186552+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "Risalah Hati",
+        "detected_at_utc": "2026-11-26T06:15:46.094659+00:00"
+      },
       {
         "artist": "JoJo",
         "title": "Too Little Too Late",
