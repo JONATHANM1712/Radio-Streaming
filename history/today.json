@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:52:12.352397+00:00",
+  "updated_at_utc": "2026-11-26T10:53:24.729486+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Right Now (Na Na Na) [Radio Edit]",
+        "detected_at_utc": "2026-11-26T10:53:24.547509+00:00"
+      },
       {
         "artist": "Nicole Scherzinger",
         "title": "Baby Love (féat. will.i.am)",
