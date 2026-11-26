@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:22:40.841923+00:00",
+  "updated_at_utc": "2026-11-26T05:24:41.844547+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Third Eye Blind",
+        "title": "Jumper (1998 Edit)",
+        "detected_at_utc": "2026-11-26T05:24:41.760643+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Rude Boy",
