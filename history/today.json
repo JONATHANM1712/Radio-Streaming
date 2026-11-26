@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:21:10.631203+00:00",
+  "updated_at_utc": "2026-11-26T10:23:16.242970+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Vinayak",
+        "title": "Cartoon network",
+        "detected_at_utc": "2026-11-26T10:23:16.078077+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Ada titik-titik di ujung doa",
