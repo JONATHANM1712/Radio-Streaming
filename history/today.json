@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:28:33.897025+00:00",
+  "updated_at_utc": "2026-11-26T17:29:36.621289+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Total Touch",
+        "title": "Somebody Else's Lover",
+        "detected_at_utc": "2026-11-26T17:29:04.686307+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "I Feel It Coming (feat. Daft Punk)",
@@ -45,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nicki Minaj",
+        "title": "Your Love",
+        "detected_at_utc": "2026-11-26T17:29:24.889735+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Ada titik-titik di ujung doa",
