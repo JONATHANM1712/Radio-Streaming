@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:30:31.600489+00:00",
+  "updated_at_utc": "2026-11-26T10:31:35.032124+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "EMF",
+        "title": "Unbelievable",
+        "detected_at_utc": "2026-11-26T10:31:28.998760+00:00"
+      },
       {
         "artist": "Bobby Caldwell",
         "title": "Back to You",
@@ -460,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adrian Khalif",
+        "title": "2001x",
+        "detected_at_utc": "2026-11-26T10:31:32.867080+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
