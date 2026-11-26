@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:30:15.733282+00:00",
+  "updated_at_utc": "2026-11-26T04:31:19.489980+00:00",
   "stations": {
     "kis": [
       {
@@ -191,6 +191,11 @@
     ],
     "jak": [
       {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-26T04:30:18.377694+00:00"
+      },
+      {
         "artist": "Meghan Trainor",
         "title": "NO",
         "detected_at_utc": "2026-11-26T04:26:12.220164+00:00"
@@ -352,6 +357,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sergio Mendes & Brasil '66",
+        "title": "Mais Que Nada",
+        "detected_at_utc": "2026-11-26T04:30:21.245290+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "Long Long Way to Go (2016 Remastered)",
