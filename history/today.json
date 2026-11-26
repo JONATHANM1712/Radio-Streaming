@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:16:18.497069+00:00",
+  "updated_at_utc": "2026-11-26T07:17:21.978933+00:00",
   "stations": {
     "kis": [
       {
@@ -386,6 +386,11 @@
     ],
     "jak": [
       {
+        "artist": "Tyla",
+        "title": "CHANEL",
+        "detected_at_utc": "2026-11-26T07:16:20.563856+00:00"
+      },
+      {
         "artist": "Cheb Rami",
         "title": "خسارة فيك عشقي",
         "detected_at_utc": "2026-11-26T07:15:18.728994+00:00"
@@ -752,6 +757,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pearl Jam",
+        "title": "Black",
+        "detected_at_utc": "2026-11-26T07:16:22.543155+00:00"
+      },
       {
         "artist": "The RAH Band",
         "title": "Sam the Samba Man",
