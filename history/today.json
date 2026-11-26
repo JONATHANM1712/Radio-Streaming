@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:03:33.381371+00:00",
+  "updated_at_utc": "2026-11-26T14:04:36.195828+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-26T14:04:31.836754+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Just a Feeling",
