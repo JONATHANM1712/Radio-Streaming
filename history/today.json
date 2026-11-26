@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T13:19:27.808246+00:00",
+  "updated_at_utc": "2026-11-26T13:20:35.618472+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Akon",
+        "title": "Smack That (feat. Eminem)",
+        "detected_at_utc": "2026-11-26T13:20:31.023967+00:00"
+      },
       {
         "artist": "Akon Feat. Eminem",
         "title": "Smack That",
@@ -636,6 +641,11 @@
     ],
     "jak": [
       {
+        "artist": "The Adams",
+        "title": "Timur",
+        "detected_at_utc": "2026-11-26T13:19:39.680301+00:00"
+      },
+      {
         "artist": "CeeLo Green",
         "title": "F**k You",
         "detected_at_utc": "2026-11-26T13:15:22.325021+00:00"
@@ -1177,6 +1187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Meat Loaf",
+        "title": "I'd Do Anything For Love (But I Won't Do That) [Single Edit]",
+        "detected_at_utc": "2026-11-26T13:19:42.495172+00:00"
+      },
       {
         "artist": "Level 42",
         "title": "The Sun Goes Down (Living It Up) [7\" Version / Remastered]",
