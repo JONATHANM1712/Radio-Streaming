@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T16:55:43.573017+00:00",
+  "updated_at_utc": "2026-11-26T16:56:46.343807+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Seal",
+        "title": "Kiss from a Rose",
+        "detected_at_utc": "2026-11-26T16:56:23.277856+00:00"
+      },
       {
         "artist": "Duffy",
         "title": "Warwick Avenue",
@@ -1407,6 +1412,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Indecent Obsession",
+        "title": "Fixing a Broken Heart (Duet Version)",
+        "detected_at_utc": "2026-11-26T16:55:52.754185+00:00"
+      },
       {
         "artist": "Tatsuro Yamashita",
         "title": "Mermaid",
