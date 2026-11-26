@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T03:38:35.117025+00:00",
+  "updated_at_utc": "2026-11-26T03:39:37.968776+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "STROKEMANENT",
+        "title": "My City",
+        "detected_at_utc": "2026-11-26T03:39:27.510476+00:00"
+      },
       {
         "artist": "Sade",
         "title": "By Your Side",
