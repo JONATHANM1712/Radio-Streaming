@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T03:48:51.695114+00:00",
+  "updated_at_utc": "2026-11-26T03:49:55.241960+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "Stars",
+        "detected_at_utc": "2026-11-26T03:49:43.524719+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Buttons (feat. Snoop Dogg) [Music Video Edit]",
@@ -135,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me (music video edit, extended version)",
+        "detected_at_utc": "2026-11-26T03:49:47.371042+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
