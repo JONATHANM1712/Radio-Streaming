@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:15:46.186552+00:00",
+  "updated_at_utc": "2026-11-26T06:16:48.896408+00:00",
   "stations": {
     "kis": [
       {
@@ -310,6 +310,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Patient Zero",
+        "detected_at_utc": "2026-11-26T06:15:46.833049+00:00"
+      },
       {
         "artist": "Jeremy Zucker",
         "title": "comethru",
