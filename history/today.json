@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:12:11.611745+00:00",
+  "updated_at_utc": "2026-11-26T11:15:02.115241+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Kasih Putih",
+        "detected_at_utc": "2026-11-26T11:15:01.999630+00:00"
+      },
       {
         "artist": "All-4-One",
         "title": "I Will Be Right Here",
