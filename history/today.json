@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:32:47.643238+00:00",
+  "updated_at_utc": "2026-11-26T07:33:51.695873+00:00",
   "stations": {
     "kis": [
       {
@@ -802,6 +802,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stevie Wonder",
+        "title": "Sir Duke",
+        "detected_at_utc": "2026-11-26T07:32:53.371902+00:00"
+      },
       {
         "artist": "Laura Branigan",
         "title": "Self Control",
