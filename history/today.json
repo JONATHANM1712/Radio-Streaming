@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:47:43.418083+00:00",
+  "updated_at_utc": "2026-11-26T04:49:50.258670+00:00",
   "stations": {
     "kis": [
       {
@@ -205,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "David Cook",
+        "title": "Always Be My Baby (American Idol Studio Version)",
+        "detected_at_utc": "2026-11-26T04:49:49.985466+00:00"
+      },
       {
         "artist": "No Doubt",
         "title": "Hey Baby",
