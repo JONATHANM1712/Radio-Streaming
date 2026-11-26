@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T12:12:12.479459+00:00",
+  "updated_at_utc": "2026-11-26T12:15:16.475622+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "The One",
+        "detected_at_utc": "2026-11-26T12:15:16.383718+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "Jenny from the Block (Track Masters Remix featuring Styles & Jadakiss)",
