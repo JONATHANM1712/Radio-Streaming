@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:25:16.098634+00:00",
+  "updated_at_utc": "2026-11-26T06:26:19.954970+00:00",
   "stations": {
     "kis": [
       {
@@ -320,6 +320,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Script",
+        "title": "Superheroes",
+        "detected_at_utc": "2026-11-26T06:26:17.861092+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Pasti Ku Bisa",
