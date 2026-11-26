@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:15:10.946533+00:00",
+  "updated_at_utc": "2026-11-26T17:16:14.437493+00:00",
   "stations": {
     "kis": [
       {
@@ -30,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-26T17:16:09.091573+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Turning Tables",
