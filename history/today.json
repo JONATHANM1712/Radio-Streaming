@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T14:05:39.147950+00:00",
+  "updated_at_utc": "2026-11-26T14:06:42.566593+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "SWV",
+        "title": "Right Here (Human Nature Radio Mix)",
+        "detected_at_utc": "2026-11-26T14:06:20.623286+00:00"
+      },
       {
         "artist": "Westlife",
         "title": "Mandy",
