@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:08:09.402573+00:00",
+  "updated_at_utc": "2026-11-26T07:11:11.373870+00:00",
   "stations": {
     "kis": [
       {
@@ -375,6 +375,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ello, Barry, Ipank & Lala Karmela",
+        "title": "Buka Semangat Baru",
+        "detected_at_utc": "2026-11-26T07:11:11.250008+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
