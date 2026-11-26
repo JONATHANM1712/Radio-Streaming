@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:43:11.021368+00:00",
+  "updated_at_utc": "2026-11-26T07:47:07.201595+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kandi",
+        "title": "Don't Think I'm Not",
+        "detected_at_utc": "2026-11-26T07:47:07.094646+00:00"
+      },
       {
         "artist": "Sheila On 7",
         "title": "Anugerah Terindah Yang Pernah Kumiliki",
