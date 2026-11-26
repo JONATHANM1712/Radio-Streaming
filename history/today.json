@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T10:59:39.587088+00:00",
+  "updated_at_utc": "2026-11-26T11:02:33.379002+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "detected_at_utc": "2026-11-26T11:02:33.174655+00:00"
+      },
       {
         "artist": "Mishari Rashid Alafasy",
         "title": "Recitation 1",
