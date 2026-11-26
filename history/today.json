@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:15:50.946049+00:00",
+  "updated_at_utc": "2026-11-26T04:17:56.613162+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-26T04:17:56.424571+00:00"
+      },
       {
         "artist": "Payung Teduh",
         "title": "Akad",
