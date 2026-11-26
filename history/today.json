@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:51:32.874480+00:00",
+  "updated_at_utc": "2026-11-26T11:58:47.006982+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Rolling In the Deep",
+        "detected_at_utc": "2026-11-26T11:58:46.906321+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
