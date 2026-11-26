@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:35:58.812421+00:00",
+  "updated_at_utc": "2026-11-26T07:37:02.999703+00:00",
   "stations": {
     "kis": [
       {
@@ -812,6 +812,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "Plush",
+        "detected_at_utc": "2026-11-26T07:36:59.541275+00:00"
+      },
       {
         "artist": "Stevie Wonder",
         "title": "Sir Duke",
