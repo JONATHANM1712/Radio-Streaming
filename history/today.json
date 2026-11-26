@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:07:50.532873+00:00",
+  "updated_at_utc": "2026-11-26T11:10:05.692309+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Just Give Me a Reason (feat. Nate Ruess)",
+        "detected_at_utc": "2026-11-26T11:10:05.567309+00:00"
+      },
       {
         "artist": "Matchbox Twenty",
         "title": "If You're Gone",
