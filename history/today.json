@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T03:58:17.839392+00:00",
+  "updated_at_utc": "2026-11-26T03:59:21.355399+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Send My Love (To Your New Lover)",
+        "detected_at_utc": "2026-11-26T03:59:21.008505+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "One Thing",
