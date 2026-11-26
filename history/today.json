@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-26T17:10:40.938515+00:00",
+  "updated_at_utc": "2026-11-26T17:13:05.475604+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Turning Tables",
+        "detected_at_utc": "2026-11-26T17:13:05.388675+00:00"
+      },
       {
         "artist": "Kanye West",
         "title": "Heard 'Em Say (feat. Maroon 5 & Adam Levine)",
