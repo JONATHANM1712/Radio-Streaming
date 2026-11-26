@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T12:29:40.898323+00:00",
+  "updated_at_utc": "2026-11-26T12:32:49.546628+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "STROKEMANENT",
+        "title": "My City",
+        "detected_at_utc": "2026-11-26T12:32:49.336299+00:00"
+      },
       {
         "artist": "Spice Girls",
         "title": "Wannabe",
