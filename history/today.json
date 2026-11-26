@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:28:46.917177+00:00",
+  "updated_at_utc": "2026-11-26T07:30:47.466759+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-26T07:30:47.304749+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Make You Feel My Love",
