@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:51:53.284227+00:00",
+  "updated_at_utc": "2026-11-26T04:52:56.761161+00:00",
   "stations": {
     "kis": [
       {
@@ -392,6 +392,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "AC/DC",
+        "title": "Thunderstruck",
+        "detected_at_utc": "2026-11-26T04:51:55.036677+00:00"
+      },
       {
         "artist": "Jewel",
         "title": "Hands",
