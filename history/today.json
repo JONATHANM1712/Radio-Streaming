@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T11:34:53.516661+00:00",
+  "updated_at_utc": "2026-11-26T11:35:56.675084+00:00",
   "stations": {
     "kis": [
       {
@@ -536,6 +536,11 @@
     ],
     "jak": [
       {
+        "artist": "Ariana Grande",
+        "title": "7 rings",
+        "detected_at_utc": "2026-11-26T11:35:56.552945+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
         "detected_at_utc": "2026-11-26T11:34:53.423373+00:00"
@@ -1017,6 +1022,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bell Biv DeVoe",
+        "title": "Poison",
+        "detected_at_utc": "2026-11-26T11:35:51.406406+00:00"
+      },
       {
         "artist": "Toto",
         "title": "Rosanna",
