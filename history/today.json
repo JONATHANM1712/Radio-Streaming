@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:48:10.125855+00:00",
+  "updated_at_utc": "2026-11-26T07:49:12.971720+00:00",
   "stations": {
     "kis": [
       {
@@ -421,6 +421,11 @@
     ],
     "jak": [
       {
+        "artist": "John Legend",
+        "title": "Someday (From the August Rush Soundtrack)",
+        "detected_at_utc": "2026-11-26T07:48:12.831218+00:00"
+      },
+      {
         "artist": "Bruno Mars",
         "title": "Risk It All",
         "detected_at_utc": "2026-11-26T07:47:11.558208+00:00"
@@ -832,6 +837,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Karimata",
+        "title": "Rintangan (feat. Lydia Nursaid & Dian P. P.)",
+        "detected_at_utc": "2026-11-26T07:48:15.193518+00:00"
+      },
       {
         "artist": "Jim Diamond",
         "title": "I Should Have Known Better",
