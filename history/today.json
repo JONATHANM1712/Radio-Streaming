@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T07:18:25.450395+00:00",
+  "updated_at_utc": "2026-11-26T07:19:29.049252+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Hailee Steinfeld & Alesso",
+        "title": "Let Me Go (feat. Florida Georgia Line & watt)",
+        "detected_at_utc": "2026-11-26T07:19:22.514260+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Sewindu",
