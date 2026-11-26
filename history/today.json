@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T08:01:32.613596+00:00",
+  "updated_at_utc": "2026-11-26T08:04:29.847673+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lauryn Hill",
+        "title": "Doo Wop (That Thing)",
+        "detected_at_utc": "2026-11-26T08:04:29.757170+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "One More Night",
