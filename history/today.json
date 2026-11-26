@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T05:46:08.478084+00:00",
+  "updated_at_utc": "2026-11-26T05:47:11.240851+00:00",
   "stations": {
     "kis": [
       {
@@ -275,6 +275,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-26T05:47:10.507237+00:00"
+      },
       {
         "artist": "Noize Audio",
         "title": "Work Love Balance (Official In-Ear Cinema)",
