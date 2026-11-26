@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T12:22:42.655960+00:00",
+  "updated_at_utc": "2026-11-26T12:24:48.197355+00:00",
   "stations": {
     "kis": [
       {
@@ -570,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kanye West",
+        "title": "Heartless",
+        "detected_at_utc": "2026-11-26T12:24:47.992498+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Rolling In the Deep",
