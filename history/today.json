@@ -1,8 +1,13 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T06:52:29.125673+00:00",
+  "updated_at_utc": "2026-11-26T06:54:30.666263+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "Irreplaceable (Irreemplazable) [Spanish version]",
+        "detected_at_utc": "2026-11-26T06:54:30.312415+00:00"
+      },
       {
         "artist": "Sam Smith",
         "title": "Lay Me Down (feat. John Legend)",
