@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at_utc": "2026-11-26T04:07:36.754234+00:00",
+  "updated_at_utc": "2026-11-26T04:08:40.186719+00:00",
   "stations": {
     "kis": [
       {
@@ -297,6 +297,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lipps, Inc.",
+        "title": "Funkytown (Mixed)",
+        "detected_at_utc": "2026-11-26T04:07:39.621227+00:00"
+      },
       {
         "artist": "Rick Astley",
         "title": "Take Me to Your Heart (2023 Remaster)",
