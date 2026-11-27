@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:48:37.013487+00:00",
+  "updated_at_utc": "2026-11-27T11:50:51.501620+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Aguilera",
+        "title": "I Turn to You",
+        "detected_at_utc": "2026-11-27T11:50:51.393031+00:00"
+      },
       {
         "artist": "In Jingga",
         "title": "Tentang Aku",
