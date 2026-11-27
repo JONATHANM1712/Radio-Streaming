@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:53:00.355521+00:00",
+  "updated_at_utc": "2026-11-27T13:55:58.628413+00:00",
   "stations": {
     "kis": [
       {
@@ -410,6 +410,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead",
+        "detected_at_utc": "2026-11-27T13:55:58.542101+00:00"
+      },
       {
         "artist": "Taio Cruz",
         "title": "Dynamite",
