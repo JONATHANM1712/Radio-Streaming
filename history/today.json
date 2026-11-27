@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:27:39.233018+00:00",
+  "updated_at_utc": "2026-11-27T15:28:41.904676+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Bay",
+        "title": "Let It Go (International Edit)",
+        "detected_at_utc": "2026-11-27T15:28:37.341610+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go",
