@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:21:25.325613+00:00",
+  "updated_at_utc": "2026-11-27T15:22:28.369236+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-27T15:22:22.287803+00:00"
+      },
       {
         "artist": "Fall Out Boy",
         "title": "Thnks fr th Mmrs",
