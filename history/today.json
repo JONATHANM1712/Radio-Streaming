@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:35:30.247175+00:00",
+  "updated_at_utc": "2026-11-27T11:37:37.572746+00:00",
   "stations": {
     "kis": [
       {
@@ -592,6 +592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Supergrass",
+        "title": "Alright",
+        "detected_at_utc": "2026-11-27T11:37:37.473223+00:00"
+      },
       {
         "artist": "Elpamas",
         "title": "Pak Tua",
