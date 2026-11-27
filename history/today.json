@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:49:09.378146+00:00",
+  "updated_at_utc": "2026-11-27T04:50:13.526388+00:00",
   "stations": {
     "kis": [
       {
@@ -337,6 +337,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Europe",
+        "title": "Superstitious",
+        "detected_at_utc": "2026-11-27T04:50:07.292330+00:00"
+      },
       {
         "artist": "Garbage",
         "title": "Stupid Girl (2015 - Remaster)",
