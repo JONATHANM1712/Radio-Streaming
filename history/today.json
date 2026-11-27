@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:22:13.998813+00:00",
+  "updated_at_utc": "2026-11-27T16:23:17.633411+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Beyoncé",
+        "title": "If I Were a Boy",
+        "detected_at_utc": "2026-11-27T16:23:04.735581+00:00"
+      },
       {
         "artist": "Jikustik",
         "title": "Puisi",
