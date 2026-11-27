@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:30:39.293156+00:00",
+  "updated_at_utc": "2026-11-27T04:31:42.055448+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Simply Red",
+        "title": "You Make Me Feel Brand New (2014 Remaster)",
+        "detected_at_utc": "2026-11-27T04:30:40.492492+00:00"
+      },
       {
         "artist": "Surface",
         "title": "Shower Me With Your Love",
