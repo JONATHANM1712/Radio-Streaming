@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:50:51.501620+00:00",
+  "updated_at_utc": "2026-11-27T11:59:29.059047+00:00",
   "stations": {
     "kis": [
       {
@@ -612,6 +612,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cover Girls",
+        "title": "Because of You",
+        "detected_at_utc": "2026-11-27T11:59:28.956270+00:00"
+      },
       {
         "artist": "Supergrass",
         "title": "Alright",
