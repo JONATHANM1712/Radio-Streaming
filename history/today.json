@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:20:12.041698+00:00",
+  "updated_at_utc": "2026-11-27T05:21:15.430911+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "India.Arie",
+        "title": "Can I Walk With You",
+        "detected_at_utc": "2026-11-27T05:21:09.852734+00:00"
+      },
       {
         "artist": "Ello",
         "title": "Kisah Kita T'lah Usai",
@@ -200,6 +205,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Fray",
+        "title": "How to Save a Life (New Version)",
+        "detected_at_utc": "2026-11-27T05:20:19.050808+00:00"
+      },
       {
         "artist": "Dj Mert Akten",
         "title": "How To Save a Life",
