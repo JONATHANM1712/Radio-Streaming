@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:35:07.284665+00:00",
+  "updated_at_utc": "2026-11-27T14:36:10.179507+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Aku Bertahan",
+        "detected_at_utc": "2026-11-27T14:36:06.677677+00:00"
+      },
       {
         "artist": "Peter Cetera",
         "title": "(I Wanna Take) Forever Tonight",
