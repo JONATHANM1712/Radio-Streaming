@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:11:16.428862+00:00",
+  "updated_at_utc": "2026-11-27T17:12:22.242030+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Estelle",
+        "title": "American Boy (feat. Kanye West)",
+        "detected_at_utc": "2026-11-27T17:12:18.491794+00:00"
+      },
       {
         "artist": "Janet Jackson & Nelly",
         "title": "Call On Me",
