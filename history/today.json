@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:54:07.274560+00:00",
+  "updated_at_utc": "2026-11-27T17:55:11.396679+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bolton",
+        "title": "Go the Distance (From Disney's Hercules)",
+        "detected_at_utc": "2026-11-27T17:55:05.182526+00:00"
+      },
       {
         "artist": "Snow Patrol",
         "title": "Chasing Cars",
