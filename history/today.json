@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T03:41:38.274098+00:00",
+  "updated_at_utc": "2026-11-27T03:42:42.190337+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Slank",
+        "title": "Ku Tak Bisa",
+        "detected_at_utc": "2026-11-27T03:42:09.976421+00:00"
+      },
       {
         "artist": "Backstreet Boys",
         "title": "Drowning",
