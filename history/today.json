@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:59:15.463345+00:00",
+  "updated_at_utc": "2026-11-27T18:00:20.330207+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg Feat. Pharrell",
+        "title": "Drop It Like It's Hot",
+        "detected_at_utc": "2026-11-27T18:00:17.487994+00:00"
+      },
       {
         "artist": "Snoop Dogg",
         "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
@@ -80,6 +85,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Legend",
+        "title": "Save Room",
+        "detected_at_utc": "2026-11-27T17:59:17.594377+00:00"
+      },
       {
         "artist": "Damien Rice",
         "title": "The Blower's Daughter",
