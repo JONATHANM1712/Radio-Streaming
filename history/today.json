@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:26:36.264757+00:00",
+  "updated_at_utc": "2026-11-27T15:27:39.233018+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Bay",
+        "title": "Let It Go",
+        "detected_at_utc": "2026-11-27T15:27:35.603415+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go (Instrumental)",
@@ -510,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-27T15:27:30.523250+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
