@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:16:39.873811+00:00",
+  "updated_at_utc": "2026-11-27T04:18:21.662533+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Take That",
+        "title": "Patience",
+        "detected_at_utc": "2026-11-27T04:18:21.578616+00:00"
+      },
       {
         "artist": "Titi DJ",
         "title": "Sang Dewi",
