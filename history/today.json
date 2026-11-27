@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:12:52.016363+00:00",
+  "updated_at_utc": "2026-11-27T16:13:55.409568+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-27T16:12:52.026856+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Holy Grail (feat. Justin Timberlake)",
