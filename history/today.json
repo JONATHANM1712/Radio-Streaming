@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:46:51.644660+00:00",
+  "updated_at_utc": "2026-11-27T13:47:54.455944+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lorde",
+        "title": "Team",
+        "detected_at_utc": "2026-11-27T13:47:45.633625+00:00"
+      },
       {
         "artist": "The Killers",
         "title": "Mr. Brightside",
