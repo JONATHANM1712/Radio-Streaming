@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:46:04.115282+00:00",
+  "updated_at_utc": "2026-11-27T04:48:06.469456+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Grace Nakalema",
+        "title": "Kiva Ku Hate That I Love You",
+        "detected_at_utc": "2026-11-27T04:48:06.377511+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Hate That I Love You (feat. Ne-Yo)",
