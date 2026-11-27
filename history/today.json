@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:46:56.762445+00:00",
+  "updated_at_utc": "2026-11-27T05:48:00.994246+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Let Loose",
+        "title": "Make It With You",
+        "detected_at_utc": "2026-11-27T05:47:47.308308+00:00"
+      },
       {
         "artist": "Kahitna",
         "title": "Mantan Terindah",
@@ -467,6 +472,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fatima Rainey",
+        "title": "Hey (Springtime Radio Edit)",
+        "detected_at_utc": "2026-11-27T05:47:50.440650+00:00"
+      },
       {
         "artist": "Fatima Rainey",
         "title": "Hey",
