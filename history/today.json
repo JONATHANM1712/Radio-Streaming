@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:13:55.409568+00:00",
+  "updated_at_utc": "2026-11-27T16:15:59.766804+00:00",
   "stations": {
     "kis": [
       {
@@ -566,6 +566,11 @@
     ],
     "jak": [
       {
+        "artist": "Peter Bjorn and John",
+        "title": "Young Folks",
+        "detected_at_utc": "2026-11-27T16:15:59.717855+00:00"
+      },
+      {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
         "detected_at_utc": "2026-11-27T16:12:52.026856+00:00"
@@ -1117,6 +1122,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Patience",
+        "detected_at_utc": "2026-11-27T16:15:59.673160+00:00"
+      },
       {
         "artist": "Sade",
         "title": "Your Love Is King",
