@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T12:12:12.780456+00:00",
+  "updated_at_utc": "2026-11-27T12:14:04.504854+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "D’MASIV",
+        "title": "Cinta Ini Membunuhku",
+        "detected_at_utc": "2026-11-27T12:14:04.390186+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Never Too Far",
