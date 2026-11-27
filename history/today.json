@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:29:32.949042+00:00",
+  "updated_at_utc": "2026-11-27T16:31:24.439047+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "OneRepublic",
+        "title": "Secrets",
+        "detected_at_utc": "2026-11-27T16:31:24.355640+00:00"
+      },
       {
         "artist": "Atlantic Starr",
         "title": "Masterpiece",
