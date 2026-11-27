@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:19:40.966511+00:00",
+  "updated_at_utc": "2026-11-27T14:20:43.718315+00:00",
   "stations": {
     "kis": [
       {
@@ -441,6 +441,11 @@
     ],
     "jak": [
       {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
+        "detected_at_utc": "2026-11-27T14:20:37.231148+00:00"
+      },
+      {
         "artist": "Olly Murs",
         "title": "Troublemaker (feat. Flo Rida)",
         "detected_at_utc": "2026-11-27T14:17:32.497520+00:00"
@@ -867,6 +872,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Gary Moore",
+        "title": "Still Got the Blues",
+        "detected_at_utc": "2026-11-27T14:20:43.326945+00:00"
+      },
       {
         "artist": "The Cure",
         "title": "Pictures of You (Remix)",
