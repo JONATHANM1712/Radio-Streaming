@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:51:16.022928+00:00",
+  "updated_at_utc": "2026-11-27T16:53:36.397715+00:00",
   "stations": {
     "kis": [
       {
@@ -620,6 +620,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-27T16:53:36.304080+00:00"
+      },
       {
         "artist": "Rizky Febian",
         "title": "Seperti Kisah",
