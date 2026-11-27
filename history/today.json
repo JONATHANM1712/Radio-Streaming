@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:52:36.197735+00:00",
+  "updated_at_utc": "2026-11-27T14:53:38.997694+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades (Instrumental)",
+        "detected_at_utc": "2026-11-27T14:53:33.183464+00:00"
+      },
       {
         "artist": "Neida",
         "title": "Tenang Saja (feat. Laleilmanino)",
