@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:43:59.034857+00:00",
+  "updated_at_utc": "2026-11-27T16:45:02.144178+00:00",
   "stations": {
     "kis": [
       {
@@ -606,6 +606,11 @@
     ],
     "jak": [
       {
+        "artist": "Rizky Febian",
+        "title": "Seperti Kisah",
+        "detected_at_utc": "2026-11-27T16:44:13.842685+00:00"
+      },
+      {
         "artist": "Vertical Horizon",
         "title": "Everything You Want",
         "detected_at_utc": "2026-11-27T16:39:55.842932+00:00"
@@ -1192,6 +1197,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Black Crowes",
+        "title": "She Talks To Angels",
+        "detected_at_utc": "2026-11-27T16:44:16.770127+00:00"
+      },
       {
         "artist": "Daniel Sahuleka",
         "title": "Don't Sleep Away The Night",
