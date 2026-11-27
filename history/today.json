@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:45:50.182974+00:00",
+  "updated_at_utc": "2026-11-27T17:47:49.411913+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Iyaz",
+        "title": "Solo",
+        "detected_at_utc": "2026-11-27T17:47:49.280562+00:00"
+      },
       {
         "artist": "Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",
         "title": "Stay With Me",
