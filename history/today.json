@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:37:37.572746+00:00",
+  "updated_at_utc": "2026-11-27T11:41:59.858743+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Arthur",
+        "title": "Say You Won't Let Go",
+        "detected_at_utc": "2026-11-27T11:41:59.756868+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Tega",
