@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:57:43.132209+00:00",
+  "updated_at_utc": "2026-11-27T14:59:42.863695+00:00",
   "stations": {
     "kis": [
       {
@@ -480,6 +480,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "Stop and Stare",
+        "detected_at_utc": "2026-11-27T14:59:42.778637+00:00"
+      },
       {
         "artist": "Miley Cyrus",
         "title": "Bass Persuades",
