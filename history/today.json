@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:57:41.088955+00:00",
+  "updated_at_utc": "2026-11-27T15:58:46.421274+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me (music video edit, extended version)",
+        "detected_at_utc": "2026-11-27T15:58:46.283489+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me",
