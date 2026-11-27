@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:22:28.369236+00:00",
+  "updated_at_utc": "2026-11-27T15:23:31.317550+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "detected_at_utc": "2026-11-27T15:23:23.881422+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
