@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:59:55.375599+00:00",
+  "updated_at_utc": "2026-11-27T16:00:59.231335+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Moffatts",
+        "title": "I Miss You Like Crazy",
+        "detected_at_utc": "2026-11-27T15:59:57.223544+00:00"
+      },
       {
         "artist": "Beyoncé",
         "title": "Me, Myself and I",
