@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:39:45.817253+00:00",
+  "updated_at_utc": "2026-11-27T16:40:49.719383+00:00",
   "stations": {
     "kis": [
       {
@@ -601,6 +601,11 @@
     ],
     "jak": [
       {
+        "artist": "Vertical Horizon",
+        "title": "Everything You Want",
+        "detected_at_utc": "2026-11-27T16:39:55.842932+00:00"
+      },
+      {
         "artist": "Tate McRae",
         "title": "Housewife",
         "detected_at_utc": "2026-11-27T16:36:47.578942+00:00"
@@ -1182,6 +1187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Daniel Sahuleka",
+        "title": "Don't Sleep Away The Night",
+        "detected_at_utc": "2026-11-27T16:39:56.888544+00:00"
+      },
       {
         "artist": "MC Hammer",
         "title": "Have You Seen Her",
