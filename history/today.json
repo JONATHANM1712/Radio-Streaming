@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T12:43:28.162928+00:00",
+  "updated_at_utc": "2026-11-27T12:44:30.959305+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Everytime",
+        "detected_at_utc": "2026-11-27T12:44:29.929331+00:00"
+      },
       {
         "artist": "James Morrison",
         "title": "You Give Me Something (Eg Version)",
@@ -335,6 +340,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-11-27T12:44:28.797156+00:00"
+      },
       {
         "artist": "Chloe x Halle",
         "title": "Do It",
