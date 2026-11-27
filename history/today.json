@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:50:44.544396+00:00",
+  "updated_at_utc": "2026-11-27T07:51:47.975024+00:00",
   "stations": {
     "kis": [
       {
@@ -265,6 +265,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Paris Hilton",
+        "title": "Stars Are Blind",
+        "detected_at_utc": "2026-11-27T07:51:24.552325+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Suit & Tie (feat. JAŸ-Z)",
