@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:36:19.480009+00:00",
+  "updated_at_utc": "2026-11-27T17:38:24.215226+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Céline Dion",
+        "title": "It's All Coming Back to Me Now",
+        "detected_at_utc": "2026-11-27T17:38:24.065674+00:00"
+      },
       {
         "artist": "GRUVI",
         "title": "Masih Mencintaimu",
