@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:47:54.455944+00:00",
+  "updated_at_utc": "2026-11-27T13:50:50.578847+00:00",
   "stations": {
     "kis": [
       {
@@ -405,6 +405,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Taio Cruz",
+        "title": "Dynamite",
+        "detected_at_utc": "2026-11-27T13:50:50.482304+00:00"
+      },
       {
         "artist": "Lorde",
         "title": "Team",
