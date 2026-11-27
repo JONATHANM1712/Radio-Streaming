@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T06:00:41.720704+00:00",
+  "updated_at_utc": "2026-11-27T07:00:06.855737+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "What Do You Mean?",
+        "detected_at_utc": "2026-11-27T07:00:06.725796+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "All The Right Moves",
