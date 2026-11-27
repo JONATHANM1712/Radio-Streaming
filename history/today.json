@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:18:06.220619+00:00",
+  "updated_at_utc": "2026-11-27T16:20:09.236980+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dua Lipa",
+        "title": "Training Season",
+        "detected_at_utc": "2026-11-27T16:20:09.148193+00:00"
+      },
       {
         "artist": "Peter Bjorn and John",
         "title": "Young Folks",
