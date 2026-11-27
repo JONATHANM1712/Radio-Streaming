@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:01:02.204052+00:00",
+  "updated_at_utc": "2026-11-27T13:06:22.460967+00:00",
   "stations": {
     "kis": [
       {
@@ -355,6 +355,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "We Found Love (feat. Calvin Harris)",
+        "detected_at_utc": "2026-11-27T13:06:22.380669+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "I Gotta Feeling",
