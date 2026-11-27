@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:47:06.524858+00:00",
+  "updated_at_utc": "2026-11-27T16:50:13.119902+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chillout Musick",
+        "title": "Flaming Tide",
+        "detected_at_utc": "2026-11-27T16:50:13.029080+00:00"
+      },
       {
         "artist": "Whigfield",
         "title": "Close to You",
