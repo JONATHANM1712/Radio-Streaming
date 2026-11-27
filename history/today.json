@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T12:23:46.069279+00:00",
+  "updated_at_utc": "2026-11-27T12:24:49.236844+00:00",
   "stations": {
     "kis": [
       {
@@ -647,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "Boogie Wonderland (feat. The Emotions)",
+        "detected_at_utc": "2026-11-27T12:23:58.057458+00:00"
+      },
       {
         "artist": "Amniza",
         "title": "Boogie Wonderland (Original Disco Fever Mix)",
