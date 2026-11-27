@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:13:49.169815+00:00",
+  "updated_at_utc": "2026-11-27T13:14:51.908996+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Leona Lewis",
+        "title": "Better In Time",
+        "detected_at_utc": "2026-11-27T13:13:54.132877+00:00"
+      },
       {
         "artist": "Catatonia",
         "title": "Dead from the Waist Down",
