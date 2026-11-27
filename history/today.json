@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:03:18.226831+00:00",
+  "updated_at_utc": "2026-11-27T14:06:20.634498+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lonestar",
+        "title": "Amazed",
+        "detected_at_utc": "2026-11-27T14:06:20.531315+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "Like I'm Gonna Lose You (feat. John Legend)",
