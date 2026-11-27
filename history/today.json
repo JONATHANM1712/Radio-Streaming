@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:39:52.843597+00:00",
+  "updated_at_utc": "2026-11-27T04:40:55.562199+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Java Jive",
+        "title": "Gerangan Cinta",
+        "detected_at_utc": "2026-11-27T04:39:54.807484+00:00"
+      },
       {
         "artist": "Sheryl Crow",
         "title": "The First Cut Is the Deepest",
