@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:15:58.009611+00:00",
+  "updated_at_utc": "2026-11-27T13:17:01.246948+00:00",
   "stations": {
     "kis": [
       {
@@ -370,6 +370,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-27T13:16:53.915618+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "Drag Me Down",
