@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:08:54.202979+00:00",
+  "updated_at_utc": "2026-11-27T05:11:59.013913+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olly Alexander",
+        "title": "King",
+        "detected_at_utc": "2026-11-27T05:11:58.831144+00:00"
+      },
       {
         "artist": "Idgitaf",
         "title": "Sedia Aku Sebelum Hujan",
