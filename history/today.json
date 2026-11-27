@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:55:34.167930+00:00",
+  "updated_at_utc": "2026-11-27T15:56:37.288097+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me",
+        "detected_at_utc": "2026-11-27T15:56:33.194952+00:00"
+      },
       {
         "artist": "Colbie Caillat",
         "title": "Fallin' For You",
