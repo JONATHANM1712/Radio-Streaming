@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:53:02.617874+00:00",
+  "updated_at_utc": "2026-11-27T17:54:07.274560+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Damien Rice",
+        "title": "The Blower's Daughter",
+        "detected_at_utc": "2026-11-27T17:54:05.222863+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
@@ -157,6 +162,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Pretenders",
+        "title": "Everyday Is Like Sunday",
+        "detected_at_utc": "2026-11-27T17:53:06.454214+00:00"
+      },
       {
         "artist": "Stevie Wonder",
         "title": "For Your Love",
