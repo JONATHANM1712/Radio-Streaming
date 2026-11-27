@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:14:41.205949+00:00",
+  "updated_at_utc": "2026-11-27T04:16:39.873811+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Simple Plan",
+        "title": "Jet Lag (feat. Natasha Bedingfield)",
+        "detected_at_utc": "2026-11-27T04:16:39.750611+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "Patient Zero",
