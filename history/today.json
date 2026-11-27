@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:41:58.374130+00:00",
+  "updated_at_utc": "2026-11-27T04:43:18.984880+00:00",
   "stations": {
     "kis": [
       {
@@ -155,6 +155,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daniel Bedingfield",
+        "title": "If You're Not the One",
+        "detected_at_utc": "2026-11-27T04:43:18.897071+00:00"
+      },
       {
         "artist": "5 Seconds of Summer",
         "title": "Easier",
