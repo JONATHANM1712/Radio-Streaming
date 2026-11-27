@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:36:21.085428+00:00",
+  "updated_at_utc": "2026-11-27T07:39:05.430962+00:00",
   "stations": {
     "kis": [
       {
@@ -250,6 +250,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Amerie",
+        "title": "1 Thing",
+        "detected_at_utc": "2026-11-27T07:39:05.289874+00:00"
+      },
       {
         "artist": "Shawn Mendes",
         "title": "If I Can't Have You",
