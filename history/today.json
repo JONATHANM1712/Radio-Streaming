@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T03:58:51.086681+00:00",
+  "updated_at_utc": "2026-11-27T04:00:07.240554+00:00",
   "stations": {
     "kis": [
       {
@@ -110,6 +110,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Bass Persuades",
+        "detected_at_utc": "2026-11-27T04:00:07.070167+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Only Girl (In the World)",
