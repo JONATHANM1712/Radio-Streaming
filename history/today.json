@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:06:32.602901+00:00",
+  "updated_at_utc": "2026-11-27T05:07:51.513863+00:00",
   "stations": {
     "kis": [
       {
@@ -185,6 +185,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Idgitaf",
+        "title": "Sedia Aku Sebelum Hujan",
+        "detected_at_utc": "2026-11-27T05:07:51.419661+00:00"
+      },
       {
         "artist": "Fort Minor",
         "title": "Believe Me (feat. Bobo & Styles of Beyond)",
