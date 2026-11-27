@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:48:00.994246+00:00",
+  "updated_at_utc": "2026-11-27T05:49:04.801919+00:00",
   "stations": {
     "kis": [
       {
@@ -230,6 +230,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Loren Allred",
+        "title": "Never Enough",
+        "detected_at_utc": "2026-11-27T05:49:04.102071+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -472,6 +477,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Fatima Rainey",
+        "title": "Hey",
+        "detected_at_utc": "2026-11-27T05:48:53.983087+00:00"
+      },
       {
         "artist": "Fatima Rainey",
         "title": "Hey (Springtime Radio Edit)",
