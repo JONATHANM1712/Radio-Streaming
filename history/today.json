@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:15:33.654269+00:00",
+  "updated_at_utc": "2026-11-27T07:16:37.177143+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "stupid song",
+        "detected_at_utc": "2026-11-27T07:16:33.705505+00:00"
+      },
       {
         "artist": "Clean Bandit",
         "title": "Rather Be (feat. Jess Glynne)",
