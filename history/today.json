@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:32:51.634109+00:00",
+  "updated_at_utc": "2026-11-27T05:33:56.380858+00:00",
   "stations": {
     "kis": [
       {
@@ -215,6 +215,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "Keep Holding On",
+        "detected_at_utc": "2026-11-27T05:33:02.702192+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
