@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:26:15.645811+00:00",
+  "updated_at_utc": "2026-11-27T13:27:18.561407+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "detected_at_utc": "2026-11-27T13:27:14.830689+00:00"
+      },
       {
         "artist": "Luther Vandross",
         "title": "Dance with My Father",
@@ -380,6 +385,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "detected_at_utc": "2026-11-27T13:27:10.219637+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
