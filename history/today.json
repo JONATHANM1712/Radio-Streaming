@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:50:27.976813+00:00",
+  "updated_at_utc": "2026-11-27T14:51:33.260187+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Madonna",
+        "title": "Take a Bow",
+        "detected_at_utc": "2026-11-27T14:51:33.168199+00:00"
+      },
       {
         "artist": "Brian McKnight",
         "title": "Shoulda, Woulda, Coulda",
