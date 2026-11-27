@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:40:29.629878+00:00",
+  "updated_at_utc": "2026-11-27T05:41:33.424551+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kahitna",
+        "title": "Mantan Terindah",
+        "detected_at_utc": "2026-11-27T05:41:21.441011+00:00"
+      },
       {
         "artist": "Phil Collins",
         "title": "You'll Be In My Heart",
@@ -457,6 +462,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Weezer",
+        "title": "Say It Ain't So (2024 Remaster)",
+        "detected_at_utc": "2026-11-27T05:41:30.247321+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "No Reply at All",
