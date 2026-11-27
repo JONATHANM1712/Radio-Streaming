@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:40:15.034924+00:00",
+  "updated_at_utc": "2026-11-27T14:43:19.035288+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Alejandro Sanz",
+        "title": "The Hardest Day (con the Corrs)",
+        "detected_at_utc": "2026-11-27T14:43:18.949251+00:00"
+      },
       {
         "artist": "Rio Febrian",
         "title": "Aku Bertahan",
