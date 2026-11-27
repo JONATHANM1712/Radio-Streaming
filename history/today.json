@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:45:48.210352+00:00",
+  "updated_at_utc": "2026-11-27T13:46:51.644660+00:00",
   "stations": {
     "kis": [
       {
@@ -406,6 +406,11 @@
     ],
     "jak": [
       {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-27T13:46:44.146792+00:00"
+      },
+      {
         "artist": "Katy Perry",
         "title": "Hot N Cold",
         "detected_at_utc": "2026-11-27T13:35:24.228163+00:00"
@@ -797,6 +802,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Culture Club",
+        "title": "Do You Really Want to Hurt Me",
+        "detected_at_utc": "2026-11-27T13:45:48.556542+00:00"
+      },
       {
         "artist": "Edie Brickell",
         "title": "Good Times",
