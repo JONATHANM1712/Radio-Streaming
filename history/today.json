@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:22:27.440733+00:00",
+  "updated_at_utc": "2026-11-27T04:23:30.140887+00:00",
   "stations": {
     "kis": [
       {
@@ -141,6 +141,11 @@
     ],
     "jak": [
       {
+        "artist": "Ecoutez",
+        "title": "Are You Really The One",
+        "detected_at_utc": "2026-11-27T04:22:47.547074+00:00"
+      },
+      {
         "artist": "Harry Styles",
         "title": "Late Night Talking",
         "detected_at_utc": "2026-11-27T04:19:43.710705+00:00"
@@ -277,6 +282,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Love Of My Life",
+        "detected_at_utc": "2026-11-27T04:22:28.649042+00:00"
+      },
       {
         "artist": "Indecent Obsession",
         "title": "Lady Rain",
