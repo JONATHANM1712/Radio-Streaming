@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:38:21.891633+00:00",
+  "updated_at_utc": "2026-11-27T05:40:29.629878+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rob Thomas",
+        "title": "Lonely No More",
+        "detected_at_utc": "2026-11-27T05:40:29.494069+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "fuck, i’m lonely (feat. Anne-Marie)",
