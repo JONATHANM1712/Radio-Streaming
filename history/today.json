@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:33:17.619726+00:00",
+  "updated_at_utc": "2026-11-27T11:35:30.247175+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Glenn Fredly",
+        "title": "Tega",
+        "detected_at_utc": "2026-11-27T11:35:30.154173+00:00"
+      },
       {
         "artist": "98°",
         "title": "My Everything",
