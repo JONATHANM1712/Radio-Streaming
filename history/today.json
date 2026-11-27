@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:57:25.091451+00:00",
+  "updated_at_utc": "2026-11-27T06:00:41.720704+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Benét",
+        "title": "Spend My Life With You",
+        "detected_at_utc": "2026-11-27T06:00:41.468882+00:00"
+      },
       {
         "artist": "Mr. Big",
         "title": "Just Take My Heart",
