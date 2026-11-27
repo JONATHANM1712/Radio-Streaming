@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T12:29:57.938506+00:00",
+  "updated_at_utc": "2026-11-27T12:31:12.216093+00:00",
   "stations": {
     "kis": [
       {
@@ -325,6 +325,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Capital Cities",
+        "title": "Safe and Sound",
+        "detected_at_utc": "2026-11-27T12:31:12.128644+00:00"
+      },
       {
         "artist": "Sum 41",
         "title": "In Too Deep",
