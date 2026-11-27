@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:55:11.396679+00:00",
+  "updated_at_utc": "2026-11-27T17:59:15.463345+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
+        "detected_at_utc": "2026-11-27T17:59:15.271176+00:00"
+      },
       {
         "artist": "Michael Bolton",
         "title": "Go the Distance (From Disney's Hercules)",
