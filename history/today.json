@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:37:09.058251+00:00",
+  "updated_at_utc": "2026-11-27T04:39:52.843597+00:00",
   "stations": {
     "kis": [
       {
@@ -307,6 +307,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Candra Darusman",
+        "title": "Kau",
+        "detected_at_utc": "2026-11-27T04:39:52.754532+00:00"
+      },
       {
         "artist": "Elvis Costello & The Attractions",
         "title": "Every Day I Write the Book",
