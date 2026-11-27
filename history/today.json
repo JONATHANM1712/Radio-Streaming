@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:04:15.416551+00:00",
+  "updated_at_utc": "2026-11-27T07:06:16.860359+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Chasing Pavements",
+        "detected_at_utc": "2026-11-27T07:06:16.719992+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "What Do You Mean?",
