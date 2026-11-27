@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:09:01.623721+00:00",
+  "updated_at_utc": "2026-11-27T15:10:04.455445+00:00",
   "stations": {
     "kis": [
       {
@@ -490,6 +490,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "DAISIES",
+        "detected_at_utc": "2026-11-27T15:09:59.947621+00:00"
+      },
       {
         "artist": "Mark Ronson",
         "title": "Valerie (feat. Amy Winehouse)",
