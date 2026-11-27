@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:51:04.437670+00:00",
+  "updated_at_utc": "2026-11-27T17:53:02.617874+00:00",
   "stations": {
     "kis": [
       {
@@ -70,6 +70,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-27T17:53:02.375823+00:00"
+      },
       {
         "artist": "no na",
         "title": "honk!",
