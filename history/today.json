@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:53:36.397715+00:00",
+  "updated_at_utc": "2026-11-27T16:54:40.797628+00:00",
   "stations": {
     "kis": [
       {
@@ -621,6 +621,11 @@
     ],
     "jak": [
       {
+        "artist": "Flight Facilities",
+        "title": "Crave You (feat. Giselle)",
+        "detected_at_utc": "2026-11-27T16:54:38.293055+00:00"
+      },
+      {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
         "detected_at_utc": "2026-11-27T16:53:36.304080+00:00"
@@ -1217,6 +1222,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Lenny Kravitz",
+        "title": "If You Can't Say No",
+        "detected_at_utc": "2026-11-27T16:54:40.009321+00:00"
+      },
       {
         "artist": "The Black Crowes",
         "title": "She Talks To Angels",
