@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:20:41.911368+00:00",
+  "updated_at_utc": "2026-11-27T17:23:45.941063+00:00",
   "stations": {
     "kis": [
       {
@@ -40,6 +40,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Keala Settle & The Greatest Showman Ensemble",
+        "title": "This Is Me",
+        "detected_at_utc": "2026-11-27T17:23:45.857846+00:00"
+      },
       {
         "artist": "Ashlee Simpson",
         "title": "Pieces Of Me",
