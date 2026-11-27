@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T04:43:18.984880+00:00",
+  "updated_at_utc": "2026-11-27T04:45:01.115198+00:00",
   "stations": {
     "kis": [
       {
@@ -322,6 +322,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Garbage",
+        "title": "Stupid Girl (2015 - Remaster)",
+        "detected_at_utc": "2026-11-27T04:45:01.028612+00:00"
+      },
       {
         "artist": "Candra Darusman",
         "title": "Kau",
