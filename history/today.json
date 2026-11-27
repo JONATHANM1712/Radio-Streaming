@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T03:50:20.708742+00:00",
+  "updated_at_utc": "2026-11-27T03:51:24.053649+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-11-27T03:50:32.707797+00:00"
+      },
       {
         "artist": "Vinayak",
         "title": "Cartoon network",
