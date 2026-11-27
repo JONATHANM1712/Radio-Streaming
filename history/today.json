@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:17:01.246948+00:00",
+  "updated_at_utc": "2026-11-27T13:18:04.065060+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Reza Artamevia",
+        "title": "Biar Menjadi Kenangan",
+        "detected_at_utc": "2026-11-27T13:18:00.714648+00:00"
+      },
       {
         "artist": "Leona Lewis",
         "title": "Better In Time",
