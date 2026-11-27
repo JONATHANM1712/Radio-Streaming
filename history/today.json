@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T03:51:24.053649+00:00",
+  "updated_at_utc": "2026-11-27T03:53:36.693046+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Boyz II Men",
+        "title": "4 Seasons of Loneliness",
+        "detected_at_utc": "2026-11-27T03:53:28.428838+00:00"
+      },
       {
         "artist": "SWV",
         "title": "Weak (Radio Edit)",
@@ -100,6 +105,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Only Girl (In the World)",
+        "detected_at_utc": "2026-11-27T03:52:46.084851+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
@@ -207,6 +217,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Human League",
+        "title": "Human",
+        "detected_at_utc": "2026-11-27T03:53:26.014108+00:00"
+      },
       {
         "artist": "Loïs Lane",
         "title": "I Wanna Be",
