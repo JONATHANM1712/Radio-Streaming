@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:49:23.248297+00:00",
+  "updated_at_utc": "2026-11-27T07:50:44.544396+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Christina Perri",
+        "title": "Jar of Hearts",
+        "detected_at_utc": "2026-11-27T07:50:44.414786+00:00"
+      },
       {
         "artist": "Ahmad Band",
         "title": "Sudah",
