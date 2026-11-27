@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:23:24.026656+00:00",
+  "updated_at_utc": "2026-11-27T05:25:21.022301+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Not a Bad Thing",
+        "detected_at_utc": "2026-11-27T05:25:20.854159+00:00"
+      },
       {
         "artist": "India.Arie",
         "title": "Can I Walk With You",
