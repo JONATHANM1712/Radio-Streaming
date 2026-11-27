@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:12:22.242030+00:00",
+  "updated_at_utc": "2026-11-27T17:13:26.119847+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "KLa Project",
+        "title": "Menjemput Impian (Album Version)",
+        "detected_at_utc": "2026-11-27T17:13:12.540515+00:00"
+      },
       {
         "artist": "Kesha",
         "title": "Your Love Is My Drug",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-27T17:13:20.457721+00:00"
+      },
       {
         "artist": "Estelle",
         "title": "American Boy (feat. Kanye West)",
@@ -52,6 +62,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Bryan Adams",
+        "title": "Thought I'd Died and Gone to Heaven",
+        "detected_at_utc": "2026-11-27T17:13:24.321291+00:00"
+      },
       {
         "artist": "Duran Duran",
         "title": "A Matter of Feeling",
