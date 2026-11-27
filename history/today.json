@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:30:00.817478+00:00",
+  "updated_at_utc": "2026-11-27T17:31:04.461368+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Blunt",
+        "title": "Goodbye My Lover",
+        "detected_at_utc": "2026-11-27T17:30:59.994645+00:00"
+      },
       {
         "artist": "Janet Jackson",
         "title": "Together Again",
@@ -45,6 +50,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tata Young",
+        "title": "Sexy Naughty Bitchy",
+        "detected_at_utc": "2026-11-27T17:31:03.028776+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Unfaithful",
