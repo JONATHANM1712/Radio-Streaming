@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:47:25.816536+00:00",
+  "updated_at_utc": "2026-11-27T14:48:28.741374+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Brian McKnight",
+        "title": "Shoulda, Woulda, Coulda",
+        "detected_at_utc": "2026-11-27T14:47:26.170675+00:00"
+      },
       {
         "artist": "Alejandro Sanz",
         "title": "The Hardest Day (con the Corrs)",
