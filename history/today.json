@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:33:41.106744+00:00",
+  "updated_at_utc": "2026-11-27T16:34:44.003720+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Huey Lewis & The News & Gwyneth Paltrow",
+        "title": "Cruisin' (Single Edit)",
+        "detected_at_utc": "2026-11-27T16:34:31.564702+00:00"
+      },
       {
         "artist": "OneRepublic",
         "title": "Secrets",
