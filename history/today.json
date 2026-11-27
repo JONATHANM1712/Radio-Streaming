@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:23:17.633411+00:00",
+  "updated_at_utc": "2026-11-27T16:24:21.928879+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nidji",
+        "title": "Sudah",
+        "detected_at_utc": "2026-11-27T16:24:21.838854+00:00"
+      },
       {
         "artist": "Dua Lipa",
         "title": "Training Season",
