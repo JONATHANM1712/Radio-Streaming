@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T11:41:59.858743+00:00",
+  "updated_at_utc": "2026-11-27T11:45:28.835220+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "In Jingga",
+        "title": "Tentang Aku",
+        "detected_at_utc": "2026-11-27T11:45:28.724519+00:00"
+      },
       {
         "artist": "James Arthur",
         "title": "Say You Won't Let Go",
