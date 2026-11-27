@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:16:27.573027+00:00",
+  "updated_at_utc": "2026-11-27T17:17:30.480176+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Garbage",
+        "title": "Androgyny",
+        "detected_at_utc": "2026-11-27T17:17:24.771242+00:00"
+      },
       {
         "artist": "KLa Project",
         "title": "Menjemput Impian (Album Version)",
