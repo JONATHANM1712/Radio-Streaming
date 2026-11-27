@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:11:29.926425+00:00",
+  "updated_at_utc": "2026-11-27T07:12:33.497344+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "detected_at_utc": "2026-11-27T07:12:27.985668+00:00"
+      },
       {
         "artist": "Sal Priadi",
         "title": "Kita usahakan rumah itu",
