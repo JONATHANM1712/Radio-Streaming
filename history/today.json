@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:29:44.784346+00:00",
+  "updated_at_utc": "2026-11-27T15:30:47.711747+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Boyzone",
+        "title": "No Matter What",
+        "detected_at_utc": "2026-11-27T15:30:41.644297+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go (International Edit)",
@@ -521,6 +526,11 @@
     ],
     "jak": [
       {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "detected_at_utc": "2026-11-27T15:30:36.540202+00:00"
+      },
+      {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
         "detected_at_utc": "2026-11-27T15:27:30.523250+00:00"
@@ -1017,6 +1027,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "George Michael",
+        "title": "A Different Corner",
+        "detected_at_utc": "2026-11-27T15:30:39.628127+00:00"
+      },
       {
         "artist": "Mark McCafferty",
         "title": "On the Street (III) [II] [I]",
