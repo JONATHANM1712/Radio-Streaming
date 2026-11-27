@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:19:07.109079+00:00",
+  "updated_at_utc": "2026-11-27T05:20:12.041698+00:00",
   "stations": {
     "kis": [
       {
@@ -200,6 +200,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dj Mert Akten",
+        "title": "How To Save a Life",
+        "detected_at_utc": "2026-11-27T05:19:16.560843+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
