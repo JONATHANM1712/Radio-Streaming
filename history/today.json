@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:45:44.805853+00:00",
+  "updated_at_utc": "2026-11-27T05:46:56.762445+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mark McCafferty",
+        "title": "On the Street (III) [II] [I]",
+        "detected_at_utc": "2026-11-27T05:46:56.582319+00:00"
+      },
       {
         "artist": "Rob Thomas",
         "title": "Lonely No More",
