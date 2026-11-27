@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:52:08.711015+00:00",
+  "updated_at_utc": "2026-11-27T05:53:12.932908+00:00",
   "stations": {
     "kis": [
       {
@@ -235,6 +235,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "OneRepublic",
+        "title": "All The Right Moves",
+        "detected_at_utc": "2026-11-27T05:52:22.139773+00:00"
+      },
       {
         "artist": "Loren Allred",
         "title": "Never Enough",
