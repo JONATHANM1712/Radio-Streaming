@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:04:26.718262+00:00",
+  "updated_at_utc": "2026-11-27T05:05:29.466500+00:00",
   "stations": {
     "kis": [
       {
@@ -180,6 +180,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Fort Minor",
+        "title": "Believe Me (feat. Bobo & Styles of Beyond)",
+        "detected_at_utc": "2026-11-27T05:04:47.507078+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Teh Hijau",
