@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T14:02:15.325044+00:00",
+  "updated_at_utc": "2026-11-27T14:03:18.226831+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-11-27T14:03:15.964789+00:00"
+      },
       {
         "artist": "Landon Pigg",
         "title": "Falling In Love At a Coffee Shop",
