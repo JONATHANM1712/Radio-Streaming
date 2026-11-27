@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:20:40.481329+00:00",
+  "updated_at_utc": "2026-11-27T07:32:51.496655+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tangga",
+        "title": "Cinta Begini",
+        "detected_at_utc": "2026-11-27T07:32:51.358735+00:00"
+      },
       {
         "artist": "James Morrison",
         "title": "You Give Me Something (Eg Version)",
@@ -527,6 +532,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eurythmics",
+        "title": "There Must Be an Angel (Playing With My Heart)",
+        "detected_at_utc": "2026-11-27T07:32:51.433055+00:00"
+      },
       {
         "artist": "P.M. Dawn",
         "title": "Paper Doll",
