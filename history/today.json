@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-27T17:26:51.505988+00:00",
+  "updated_at_utc": "2026-11-27T17:27:55.435457+00:00",
   "stations": {
     "kis": [
       {
@@ -45,6 +45,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Unfaithful",
+        "detected_at_utc": "2026-11-27T17:27:55.342325+00:00"
+      },
       {
         "artist": "Keala Settle & The Greatest Showman Ensemble",
         "title": "This Is Me",
