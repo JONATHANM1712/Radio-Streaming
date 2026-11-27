@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:07:20.735335+00:00",
+  "updated_at_utc": "2026-11-27T07:09:23.050805+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sal Priadi",
+        "title": "Kita usahakan rumah itu",
+        "detected_at_utc": "2026-11-27T07:09:22.916229+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Chasing Pavements",
