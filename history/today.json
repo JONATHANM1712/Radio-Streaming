@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T12:25:53.339780+00:00",
+  "updated_at_utc": "2026-11-27T12:26:56.450413+00:00",
   "stations": {
     "kis": [
       {
@@ -647,6 +647,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "Boogie Wonderland (feat. The Emotions)",
+        "detected_at_utc": "2026-11-27T12:26:05.030053+00:00"
+      },
       {
         "artist": "EARTH WIND & FIRE",
         "title": "Boogie Wonderland",
