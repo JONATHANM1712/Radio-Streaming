@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:37:17.689741+00:00",
+  "updated_at_utc": "2026-11-27T05:38:21.891633+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "LAUV",
+        "title": "fuck, i’m lonely (feat. Anne-Marie)",
+        "detected_at_utc": "2026-11-27T05:37:19.689240+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Keep Holding On",
