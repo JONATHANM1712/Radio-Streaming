@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:39:55.827330+00:00",
+  "updated_at_utc": "2026-11-27T15:40:58.689083+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rio Febrian",
+        "title": "Bukan Untukku",
+        "detected_at_utc": "2026-11-27T15:39:58.157828+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Butterfly",
