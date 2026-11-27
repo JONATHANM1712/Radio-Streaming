@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T15:30:47.711747+00:00",
+  "updated_at_utc": "2026-11-27T15:34:44.260303+00:00",
   "stations": {
     "kis": [
       {
@@ -525,6 +525,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JVKE",
+        "title": "golden hour",
+        "detected_at_utc": "2026-11-27T15:34:44.177845+00:00"
+      },
       {
         "artist": "Adele",
         "title": "Set Fire to the Rain",
