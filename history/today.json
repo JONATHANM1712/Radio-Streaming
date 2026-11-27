@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T13:33:24.575995+00:00",
+  "updated_at_utc": "2026-11-27T13:34:28.240785+00:00",
   "stations": {
     "kis": [
       {
@@ -777,6 +777,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Eddie Murphy",
+        "title": "Party All the Time",
+        "detected_at_utc": "2026-11-27T13:34:27.570268+00:00"
+      },
       {
         "artist": "Sting",
         "title": "If I Ever Lose My Faith In You",
