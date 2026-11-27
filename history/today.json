@@ -1,8 +1,13 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T16:36:50.667132+00:00",
+  "updated_at_utc": "2026-11-27T16:39:45.817253+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Tulus",
+        "title": "Sewindu",
+        "detected_at_utc": "2026-11-27T16:39:45.724000+00:00"
+      },
       {
         "artist": "Huey Lewis & The News & Gwyneth Paltrow",
         "title": "Cruisin' (Single Edit)",
