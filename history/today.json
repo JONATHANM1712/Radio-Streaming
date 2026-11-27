@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T05:14:53.017404+00:00",
+  "updated_at_utc": "2026-11-27T05:16:08.800803+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-27T05:16:08.604340+00:00"
+      },
       {
         "artist": "Olly Alexander",
         "title": "King",
