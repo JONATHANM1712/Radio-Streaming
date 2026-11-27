@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at_utc": "2026-11-27T07:56:55.980927+00:00",
+  "updated_at_utc": "2026-11-27T11:33:17.619726+00:00",
   "stations": {
     "kis": [
       {
@@ -587,6 +587,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Elpamas",
+        "title": "Pak Tua",
+        "detected_at_utc": "2026-11-27T11:33:17.518071+00:00"
+      },
       {
         "artist": "Run-DMC",
         "title": "Peter Piper",
