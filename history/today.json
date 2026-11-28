@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:47:44.400672+00:00",
+  "updated_at_utc": "2026-11-28T14:48:47.935472+00:00",
   "stations": {
     "kis": [
       {
@@ -760,6 +760,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-28T14:47:49.612094+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Poker Face",
