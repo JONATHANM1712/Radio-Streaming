@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:27:03.695952+00:00",
+  "updated_at_utc": "2026-11-28T10:28:08.551162+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+        "title": "Bang Bang",
+        "detected_at_utc": "2026-11-28T10:28:02.697750+00:00"
+      },
       {
         "artist": "HIVI!",
         "title": "Orang Ke 3",
@@ -440,6 +445,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-28T10:28:06.398777+00:00"
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "E.T. (feat. Kanye West)",
+        "detected_at_utc": "2026-11-28T10:27:04.710147+00:00"
+      },
       {
         "artist": "Arkarna",
         "title": "Life Is Free",
