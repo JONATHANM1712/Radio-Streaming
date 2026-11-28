@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:34:09.295602+00:00",
+  "updated_at_utc": "2026-11-28T14:35:13.179522+00:00",
   "stations": {
     "kis": [
       {
@@ -1632,6 +1632,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Weezer",
+        "title": "The Good Life",
+        "detected_at_utc": "2026-11-28T14:35:02.379581+00:00"
+      },
       {
         "artist": "Depeche Mode",
         "title": "Personal Jesus",
