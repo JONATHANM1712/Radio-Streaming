@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:22:10.231692+00:00",
+  "updated_at_utc": "2026-11-28T11:24:01.046790+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Love on the Brain",
+        "detected_at_utc": "2026-11-28T11:24:00.948420+00:00"
+      },
       {
         "artist": "Toni Braxton",
         "title": "He Wasn't Man Enough",
