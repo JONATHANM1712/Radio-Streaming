@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:27:33.166301+00:00",
+  "updated_at_utc": "2026-11-28T05:29:32.854323+00:00",
   "stations": {
     "kis": [
       {
@@ -442,6 +442,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mr. Big",
+        "title": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song)",
+        "detected_at_utc": "2026-11-28T05:29:32.719430+00:00"
+      },
       {
         "artist": "Anthrax",
         "title": "Madhouse",
