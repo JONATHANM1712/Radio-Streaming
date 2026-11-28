@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:02:02.394321+00:00",
+  "updated_at_utc": "2026-11-28T08:03:06.083060+00:00",
   "stations": {
     "kis": [
       {
@@ -395,6 +395,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "no na",
+        "title": "rollerblade",
+        "detected_at_utc": "2026-11-28T08:02:39.673158+00:00"
+      },
       {
         "artist": "Christina Aguilera",
         "title": "Beautiful",
