@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:58:36.211781+00:00",
+  "updated_at_utc": "2026-11-28T16:59:39.345685+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cranberries",
+        "title": "Ode To My Family (2025 Remastered)",
+        "detected_at_utc": "2026-11-28T16:58:39.233047+00:00"
+      },
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
@@ -930,6 +935,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Location Unknown ◐ (feat. Georgia)",
+        "detected_at_utc": "2026-11-28T16:59:34.189676+00:00"
+      },
       {
         "artist": "Alicia Keys",
         "title": "Teenage Love Affair",
