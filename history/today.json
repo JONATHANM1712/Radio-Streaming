@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:55:08.159365+00:00",
+  "updated_at_utc": "2026-11-28T10:56:11.333787+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "James Bay",
+        "title": "Let It Go (International Edit)",
+        "detected_at_utc": "2026-11-28T10:56:06.738067+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Nothing Lasts Forever",
@@ -1042,6 +1047,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Night Ranger",
+        "title": "Sister Christian",
+        "detected_at_utc": "2026-11-28T10:56:07.460110+00:00"
+      },
       {
         "artist": "The Rolling Stones",
         "title": "Angie",
