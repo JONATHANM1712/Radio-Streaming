@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:07:38.809579+00:00",
+  "updated_at_utc": "2026-11-28T14:09:44.542949+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Eric Benét",
+        "title": "Spend My Life With You",
+        "detected_at_utc": "2026-11-28T14:08:50.507411+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Loyal (feat. Lil Wayne & Tyga)",
@@ -715,6 +720,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rihanna",
+        "title": "Umbrella (feat. JAŸ-Z)",
+        "detected_at_utc": "2026-11-28T14:08:45.014767+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Great Expectation",
