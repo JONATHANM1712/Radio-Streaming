@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:39:42.070866+00:00",
+  "updated_at_utc": "2026-11-28T15:40:44.706091+00:00",
   "stations": {
     "kis": [
       {
@@ -825,6 +825,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Meghan Trainor",
+        "title": "Like I'm Gonna Lose You (feat. John Legend)",
+        "detected_at_utc": "2026-11-28T15:39:45.378964+00:00"
+      },
       {
         "artist": "Jennifer Love Hewitt",
         "title": "BareNaked (Video Version)",
