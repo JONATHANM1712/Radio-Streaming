@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:48:41.131495+00:00",
+  "updated_at_utc": "2026-11-28T06:50:01.865763+00:00",
   "stations": {
     "kis": [
       {
@@ -290,6 +290,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Pitbull",
+        "title": "I Know You Want Me (Calle Ocho)",
+        "detected_at_utc": "2026-11-28T06:50:01.732784+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
