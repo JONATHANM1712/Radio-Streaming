@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:07:47.458003+00:00",
+  "updated_at_utc": "2026-11-28T15:08:50.002723+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chicago",
+        "title": "You Come to My Senses",
+        "detected_at_utc": "2026-11-28T15:08:40.963616+00:00"
+      },
       {
         "artist": "Saybia",
         "title": "The Second You Sleep",
