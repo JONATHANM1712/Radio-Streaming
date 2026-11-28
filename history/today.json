@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:50:52.356298+00:00",
+  "updated_at_utc": "2026-11-28T11:51:55.938889+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Coldplay",
+        "title": "In My Place",
+        "detected_at_utc": "2026-11-28T11:51:53.532929+00:00"
+      },
       {
         "artist": "JENNIE",
         "title": "Less than a Lover",
