@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:09:06.139225+00:00",
+  "updated_at_utc": "2026-11-28T05:11:07.529873+00:00",
   "stations": {
     "kis": [
       {
@@ -175,6 +175,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Antonio George",
+        "title": "Back to Galway",
+        "detected_at_utc": "2026-11-28T05:11:07.442912+00:00"
+      },
       {
         "artist": "Jung Kook & Latto",
         "title": "Seven (Explicit Ver.)",
