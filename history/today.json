@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:45:12.915004+00:00",
+  "updated_at_utc": "2026-11-28T16:47:13.790009+00:00",
   "stations": {
     "kis": [
       {
@@ -915,6 +915,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "detected_at_utc": "2026-11-28T16:47:13.687043+00:00"
+      },
       {
         "artist": "Plain White T's",
         "title": "1, 2, 3, 4",
