@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:06:25.881059+00:00",
+  "updated_at_utc": "2026-11-28T06:07:28.531970+00:00",
   "stations": {
     "kis": [
       {
@@ -245,6 +245,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "detected_at_utc": "2026-11-28T06:07:25.228978+00:00"
+      },
       {
         "artist": "Selena Gomez & Marshmello",
         "title": "Wolves",
