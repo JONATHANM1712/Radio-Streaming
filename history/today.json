@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:35:51.957223+00:00",
+  "updated_at_utc": "2026-11-28T07:36:55.616482+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Cokelat",
+        "title": "Pergi",
+        "detected_at_utc": "2026-11-28T07:36:35.467600+00:00"
+      },
       {
         "artist": "Sheryl Crow",
         "title": "The First Cut Is the Deepest",
@@ -772,6 +777,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Jimi Hendrix Experience",
+        "title": "Voodoo Child (Slight Return)",
+        "detected_at_utc": "2026-11-28T07:35:57.600469+00:00"
+      },
       {
         "artist": "Poison",
         "title": "Unskinny Bop",
