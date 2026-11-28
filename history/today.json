@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:29:44.823932+00:00",
+  "updated_at_utc": "2026-11-28T07:32:25.774887+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sheryl Crow",
+        "title": "The First Cut Is the Deepest",
+        "detected_at_utc": "2026-11-28T07:32:25.626130+00:00"
+      },
       {
         "artist": "DJ Yoshi's",
         "title": "Superman's in Love",
