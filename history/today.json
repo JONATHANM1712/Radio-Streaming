@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T03:40:38.254029+00:00",
+  "updated_at_utc": "2026-11-28T03:41:42.391302+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Luis Fonsi & Daddy Yankee",
+        "title": "Despacito",
+        "detected_at_utc": "2026-11-28T03:41:39.140954+00:00"
+      },
       {
         "artist": "Luis Fonsi",
         "title": "Despacito (Versión Pop)",
