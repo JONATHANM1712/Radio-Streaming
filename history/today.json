@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:13:31.510926+00:00",
+  "updated_at_utc": "2026-11-28T13:14:34.128724+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Warna",
+        "title": "Oh... Cinta",
+        "detected_at_utc": "2026-11-28T13:13:35.441434+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "F**kin' Perfect",
