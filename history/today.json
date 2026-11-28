@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:38:04.297933+00:00",
+  "updated_at_utc": "2026-11-28T16:40:07.790542+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "K-Ci & JoJo",
+        "title": "All My Life",
+        "detected_at_utc": "2026-11-28T16:40:07.710109+00:00"
+      },
       {
         "artist": "Humania",
         "title": "Jelita",
