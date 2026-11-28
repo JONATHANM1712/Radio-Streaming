@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:39:34.566057+00:00",
+  "updated_at_utc": "2026-11-28T06:42:41.176870+00:00",
   "stations": {
     "kis": [
       {
@@ -280,6 +280,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Chris Brown",
+        "title": "With You",
+        "detected_at_utc": "2026-11-28T06:42:41.006544+00:00"
+      },
       {
         "artist": "Calvin Harris & Dua Lipa",
         "title": "One Kiss",
