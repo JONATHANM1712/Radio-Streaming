@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:32:27.282544+00:00",
+  "updated_at_utc": "2026-11-28T08:33:29.910082+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Arkarna",
+        "title": "Life Is Free",
+        "detected_at_utc": "2026-11-28T08:33:23.610650+00:00"
+      },
       {
         "artist": "Noel Harrison",
         "title": "Windmills of Your Mind (Remastered Album Version)",
