@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:09:38.051975+00:00",
+  "updated_at_utc": "2026-11-28T12:12:36.940826+00:00",
   "stations": {
     "kis": [
       {
@@ -565,6 +565,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Beauty and a Beat (feat. Nicki Minaj)",
+        "detected_at_utc": "2026-11-28T12:12:36.854521+00:00"
+      },
       {
         "artist": "Empire Of The Sun",
         "title": "Walking on a Dream",
