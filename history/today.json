@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:24:04.348047+00:00",
+  "updated_at_utc": "2026-11-28T12:25:06.958911+00:00",
   "stations": {
     "kis": [
       {
@@ -580,6 +580,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Christina Perri",
+        "title": "A Thousand Years",
+        "detected_at_utc": "2026-11-28T12:24:58.990829+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Love Yourself",
