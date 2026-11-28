@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:22:31.621298+00:00",
+  "updated_at_utc": "2026-11-28T14:23:38.114629+00:00",
   "stations": {
     "kis": [
       {
@@ -735,6 +735,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ruth B",
+        "title": "Lost Boy",
+        "detected_at_utc": "2026-11-28T14:23:37.977711+00:00"
+      },
       {
         "artist": "Ruth B.",
         "title": "Lost Boy",
