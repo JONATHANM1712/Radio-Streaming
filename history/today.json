@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:14:54.081942+00:00",
+  "updated_at_utc": "2026-11-28T11:15:58.538759+00:00",
   "stations": {
     "kis": [
       {
@@ -1102,6 +1102,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Marilyn Manson",
+        "title": "Wrapped In Plastic",
+        "detected_at_utc": "2026-11-28T11:15:52.567065+00:00"
+      },
       {
         "artist": "The Stone Roses",
         "title": "I Wanna Be Adored",
