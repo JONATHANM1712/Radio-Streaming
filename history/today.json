@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:50:00.377272+00:00",
+  "updated_at_utc": "2026-11-28T07:51:03.097431+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Alejandro",
+        "detected_at_utc": "2026-11-28T07:51:01.715847+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Alejandro (Radio Edit)",
@@ -375,6 +380,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "What the Hell",
+        "detected_at_utc": "2026-11-28T07:50:18.391870+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Too Good To Say Goodbye",
