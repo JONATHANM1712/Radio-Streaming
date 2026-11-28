@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:01:15.467020+00:00",
+  "updated_at_utc": "2026-11-28T16:02:18.148886+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Brave",
+        "detected_at_utc": "2026-11-28T16:01:16.683414+00:00"
+      },
       {
         "artist": "USHER",
         "title": "You Make Me Wanna...",
@@ -850,6 +855,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Portugal. The Man",
+        "title": "Feel It Still",
+        "detected_at_utc": "2026-11-28T16:01:15.836240+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "Every Teardrop Is a Waterfall",
@@ -1872,6 +1882,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Genesis",
+        "title": "Dodo / Lurker",
+        "detected_at_utc": "2026-11-28T16:02:17.484189+00:00"
+      },
       {
         "artist": "The Original Hit Makers",
         "title": "War Pigs (As Made Famous By Black Sabbath) [Karaoke Version]",
