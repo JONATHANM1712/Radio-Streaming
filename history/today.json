@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:31:07.425648+00:00",
+  "updated_at_utc": "2026-11-28T12:33:16.367877+00:00",
   "stations": {
     "kis": [
       {
@@ -595,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Clay Aiken",
+        "title": "Invisible",
+        "detected_at_utc": "2026-11-28T12:33:16.246056+00:00"
+      },
       {
         "artist": "Tate McRae",
         "title": "Housewife",
