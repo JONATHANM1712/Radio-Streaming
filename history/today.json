@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:09:27.236564+00:00",
+  "updated_at_utc": "2026-11-28T16:10:30.071122+00:00",
   "stations": {
     "kis": [
       {
@@ -865,6 +865,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "detected_at_utc": "2026-11-28T16:10:27.137572+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Treasure",
