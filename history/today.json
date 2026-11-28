@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:57:04.264676+00:00",
+  "updated_at_utc": "2026-11-28T11:58:07.082256+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Luther Vandross",
+        "title": "The Closer I Get to You (feat. Beyoncé)",
+        "detected_at_utc": "2026-11-28T11:58:03.647610+00:00"
+      },
       {
         "artist": "Rick Price",
         "title": "If You Were My Baby",
@@ -550,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On the Floor (feat. Pitbull)",
+        "detected_at_utc": "2026-11-28T11:58:05.175797+00:00"
+      },
       {
         "artist": "DJ Baddmixx",
         "title": "Warm-Up 3 (6 Min 130 Bpm)",
