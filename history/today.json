@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:16:43.047826+00:00",
+  "updated_at_utc": "2026-11-28T08:18:02.440218+00:00",
   "stations": {
     "kis": [
       {
@@ -415,6 +415,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jamiroquai",
+        "title": "Love Foolosophy (Radio Edit)",
+        "detected_at_utc": "2026-11-28T08:18:02.339180+00:00"
+      },
       {
         "artist": "Billie Eilish",
         "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
