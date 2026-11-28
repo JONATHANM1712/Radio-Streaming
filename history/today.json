@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:25:45.151087+00:00",
+  "updated_at_utc": "2026-11-28T06:26:47.835188+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Gym Class Heroes",
+        "title": "The Fighter (feat. Ryan Tedder)",
+        "detected_at_utc": "2026-11-28T06:25:51.404727+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Attention",
