@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:54:34.131715+00:00",
+  "updated_at_utc": "2026-11-28T04:55:36.807434+00:00",
   "stations": {
     "kis": [
       {
@@ -160,6 +160,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "detected_at_utc": "2026-11-28T04:54:40.634778+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me (music video edit, extended version)",
@@ -362,6 +367,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Keep Yourself Alive",
+        "detected_at_utc": "2026-11-28T04:54:38.416535+00:00"
+      },
       {
         "artist": "Siouxsie & The Banshees",
         "title": "Hong Kong Garden",
