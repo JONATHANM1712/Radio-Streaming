@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:40:29.034989+00:00",
+  "updated_at_utc": "2026-11-28T14:41:32.675187+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rosa Linn",
+        "title": "SNAP",
+        "detected_at_utc": "2026-11-28T14:41:32.297339+00:00"
+      },
       {
         "artist": "Mila Ballard",
         "title": "New Rules",
