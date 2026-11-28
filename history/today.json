@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:18:18.987645+00:00",
+  "updated_at_utc": "2026-11-28T14:21:27.435706+00:00",
   "stations": {
     "kis": [
       {
@@ -1592,6 +1592,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Rainbow",
+        "title": "The Temple of the King",
+        "detected_at_utc": "2026-11-28T14:21:27.307980+00:00"
+      },
       {
         "artist": "White Lion",
         "title": "Cry for Freedom",
