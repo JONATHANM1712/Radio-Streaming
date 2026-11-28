@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:58:31.743932+00:00",
+  "updated_at_utc": "2026-11-28T07:01:13.657114+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Dewa 19",
+        "title": "IPS + Cukup Siti Nurbaya (Remastered 2022)",
+        "detected_at_utc": "2026-11-28T07:01:13.371829+00:00"
+      },
       {
         "artist": "Eternal",
         "title": "Stay",
