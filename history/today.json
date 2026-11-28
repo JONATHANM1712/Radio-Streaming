@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:43:45.849526+00:00",
+  "updated_at_utc": "2026-11-28T06:46:33.306637+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Cardigans",
+        "title": "Erase/Rewind",
+        "detected_at_utc": "2026-11-28T06:46:33.148406+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Never Again",
