@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:24:33.773529+00:00",
+  "updated_at_utc": "2026-11-28T07:25:37.478958+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Kiss It Better",
+        "detected_at_utc": "2026-11-28T07:25:07.781833+00:00"
+      },
       {
         "artist": "Lonyo",
         "title": "Summer of Love (Radio Edit)",
