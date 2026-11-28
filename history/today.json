@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:51:18.748179+00:00",
+  "updated_at_utc": "2026-11-28T16:52:21.435599+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
+        "detected_at_utc": "2026-11-28T16:51:25.703493+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Don't Say You Love Me",
@@ -920,6 +925,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kylie Minogue",
+        "title": "Can't Get You Out of My Head",
+        "detected_at_utc": "2026-11-28T16:52:19.894675+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors (Radio Edit)",
@@ -2022,6 +2032,16 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Rolling Stones",
+        "title": "Under the Boardwalk",
+        "detected_at_utc": "2026-11-28T16:52:21.100245+00:00"
+      },
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "1979",
+        "detected_at_utc": "2026-11-28T16:51:19.383115+00:00"
+      },
       {
         "artist": "The Smashing Pumpkins",
         "title": "1979 (Remastered 2012)",
