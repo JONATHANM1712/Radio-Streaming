@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:15:05.856959+00:00",
+  "updated_at_utc": "2026-11-28T14:17:14.123384+00:00",
   "stations": {
     "kis": [
       {
@@ -725,6 +725,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Corrs",
+        "title": "All the Love In the World",
+        "detected_at_utc": "2026-11-28T14:17:13.947532+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
