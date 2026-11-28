@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:50:03.099518+00:00",
+  "updated_at_utc": "2026-11-28T15:52:02.222193+00:00",
   "stations": {
     "kis": [
       {
@@ -840,6 +840,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Frankie J",
+        "title": "Don't Wanna Try (Spanglish)",
+        "detected_at_utc": "2026-11-28T15:52:02.122594+00:00"
+      },
       {
         "artist": "Olivia Rodrigo",
         "title": "drop dead",
