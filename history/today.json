@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:39:18.811446+00:00",
+  "updated_at_utc": "2026-11-28T14:40:29.034989+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mila Ballard",
+        "title": "New Rules",
+        "detected_at_utc": "2026-11-28T14:40:28.876869+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Home",
