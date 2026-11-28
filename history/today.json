@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:58:05.490197+00:00",
+  "updated_at_utc": "2026-11-28T13:59:08.043728+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Agnes Monica",
+        "title": "Bilang Saja",
+        "detected_at_utc": "2026-11-28T13:59:03.570176+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Let's Get It Started (Spike Mix)",
@@ -705,6 +710,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jess Glynne",
+        "title": "Don't Be So Hard On Yourself",
+        "detected_at_utc": "2026-11-28T13:58:18.155043+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "Nothing Lasts Forever",
