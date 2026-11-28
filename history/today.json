@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:02:21.891459+00:00",
+  "updated_at_utc": "2026-11-28T11:06:27.204307+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Annie Lennox",
+        "title": "Waiting In Vain",
+        "detected_at_utc": "2026-11-28T11:06:27.070913+00:00"
+      },
       {
         "artist": "Michael Bublé",
         "title": "Home",
