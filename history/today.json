@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:49:19.133909+00:00",
+  "updated_at_utc": "2026-11-28T16:51:18.748179+00:00",
   "stations": {
     "kis": [
       {
@@ -920,6 +920,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors (Radio Edit)",
+        "detected_at_utc": "2026-11-28T16:51:18.664389+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors",
