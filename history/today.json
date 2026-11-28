@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:00:17.737009+00:00",
+  "updated_at_utc": "2026-11-28T06:02:13.566024+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Marvin Gaye (feat. Meghan Trainor)",
+        "detected_at_utc": "2026-11-28T06:02:13.486453+00:00"
+      },
       {
         "artist": "Mariah Carey",
         "title": "Through the Rain",
