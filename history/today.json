@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:27:55.834986+00:00",
+  "updated_at_utc": "2026-11-28T08:29:18.347983+00:00",
   "stations": {
     "kis": [
       {
@@ -430,6 +430,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-28T08:29:18.259107+00:00"
+      },
       {
         "artist": "Justin Timberlake",
         "title": "SexyBack (feat. Timbaland)",
