@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:02:13.566024+00:00",
+  "updated_at_utc": "2026-11-28T06:04:20.622309+00:00",
   "stations": {
     "kis": [
       {
@@ -240,6 +240,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Selena Gomez & Marshmello",
+        "title": "Wolves",
+        "detected_at_utc": "2026-11-28T06:04:20.536245+00:00"
+      },
       {
         "artist": "My Chemical Romance",
         "title": "I Don't Love You",
