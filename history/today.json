@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:57:14.830471+00:00",
+  "updated_at_utc": "2026-11-28T10:58:18.066159+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Mishari Rashid Alafasy",
+        "title": "Recitation 1",
+        "detected_at_utc": "2026-11-28T10:58:10.100881+00:00"
+      },
       {
         "artist": "James Bay",
         "title": "Let It Go",
