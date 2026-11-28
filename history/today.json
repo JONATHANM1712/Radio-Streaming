@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T03:44:45.399410+00:00",
+  "updated_at_utc": "2026-11-28T03:45:49.317903+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass (Clean Version)",
+        "detected_at_utc": "2026-11-28T03:45:46.936199+00:00"
+      },
       {
         "artist": "Luis Fonsi & Daddy Yankee",
         "title": "Despacito",
