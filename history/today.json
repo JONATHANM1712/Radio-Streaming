@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:19:05.292037+00:00",
+  "updated_at_utc": "2026-11-28T08:22:09.380345+00:00",
   "stations": {
     "kis": [
       {
@@ -420,6 +420,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Icona Pop",
+        "title": "All Night",
+        "detected_at_utc": "2026-11-28T08:22:09.266636+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Love Foolosophy (Radio Edit)",
