@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:14:34.128724+00:00",
+  "updated_at_utc": "2026-11-28T13:16:38.436129+00:00",
   "stations": {
     "kis": [
       {
@@ -640,6 +640,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Robin Thicke",
+        "title": "The Sweetest Love",
+        "detected_at_utc": "2026-11-28T13:16:38.337817+00:00"
+      },
       {
         "artist": "KATSEYE",
         "title": "Animal",
