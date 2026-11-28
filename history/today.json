@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:43:44.436459+00:00",
+  "updated_at_utc": "2026-11-28T13:46:39.874333+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lenka",
+        "title": "Trouble Is a Friend",
+        "detected_at_utc": "2026-11-28T13:46:39.790557+00:00"
+      },
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
