@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:07:23.326410+00:00",
+  "updated_at_utc": "2026-11-28T16:09:27.236564+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Nu Flavor",
+        "title": "Heaven",
+        "detected_at_utc": "2026-11-28T16:09:27.144830+00:00"
+      },
       {
         "artist": "Lemar",
         "title": "I Believe In a Thing Called Love",
@@ -1897,6 +1902,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Looks That Kill",
+        "detected_at_utc": "2026-11-28T16:09:27.186191+00:00"
+      },
       {
         "artist": "Genesis",
         "title": "Dodo / Lurker",
