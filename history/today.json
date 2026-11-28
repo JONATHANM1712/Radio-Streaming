@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:51:55.938889+00:00",
+  "updated_at_utc": "2026-11-28T11:52:58.517635+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rick Price",
+        "title": "If You Were My Baby",
+        "detected_at_utc": "2026-11-28T11:52:55.975482+00:00"
+      },
       {
         "artist": "Jason Mraz & Colbie Caillat",
         "title": "Lucky",
