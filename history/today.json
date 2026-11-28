@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:46:39.874333+00:00",
+  "updated_at_utc": "2026-11-28T13:47:55.094377+00:00",
   "stations": {
     "kis": [
       {
@@ -685,6 +685,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ariana Grande",
+        "title": "hate that i made you love me (music video edit, extended version)",
+        "detected_at_utc": "2026-11-28T13:47:54.999693+00:00"
+      },
       {
         "artist": "Calvin Harris",
         "title": "Feel So Close (Radio Edit)",
