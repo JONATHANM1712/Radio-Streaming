@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:26:30.397850+00:00",
+  "updated_at_utc": "2026-11-28T05:27:33.166301+00:00",
   "stations": {
     "kis": [
       {
@@ -195,6 +195,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-28T05:27:28.768196+00:00"
+      },
       {
         "artist": "Post Malone",
         "title": "Better Now",
