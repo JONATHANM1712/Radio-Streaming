@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:37:47.795767+00:00",
+  "updated_at_utc": "2026-11-28T17:39:43.910714+00:00",
   "stations": {
     "kis": [
       {
@@ -55,6 +55,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mario Vazquez",
+        "title": "Gallery",
+        "detected_at_utc": "2026-11-28T17:39:43.834376+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "History",
