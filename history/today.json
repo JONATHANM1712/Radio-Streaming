@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:21:07.408707+00:00",
+  "updated_at_utc": "2026-11-28T11:22:10.231692+00:00",
   "stations": {
     "kis": [
       {
@@ -510,6 +510,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Hailee Steinfeld",
+        "title": "Rock Bottom (feat. DNCE)",
+        "detected_at_utc": "2026-11-28T11:21:57.673285+00:00"
+      },
       {
         "artist": "Jason Mraz",
         "title": "I'm Yours",
