@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:28:40.405418+00:00",
+  "updated_at_utc": "2026-11-28T07:29:44.823932+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "DJ Yoshi's",
+        "title": "Superman's in Love",
+        "detected_at_utc": "2026-11-28T07:29:17.650708+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Kiss It Better",
@@ -340,6 +345,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-28T07:29:36.060460+00:00"
+      },
       {
         "artist": "Paramore",
         "title": "Ain't It Fun",
