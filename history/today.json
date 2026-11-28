@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:20:43.015628+00:00",
+  "updated_at_utc": "2026-11-28T16:21:45.674557+00:00",
   "stations": {
     "kis": [
       {
@@ -875,6 +875,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kesha",
+        "title": "TiK ToK",
+        "detected_at_utc": "2026-11-28T16:21:41.361399+00:00"
+      },
       {
         "artist": "Jack Ü, Skrillex & Diplo",
         "title": "Where Are Ü Now (with Justin Bieber) [feat. Justin Bieber]",
