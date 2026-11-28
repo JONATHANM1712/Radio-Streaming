@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:46:43.983736+00:00",
+  "updated_at_utc": "2026-11-28T11:49:49.448162+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jason Mraz & Colbie Caillat",
+        "title": "Lucky",
+        "detected_at_utc": "2026-11-28T11:49:49.353791+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Locked Out of Heaven",
