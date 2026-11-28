@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T03:39:34.743688+00:00",
+  "updated_at_utc": "2026-11-28T03:40:38.254029+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Versace On The Floor",
+        "detected_at_utc": "2026-11-28T03:40:36.149605+00:00"
+      },
       {
         "artist": "LMFAO",
         "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
@@ -95,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Luis Fonsi",
+        "title": "Despacito (Versión Pop)",
+        "detected_at_utc": "2026-11-28T03:40:37.284740+00:00"
+      },
       {
         "artist": "MIKA",
         "title": "Grace Kelly",
