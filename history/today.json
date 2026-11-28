@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:06:00.798092+00:00",
+  "updated_at_utc": "2026-11-28T05:08:03.380155+00:00",
   "stations": {
     "kis": [
       {
@@ -170,6 +170,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jung Kook & Latto",
+        "title": "Seven (Explicit Ver.)",
+        "detected_at_utc": "2026-11-28T05:08:03.282804+00:00"
+      },
       {
         "artist": "Moony",
         "title": "I Don't Know Why (Viale, Dj Ross New Radio Mix)",
