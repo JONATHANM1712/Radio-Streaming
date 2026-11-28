@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:33:13.201243+00:00",
+  "updated_at_utc": "2026-11-28T06:34:16.944651+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Ratu Lebah",
+        "detected_at_utc": "2026-11-28T06:33:59.712520+00:00"
+      },
       {
         "artist": "Pitbull",
         "title": "Feel This Moment (feat. Christina Aguilera)",
@@ -612,6 +617,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Public Image Ltd.",
+        "title": "Public Image",
+        "detected_at_utc": "2026-11-28T06:34:16.417957+00:00"
+      },
       {
         "artist": "U2",
         "title": "The Fly",
