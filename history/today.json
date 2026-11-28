@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:24:13.996779+00:00",
+  "updated_at_utc": "2026-11-28T15:25:16.746407+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "detected_at_utc": "2026-11-28T15:24:14.518136+00:00"
+      },
       {
         "artist": "Demi Lovato",
         "title": "Let It Go (Single Version)",
