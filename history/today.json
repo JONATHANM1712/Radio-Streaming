@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:53:59.759708+00:00",
+  "updated_at_utc": "2026-11-28T12:55:02.754222+00:00",
   "stations": {
     "kis": [
       {
@@ -615,6 +615,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Jackson & Justin Timberlake",
+        "title": "Love Never Felt So Good",
+        "detected_at_utc": "2026-11-28T12:54:59.474223+00:00"
+      },
       {
         "artist": "Ed Sheeran",
         "title": "Lego House",
