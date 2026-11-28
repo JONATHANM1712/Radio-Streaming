@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:36:12.125847+00:00",
+  "updated_at_utc": "2026-11-28T04:37:16.056898+00:00",
   "stations": {
     "kis": [
       {
@@ -145,6 +145,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Weeknd",
+        "title": "Call Out My Name",
+        "detected_at_utc": "2026-11-28T04:37:10.745127+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "Bring Me to Life",
