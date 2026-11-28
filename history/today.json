@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:21:02.495409+00:00",
+  "updated_at_utc": "2026-11-28T12:22:05.092157+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Sexy Love",
+        "detected_at_utc": "2026-11-28T12:21:51.962494+00:00"
+      },
       {
         "artist": "Tompi",
         "title": "Tak Pernah Setengah Hati",
