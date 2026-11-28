@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:05:22.148431+00:00",
+  "updated_at_utc": "2026-11-28T16:07:23.326410+00:00",
   "stations": {
     "kis": [
       {
@@ -860,6 +860,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Treasure",
+        "detected_at_utc": "2026-11-28T16:07:23.244001+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Ain't In LA",
