@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:57:14.603224+00:00",
+  "updated_at_utc": "2026-11-28T15:58:17.225510+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "USHER",
+        "title": "You Make Me Wanna...",
+        "detected_at_utc": "2026-11-28T15:58:13.059837+00:00"
+      },
       {
         "artist": "The Script",
         "title": "The Man Who Can't Be Moved",
