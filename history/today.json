@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:12:44.552300+00:00",
+  "updated_at_utc": "2026-11-28T11:13:49.563830+00:00",
   "stations": {
     "kis": [
       {
@@ -505,6 +505,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "The Killers",
+        "title": "Mr. Brightside",
+        "detected_at_utc": "2026-11-28T11:13:41.690514+00:00"
+      },
       {
         "artist": "Anne-Marie",
         "title": "2002",
