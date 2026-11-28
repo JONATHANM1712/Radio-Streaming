@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:35:01.252656+00:00",
+  "updated_at_utc": "2026-11-28T16:37:01.399611+00:00",
   "stations": {
     "kis": [
       {
@@ -900,6 +900,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "India.Arie",
+        "title": "Chocolate High (feat. Musiq Soulchild)",
+        "detected_at_utc": "2026-11-28T16:37:01.308715+00:00"
+      },
       {
         "artist": "Bazzi",
         "title": "Paradise",
