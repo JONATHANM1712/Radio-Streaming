@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:31:08.810191+00:00",
+  "updated_at_utc": "2026-11-28T13:32:11.510229+00:00",
   "stations": {
     "kis": [
       {
@@ -665,6 +665,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Rex Orange County",
+        "title": "THE SHADE",
+        "detected_at_utc": "2026-11-28T13:31:16.506391+00:00"
+      },
       {
         "artist": "One Direction",
         "title": "What Makes You Beautiful",
@@ -1442,6 +1447,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Yes",
+        "title": "I'm Running",
+        "detected_at_utc": "2026-11-28T13:32:11.349639+00:00"
+      },
       {
         "artist": "Jimi Hendrix",
         "title": "Fire",
