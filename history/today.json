@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:42:22.123393+00:00",
+  "updated_at_utc": "2026-11-28T04:44:22.637371+00:00",
   "stations": {
     "kis": [
       {
@@ -150,6 +150,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Landon Pigg",
+        "title": "Falling In Love At a Coffee Shop",
+        "detected_at_utc": "2026-11-28T04:44:22.539413+00:00"
+      },
       {
         "artist": "The Weeknd",
         "title": "Call Out My Name",
