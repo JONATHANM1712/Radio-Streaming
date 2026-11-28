@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:54:57.568165+00:00",
+  "updated_at_utc": "2026-11-28T13:56:00.216201+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Black Eyed Peas",
+        "title": "Let's Get It Started",
+        "detected_at_utc": "2026-11-28T13:55:57.121435+00:00"
+      },
       {
         "artist": "Black Eyed Peas",
         "title": "Let's Get It Started (Spike Mix)",
@@ -695,6 +700,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-11-28T13:55:13.259984+00:00"
+      },
       {
         "artist": "The Pussycat Dolls",
         "title": "Don't Cha (feat. Busta Rhymes) [More Booty Mix]",
