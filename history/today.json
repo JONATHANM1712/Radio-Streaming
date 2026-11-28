@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:55:02.754222+00:00",
+  "updated_at_utc": "2026-11-28T12:56:05.443069+00:00",
   "stations": {
     "kis": [
       {
@@ -1352,6 +1352,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Mötley Crüe",
+        "title": "Girls, Girls, Girls",
+        "detected_at_utc": "2026-11-28T12:55:07.399298+00:00"
+      },
       {
         "artist": "Blur",
         "title": "She's So High",
