@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:55:09.215706+00:00",
+  "updated_at_utc": "2026-11-28T15:56:11.874346+00:00",
   "stations": {
     "kis": [
       {
@@ -845,6 +845,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-28T15:56:09.330209+00:00"
+      },
       {
         "artist": "Frankie J",
         "title": "Don't Wanna Try (Spanglish)",
