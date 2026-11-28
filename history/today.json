@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:54:01.076325+00:00",
+  "updated_at_utc": "2026-11-28T11:56:01.371463+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Die On This Hill",
+        "detected_at_utc": "2026-11-28T11:56:01.283393+00:00"
+      },
       {
         "artist": "Coldplay",
         "title": "In My Place",
