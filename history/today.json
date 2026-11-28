@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:12:36.940826+00:00",
+  "updated_at_utc": "2026-11-28T12:13:39.560639+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Damage",
+        "title": "Forever",
+        "detected_at_utc": "2026-11-28T12:13:37.896547+00:00"
+      },
       {
         "artist": "Nelly",
         "title": "My Place (feat. Jaheim)",
@@ -565,6 +570,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "PinkPantheress",
+        "title": "Stateside (with Zara Larsson)",
+        "detected_at_utc": "2026-11-28T12:13:38.081991+00:00"
+      },
       {
         "artist": "Justin Bieber",
         "title": "Beauty and a Beat (feat. Nicki Minaj)",
