@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:51:58.215718+00:00",
+  "updated_at_utc": "2026-11-28T10:53:01.388852+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Maroon 5",
+        "title": "Nothing Lasts Forever",
+        "detected_at_utc": "2026-11-28T10:52:58.376637+00:00"
+      },
       {
         "artist": "The Corrs",
         "title": "Runaway",
