@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:41:50.031922+00:00",
+  "updated_at_utc": "2026-11-28T17:43:48.854107+00:00",
   "stations": {
     "kis": [
       {
@@ -65,6 +65,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dhruv",
+        "title": "double take",
+        "detected_at_utc": "2026-11-28T17:43:48.766713+00:00"
+      },
       {
         "artist": "Mario Vazquez",
         "title": "Gallery",
