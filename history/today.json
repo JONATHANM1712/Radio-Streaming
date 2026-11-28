@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:07:20.555320+00:00",
+  "updated_at_utc": "2026-11-28T04:08:24.675268+00:00",
   "stations": {
     "kis": [
       {
@@ -125,6 +125,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ROSÉ",
+        "title": "new trick",
+        "detected_at_utc": "2026-11-28T04:07:22.310809+00:00"
+      },
       {
         "artist": "LAUV",
         "title": "I Like Me Better",
@@ -272,6 +277,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Blur",
+        "title": "Country House",
+        "detected_at_utc": "2026-11-28T04:07:23.588471+00:00"
+      },
       {
         "artist": "Suicidal Tendencies",
         "title": "Lovely",
