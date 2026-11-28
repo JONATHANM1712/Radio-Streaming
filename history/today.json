@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:07:30.365987+00:00",
+  "updated_at_utc": "2026-11-28T11:10:36.427796+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Anne-Marie",
+        "title": "2002",
+        "detected_at_utc": "2026-11-28T11:10:36.290763+00:00"
+      },
       {
         "artist": "Barasuara",
         "title": "Terbuang Dalam Waktu",
