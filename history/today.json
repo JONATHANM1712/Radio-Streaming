@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:01:13.807837+00:00",
+  "updated_at_utc": "2026-11-28T04:03:17.455018+00:00",
   "stations": {
     "kis": [
       {
@@ -257,6 +257,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Suicidal Tendencies",
+        "title": "Lovely",
+        "detected_at_utc": "2026-11-28T04:03:17.306145+00:00"
+      },
       {
         "artist": "Jane's Addiction",
         "title": "Been Caught Stealing",
