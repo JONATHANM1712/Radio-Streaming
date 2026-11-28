@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:48:16.452630+00:00",
+  "updated_at_utc": "2026-11-28T16:49:19.133909+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "M2M",
+        "title": "Don't Say You Love Me",
+        "detected_at_utc": "2026-11-28T16:48:20.440757+00:00"
+      },
       {
         "artist": "Tori Amos",
         "title": "Sleeps With Butterflies",
@@ -2012,6 +2017,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "1979 (Remastered 2012)",
+        "detected_at_utc": "2026-11-28T16:49:17.010669+00:00"
+      },
       {
         "artist": "The Smashing Pumpkins",
         "title": "1979",
