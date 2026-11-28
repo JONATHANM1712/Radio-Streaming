@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:04:50.666795+00:00",
+  "updated_at_utc": "2026-11-28T17:05:53.973266+00:00",
   "stations": {
     "kis": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ne-Yo",
+        "title": "Mad",
+        "detected_at_utc": "2026-11-28T17:05:51.455287+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Location Unknown ◐ (feat. Georgia)",
