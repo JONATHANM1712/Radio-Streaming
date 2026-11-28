@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:28:07.478039+00:00",
+  "updated_at_utc": "2026-11-28T11:29:10.566000+00:00",
   "stations": {
     "kis": [
       {
@@ -520,6 +520,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "detected_at_utc": "2026-11-28T11:29:10.487497+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
