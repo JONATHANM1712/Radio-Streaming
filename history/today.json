@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:45:42.304475+00:00",
+  "updated_at_utc": "2026-11-28T10:46:45.521744+00:00",
   "stations": {
     "kis": [
       {
@@ -465,6 +465,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "Just the Way You Are",
+        "detected_at_utc": "2026-11-28T10:46:42.763428+00:00"
+      },
       {
         "artist": "CTID",
         "title": "Haaland (Ha Ha Ha)",
