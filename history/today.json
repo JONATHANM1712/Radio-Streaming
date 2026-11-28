@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:30:21.518758+00:00",
+  "updated_at_utc": "2026-11-28T08:31:24.065137+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Arkarna",
+        "title": "Life Is Free",
+        "detected_at_utc": "2026-11-28T08:31:00.587354+00:00"
+      },
       {
         "artist": "Capital Cities",
         "title": "Safe and Sound",
