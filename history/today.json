@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:53:01.388852+00:00",
+  "updated_at_utc": "2026-11-28T10:54:04.650553+00:00",
   "stations": {
     "kis": [
       {
@@ -475,6 +475,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Bruno Mars",
+        "title": "I Just Might",
+        "detected_at_utc": "2026-11-28T10:54:01.216303+00:00"
+      },
       {
         "artist": "Daya",
         "title": "Sit Still, Look Pretty",
