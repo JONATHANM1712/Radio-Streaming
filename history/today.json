@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:17:01.202413+00:00",
+  "updated_at_utc": "2026-11-28T15:18:04.146701+00:00",
   "stations": {
     "kis": [
       {
@@ -800,6 +800,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls (DJ Ironik)",
+        "detected_at_utc": "2026-11-28T15:17:03.922612+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Beautiful Girls",
