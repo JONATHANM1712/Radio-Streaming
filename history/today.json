@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:28:57.937941+00:00",
+  "updated_at_utc": "2026-11-28T04:30:58.307627+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Kristen Bell & Santino Fontana",
+        "title": "Love Is an Open Door",
+        "detected_at_utc": "2026-11-28T04:30:58.177029+00:00"
+      },
       {
         "artist": "Jamax Digital",
         "title": "Children's Mix (Children's Mix)",
