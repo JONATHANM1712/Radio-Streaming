@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:41:36.862789+00:00",
+  "updated_at_utc": "2026-11-28T12:43:35.952850+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Akon",
+        "title": "Lonely",
+        "detected_at_utc": "2026-11-28T12:43:35.858665+00:00"
+      },
       {
         "artist": "HONNE",
         "title": "Me & You ◑",
