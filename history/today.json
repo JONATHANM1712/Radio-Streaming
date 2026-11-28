@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:01:18.399804+00:00",
+  "updated_at_utc": "2026-11-28T11:02:21.891459+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Home",
+        "detected_at_utc": "2026-11-28T11:02:18.020711+00:00"
+      },
       {
         "artist": "Mishari Rashid Alafasy",
         "title": "Recitation 1",
@@ -490,6 +495,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sara Bareilles",
+        "title": "Gravity",
+        "detected_at_utc": "2026-11-28T11:02:19.810298+00:00"
+      },
       {
         "artist": "no na",
         "title": "rollerblade",
