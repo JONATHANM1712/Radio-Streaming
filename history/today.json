@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:27:54.248247+00:00",
+  "updated_at_utc": "2026-11-28T16:28:56.901784+00:00",
   "stations": {
     "kis": [
       {
@@ -890,6 +890,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "USHER",
+        "title": "Burn",
+        "detected_at_utc": "2026-11-28T16:28:51.197424+00:00"
+      },
       {
         "artist": "Winky Wiryawan",
         "title": "Aura (feat. Afgan & Maxime Bouttier)",
