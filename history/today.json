@@ -1,8 +1,14 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:00:42.995183+00:00",
+  "updated_at_utc": "2026-11-28T17:01:46.008624+00:00",
   "stations": {
-    "kis": [],
+    "kis": [
+      {
+        "artist": "The Cranberries",
+        "title": "Ode To My Family (2025 Remastered)",
+        "detected_at_utc": "2026-11-28T17:00:43.442329+00:00"
+      }
+    ],
     "jak": [
       {
         "artist": "HONNE",
