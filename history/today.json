@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:58:47.384714+00:00",
+  "updated_at_utc": "2026-11-28T07:59:50.861365+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lingua",
+        "title": "Bila Kuingat (Remastered)",
+        "detected_at_utc": "2026-11-28T07:59:12.286041+00:00"
+      },
       {
         "artist": "Atomic Kitten",
         "title": "Whole Again",
