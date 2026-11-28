@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:30:04.801971+00:00",
+  "updated_at_utc": "2026-11-28T12:31:07.425648+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jamie Lawson",
+        "title": "Wasn't Expecting That",
+        "detected_at_utc": "2026-11-28T12:31:05.993544+00:00"
+      },
       {
         "artist": "M2M",
         "title": "Pretty Boy",
@@ -590,6 +595,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "detected_at_utc": "2026-11-28T12:30:11.437124+00:00"
+      },
       {
         "artist": "Christina Perri",
         "title": "A Thousand Years",
