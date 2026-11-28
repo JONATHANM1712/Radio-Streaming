@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:10:30.566780+00:00",
+  "updated_at_utc": "2026-11-28T13:11:33.238898+00:00",
   "stations": {
     "kis": [
       {
@@ -1387,6 +1387,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Metallica",
+        "title": "One",
+        "detected_at_utc": "2026-11-28T13:10:35.225825+00:00"
+      },
       {
         "artist": "Beastie Boys",
         "title": "Hey Ladies",
