@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:12:07.481739+00:00",
+  "updated_at_utc": "2026-11-28T17:13:10.371806+00:00",
   "stations": {
     "kis": [
       {
@@ -25,6 +25,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MAGIC!",
+        "title": "Rude",
+        "detected_at_utc": "2026-11-28T17:13:05.685316+00:00"
+      },
       {
         "artist": "Evanescence",
         "title": "Going Under",
