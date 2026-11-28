@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:45:52.229263+00:00",
+  "updated_at_utc": "2026-11-28T15:46:54.886173+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Ott",
+        "title": "Let Me In",
+        "detected_at_utc": "2026-11-28T15:45:54.301849+00:00"
+      },
       {
         "artist": "Glenn Fredly",
         "title": "Kisah Romantis",
@@ -830,6 +835,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DJ SoLoMaNXX",
+        "title": "In The Dark",
+        "detected_at_utc": "2026-11-28T15:45:53.867139+00:00"
+      },
       {
         "artist": "DEV",
         "title": "In the Dark",
