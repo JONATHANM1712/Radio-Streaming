@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:55:30.870779+00:00",
+  "updated_at_utc": "2026-11-28T16:56:33.445701+00:00",
   "stations": {
     "kis": [
       {
@@ -930,6 +930,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Alicia Keys",
+        "title": "Teenage Love Affair",
+        "detected_at_utc": "2026-11-28T16:56:26.115948+00:00"
+      },
       {
         "artist": "Kylie Minogue",
         "title": "Can't Get You Out of My Head",
