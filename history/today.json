@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:45:59.526673+00:00",
+  "updated_at_utc": "2026-11-28T05:47:02.049501+00:00",
   "stations": {
     "kis": [
       {
@@ -220,6 +220,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Maroon 5",
+        "title": "If I Never See Your Face Again (feat. Rihanna) [feat. Rihanna]",
+        "detected_at_utc": "2026-11-28T05:46:57.733240+00:00"
+      },
       {
         "artist": "Tulus",
         "title": "Manusia Kuat",
