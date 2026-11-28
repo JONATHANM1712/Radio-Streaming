@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:49:57.108344+00:00",
+  "updated_at_utc": "2026-11-28T05:51:03.206845+00:00",
   "stations": {
     "kis": [
       {
@@ -225,6 +225,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "detected_at_utc": "2026-11-28T05:51:03.126359+00:00"
+      },
       {
         "artist": "Maroon 5",
         "title": "If I Never See Your Face Again (feat. Rihanna) [feat. Rihanna]",
