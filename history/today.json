@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:18:17.178522+00:00",
+  "updated_at_utc": "2026-11-28T05:19:19.907130+00:00",
   "stations": {
     "kis": [
       {
@@ -422,6 +422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Scorpions",
+        "title": "Wind of Change",
+        "detected_at_utc": "2026-11-28T05:19:16.662360+00:00"
+      },
       {
         "artist": "The Jesus and Mary Chain",
         "title": "Just Like Honey",
