@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:42:33.781508+00:00",
+  "updated_at_utc": "2026-11-28T13:43:44.436459+00:00",
   "stations": {
     "kis": [
       {
@@ -680,6 +680,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Calvin Harris",
+        "title": "Feel So Close (Radio Edit)",
+        "detected_at_utc": "2026-11-28T13:43:44.347590+00:00"
+      },
       {
         "artist": "Carly Rae Jepsen",
         "title": "This Kiss",
