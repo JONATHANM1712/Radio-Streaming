@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:04:20.622309+00:00",
+  "updated_at_utc": "2026-11-28T06:05:23.204419+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Britney Spears",
+        "title": "Lucky",
+        "detected_at_utc": "2026-11-28T06:05:17.340354+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "Marvin Gaye (feat. Meghan Trainor)",
