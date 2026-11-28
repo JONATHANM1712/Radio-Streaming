@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:35:35.651721+00:00",
+  "updated_at_utc": "2026-11-28T15:36:38.428110+00:00",
   "stations": {
     "kis": [
       {
@@ -825,6 +825,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jennifer Love Hewitt",
+        "title": "BareNaked (Video Version)",
+        "detected_at_utc": "2026-11-28T15:35:37.072031+00:00"
+      },
       {
         "artist": "Yura Yunita",
         "title": "Dunia Tipu-Tipu",
