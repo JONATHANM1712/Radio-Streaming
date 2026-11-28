@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:18:37.477882+00:00",
+  "updated_at_utc": "2026-11-28T16:19:40.392109+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lady A",
+        "title": "Just A Kiss",
+        "detected_at_utc": "2026-11-28T16:18:38.585230+00:00"
+      },
       {
         "artist": "Padi",
         "title": "Menanti Sebuah Jawaban",
@@ -1927,6 +1932,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Stone Temple Pilots",
+        "title": "Vasoline",
+        "detected_at_utc": "2026-11-28T16:18:38.598089+00:00"
+      },
       {
         "artist": "Blur",
         "title": "Coffee & TV",
