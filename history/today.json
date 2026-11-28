@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:00:09.495163+00:00",
+  "updated_at_utc": "2026-11-28T04:01:13.807837+00:00",
   "stations": {
     "kis": [
       {
@@ -115,6 +115,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Jason Derulo",
+        "title": "It Girl",
+        "detected_at_utc": "2026-11-28T04:00:10.718470+00:00"
+      },
       {
         "artist": "Keyshia Cole",
         "title": "Love",
@@ -252,6 +257,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jane's Addiction",
+        "title": "Been Caught Stealing",
+        "detected_at_utc": "2026-11-28T04:00:12.794236+00:00"
+      },
       {
         "artist": "Foo Fighters",
         "title": "Everlong",
