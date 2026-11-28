@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:03:13.220322+00:00",
+  "updated_at_utc": "2026-11-28T13:04:15.882336+00:00",
   "stations": {
     "kis": [
       {
@@ -625,6 +625,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "detected_at_utc": "2026-11-28T13:03:15.464687+00:00"
+      },
       {
         "artist": "Michael Jackson & Justin Timberlake",
         "title": "Love Never Felt So Good",
