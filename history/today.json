@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:13:10.371806+00:00",
+  "updated_at_utc": "2026-11-28T17:16:12.865890+00:00",
   "stations": {
     "kis": [
       {
@@ -47,6 +47,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Who Wants to Live Forever",
+        "detected_at_utc": "2026-11-28T17:16:12.767372+00:00"
+      },
       {
         "artist": "Madonna",
         "title": "Dress You Up",
