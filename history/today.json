@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:52:02.222193+00:00",
+  "updated_at_utc": "2026-11-28T15:54:06.548323+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Script",
+        "title": "The Man Who Can't Be Moved",
+        "detected_at_utc": "2026-11-28T15:54:06.465871+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Finesse (Remix) [feat. Cardi B]",
