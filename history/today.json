@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:06:27.204307+00:00",
+  "updated_at_utc": "2026-11-28T11:07:30.365987+00:00",
   "stations": {
     "kis": [
       {
@@ -500,6 +500,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Barasuara",
+        "title": "Terbuang Dalam Waktu",
+        "detected_at_utc": "2026-11-28T11:06:27.340670+00:00"
+      },
       {
         "artist": "Sara Bareilles",
         "title": "Gravity",
@@ -1077,6 +1082,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Radiohead",
+        "title": "Karma Police",
+        "detected_at_utc": "2026-11-28T11:06:31.941809+00:00"
+      },
       {
         "artist": "Night Ranger",
         "title": "Sister Christian",
