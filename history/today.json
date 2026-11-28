@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:24:01.046790+00:00",
+  "updated_at_utc": "2026-11-28T11:25:03.758096+00:00",
   "stations": {
     "kis": [
       {
@@ -515,6 +515,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-28T11:25:02.069476+00:00"
+      },
       {
         "artist": "Hailee Steinfeld",
         "title": "Rock Bottom (feat. DNCE)",
