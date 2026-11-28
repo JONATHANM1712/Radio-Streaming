@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T03:45:49.317903+00:00",
+  "updated_at_utc": "2026-11-28T03:46:52.636415+00:00",
   "stations": {
     "kis": [
       {
@@ -100,6 +100,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "detected_at_utc": "2026-11-28T03:46:49.096398+00:00"
+      },
       {
         "artist": "P!nk",
         "title": "Raise Your Glass (Clean Version)",
