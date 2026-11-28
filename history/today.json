@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:41:10.392986+00:00",
+  "updated_at_utc": "2026-11-28T16:42:12.980444+00:00",
   "stations": {
     "kis": [
       {
@@ -1997,6 +1997,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Metallica",
+        "title": "Mama Said (Remastered)",
+        "detected_at_utc": "2026-11-28T16:42:08.104865+00:00"
+      },
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Breaking the Girl",
