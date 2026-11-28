@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:48:51.881299+00:00",
+  "updated_at_utc": "2026-11-28T10:50:54.966598+00:00",
   "stations": {
     "kis": [
       {
@@ -470,6 +470,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Daya",
+        "title": "Sit Still, Look Pretty",
+        "detected_at_utc": "2026-11-28T10:50:54.832873+00:00"
+      },
       {
         "artist": "Bruno Mars",
         "title": "Just the Way You Are",
