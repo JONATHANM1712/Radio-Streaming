@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:51:03.097431+00:00",
+  "updated_at_utc": "2026-11-28T07:52:05.811498+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Texas",
+        "title": "In Our Lifetime",
+        "detected_at_utc": "2026-11-28T07:52:03.146386+00:00"
+      },
       {
         "artist": "Lady Gaga",
         "title": "Alejandro",
