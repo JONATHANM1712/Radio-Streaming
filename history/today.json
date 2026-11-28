@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:36:44.625696+00:00",
+  "updated_at_utc": "2026-11-28T05:37:47.348156+00:00",
   "stations": {
     "kis": [
       {
@@ -210,6 +210,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Kings Of Convenience",
+        "title": "Cayman Islands (Radio Mix)",
+        "detected_at_utc": "2026-11-28T05:37:43.697545+00:00"
+      },
       {
         "artist": "Amy Winehouse",
         "title": "Back To Black",
