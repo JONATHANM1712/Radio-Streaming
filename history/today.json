@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:25:37.743601+00:00",
+  "updated_at_utc": "2026-11-28T14:26:41.165056+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "R.E.M.",
+        "title": "Losing My Religion",
+        "detected_at_utc": "2026-11-28T14:25:46.288796+00:00"
+      },
       {
         "artist": "Incubus",
         "title": "Love Hurts",
