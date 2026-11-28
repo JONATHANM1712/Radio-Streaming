@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:31:24.065137+00:00",
+  "updated_at_utc": "2026-11-28T08:32:27.282544+00:00",
   "stations": {
     "kis": [
       {
@@ -435,6 +435,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Noel Harrison",
+        "title": "Windmills of Your Mind (Remastered Album Version)",
+        "detected_at_utc": "2026-11-28T08:32:22.358765+00:00"
+      },
       {
         "artist": "ADÉLA",
         "title": "Nicole Kidman",
