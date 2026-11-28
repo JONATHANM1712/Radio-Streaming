@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:45:48.313260+00:00",
+  "updated_at_utc": "2026-11-28T14:47:44.400672+00:00",
   "stations": {
     "kis": [
       {
@@ -1662,6 +1662,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Cure",
+        "title": "Cut Here (Acoustic Version)",
+        "detected_at_utc": "2026-11-28T14:47:44.272355+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Never Tear Us Apart (The Story Behind The Song) [Commentary]",
