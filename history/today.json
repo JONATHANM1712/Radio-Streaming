@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:22:17.095727+00:00",
+  "updated_at_utc": "2026-11-28T05:24:25.061035+00:00",
   "stations": {
     "kis": [
       {
@@ -190,6 +190,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Post Malone",
+        "title": "Better Now",
+        "detected_at_utc": "2026-11-28T05:24:24.970130+00:00"
+      },
       {
         "artist": "Bondan Prakoso & Fade2black",
         "title": "Ya Sudahlah",
