@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:35:13.179522+00:00",
+  "updated_at_utc": "2026-11-28T14:36:16.878943+00:00",
   "stations": {
     "kis": [
       {
@@ -750,6 +750,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Home",
+        "detected_at_utc": "2026-11-28T14:35:13.902142+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
