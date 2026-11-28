@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:24:58.442769+00:00",
+  "updated_at_utc": "2026-11-28T13:26:01.176589+00:00",
   "stations": {
     "kis": [
       {
@@ -660,6 +660,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman",
+        "detected_at_utc": "2026-11-28T13:25:04.465920+00:00"
+      },
       {
         "artist": "Andra Day",
         "title": "Rise Up",
@@ -1427,6 +1432,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "AC/DC",
+        "title": "Big Gun",
+        "detected_at_utc": "2026-11-28T13:24:58.759931+00:00"
+      },
       {
         "artist": "U2",
         "title": "Babyface",
