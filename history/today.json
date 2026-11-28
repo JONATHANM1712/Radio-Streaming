@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:46:54.886173+00:00",
+  "updated_at_utc": "2026-11-28T15:47:57.748278+00:00",
   "stations": {
     "kis": [
       {
@@ -835,6 +835,16 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drop dead (singalong audio)",
+        "detected_at_utc": "2026-11-28T15:47:56.958029+00:00"
+      },
+      {
+        "artist": "DEV",
+        "title": "In the Dark",
+        "detected_at_utc": "2026-11-28T15:46:55.339483+00:00"
+      },
       {
         "artist": "DJ SoLoMaNXX",
         "title": "In The Dark",
