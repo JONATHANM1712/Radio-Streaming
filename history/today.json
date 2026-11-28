@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:49:49.448162+00:00",
+  "updated_at_utc": "2026-11-28T11:50:52.356298+00:00",
   "stations": {
     "kis": [
       {
@@ -545,6 +545,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "JENNIE",
+        "title": "Less than a Lover",
+        "detected_at_utc": "2026-11-28T11:49:49.890935+00:00"
+      },
       {
         "artist": "Avril Lavigne",
         "title": "I Will Be",
@@ -1182,6 +1187,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "311",
+        "title": "All Mixed Up",
+        "detected_at_utc": "2026-11-28T11:49:56.151146+00:00"
+      },
       {
         "artist": "Led Zeppelin",
         "title": "Whole Lotta Love",
