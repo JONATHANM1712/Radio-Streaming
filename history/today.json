@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:11:40.049404+00:00",
+  "updated_at_utc": "2026-11-28T11:12:44.552300+00:00",
   "stations": {
     "kis": [
       {
@@ -1092,6 +1092,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Stone Roses",
+        "title": "I Wanna Be Adored",
+        "detected_at_utc": "2026-11-28T11:11:43.548482+00:00"
+      },
       {
         "artist": "Radiohead",
         "title": "Karma Police",
