@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:22:11.158255+00:00",
+  "updated_at_utc": "2026-11-28T15:24:13.996779+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Rihanna",
+        "title": "Stay (feat. Mikky Ekko)",
+        "detected_at_utc": "2026-11-28T15:24:13.867358+00:00"
+      },
       {
         "artist": "Snoop Dogg",
         "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
