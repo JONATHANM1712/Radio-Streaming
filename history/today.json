@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:22:09.380345+00:00",
+  "updated_at_utc": "2026-11-28T08:23:12.182121+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Elton John",
+        "title": "Can You Feel the Love Tonight",
+        "detected_at_utc": "2026-11-28T08:22:48.584629+00:00"
+      },
       {
         "artist": "Taylor Swift",
         "title": "You Belong With Me",
