@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:26:47.835188+00:00",
+  "updated_at_utc": "2026-11-28T06:30:03.472494+00:00",
   "stations": {
     "kis": [
       {
@@ -270,6 +270,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Winky Wiryawan",
+        "title": "Aura (feat. Afgan & Maxime Bouttier)",
+        "detected_at_utc": "2026-11-28T06:30:03.329146+00:00"
+      },
       {
         "artist": "Gym Class Heroes",
         "title": "The Fighter (feat. Ryan Tedder)",
