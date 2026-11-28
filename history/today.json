@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:51:49.738148+00:00",
+  "updated_at_utc": "2026-11-28T13:52:52.359875+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Dj Number",
+        "title": "xitswiriri",
+        "detected_at_utc": "2026-11-28T13:52:06.921270+00:00"
+      },
       {
         "artist": "Super Furry Animals",
         "title": "Juxtapozed with U",
