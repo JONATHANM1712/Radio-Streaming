@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:03:16.092954+00:00",
+  "updated_at_utc": "2026-11-28T14:07:38.809579+00:00",
   "stations": {
     "kis": [
       {
@@ -715,6 +715,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-28T14:07:38.678344+00:00"
+      },
       {
         "artist": "Ellie Goulding",
         "title": "On My Mind",
