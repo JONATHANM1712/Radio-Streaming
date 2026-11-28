@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:15:40.104228+00:00",
+  "updated_at_utc": "2026-11-28T08:16:43.047826+00:00",
   "stations": {
     "kis": [
       {
@@ -887,6 +887,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Kiss",
+        "title": "Beth",
+        "detected_at_utc": "2026-11-28T08:16:26.985101+00:00"
+      },
       {
         "artist": "CAKE",
         "title": "Frank Sinatra",
