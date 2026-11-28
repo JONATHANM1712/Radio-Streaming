@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:27:17.904152+00:00",
+  "updated_at_utc": "2026-11-28T15:28:20.582049+00:00",
   "stations": {
     "kis": [
       {
@@ -810,6 +810,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Regina Spektor",
+        "title": "Fidelity",
+        "detected_at_utc": "2026-11-28T15:27:19.805679+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
