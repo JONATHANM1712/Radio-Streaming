@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:56:01.371463+00:00",
+  "updated_at_utc": "2026-11-28T11:57:04.264676+00:00",
   "stations": {
     "kis": [
       {
@@ -550,6 +550,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "DJ Baddmixx",
+        "title": "Warm-Up 3 (6 Min 130 Bpm)",
+        "detected_at_utc": "2026-11-28T11:57:02.746599+00:00"
+      },
       {
         "artist": "SIENNA SPIRO",
         "title": "Die On This Hill",
