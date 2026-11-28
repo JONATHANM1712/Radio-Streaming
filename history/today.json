@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T07:02:17.518707+00:00",
+  "updated_at_utc": "2026-11-28T07:04:42.663095+00:00",
   "stations": {
     "kis": [
       {
@@ -692,6 +692,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Sublime",
+        "title": "Wrong Way",
+        "detected_at_utc": "2026-11-28T07:04:42.496626+00:00"
+      },
       {
         "artist": "Rage Against the Machine",
         "title": "Bulls On Parade",
