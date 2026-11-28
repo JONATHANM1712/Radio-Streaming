@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:37:16.056898+00:00",
+  "updated_at_utc": "2026-11-28T04:39:17.605656+00:00",
   "stations": {
     "kis": [
       {
@@ -332,6 +332,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Green Day",
+        "title": "Good Riddance (Time of Your Life)",
+        "detected_at_utc": "2026-11-28T04:39:17.337117+00:00"
+      },
       {
         "artist": "INXS",
         "title": "Guns In the Sky",
