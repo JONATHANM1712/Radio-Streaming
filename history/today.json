@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:29:11.318208+00:00",
+  "updated_at_utc": "2026-11-28T10:31:12.656456+00:00",
   "stations": {
     "kis": [
       {
@@ -445,6 +445,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Weezer",
+        "title": "Island In the Sun",
+        "detected_at_utc": "2026-11-28T10:31:12.524746+00:00"
+      },
       {
         "artist": "Ashe",
         "title": "Stop The Wedding!",
