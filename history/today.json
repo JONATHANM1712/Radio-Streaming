@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:38:33.729915+00:00",
+  "updated_at_utc": "2026-11-28T12:39:36.515530+00:00",
   "stations": {
     "kis": [
       {
@@ -600,6 +600,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "HONNE",
+        "title": "Me & You ◑",
+        "detected_at_utc": "2026-11-28T12:39:27.023204+00:00"
+      },
       {
         "artist": "Clay Aiken",
         "title": "Invisible",
