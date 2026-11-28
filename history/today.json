@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:59:08.043728+00:00",
+  "updated_at_utc": "2026-11-28T14:02:12.710696+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Chris Brown",
+        "title": "Loyal (feat. Lil Wayne & Tyga)",
+        "detected_at_utc": "2026-11-28T14:02:12.562792+00:00"
+      },
       {
         "artist": "Agnes Monica",
         "title": "Bilang Saja",
