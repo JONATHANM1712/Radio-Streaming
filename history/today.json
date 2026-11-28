@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:56:00.216201+00:00",
+  "updated_at_utc": "2026-11-28T13:57:02.844433+00:00",
   "stations": {
     "kis": [
       {
@@ -1527,6 +1527,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Judas Priest",
+        "title": "Johnny B. Goode",
+        "detected_at_utc": "2026-11-28T13:57:02.291141+00:00"
+      },
       {
         "artist": "The Breeders",
         "title": "Cannonball",
