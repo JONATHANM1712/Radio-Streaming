@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:47:13.790009+00:00",
+  "updated_at_utc": "2026-11-28T16:48:16.452630+00:00",
   "stations": {
     "kis": [
       {
@@ -2012,6 +2012,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "1979",
+        "detected_at_utc": "2026-11-28T16:48:15.823068+00:00"
+      },
       {
         "artist": "Metallica",
         "title": "Mama Said (Remastered)",
