@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T10:38:26.386618+00:00",
+  "updated_at_utc": "2026-11-28T10:39:29.515145+00:00",
   "stations": {
     "kis": [
       {
@@ -455,6 +455,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Lil Wayne",
+        "title": "Mrs. Officer (feat. Bobby V & Kidd Kidd) [feat. Bobby V & Kidd Kidd]",
+        "detected_at_utc": "2026-11-28T10:39:26.720884+00:00"
+      },
       {
         "artist": "Lady Gaga & Ariana Grande",
         "title": "Rain On Me",
