@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:59:15.248344+00:00",
+  "updated_at_utc": "2026-11-28T12:02:14.824028+00:00",
   "stations": {
     "kis": [
       {
@@ -555,6 +555,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "A Great Big World & Christina Aguilera",
+        "title": "Say Something",
+        "detected_at_utc": "2026-11-28T12:02:14.738296+00:00"
+      },
       {
         "artist": "Jennifer Lopez",
         "title": "On the Floor (feat. Pitbull)",
