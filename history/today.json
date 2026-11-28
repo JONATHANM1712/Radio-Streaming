@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T12:19:57.427714+00:00",
+  "updated_at_utc": "2026-11-28T12:21:02.495409+00:00",
   "stations": {
     "kis": [
       {
@@ -575,6 +575,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "detected_at_utc": "2026-11-28T12:20:51.289396+00:00"
+      },
       {
         "artist": "Jamiroquai",
         "title": "Little L",
