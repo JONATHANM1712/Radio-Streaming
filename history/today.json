@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:36:26.402411+00:00",
+  "updated_at_utc": "2026-11-28T11:38:28.871564+00:00",
   "stations": {
     "kis": [
       {
@@ -530,6 +530,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Blue",
+        "title": "U Make Me Wanna",
+        "detected_at_utc": "2026-11-28T11:38:28.788859+00:00"
+      },
       {
         "artist": "Megan Thee Stallion & Dua Lipa",
         "title": "Sweetest Pie",
