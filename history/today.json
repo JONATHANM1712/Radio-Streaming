@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:00:30.822636+00:00",
+  "updated_at_utc": "2026-11-28T15:02:37.746564+00:00",
   "stations": {
     "kis": [
       {
@@ -780,6 +780,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "John Mayer",
+        "title": "Heartbreak Warfare",
+        "detected_at_utc": "2026-11-28T15:02:37.658819+00:00"
+      },
       {
         "artist": "Chris Brown",
         "title": "Loyal (feat. Lil Wayne & Tyga)",
