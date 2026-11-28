@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:23:51.763230+00:00",
+  "updated_at_utc": "2026-11-28T04:27:54.802911+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "MALIQ & D'Essentials",
+        "title": "Arah Labuh",
+        "detected_at_utc": "2026-11-28T04:27:54.671592+00:00"
+      },
       {
         "artist": "Travis",
         "title": "Closer",
