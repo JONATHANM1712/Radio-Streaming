@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:11:33.238898+00:00",
+  "updated_at_utc": "2026-11-28T13:13:31.510926+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "KATSEYE",
+        "title": "Animal",
+        "detected_at_utc": "2026-11-28T13:13:31.417375+00:00"
+      },
       {
         "artist": "Nico & Vinz",
         "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
