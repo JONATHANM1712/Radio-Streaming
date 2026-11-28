@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T16:42:12.980444+00:00",
+  "updated_at_utc": "2026-11-28T16:44:10.239805+00:00",
   "stations": {
     "kis": [
       {
@@ -910,6 +910,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Plain White T's",
+        "title": "1, 2, 3, 4",
+        "detected_at_utc": "2026-11-28T16:44:10.151967+00:00"
+      },
       {
         "artist": "Dominic Fike",
         "title": "Babydoll",
