@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:05:11.639188+00:00",
+  "updated_at_utc": "2026-11-28T08:07:47.773998+00:00",
   "stations": {
     "kis": [
       {
@@ -400,6 +400,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Great Expectation",
+        "detected_at_utc": "2026-11-28T08:07:47.683201+00:00"
+      },
       {
         "artist": "Kygo",
         "title": "Stargazing (feat. Justin Jesso)",
