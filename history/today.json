@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T08:11:59.037379+00:00",
+  "updated_at_utc": "2026-11-28T08:13:01.800396+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "PJ & Duncan",
+        "title": "Perfect",
+        "detected_at_utc": "2026-11-28T08:12:34.814356+00:00"
+      },
       {
         "artist": "KK & Sunidhi Chauhan",
         "title": "Soniye",
