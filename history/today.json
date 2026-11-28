@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:22:48.567475+00:00",
+  "updated_at_utc": "2026-11-28T04:23:51.763230+00:00",
   "stations": {
     "kis": [
       {
@@ -130,6 +130,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Travis",
+        "title": "Closer",
+        "detected_at_utc": "2026-11-28T04:23:48.946862+00:00"
+      },
       {
         "artist": "Zara Larsson",
         "title": "Lush Life",
