@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:50:47.086917+00:00",
+  "updated_at_utc": "2026-11-28T13:51:49.738148+00:00",
   "stations": {
     "kis": [
       {
@@ -690,6 +690,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Super Furry Animals",
+        "title": "Juxtapozed with U",
+        "detected_at_utc": "2026-11-28T13:51:05.606710+00:00"
+      },
       {
         "artist": "Ariana Grande",
         "title": "hate that i made you love me (music video edit, extended version)",
@@ -1492,6 +1497,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "CAKE",
+        "title": "Friend Is a Four Letter Word",
+        "detected_at_utc": "2026-11-28T13:50:47.928262+00:00"
+      },
       {
         "artist": "Phylum",
         "title": "Luck",
