@@ -1,6 +1,6 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:02:48.818572+00:00",
+  "updated_at_utc": "2026-11-28T17:04:50.666795+00:00",
   "stations": {
     "kis": [
       {
@@ -22,6 +22,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Jack Wagner",
+        "title": "All I Need",
+        "detected_at_utc": "2026-11-28T17:04:50.572007+00:00"
+      },
       {
         "artist": "Michael Jackson",
         "title": "Ain't No Sunshine",
