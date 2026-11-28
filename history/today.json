@@ -1,8 +1,13 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:35:42.638171+00:00",
+  "updated_at_utc": "2026-11-28T17:36:45.270613+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Michael Bublé",
+        "title": "Feeling Good",
+        "detected_at_utc": "2026-11-28T17:36:42.342005+00:00"
+      },
       {
         "artist": "JAŸ-Z",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
