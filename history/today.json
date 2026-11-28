@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:09:27.925354+00:00",
+  "updated_at_utc": "2026-11-28T13:10:30.566780+00:00",
   "stations": {
     "kis": [
       {
@@ -635,6 +635,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Nico & Vinz",
+        "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
+        "detected_at_utc": "2026-11-28T13:10:26.869355+00:00"
+      },
       {
         "artist": "Charlie Puth",
         "title": "That’s Not How This Works (feat. Dan + Shay)",
