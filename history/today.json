@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:41:32.675187+00:00",
+  "updated_at_utc": "2026-11-28T14:42:36.168854+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Lionel Richie",
+        "title": "I Call It Love",
+        "detected_at_utc": "2026-11-28T14:42:34.459790+00:00"
+      },
       {
         "artist": "Destiny's Child",
         "title": "Survivor",
