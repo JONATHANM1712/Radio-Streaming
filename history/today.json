@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:08:50.002723+00:00",
+  "updated_at_utc": "2026-11-28T15:09:52.588573+00:00",
   "stations": {
     "kis": [
       {
@@ -790,6 +790,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Mike Posner",
+        "title": "I Took a Pill in Ibiza (Seeb Remix)",
+        "detected_at_utc": "2026-11-28T15:09:49.319741+00:00"
+      },
       {
         "artist": "Selena Gomez",
         "title": "Love On",
