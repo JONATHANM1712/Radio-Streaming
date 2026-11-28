@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:19:06.752452+00:00",
+  "updated_at_utc": "2026-11-28T15:20:09.364547+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Snoop Dogg",
+        "title": "Signs (feat. Charlie Wilson & Justin Timberlake) [feat. Charlie Wilson & Justin Timberlake]",
+        "detected_at_utc": "2026-11-28T15:20:05.373463+00:00"
+      },
       {
         "artist": "Adera",
         "title": "Lebih Indah",
@@ -800,6 +805,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Let It Go (Single Version)",
+        "detected_at_utc": "2026-11-28T15:20:07.911604+00:00"
+      },
       {
         "artist": "Sean Kingston",
         "title": "Beautiful Girls",
