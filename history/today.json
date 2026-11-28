@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:47:22.044381+00:00",
+  "updated_at_utc": "2026-11-28T04:48:30.040222+00:00",
   "stations": {
     "kis": [
       {
@@ -347,6 +347,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Megadeth",
+        "title": "Anarchy In the U.K.",
+        "detected_at_utc": "2026-11-28T04:48:29.934203+00:00"
+      },
       {
         "artist": "TOOL",
         "title": "Forty Six & 2",
