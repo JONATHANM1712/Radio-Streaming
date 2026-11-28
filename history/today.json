@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T04:32:01.414372+00:00",
+  "updated_at_utc": "2026-11-28T04:33:05.648971+00:00",
   "stations": {
     "kis": [
       {
@@ -140,6 +140,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Evanescence",
+        "title": "Bring Me to Life",
+        "detected_at_utc": "2026-11-28T04:33:03.969237+00:00"
+      },
       {
         "artist": "MALIQ & D'Essentials",
         "title": "Arah Labuh",
