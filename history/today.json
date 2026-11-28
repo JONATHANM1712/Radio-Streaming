@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:42:45.058679+00:00",
+  "updated_at_utc": "2026-11-28T11:45:41.302712+00:00",
   "stations": {
     "kis": [
       {
@@ -535,6 +535,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Avril Lavigne",
+        "title": "I Will Be",
+        "detected_at_utc": "2026-11-28T11:45:41.223330+00:00"
+      },
       {
         "artist": "Alessia Cara",
         "title": "How Far I'll Go (Alessia Cara Version)",
