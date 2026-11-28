@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:23:38.114629+00:00",
+  "updated_at_utc": "2026-11-28T14:25:37.743601+00:00",
   "stations": {
     "kis": [
       {
@@ -1607,6 +1607,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Queen",
+        "title": "Brighton Rock",
+        "detected_at_utc": "2026-11-28T14:25:37.596187+00:00"
+      },
       {
         "artist": "Rainbow",
         "title": "The Temple of the King",
