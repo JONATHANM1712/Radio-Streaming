@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:20:45.807049+00:00",
+  "updated_at_utc": "2026-11-28T06:21:48.490002+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "The Wonders",
+        "title": "That Thing You Do!",
+        "detected_at_utc": "2026-11-28T06:21:38.778607+00:00"
+      },
       {
         "artist": "Lenka",
         "title": "The Show",
