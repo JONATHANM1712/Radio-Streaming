@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T06:05:23.204419+00:00",
+  "updated_at_utc": "2026-11-28T06:06:25.881059+00:00",
   "stations": {
     "kis": [
       {
@@ -542,6 +542,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Guns N' Roses",
+        "title": "Pretty Tied Up (The Perils of Rock N' Roll Decadence)",
+        "detected_at_utc": "2026-11-28T06:05:25.321184+00:00"
+      },
       {
         "artist": "The Police",
         "title": "Peanuts (Remastered 2003)",
