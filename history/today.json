@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T05:44:56.872911+00:00",
+  "updated_at_utc": "2026-11-28T05:45:59.526673+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "detected_at_utc": "2026-11-28T05:45:50.477288+00:00"
+      },
       {
         "artist": "Céline Dion",
         "title": "Because You Loved Me (Theme from \"Up Close and Personal\")",
