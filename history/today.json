@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T11:26:07.026797+00:00",
+  "updated_at_utc": "2026-11-28T11:28:07.478039+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Jewel",
+        "title": "Hands",
+        "detected_at_utc": "2026-11-28T11:28:07.393595+00:00"
+      },
       {
         "artist": "Rihanna",
         "title": "Love on the Brain",
