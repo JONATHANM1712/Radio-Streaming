@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:39:29.012510+00:00",
+  "updated_at_utc": "2026-11-28T13:40:31.699785+00:00",
   "stations": {
     "kis": [
       {
@@ -675,6 +675,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Carly Rae Jepsen",
+        "title": "This Kiss",
+        "detected_at_utc": "2026-11-28T13:39:35.233226+00:00"
+      },
       {
         "artist": "Five for Fighting",
         "title": "100 Years",
@@ -1462,6 +1467,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Warped",
+        "detected_at_utc": "2026-11-28T13:40:27.052989+00:00"
+      },
       {
         "artist": "Yes",
         "title": "I'm Running",
