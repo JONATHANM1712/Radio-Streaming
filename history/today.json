@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T15:15:57.769179+00:00",
+  "updated_at_utc": "2026-11-28T15:17:01.202413+00:00",
   "stations": {
     "kis": [
       {
@@ -800,6 +800,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Sean Kingston",
+        "title": "Beautiful Girls",
+        "detected_at_utc": "2026-11-28T15:16:02.043663+00:00"
+      },
       {
         "artist": "LISA",
         "title": "SaWaDiKa",
@@ -1737,6 +1742,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Faith No More",
+        "title": "Stripsearch",
+        "detected_at_utc": "2026-11-28T15:16:59.467842+00:00"
+      },
       {
         "artist": "Pink Floyd",
         "title": "Echoes",
