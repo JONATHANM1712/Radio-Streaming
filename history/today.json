@@ -1,8 +1,13 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T13:19:50.174249+00:00",
+  "updated_at_utc": "2026-11-28T13:20:52.890727+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "Robin Thicke",
+        "title": "Blurred Lines (feat. T.I. & Pharrell) [Rap Version]",
+        "detected_at_utc": "2026-11-28T13:20:49.574961+00:00"
+      },
       {
         "artist": "Church",
         "title": "Wedding Mix",
@@ -650,6 +655,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Andra Day",
+        "title": "Rise Up",
+        "detected_at_utc": "2026-11-28T13:20:47.737900+00:00"
+      },
       {
         "artist": "Robin Thicke",
         "title": "The Sweetest Love",
@@ -1412,6 +1422,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "U2",
+        "title": "Babyface",
+        "detected_at_utc": "2026-11-28T13:20:52.246659+00:00"
+      },
       {
         "artist": "TOOL",
         "title": "Hush",
