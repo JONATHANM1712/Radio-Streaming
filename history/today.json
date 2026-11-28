@@ -1,8 +1,13 @@
 {
   "date": "2026-11-29",
-  "updated_at_utc": "2026-11-28T17:16:12.865890+00:00",
+  "updated_at_utc": "2026-11-28T17:17:15.871791+00:00",
   "stations": {
     "kis": [
+      {
+        "artist": "RAN",
+        "title": "Mencuri Hati",
+        "detected_at_utc": "2026-11-28T17:16:15.017757+00:00"
+      },
       {
         "artist": "Brandy & Monica",
         "title": "The Boy Is Mine",
@@ -25,6 +30,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Tulus",
+        "title": "Teh Hijau",
+        "detected_at_utc": "2026-11-28T17:17:13.991187+00:00"
+      },
       {
         "artist": "MAGIC!",
         "title": "Rude",
