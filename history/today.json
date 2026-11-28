@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated_at_utc": "2026-11-28T14:02:12.710696+00:00",
+  "updated_at_utc": "2026-11-28T14:03:16.092954+00:00",
   "stations": {
     "kis": [
       {
@@ -715,6 +715,11 @@
       }
     ],
     "jak": [
+      {
+        "artist": "Ellie Goulding",
+        "title": "On My Mind",
+        "detected_at_utc": "2026-11-28T14:02:25.653307+00:00"
+      },
       {
         "artist": "Jess Glynne",
         "title": "Don't Be So Hard On Yourself",
@@ -1547,6 +1552,11 @@
       }
     ],
     "most": [
+      {
+        "artist": "Van Halen",
+        "title": "Dancing In the Street",
+        "detected_at_utc": "2026-11-28T14:02:15.283155+00:00"
+      },
       {
         "artist": "Judas Priest",
         "title": "Johnny B. Goode",
